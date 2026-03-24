@@ -1,0 +1,22 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { SITE_TITLE } from "../consts";
+---
+
+<Layout
+  title={`About | ${SITE_TITLE}`}
+  description="About the Nomadic Year travel archive."
+>
+  <article class="prose prose-lg dark:prose-invert mx-auto">
+    <h1>About</h1>
+    <p>
+      Nomadic Year is a ten-year travel archive focused on field notes, routes,
+      and photography. This project is currently being migrated from WordPress
+      to Astro with a minimalist, text-first reading experience.
+    </p>
+    <p>
+      As migration progresses, older entries are being normalized, typed, and
+      prepared for faster search and cleaner long-term maintenance.
+    </p>
+  </article>
+</Layout>

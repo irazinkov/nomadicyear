@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-accent-400: #14b8a6;
+  --color-accent-500: #0d9488;
+  --color-accent-700: #0f766e;
+}
+
+@layer base {
+  html {
+    @apply antialiased;
+  }
+
+  body {
+    @apply font-sans leading-relaxed;
+  }
+
+  a {
+    @apply text-accent-700 transition hover:text-accent-500 dark:text-accent-400 dark:hover:text-teal-200;
+  }
+}

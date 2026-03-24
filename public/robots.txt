@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nomadic-year.pages.dev/sitemap-index.xml

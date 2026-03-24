@@ -1,0 +1,72 @@
+---
+import { Image } from "astro:assets";
+import type { CollectionEntry } from "astro:content";
+import FormattedDate from "../components/FormattedDate.astro";
+import Layout from "./Layout.astro";
+
+type Props = CollectionEntry<"blog">["data"] & {
+  readingTimeMinutes?: number;
+};
+
+const {
+  title,
+  description,
+  pubDate,
+  updatedDate,
+  heroImage,
+  heroImageAlt,
+  tags = [],
+  readingTimeMinutes = 1,
+} = Astro.props;
+---
+
+<Layout title={title} description={description}>
+  <article class="mx-auto max-w-3xl">
+    <header class="space-y-4 pb-8">
+      <h1
+        class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white"
+      >
+        {title}
+      </h1>
+      <p class="text-sm text-gray-600 dark:text-gray-400">
+        <FormattedDate date={pubDate} /> • {readingTimeMinutes} min read
+      </p>
+      {
+        updatedDate && (
+          <p class="text-sm text-gray-500 dark:text-gray-400">
+            Last updated <FormattedDate date={updatedDate} />
+          </p>
+        )
+      }
+      {
+        tags.length > 0 && (
+          <ul class="flex flex-wrap gap-2">
+            {tags.map((tag) => (
+              <li class="rounded-full bg-gray-200 px-3 py-1 text-sm text-gray-700 dark:bg-gray-800 dark:text-gray-200">
+                {tag}
+              </li>
+            ))}
+          </ul>
+        )
+      }
+    </header>
+
+    {
+      heroImage && (
+        <div class="mb-10">
+          <Image
+            src={heroImage}
+            width={1200}
+            format="webp"
+            alt={heroImageAlt ?? title}
+            class="w-full rounded-lg shadow-md"
+          />
+        </div>
+      )
+    }
+
+    <div class="prose prose-lg mx-auto dark:prose-invert">
+      <slot />
+    </div>
+  </article>
+</Layout>

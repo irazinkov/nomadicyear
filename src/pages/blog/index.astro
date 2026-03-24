@@ -1,0 +1,58 @@
+---
+import { getCollection } from "astro:content";
+import FormattedDate from "../../components/FormattedDate.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
+import Layout from "../../layouts/Layout.astro";
+
+const posts = (await getCollection("blog"))
+  .filter((post) => !post.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const postsByYear = posts.reduce<Record<string, typeof posts>>((acc, post) => {
+  const year = String(post.data.pubDate.getFullYear());
+  if (!acc[year]) {
+    acc[year] = [];
+  }
+  acc[year].push(post);
+  return acc;
+}, {});
+
+const years = Object.keys(postsByYear).sort((a, b) => Number(b) - Number(a));
+---
+
+<Layout title={`Blog | ${SITE_TITLE}`} description={SITE_DESCRIPTION}>
+  <section class="space-y-8">
+    <h1 class="text-3xl font-semibold text-gray-900 dark:text-white">
+      All Posts
+    </h1>
+    {
+      years.map((year) => (
+        <section class="space-y-4" aria-label={`Posts from ${year}`}>
+          <h2 class="text-xl font-semibold text-gray-900 dark:text-gray-100">
+            {year}
+          </h2>
+          <ul class="space-y-2">
+            {postsByYear[year].map((post) => (
+              <li>
+                <a
+                  href={`/blog/${post.id}/`}
+                  class="flex items-baseline gap-4 rounded px-2 py-1 transition hover:bg-gray-100 dark:hover:bg-gray-800"
+                >
+                  <span class="w-16 shrink-0 text-sm text-gray-500 dark:text-gray-400">
+                    <FormattedDate
+                      date={post.data.pubDate}
+                      includeYear={false}
+                    />
+                  </span>
+                  <span class="font-semibold text-gray-900 dark:text-gray-100">
+                    {post.data.title}
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))
+    }
+  </section>
+</Layout>
