@@ -14,7 +14,8 @@
     "lint": "eslint .",
     "format": "prettier --check .",
     "format:write": "prettier --write .",
-    "phase0:url-inventory": "node scripts/phase0/capture-url-inventory.mjs"
+    "phase0:url-inventory": "node scripts/phase0/capture-url-inventory.mjs",
+    "phase0:redirect-draft": "node scripts/phase0/generate-redirect-draft.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.2",

@@ -45,7 +45,7 @@ Define canonical URL rules before migration implementation.
 - Slug casing: lowercase
 - Word separator: hyphen
 - Trailing slash: yes
-- Legacy date prefixes in URL: `TODO` (keep/remove)
+- Legacy date prefixes in URL: remove (301 to `/blog/<slug>/`) - proposed
 - Query-string handling: ignore for canonical paths unless explicitly required
 
 ## 3) Taxonomy Model
@@ -60,15 +60,16 @@ Define data model now to avoid route churn later.
 
 ### 3.1 Taxonomy Decisions
 
-- Country and category are separate: `TBD`
-- Tag pages indexable by default: `TBD`
-- Empty taxonomy behavior: `TBD`
+- Country and category are separate: `proposed = yes`
+- Tag pages indexable by default: `proposed = yes`
+- Empty taxonomy behavior: `proposed = no page generated`
 
 ## 4) Redirect Policy
 
 - Redirect type: `301` for permanent moves
 - Mapping source: `docs/redirects.csv`
 - Required columns: old URL, new URL, status code, priority, notes
+- Initial auto-drafted redirects: `75`
 - Fallback:
   - unmatched legacy URL -> `/404`
   - optional country/category fallback behavior: `TBD`
@@ -96,7 +97,7 @@ Define data model now to avoid route churn later.
 - [x] URL inventory captured in `docs/url-inventory.csv`
 - [ ] Permalink strategy approved
 - [ ] Taxonomy model approved
-- [ ] Redirect draft created in `docs/redirects.csv`
+- [x] Redirect draft created in `docs/redirects.csv`
 - [ ] KPI targets approved
 - [ ] Risks reviewed in `docs/phase-0-risks.md`
 - [ ] Phase 0 sign-off recorded
