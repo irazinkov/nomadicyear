@@ -29,20 +29,20 @@ Define what "correct migration" means before building or importing.
 
 ### Tasks
 
-1. Export all WordPress content and media into `archive/`. — 0%
-2. Crawl current production URLs and capture: — 0%
+1. Export all WordPress content and media into `archive/`. — 25%
+2. Crawl current production URLs and capture: — 20%
    - path, status code, title, canonical, meta description
-3. Define target permalink structure for: — 0%
+3. Define target permalink structure for: — 30%
    - posts, categories, tags, country pages
-4. Create URL mapping file (`redirects.csv`) from old URL to new URL. — 0%
-5. Define taxonomy model: — 0%
+4. Create URL mapping file (`redirects.csv`) from old URL to new URL. — 35%
+5. Define taxonomy model: — 30%
    - separate fields for `country`, `categories`, `tags` (or explicitly document intentional merge)
-6. Define migration KPIs: — 0%
+6. Define migration KPIs: — 30%
    - redirect coverage target
    - max allowed broken internal links
    - build time target
    - performance target for key templates
-7. Document all decisions in `docs/migration-spec.md`. — 0%
+7. Document all decisions in `docs/migration-spec.md`. — 35%
 
 ### Exit Criteria
 
