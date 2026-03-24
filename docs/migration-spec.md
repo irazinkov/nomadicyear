@@ -9,11 +9,21 @@
 
 ## 1) Source of Truth
 
-- Current production domain: `TODO`
-- Current WordPress permalink style: `TODO`
+- Current production domain: `nomadicyear.com`
+- Current WordPress permalink style: date-prefixed post URLs (`/YYYY/MM/<slug>/`) plus taxonomy archives
 - Crawl source(s):
-  - `TODO` (homepage crawl)
-  - `TODO` (sitemap crawl)
+  - `http://nomadicyear.com/sitemap.xml` (inventory crawl)
+  - child sitemaps discovered from sitemap index (All in One SEO generated)
+
+### 1.1 Inventory Snapshot (2026-03-24)
+
+- Candidate URLs discovered from sitemap(s): `568`
+- Inventory rows written: `568`
+- HTTP 200 responses: `567`
+- Fetch errors: `1` (`/tag/thai-food/`)
+- Notes:
+  - HTTPS sitemap access from this environment produced TLS handshake errors.
+  - HTTP sitemap access succeeded and was used for capture.
 
 ## 2) Target URL Strategy
 
@@ -83,7 +93,7 @@ Define data model now to avoid route churn later.
 ## 7) Phase 0 Checklist
 
 - [ ] Source exports placed in `archive/`
-- [ ] URL inventory captured in `docs/url-inventory.csv`
+- [x] URL inventory captured in `docs/url-inventory.csv`
 - [ ] Permalink strategy approved
 - [ ] Taxonomy model approved
 - [ ] Redirect draft created in `docs/redirects.csv`

@@ -15,6 +15,7 @@ if (!arg) {
 const now = new Date().toISOString();
 const visitedSitemaps = new Set();
 const discoveredPageUrls = new Set();
+const REQUEST_TIMEOUT_MS = 15000;
 
 const seedUrl = new URL(arg.startsWith("http") ? arg : `https://${arg}`);
 const siteOrigin = seedUrl.origin;
@@ -27,7 +28,12 @@ function extractLocs(xml) {
   const regex = /<loc>(.*?)<\/loc>/gims;
   let match;
   while ((match = regex.exec(xml)) !== null) {
-    locs.push(match[1].trim());
+    const raw = match[1].trim();
+    const cleaned = raw
+      .replace(/^<!\[CDATA\[/i, "")
+      .replace(/\]\]>$/i, "")
+      .trim();
+    locs.push(cleaned);
   }
   return locs;
 }
@@ -47,7 +53,14 @@ function parseTag(html, regex) {
 
 async function fetchText(url) {
   try {
-    const response = await fetch(url, { redirect: "follow" });
+    const response = await fetch(url, {
+      redirect: "follow",
+      signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
+      headers: {
+        "user-agent":
+          "NomadicYear-Phase0-Inventory/1.0 (+https://nomadicyear.com)",
+      },
+    });
     const body = await response.text();
     return { ok: true, status: response.status, body, finalUrl: response.url };
   } catch (error) {
@@ -107,6 +120,7 @@ function sortUrlsByPath(urls) {
 
 async function buildInventoryRows(urls) {
   const rows = [];
+  let processed = 0;
 
   for (const url of urls) {
     const page = await fetchText(url);
@@ -132,6 +146,11 @@ async function buildInventoryRows(urls) {
       last_checked_utc: now,
       notes: page.ok ? "" : "fetch_error",
     });
+
+    processed += 1;
+    if (processed % 25 === 0 || processed === urls.length) {
+      console.log(`Processed ${processed}/${urls.length} URLs`);
+    }
   }
 
   return rows;
@@ -141,6 +160,7 @@ async function main() {
   await discoverFromSitemaps(initialSitemaps);
 
   const urls = sortUrlsByPath([...discoveredPageUrls]);
+  console.log(`Discovered ${urls.length} candidate URLs from sitemap(s)`);
   const rows = await buildInventoryRows(urls);
 
   const header = [
