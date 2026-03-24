@@ -101,6 +101,18 @@ const explicitMappings = [
     priority: "low",
     notes: "legacy media taxonomy page mapped to likely content slug",
   },
+  {
+    old_url: "/blank/",
+    new_url: "/about/",
+    priority: "low",
+    notes: "legacy placeholder page consolidated to about",
+  },
+  {
+    old_url: "/sample-page/",
+    new_url: "/about/",
+    priority: "low",
+    notes: "default WordPress sample page consolidated to about",
+  },
 ];
 
 for (const mapping of explicitMappings) {

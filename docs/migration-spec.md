@@ -40,12 +40,12 @@ Define canonical URL rules before migration implementation.
 | About        | `/about/`           | Static page                                             |
 | Destinations | `/destinations/`    | Static index (phase-dependent)                          |
 
-### 2.2 URL Rules
+### 2.2 URL Rules (Approved)
 
 - Slug casing: lowercase
 - Word separator: hyphen
 - Trailing slash: yes
-- Legacy date prefixes in URL: remove (301 to `/blog/<slug>/`) - proposed
+- Legacy date prefixes in URL: remove (301 to `/blog/<slug>/`)
 - Query-string handling: ignore for canonical paths unless explicitly required
 
 ## 3) Taxonomy Model
@@ -58,35 +58,36 @@ Define data model now to avoid route churn later.
 | `categories` | string[] | yes      | `/category/[slug]` | Primary topical grouping                                 |
 | `tags`       | string[] | no       | `/tag/[slug]`      | Free-form descriptors                                    |
 
-### 3.1 Taxonomy Decisions
+### 3.1 Taxonomy Decisions (Approved)
 
-- Country and category are separate: `proposed = yes`
-- Tag pages indexable by default: `proposed = yes`
-- Empty taxonomy behavior: `proposed = no page generated`
+- Country and category are separate: `yes`
+- Tag pages are generated but not indexable by default (use `noindex` until curated): `yes`
+- Empty taxonomy behavior: `no page generated`
 
 ## 4) Redirect Policy
 
 - Redirect type: `301` for permanent moves
 - Mapping source: `docs/redirects.csv`
 - Required columns: old URL, new URL, status code, priority, notes
-- Initial auto-drafted redirects: `84`
+- Initial auto-drafted redirects: `86`
 - Coverage snapshot (from inventory):
   - non-tag URLs: `88`
-  - mapped in redirect draft: `84`
-  - unmapped non-tag URLs: `/`, `/blog/`, `/blank/`, `/sample-page/`
+  - mapped in redirect draft: `86`
+  - unmapped non-tag URLs: `/`, `/blog/` (both canonical keep-as-is routes)
+  - coverage for URLs requiring redirects: `100%` (86/86)
 - Fallback:
   - unmatched legacy URL -> `/404`
-  - optional country/category fallback behavior: `TBD`
+  - no taxonomy fallback redirects (avoid ambiguous intent)
 
 ## 5) Migration KPIs
 
-| KPI                        | Target                                                         | Measurement Method                             | Status |
-| -------------------------- | -------------------------------------------------------------- | ---------------------------------------------- | ------ |
-| Redirect coverage          | >= 95% of URLs requiring redirects                             | Compare `url-inventory.csv` to `redirects.csv` | Draft  |
-| Broken internal links      | 0 critical                                                     | Link checker on built output                   | Draft  |
-| Metadata parity sample     | >= 95% title/description/canonical parity on sampled top pages | Sample audit sheet                             | Draft  |
-| Build time budget          | <= 5 minutes (initial target)                                  | CI build timing                                | Draft  |
-| Core templates performance | TBD (Lighthouse target)                                        | Lighthouse on homepage + post page             | Draft  |
+| KPI                        | Target                                                            | Measurement Method                             | Status   |
+| -------------------------- | ----------------------------------------------------------------- | ---------------------------------------------- | -------- |
+| Redirect coverage          | >= 98% of URLs requiring redirects                                | Compare `url-inventory.csv` to `redirects.csv` | Approved |
+| Broken internal links      | 0 critical                                                        | Link checker on built output                   | Approved |
+| Metadata parity sample     | >= 95% title/description/canonical parity on top 100 legacy pages | Sample audit sheet                             | Approved |
+| Build time budget          | <= 5 minutes                                                      | CI build timing                                | Approved |
+| Core templates performance | Lighthouse Performance >= 90 (mobile) on homepage + post page     | Lighthouse audit                               | Approved |
 
 ## 6) Data Quality Rules
 
@@ -99,10 +100,10 @@ Define data model now to avoid route churn later.
 
 - [ ] Source exports placed in `archive/`
 - [x] URL inventory captured in `docs/url-inventory.csv`
-- [ ] Permalink strategy approved
-- [ ] Taxonomy model approved
+- [x] Permalink strategy approved
+- [x] Taxonomy model approved
 - [x] Redirect draft created in `docs/redirects.csv`
-- [ ] KPI targets approved
+- [x] KPI targets approved
 - [ ] Risks reviewed in `docs/phase-0-risks.md`
 - [ ] Phase 0 sign-off recorded
 

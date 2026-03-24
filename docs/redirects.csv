@@ -74,11 +74,13 @@ old_url,new_url,status_code,priority,notes
 /2024/11/russia-moscow/,/blog/russia-moscow/,301,high,legacy date-based post URL
 /2024/11/russia-nizhniy-novgorod-and-vladimir/,/blog/russia-nizhniy-novgorod-and-vladimir/,301,high,legacy date-based post URL
 /about-us/,/about/,301,medium,legacy about page slug normalization
+/blank/,/about/,301,low,legacy placeholder page consolidated to about
 /image-gallery/,/blog/image-gallery/,301,medium,legacy standalone page mapped to blog slug
 /map/,/destinations/,301,medium,legacy route page mapped to destinations index
 /media_category/lc-update-3/,/blog/lc-update-3/,301,low,legacy media taxonomy page mapped to likely content slug
 /photos-with-friends/,/blog/photos-with-friends/,301,medium,legacy standalone page mapped to blog slug
 /preparation/,/blog/preparation/,301,medium,legacy standalone page mapped to blog slug
+/sample-page/,/about/,301,low,default WordPress sample page consolidated to about
 /south-america-expense-report-in-korean/,/blog/south-america-expense-report-in-korean/,301,medium,legacy standalone page mapped to blog slug
 /sponsors-and-credits/,/blog/sponsors-and-credits/,301,medium,legacy standalone page mapped to blog slug
 /travel-tips/,/blog/travel-tips/,301,medium,legacy standalone page mapped to blog slug

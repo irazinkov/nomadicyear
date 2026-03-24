@@ -4,8 +4,6 @@
 
 - `/`
 - `/blog/`
-- `/blank/`
-- `/sample-page/`
 
 ## Proposed Handling
 
@@ -13,15 +11,12 @@
   - no redirect needed (remains homepage)
 - `/blog/`:
   - no redirect needed (remains blog index)
-- `/blank/`:
-  - likely legacy placeholder page; choose one:
-    - redirect to `/about/` (recommended if historically linked), or
-    - leave unmapped and allow 404/410
-- `/sample-page/`:
-  - likely default WordPress sample page; choose one:
-    - redirect to `/about/` (recommended if externally linked), or
-    - leave unmapped and allow 404/410
+
+## Resolved Decisions
+
+- `/blank/` -> `/about/` (301, low priority)
+- `/sample-page/` -> `/about/` (301, low priority)
 
 ## Decision Needed
 
-- Confirm final policy for low-value legacy pages (`/blank/`, `/sample-page/`) before launch.
+- Confirm if `/` and `/blog/` should remain canonical (recommended).
