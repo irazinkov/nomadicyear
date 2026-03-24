@@ -46,6 +46,75 @@ if (paths.has("/about-us/")) {
   });
 }
 
+const explicitMappings = [
+  {
+    old_url: "/map/",
+    new_url: "/destinations/",
+    priority: "medium",
+    notes: "legacy route page mapped to destinations index",
+  },
+  {
+    old_url: "/image-gallery/",
+    new_url: "/blog/image-gallery/",
+    priority: "medium",
+    notes: "legacy standalone page mapped to blog slug",
+  },
+  {
+    old_url: "/photos-with-friends/",
+    new_url: "/blog/photos-with-friends/",
+    priority: "medium",
+    notes: "legacy standalone page mapped to blog slug",
+  },
+  {
+    old_url: "/preparation/",
+    new_url: "/blog/preparation/",
+    priority: "medium",
+    notes: "legacy standalone page mapped to blog slug",
+  },
+  {
+    old_url: "/south-america-expense-report-in-korean/",
+    new_url: "/blog/south-america-expense-report-in-korean/",
+    priority: "medium",
+    notes: "legacy standalone page mapped to blog slug",
+  },
+  {
+    old_url: "/sponsors-and-credits/",
+    new_url: "/blog/sponsors-and-credits/",
+    priority: "medium",
+    notes: "legacy standalone page mapped to blog slug",
+  },
+  {
+    old_url: "/travel-tips/",
+    new_url: "/blog/travel-tips/",
+    priority: "medium",
+    notes: "legacy standalone page mapped to blog slug",
+  },
+  {
+    old_url: "/video/",
+    new_url: "/blog/video/",
+    priority: "medium",
+    notes: "legacy standalone page mapped to blog slug",
+  },
+  {
+    old_url: "/media_category/lc-update-3/",
+    new_url: "/blog/lc-update-3/",
+    priority: "low",
+    notes: "legacy media taxonomy page mapped to likely content slug",
+  },
+];
+
+for (const mapping of explicitMappings) {
+  if (paths.has(mapping.old_url)) {
+    redirects.push({
+      old_url: mapping.old_url,
+      new_url: mapping.new_url,
+      status_code: 301,
+      priority: mapping.priority,
+      notes: mapping.notes,
+    });
+  }
+}
+
 redirects.sort((a, b) => a.old_url.localeCompare(b.old_url));
 
 const header = "old_url,new_url,status_code,priority,notes";

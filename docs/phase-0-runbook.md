@@ -33,6 +33,12 @@ npm run phase0:url-inventory -- https://<your-current-domain>/<custom-sitemap>.x
 2. Fill old URL to target URL mappings.
 3. Set status code to `301` for permanent redirects.
 
+Generate an initial draft from inventory (optional):
+
+```bash
+npm run phase0:redirect-draft
+```
+
 ## 4) Finalize Spec Decisions
 
 1. Open `docs/migration-spec.md`.

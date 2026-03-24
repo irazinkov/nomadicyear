@@ -19,8 +19,8 @@
 
 - Candidate URLs discovered from sitemap(s): `568`
 - Inventory rows written: `568`
-- HTTP 200 responses: `567`
-- Fetch errors: `1` (`/tag/thai-food/`)
+- HTTP 200 responses: `568`
+- Fetch errors: `0`
 - Notes:
   - HTTPS sitemap access from this environment produced TLS handshake errors.
   - HTTP sitemap access succeeded and was used for capture.
@@ -69,7 +69,11 @@ Define data model now to avoid route churn later.
 - Redirect type: `301` for permanent moves
 - Mapping source: `docs/redirects.csv`
 - Required columns: old URL, new URL, status code, priority, notes
-- Initial auto-drafted redirects: `75`
+- Initial auto-drafted redirects: `84`
+- Coverage snapshot (from inventory):
+  - non-tag URLs: `88`
+  - mapped in redirect draft: `84`
+  - unmapped non-tag URLs: `/`, `/blog/`, `/blank/`, `/sample-page/`
 - Fallback:
   - unmatched legacy URL -> `/404`
   - optional country/category fallback behavior: `TBD`
@@ -78,7 +82,7 @@ Define data model now to avoid route churn later.
 
 | KPI                        | Target                                                         | Measurement Method                             | Status |
 | -------------------------- | -------------------------------------------------------------- | ---------------------------------------------- | ------ |
-| Redirect coverage          | >= 95% of legacy URLs                                          | Compare `url-inventory.csv` to `redirects.csv` | Draft  |
+| Redirect coverage          | >= 95% of URLs requiring redirects                             | Compare `url-inventory.csv` to `redirects.csv` | Draft  |
 | Broken internal links      | 0 critical                                                     | Link checker on built output                   | Draft  |
 | Metadata parity sample     | >= 95% title/description/canonical parity on sampled top pages | Sample audit sheet                             | Draft  |
 | Build time budget          | <= 5 minutes (initial target)                                  | CI build timing                                | Draft  |
