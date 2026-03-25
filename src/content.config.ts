@@ -7,14 +7,21 @@ const blog = defineCollection({
   schema: ({ image }) =>
     z.object({
       title: z.string(),
-      description: z.string(),
+      slug: z
+        .string()
+        .regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/)
+        .optional(),
       pubDate: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
-      heroImage: z.optional(image()),
+      description: z.string().default(""),
+      excerpt: z.string().optional(),
+      heroImage: z.union([image(), z.string()]).optional(),
       heroImageAlt: z.string().optional(),
       country: z.string().optional(),
       categories: z.array(z.string()).default([]),
       tags: z.array(z.string()).default([]),
+      legacyUrl: z.string().optional(),
+      status: z.enum(["publish", "draft"]).default("publish"),
       draft: z.boolean().default(false),
     }),
 });
