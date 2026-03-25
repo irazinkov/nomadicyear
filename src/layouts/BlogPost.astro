@@ -18,6 +18,10 @@ const {
   tags = [],
   readingTimeMinutes = 1,
 } = Astro.props;
+
+const hasHeroImage = Boolean(heroImage);
+const localHeroImage = typeof heroImage === "string" ? undefined : heroImage;
+const remoteHeroImage = typeof heroImage === "string" ? heroImage : undefined;
 ---
 
 <Layout title={title} description={description}>
@@ -52,15 +56,25 @@ const {
     </header>
 
     {
-      heroImage && (
+      hasHeroImage && (
         <div class="mb-10">
-          <Image
-            src={heroImage}
-            width={1200}
-            format="webp"
-            alt={heroImageAlt ?? title}
-            class="w-full rounded-lg shadow-md"
-          />
+          {localHeroImage ? (
+            <Image
+              src={localHeroImage}
+              width={1200}
+              format="webp"
+              alt={heroImageAlt ?? title}
+              class="w-full rounded-lg shadow-md"
+            />
+          ) : (
+            <img
+              src={remoteHeroImage}
+              alt={heroImageAlt ?? title}
+              class="w-full rounded-lg shadow-md"
+              loading="lazy"
+              decoding="async"
+            />
+          )}
         </div>
       )
     }
