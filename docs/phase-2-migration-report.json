@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-03-25T00:38:34.991Z",
+  "sourceWxr": "/Users/ivanrazinkov/Desktop/NomadicYear/archive/nomadicyear.WordPress.2026-03-24.xml",
+  "outputDir": "/Users/ivanrazinkov/Desktop/NomadicYear/.worktrees/phase-2/src/content/posts",
+  "uploadsRoot": "/Users/ivanrazinkov/Desktop/NomadicYear/archive/uploads",
+  "totals": {
+    "wxrItems": 5781,
+    "postsInWxr": 74,
+    "generatedPosts": 74
+  },
+  "counts": {
+    "warnings": 2,
+    "errors": 0,
+    "unresolvedMedia": 0,
+    "unresolvedFeaturedImages": 0
+  },
+  "warnings": [
+    {
+      "postId": "566",
+      "slug": "566",
+      "issue": "numeric_slug"
+    },
+    {
+      "postId": "6182",
+      "slug": "russia-moscow",
+      "issue": "missing_content"
+    }
+  ],
+  "errors": [],
+  "unresolvedMedia": [],
+  "unresolvedFeaturedImages": []
+}

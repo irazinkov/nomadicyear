@@ -25,9 +25,21 @@ export default [
   },
   {
     ...js.configs.recommended,
-    files: ["**/*.{js,mjs,cjs,ts}"],
+    files: ["**/*.{js,mjs,cjs}"],
     languageOptions: {
       ...js.configs.recommended.languageOptions,
+      globals: {
+        ...globals.node,
+        ...globals.browser,
+      },
+    },
+  },
+  {
+    ...js.configs.recommended,
+    files: ["**/*.ts"],
+    languageOptions: {
+      ...js.configs.recommended.languageOptions,
+      parser: tsParser,
       globals: {
         ...globals.node,
         ...globals.browser,
