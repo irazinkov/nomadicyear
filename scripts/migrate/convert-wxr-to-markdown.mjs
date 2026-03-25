@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 import {
+  existsSync,
   mkdirSync,
   readdirSync,
   readFileSync,
@@ -24,7 +25,31 @@ if (!inputPath) {
 
 const outputDir = resolve(outputDirArg);
 const reportBase = resolve(reportBaseArg);
-const xml = readFileSync(resolve(inputPath), "utf8");
+
+function resolveInputFilePath(candidatePath) {
+  const directPath = resolve(candidatePath);
+  if (existsSync(directPath)) {
+    return directPath;
+  }
+
+  const fallbackCandidates = [
+    resolve(process.cwd(), candidatePath),
+    resolve(process.cwd(), "../", candidatePath),
+    resolve(process.cwd(), "../../", candidatePath),
+    resolve(process.cwd(), "../../../", candidatePath),
+  ];
+
+  for (const fallbackPath of fallbackCandidates) {
+    if (existsSync(fallbackPath)) {
+      return fallbackPath;
+    }
+  }
+
+  return directPath;
+}
+
+const resolvedInputPath = resolveInputFilePath(inputPath);
+const xml = readFileSync(resolvedInputPath, "utf8");
 
 function resolveUploadsRoot() {
   if (uploadsRootArg) {
@@ -232,6 +257,122 @@ function uploadPathExists(uploadUrlPath) {
   }
 }
 
+function normalizeLinkPath(urlPath) {
+  if (!urlPath) return "";
+  const noHash = urlPath.split("#")[0] ?? "";
+  const noQuery = noHash.split("?")[0] ?? "";
+  if (!noQuery) return "";
+  return noQuery.startsWith("/") ? noQuery : `/${noQuery}`;
+}
+
+function pathVariants(pathname) {
+  if (!pathname || pathname === "/") {
+    return ["/"];
+  }
+  if (pathname.endsWith("/")) {
+    return [pathname, pathname.slice(0, -1)];
+  }
+  return [pathname, `${pathname}/`];
+}
+
+function extractInternalLinks(content) {
+  const links = new Set();
+  const htmlAttrRegex = /(href|src)=["']([^"']+)["']/gi;
+  const markdownLinkRegex = /\[[^\]]*]\(([^)]+)\)/g;
+
+  const collect = (value) => {
+    if (!value) return;
+    const trimmed = value.trim();
+    if (!trimmed) return;
+    if (
+      trimmed.startsWith("#") ||
+      trimmed.startsWith("mailto:") ||
+      trimmed.startsWith("tel:") ||
+      trimmed.startsWith("javascript:")
+    ) {
+      return;
+    }
+
+    if (/^https?:\/\//i.test(trimmed)) {
+      try {
+        const parsed = new URL(trimmed);
+        if (parsed.hostname === "nomadicyear.com" || parsed.hostname === "www.nomadicyear.com") {
+          const path = normalizeLinkPath(parsed.pathname);
+          if (path) links.add(path);
+        }
+      } catch {
+        // noop
+      }
+      return;
+    }
+
+    if (trimmed.startsWith("/")) {
+      const path = normalizeLinkPath(trimmed);
+      if (path) links.add(path);
+    }
+  };
+
+  let match;
+  while ((match = htmlAttrRegex.exec(content)) !== null) {
+    collect(match[2]);
+  }
+  while ((match = markdownLinkRegex.exec(content)) !== null) {
+    collect(match[1]);
+  }
+
+  return [...links];
+}
+
+function validateFrontmatterCandidate(candidate) {
+  const issues = [];
+
+  if (!candidate.title || typeof candidate.title !== "string") {
+    issues.push({ field: "title", issue: "required_string_missing" });
+  }
+
+  if (
+    !candidate.slug ||
+    typeof candidate.slug !== "string" ||
+    !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(candidate.slug)
+  ) {
+    issues.push({
+      field: "slug",
+      issue: "invalid_slug_format",
+      value: candidate.slug ?? "",
+    });
+  }
+
+  if (!candidate.pubDate || Number.isNaN(Date.parse(candidate.pubDate))) {
+    issues.push({ field: "pubDate", issue: "invalid_or_missing_date" });
+  }
+
+  if (candidate.updatedDate && Number.isNaN(Date.parse(candidate.updatedDate))) {
+    issues.push({ field: "updatedDate", issue: "invalid_date" });
+  }
+
+  if (typeof candidate.description !== "string") {
+    issues.push({ field: "description", issue: "required_string_missing" });
+  }
+
+  if (!Array.isArray(candidate.categories)) {
+    issues.push({ field: "categories", issue: "must_be_array" });
+  }
+
+  if (!Array.isArray(candidate.tags)) {
+    issues.push({ field: "tags", issue: "must_be_array" });
+  }
+
+  if (!["publish", "draft"].includes(candidate.status)) {
+    issues.push({ field: "status", issue: "invalid_enum_value" });
+  }
+
+  if (typeof candidate.draft !== "boolean") {
+    issues.push({ field: "draft", issue: "must_be_boolean" });
+  }
+
+  return issues;
+}
+
 const itemBlocks = xml
   .split("<item>")
   .slice(1)
@@ -297,6 +438,33 @@ const entries = itemBlocks.map((block) => {
 });
 
 const attachmentById = new Map();
+const knownLegacyPaths = new Set();
+const knownLegacyPages = new Set();
+
+for (const entry of entries) {
+  if (!entry.link) continue;
+  try {
+    const url = new URL(entry.link);
+    if (
+      url.hostname !== "nomadicyear.com" &&
+      url.hostname !== "www.nomadicyear.com"
+    ) {
+      continue;
+    }
+    const path = normalizeLinkPath(url.pathname);
+    if (!path) continue;
+
+    for (const variant of pathVariants(path)) {
+      knownLegacyPaths.add(variant);
+      if (entry.postType === "page") {
+        knownLegacyPages.add(variant);
+      }
+    }
+  } catch {
+    // noop
+  }
+}
+
 for (const entry of entries.filter(
   (entry) => entry.postType === "attachment",
 )) {
@@ -315,8 +483,11 @@ const posts = entries.filter((entry) => entry.postType === "post");
 const usedSlugs = new Set();
 const warnings = [];
 const errors = [];
+const schemaFailures = [];
 const unresolvedMedia = new Set();
 const unresolvedFeaturedImages = [];
+const brokenInternalLinks = [];
+const brokenInternalLinkKeySet = new Set();
 
 ensureCleanOutputDirectory(outputDir);
 
@@ -391,6 +562,33 @@ for (const post of posts) {
     }
   }
 
+  for (const internalPath of extractInternalLinks(cleanBody)) {
+    if (
+      internalPath.startsWith("/uploads/") ||
+      internalPath.startsWith("/wp-content/uploads/") ||
+      internalPath.startsWith("/wp-json/")
+    ) {
+      continue;
+    }
+
+    const variants = pathVariants(internalPath);
+    const existsInLegacy = variants.some((variant) =>
+      knownLegacyPaths.has(variant),
+    );
+
+    if (!existsInLegacy) {
+      const issueKey = `${finalSlug}|${internalPath}`;
+      if (!brokenInternalLinkKeySet.has(issueKey)) {
+        brokenInternalLinkKeySet.add(issueKey);
+        brokenInternalLinks.push({
+          postId: post.postId,
+          slug: finalSlug,
+          linkPath: internalPath,
+        });
+      }
+    }
+  }
+
   const explicitExcerpt = stripHtml(post.excerpt);
   const derivedSummary = summarize(stripHtml(cleanBody), 200);
   const description = explicitExcerpt || derivedSummary;
@@ -454,6 +652,45 @@ for (const post of posts) {
     "",
   ];
 
+  const schemaCandidate = {
+    title: post.title,
+    slug: finalSlug,
+    pubDate,
+    updatedDate: updatedDate || undefined,
+    description,
+    excerpt: description,
+    heroImage: heroImage || undefined,
+    heroImageAlt: heroImageAlt || undefined,
+    country: country || undefined,
+    categories: categorySlugs,
+    tags: tagSlugs,
+    legacyUrl: post.link || undefined,
+    status,
+    draft,
+  };
+
+  const frontmatterIssues = validateFrontmatterCandidate(schemaCandidate);
+  for (const issue of frontmatterIssues) {
+    const schemaFailure = {
+      postId: post.postId,
+      slug: finalSlug,
+      ...issue,
+    };
+    schemaFailures.push(schemaFailure);
+    errors.push({
+      postId: post.postId,
+      slug: finalSlug,
+      issue: "schema_failure",
+      field: issue.field,
+      detail: issue.issue,
+      value: issue.value ?? "",
+    });
+  }
+
+  if (frontmatterIssues.length > 0) {
+    continue;
+  }
+
   const markdown = `${frontmatterLines.join("\n")}${cleanBody}\n`;
   writeFileSync(join(outputDir, `${finalSlug}.md`), markdown, "utf8");
   generatedCount += 1;
@@ -461,7 +698,7 @@ for (const post of posts) {
 
 const report = {
   generatedAt: new Date().toISOString(),
-  sourceWxr: resolve(inputPath),
+  sourceWxr: resolvedInputPath,
   outputDir,
   uploadsRoot,
   totals: {
@@ -472,13 +709,18 @@ const report = {
   counts: {
     warnings: warnings.length,
     errors: errors.length,
+    schemaFailures: schemaFailures.length,
     unresolvedMedia: unresolvedMedia.size,
     unresolvedFeaturedImages: unresolvedFeaturedImages.length,
+    brokenInternalLinks: brokenInternalLinks.length,
   },
   warnings,
   errors,
+  schemaFailures,
   unresolvedMedia: [...unresolvedMedia].sort(),
   unresolvedFeaturedImages,
+  brokenInternalLinks,
+  knownLegacyPages: [...knownLegacyPages].sort(),
 };
 
 const reportJsonPath = `${reportBase}.json`;
@@ -499,8 +741,10 @@ Output: ${report.outputDir}
 ## Validation Buckets
 - Warnings: ${report.counts.warnings}
 - Errors (critical): ${report.counts.errors}
+- Schema failures: ${report.counts.schemaFailures}
 - Unresolved media paths: ${report.counts.unresolvedMedia}
 - Unresolved featured images: ${report.counts.unresolvedFeaturedImages}
+- Broken internal links: ${report.counts.brokenInternalLinks}
 
 ## Critical Errors
 ${report.errors.length === 0 ? "- none" : report.errors.map((error) => `- ${JSON.stringify(error)}`).join("\n")}
@@ -522,6 +766,16 @@ ${
     : report.unresolvedMedia
         .slice(0, 25)
         .map((path) => `- ${path}`)
+        .join("\n")
+}
+
+## Broken Internal Links (first 25)
+${
+  report.brokenInternalLinks.length === 0
+    ? "- none"
+    : report.brokenInternalLinks
+        .slice(0, 25)
+        .map((item) => `- ${JSON.stringify(item)}`)
         .join("\n")
 }
 `;

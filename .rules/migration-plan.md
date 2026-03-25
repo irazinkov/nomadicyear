@@ -95,12 +95,12 @@ Build repeatable tooling to transform WordPress exports into validated Astro con
 ### Tasks
 
 1. Inspect representative export samples plus edge cases. — 100%
-2. Define strict schema in `src/content.config.ts` for: — 90%
+2. Define strict schema in `src/content.config.ts` for: — 100%
    - title, slug, date, updated date
    - excerpt, hero image, image alt
    - country, categories, tags
    - draft/published flags
-3. Create migration scripts in `scripts/migrate/` to: — 90%
+3. Create migration scripts in `scripts/migrate/` to: — 100%
    - clean invalid HTML leftovers
    - remove unsupported shortcodes
    - normalize frontmatter fields
@@ -108,7 +108,7 @@ Build repeatable tooling to transform WordPress exports into validated Astro con
    - normalize slugs
    - rewrite broken media paths
 4. Output cleaned files into `src/content/posts/`. — 100%
-5. Generate validation report with counts and error buckets: — 75%
+5. Generate validation report with counts and error buckets: — 100%
    - schema failures
    - missing required fields
    - unresolved media

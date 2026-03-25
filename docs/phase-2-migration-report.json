@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T00:38:34.991Z",
+  "generatedAt": "2026-03-25T00:42:16.370Z",
   "sourceWxr": "/Users/ivanrazinkov/Desktop/NomadicYear/archive/nomadicyear.WordPress.2026-03-24.xml",
   "outputDir": "/Users/ivanrazinkov/Desktop/NomadicYear/.worktrees/phase-2/src/content/posts",
   "uploadsRoot": "/Users/ivanrazinkov/Desktop/NomadicYear/archive/uploads",
@@ -11,8 +11,10 @@
   "counts": {
     "warnings": 2,
     "errors": 0,
+    "schemaFailures": 0,
     "unresolvedMedia": 0,
-    "unresolvedFeaturedImages": 0
+    "unresolvedFeaturedImages": 0,
+    "brokenInternalLinks": 0
   },
   "warnings": [
     {
@@ -27,6 +29,35 @@
     }
   ],
   "errors": [],
+  "schemaFailures": [],
   "unresolvedMedia": [],
-  "unresolvedFeaturedImages": []
+  "unresolvedFeaturedImages": [],
+  "brokenInternalLinks": [],
+  "knownLegacyPages": [
+    "/",
+    "/about-us",
+    "/about-us/",
+    "/blank",
+    "/blank/",
+    "/blog",
+    "/blog/",
+    "/image-gallery",
+    "/image-gallery/",
+    "/map",
+    "/map/",
+    "/photos-with-friends",
+    "/photos-with-friends/",
+    "/preparation",
+    "/preparation/",
+    "/sample-page",
+    "/sample-page/",
+    "/south-america-expense-report-in-korean",
+    "/south-america-expense-report-in-korean/",
+    "/sponsors-and-credits",
+    "/sponsors-and-credits/",
+    "/travel-tips",
+    "/travel-tips/",
+    "/video",
+    "/video/"
+  ]
 }

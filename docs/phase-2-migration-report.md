@@ -1,6 +1,6 @@
 # Phase 2 Migration Report
 
-Generated: 2026-03-25T00:38:34.991Z
+Generated: 2026-03-25T00:42:16.370Z
 Source: /Users/ivanrazinkov/Desktop/NomadicYear/archive/nomadicyear.WordPress.2026-03-24.xml
 Output: /Users/ivanrazinkov/Desktop/NomadicYear/.worktrees/phase-2/src/content/posts
 
@@ -12,8 +12,10 @@ Output: /Users/ivanrazinkov/Desktop/NomadicYear/.worktrees/phase-2/src/content/p
 ## Validation Buckets
 - Warnings: 2
 - Errors (critical): 0
+- Schema failures: 0
 - Unresolved media paths: 0
 - Unresolved featured images: 0
+- Broken internal links: 0
 
 ## Critical Errors
 - none
@@ -23,5 +25,8 @@ Output: /Users/ivanrazinkov/Desktop/NomadicYear/.worktrees/phase-2/src/content/p
 - {"postId":"6182","slug":"russia-moscow","issue":"missing_content"}
 
 ## Unresolved Media (first 25)
+- none
+
+## Broken Internal Links (first 25)
 - none
 
