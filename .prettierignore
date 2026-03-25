@@ -2,3 +2,5 @@ dist
 .astro
 node_modules
 archive
+.worktrees
+zip images backup

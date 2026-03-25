@@ -4,7 +4,7 @@
 
 - Project: Nomadic Year
 - Phase: 0 (Discovery, URL Rules, and Migration Spec)
-- Status: Draft
+- Status: Approved for Phase 2 start
 - Last updated: 2026-03-24
 
 ## 1) Source of Truth
@@ -98,17 +98,17 @@ Define data model now to avoid route churn later.
 
 ## 7) Phase 0 Checklist
 
-- [ ] Source exports placed in `archive/`
+- [x] Source exports placed in `archive/`
 - [x] URL inventory captured in `docs/url-inventory.csv`
 - [x] Permalink strategy approved
 - [x] Taxonomy model approved
 - [x] Redirect draft created in `docs/redirects.csv`
 - [x] KPI targets approved
-- [ ] Risks reviewed in `docs/phase-0-risks.md`
-- [ ] Phase 0 sign-off recorded
+- [x] Risks reviewed in `docs/phase-0-risks.md`
+- [x] Phase 0 sign-off recorded
 
 ## 8) Sign-off
 
-- Decision owner: `TODO`
-- Sign-off date: `TODO`
-- Notes: `TODO`
+- Decision owner: `Ivan Razinkov (Project Owner)`
+- Sign-off date: `2026-03-24`
+- Notes: `Phase 0 complete. Proceeding to Phase 2 content schema and ingestion pipeline work.`

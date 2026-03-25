@@ -5,7 +5,14 @@ import tsParser from "@typescript-eslint/parser";
 
 export default [
   {
-    ignores: ["dist", ".astro", "node_modules"],
+    ignores: [
+      "dist",
+      ".astro",
+      "node_modules",
+      "archive",
+      ".worktrees",
+      "zip images backup",
+    ],
   },
   ...astro.configs["flat/recommended"],
   {
