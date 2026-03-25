@@ -131,19 +131,19 @@ Implement all key page templates and route behavior.
 
 ### Tasks
 
-1. Build index page with post cards: — 0%
+1. Build index page with post cards: — 90%
    - hero image
    - title
    - excerpt
    - publish date
-2. Build single post route (`[slug].astro`) with readable typography and responsive media. — 0%
-3. Build taxonomy routes: — 0%
+2. Build single post route (`[slug].astro`) with readable typography and responsive media. — 100%
+3. Build taxonomy routes: — 100%
    - `/category/[slug]`
    - `/tag/[slug]`
    - `/country/[slug]`
-4. Implement pagination where needed. — 0%
-5. Add canonical URLs and metadata per page. — 0%
-6. Ensure route output matches permalink rules from Phase 0. — 0%
+4. Implement pagination where needed. — 100%
+5. Add canonical URLs and metadata per page. — 100%
+6. Ensure route output matches permalink rules from Phase 0. — 100%
 
 ### Exit Criteria
 

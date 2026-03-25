@@ -1,17 +1,53 @@
 ---
+import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 import { SITE_TITLE } from "../consts";
+import { formatTaxonomyLabel, sortPostsByDateDesc } from "../utils/posts";
+
+const posts = (await getCollection("posts"))
+  .filter((post) => !post.data.draft)
+  .sort(sortPostsByDateDesc);
+
+const countryCounts = posts.reduce<Record<string, number>>((acc, post) => {
+  if (!post.data.country) {
+    return acc;
+  }
+  acc[post.data.country] = (acc[post.data.country] ?? 0) + 1;
+  return acc;
+}, {});
+
+const countries = Object.entries(countryCounts).sort((a, b) =>
+  a[0].localeCompare(b[0]),
+);
 ---
 
 <Layout
   title={`Destinations | ${SITE_TITLE}`}
   description="Browse the countries and destinations covered in Nomadic Year."
 >
-  <article class="prose prose-lg dark:prose-invert mx-auto">
-    <h1>Destinations</h1>
-    <p>
-      Destination pages will be generated from migrated post taxonomy in later
-      phases. This placeholder page is part of the Phase 1 shell.
+  <section class="space-y-6">
+    <h1 class="text-3xl font-semibold text-gray-900 dark:text-white">
+      Destinations
+    </h1>
+    <p class="text-gray-600 dark:text-gray-400">
+      Browse by country from the migrated archive.
     </p>
-  </article>
+    <ul class="grid grid-cols-1 gap-3 sm:grid-cols-2">
+      {
+        countries.map(([slug, count]) => (
+          <li>
+            <a
+              href={`/country/${slug}/`}
+              class="flex items-center justify-between rounded-md border border-gray-200 bg-white px-4 py-3 dark:border-gray-800 dark:bg-slate-950"
+            >
+              <span class="font-medium">{formatTaxonomyLabel(slug)}</span>
+              <span class="text-sm text-gray-500 dark:text-gray-400">
+                {count}
+              </span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
 </Layout>

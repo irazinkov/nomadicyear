@@ -3,10 +3,11 @@ import { getCollection } from "astro:content";
 import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 import FormattedDate from "../components/FormattedDate.astro";
 import Layout from "../layouts/Layout.astro";
+import { getPostUrl, sortPostsByDateDesc } from "../utils/posts";
 
-const posts = (await getCollection("blog"))
+const posts = (await getCollection("posts"))
   .filter((post) => !post.data.draft)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  .sort(sortPostsByDateDesc);
 
 const postsByYear = posts.reduce<Record<string, typeof posts>>((acc, post) => {
   const year = String(post.data.pubDate.getFullYear());
@@ -41,7 +42,7 @@ const years = Object.keys(postsByYear).sort((a, b) => Number(b) - Number(a));
             {postsByYear[year].map((post) => (
               <li>
                 <a
-                  href={`/blog/${post.id}/`}
+                  href={getPostUrl(post)}
                   class="flex items-baseline gap-4 rounded px-2 py-1 transition hover:bg-gray-100 dark:hover:bg-gray-800"
                 >
                   <span class="w-16 shrink-0 text-sm text-gray-500 dark:text-gray-400">
@@ -60,5 +61,8 @@ const years = Object.keys(postsByYear).sort((a, b) => Number(b) - Number(a));
         </section>
       ))
     }
+    <div class="pt-2">
+      <a href="/blog/" class="text-sm font-medium">Browse full archive →</a>
+    </div>
   </section>
 </Layout>
