@@ -10,12 +10,16 @@ interface Props {
 }
 
 const { title, description, noindex = false } = Astro.props;
-const pathname = Astro.url.pathname;
+const pathname = Astro.url.pathname.replace(/\/+$/, "") || "/";
 const navLinks = [
-  { href: "/", label: "Home" },
-  { href: "/blog", label: "Blog" },
-  { href: "/destinations", label: "Destinations" },
-  { href: "/about", label: "About" },
+  { href: "/south-america-expense-report-in-korean", label: "Our Korean Blog" },
+  { href: "/video", label: "Video" },
+  { href: "/image-gallery", label: "Image Gallery" },
+  { href: "/map", label: "Route" },
+  { href: "/preparation", label: "Preparation" },
+  { href: "/travel-tips", label: "Travel Tips" },
+  { href: "/sponsors-and-credits", label: "People Who Helped" },
+  { href: "/about", label: "About Us" },
 ];
 ---
 
@@ -31,20 +35,40 @@ const navLinks = [
       class="mx-auto flex min-h-screen max-w-3xl flex-col px-4 sm:px-6 lg:px-8"
     >
       <header class="py-8">
-        <nav class="flex items-center justify-between">
+        <div class="mb-4 flex items-center justify-between">
           <a
             href="/"
             class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white"
           >
             {SITE_TITLE}
           </a>
-          <div class="flex items-center gap-2 text-sm sm:gap-5">
+          <div class="flex items-center gap-2 text-sm">
+            <a
+              href="/blog/"
+              class="rounded px-2 py-1 text-gray-700 transition hover:text-gray-900 dark:text-gray-300 dark:hover:text-white"
+            >
+              Blog
+            </a>
+            <a
+              href="/destinations/"
+              class="rounded px-2 py-1 text-gray-700 transition hover:text-gray-900 dark:text-gray-300 dark:hover:text-white"
+            >
+              Destinations
+            </a>
+            <ThemeToggle />
+          </div>
+        </div>
+        <nav class="overflow-x-auto pb-1">
+          <div
+            class="flex min-w-max items-center gap-1 text-xs font-semibold uppercase tracking-wide sm:gap-3 sm:text-sm"
+          >
             {
               navLinks.map((link) => {
-                const isActive = pathname === link.href;
+                const normalizedHref = link.href.replace(/\/+$/, "") || "/";
+                const isActive = pathname === normalizedHref;
                 return (
                   <a
-                    href={link.href}
+                    href={`${normalizedHref}/`}
                     class:list={[
                       "rounded px-2 py-1 transition",
                       isActive
@@ -57,7 +81,6 @@ const navLinks = [
                 );
               })
             }
-            <ThemeToggle />
           </div>
         </nav>
       </header>

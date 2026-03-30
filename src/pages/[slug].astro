@@ -1,0 +1,26 @@
+---
+import { type CollectionEntry, getCollection, render } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+  const pages = (await getCollection("pages")).filter(
+    (page) => !page.data.draft,
+  );
+  return pages.map((page) => ({
+    params: { slug: page.data.slug ?? page.id },
+    props: page,
+  }));
+}
+
+type Props = CollectionEntry<"pages">;
+
+const page: Props = Astro.props;
+const { Content } = await render(page);
+---
+
+<Layout title={page.data.title} description={page.data.description}>
+  <article class="prose prose-lg mx-auto dark:prose-invert">
+    <h1>{page.data.title}</h1>
+    <Content />
+  </article>
+</Layout>

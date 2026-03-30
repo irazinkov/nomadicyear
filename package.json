@@ -17,7 +17,8 @@
     "phase0:url-inventory": "node scripts/phase0/capture-url-inventory.mjs",
     "phase0:redirect-draft": "node scripts/phase0/generate-redirect-draft.mjs",
     "phase2:analyze-wxr": "node scripts/migrate/analyze-wxr.mjs",
-    "phase2:migrate-wxr": "node scripts/migrate/convert-wxr-to-markdown.mjs"
+    "phase2:migrate-wxr": "node scripts/migrate/convert-wxr-to-markdown.mjs",
+    "phase3:migrate-pages": "node scripts/migrate/convert-wxr-pages-to-markdown.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.2",

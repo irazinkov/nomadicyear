@@ -33,4 +33,20 @@ const posts = defineCollection({
   schema: postSchema,
 });
 
-export const collections = { blog, posts };
+const pageSchema = z.object({
+  title: z.string(),
+  slug: z
+    .string()
+    .regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/)
+    .optional(),
+  description: z.string().default(""),
+  legacyUrl: z.string().optional(),
+  draft: z.boolean().default(false),
+});
+
+const pages = defineCollection({
+  loader: glob({ base: "./src/content/pages", pattern: "**/*.md" }),
+  schema: pageSchema,
+});
+
+export const collections = { blog, posts, pages };

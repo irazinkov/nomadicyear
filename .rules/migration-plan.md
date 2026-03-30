@@ -131,7 +131,7 @@ Implement all key page templates and route behavior.
 
 ### Tasks
 
-1. Build index page with post cards: — 90%
+1. Build index page with post cards: — 100%
    - hero image
    - title
    - excerpt
