@@ -15,7 +15,7 @@ draft: false
 &nbsp;
 
 &nbsp;
-<h3>Nizhniy Novgorod (GPS <span class="latitude" title="Latitude">56.326944</span>, <span class="longitude" title="Longitude">44.0075)</span></h3>
+<h2>Nizhniy Novgorod (GPS <span class="latitude" title="Latitude">56.326944</span>, <span class="longitude" title="Longitude">44.0075)</span></h2>
 <a href="/uploads/2016/09/DSC3145.jpg"><img class="aligncenter size-large wp-image-6278" src="/uploads/2016/09/DSC3145-1024x683.jpg" alt="_dsc3145" width="697" height="465" /></a>
 
 <a href="/uploads/2016/09/DSC3149.jpg"><img class="aligncenter size-large wp-image-6279" src="/uploads/2016/09/DSC3149-1024x683.jpg" alt="_dsc3149" width="697" height="465" /></a>
@@ -39,7 +39,7 @@ draft: false
 <a href="/uploads/2016/09/DSC3199.jpg"><img class="aligncenter size-large wp-image-6288" src="/uploads/2016/09/DSC3199-1024x683.jpg" alt="_dsc3199" width="697" height="465" /></a>
 
 &nbsp;
-<h3>Vladimir (GPS 56.143439, 40.410693)</h3>
+<h2>Vladimir (GPS 56.143439, 40.410693)</h2>
 <a href="/uploads/2016/09/DSC3204.jpg"><img class="aligncenter size-large wp-image-6289" src="/uploads/2016/09/DSC3204-1024x683.jpg" alt="_dsc3204" width="697" height="465" /></a>
 
 <a href="/uploads/2016/09/DSC3212.jpg"><img class="aligncenter size-large wp-image-6290" src="/uploads/2016/09/DSC3212-1024x683.jpg" alt="_dsc3212" width="697" height="465" /></a>

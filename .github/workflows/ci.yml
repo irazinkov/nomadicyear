@@ -32,5 +32,8 @@ jobs:
       - name: Type check
         run: npm run check
 
-      - name: Build
-        run: npm run build
+      - name: Phase 4 validate
+        run: npm run phase4:validate:strict-alt
+
+      - name: Build and measure
+        run: npm run phase4:measure

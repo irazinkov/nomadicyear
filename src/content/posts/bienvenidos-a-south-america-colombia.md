@@ -24,7 +24,7 @@ legacyUrl: "http://nomadicyear.com/2016/01/bienvenidos-a-south-america-colombia/
 status: "publish"
 draft: false
 ---
-<h3>Cartagena</h3>
+<h2>Cartagena</h2>
 Where did we leave off last time? Can't even remember myself...
 
 Oh yeah, on the death defying crossing of the Darien Gap.
@@ -135,7 +135,7 @@ Hyein didn't have a chance to dress up for the party and went as the local "defe
 <a href="/uploads/2015/12/DSC02432.jpg" rel="attachment wp-att-1153"><img class="aligncenter size-full wp-image-1153" src="/uploads/2015/12/DSC02432.jpg" alt="DSC02432" width="800" height="533" /></a>
 
 After an hour of watching the teenagers shyly dance with each other, we headed to sleep.
-<h3>Medellin</h3>
+<h2>Medellin</h2>
 By the end of next day, we ended up in Medellin, said good bye to Martha and Fernando. They were going to continue driving South.
 
 Its funny, how extreme situations bond people instantly. In the couple of weeks we went from not knowing each other...to spending all days together...to actually missing them as we drove off.
@@ -291,7 +291,7 @@ A street show with juggling, trained dogs, balancing acts, sword swallowing...
 <a href="/uploads/2016/01/DSC02531.jpg" rel="attachment wp-att-1305"><img class="aligncenter size-full wp-image-1305" src="/uploads/2016/01/DSC02531.jpg" alt="DSC02531" width="800" height="533" /></a>
 
 But for us it is back to the love motel...today we get a candy themed room!
-<h3>Ibague</h3>
+<h2>Ibague</h2>
 It is not often that you get to see a friend during the travel, but in Colombia we got lucky. Our friend from the states, Kelly, lives in Ibague.
 
 It was supposed to be a short drive from Medellin, but because of all the holiday traffic it took us all day to get to her.
@@ -351,7 +351,7 @@ Neither one of us knew how to make it, so it turned out nothing like Kelly. And 
 
 We couldn't get any fireworks in time, so a bit of gasoline did the trick.
 Happy New Year, everyone!
-<h3>Cali</h3>
+<h2>Cali</h2>
 We began the New Year by driving closer to Ecuador and stopped in the city that sounded so much like home to us.
 
 Cali... i guess i miss California, with all my friends and family there. Can't wait to see everyone when we get back.

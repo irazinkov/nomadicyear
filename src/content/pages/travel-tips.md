@@ -6,46 +6,62 @@ legacyUrl: "http://nomadicyear.com/travel-tips/"
 draft: false
 ---
 
-<h3>Money - Charles Schwab</h3>
-<a href="/uploads/2016/05/schwab-debit-card.jpg"><img class="aligncenter size-full wp-image-3470" src="/uploads/2016/05/schwab-debit-card.jpg" alt="schwab-debit-card" width="300" height="194" /></a>
+<section class="ny-prep-hero">
+<p class="ny-prep-hero__kicker">Field Notes</p>
+<h2>Travel Tips That Actually Helped Us on the Road</h2>
+<p>Practical tools for money, maps, camping, and daily logistics that made long-term travel much easier.</p>
+</section>
 
-If you are an American citizen or permanent resident you can get a Charles Schwab checking account.
+<section class="ny-prep-section">
+<h2>Core Tools</h2>
+<div class="ny-prep-grid">
+<article class="ny-prep-card">
+<div class="ny-prep-card__media"><img class="ny-prep-card__image" src="/uploads/2016/05/schwab-debit-card.jpg" alt="Charles Schwab debit card" loading="lazy" decoding="async"></div>
+<p class="ny-prep-card__type">Money</p>
+<h3>Charles Schwab Checking</h3>
+<p>If you are an American citizen or permanent resident, this account is a strong travel setup.</p>
+<p>It is free, has no minimum balance, and reimburses ATM withdrawal fees worldwide.</p>
+<p>To reduce card-theft risk, we usually make larger withdrawals in one ATM session and avoid frequent card payments.</p>
+<p>When using an ATM, check for keypad/card skimmers and prefer bank-branch machines with security nearby.</p>
+<p class="ny-prep-card__cta-wrap"><a class="ny-prep-card__cta" href="http://www.uscreditcardguide.com/charles-schwab-visa-platinum-debit-card-no-atm-fee-wordwide-en/" target="_blank" rel="noopener noreferrer nofollow">Read More</a></p>
+</article>
 
-Its free, with no minimum balance, no ATM withdrawal fees anywhere in the world.
+<article class="ny-prep-card">
+<div class="ny-prep-card__media"><img class="ny-prep-card__image" src="/uploads/2016/01/nazca-slider.jpg" alt="Road navigation in remote terrain" loading="lazy" decoding="async"></div>
+<p class="ny-prep-card__type">Navigation</p>
+<h3>Maps.me + OSM Data</h3>
+<p>Maps.me became our preferred offline navigation app when Google Maps offline support felt limited for overlanding.</p>
+<p>Compared with older alternatives we tried, it had better readability, clearer street labeling, and useful points of interest.</p>
+<p>For in-car navigation we also used Navigator by MapFactor, again with OpenStreetMap data.</p>
+<p class="ny-prep-card__cta-wrap"><a class="ny-prep-card__cta" href="https://maps.me/" target="_blank" rel="noopener noreferrer nofollow">Open Maps.me</a></p>
+</article>
 
-To limit the possibility of card information theft we try to withdraw as much money as we can in a single ATM transaction and only pay by card when absolutely necessary. So far we only had to do that only a few (&lt;10) in the last 6 months.
+<article class="ny-prep-card">
+<div class="ny-prep-card__media"><img class="ny-prep-card__image" src="/uploads/preparation-resources/ioverlander-filters.webp" alt="iOverlander app filters screen" loading="lazy" decoding="async"></div>
+<p class="ny-prep-card__type">Camping</p>
+<h3>iOverlander App</h3>
+<p>The one and only for finding camping: offline locations for free and paid spots, especially useful across the PanAmerican route.</p>
+<p>Coverage keeps improving as travelers contribute more places around the world.</p>
+<p class="ny-prep-card__cta-wrap"><a class="ny-prep-card__cta" href="http://ioverlander.com" target="_blank" rel="noopener noreferrer nofollow">Visit iOverlander</a></p>
+</article>
 
-When taking the money out of the ATM, do the usual checks for card and keypad skimmers. I've heard that some skimmers you can even see, but at least you'll notice some of them. If you dont like the ATM or the location, don't use it. You'll find another one...unless you are in Argentina.
+<article class="ny-prep-card">
+<div class="ny-prep-card__media"><img class="ny-prep-card__image" src="/uploads/2016/02/Cuzco-slider.jpg" alt="Notebook and planning for budget tracking" loading="lazy" decoding="async"></div>
+<p class="ny-prep-card__type">Budget</p>
+<h3>AndroMoney Expense Tracking</h3>
+<p>We used AndroMoney for daily expense tracking. It is simple and good enough to stay consistent while traveling.</p>
+<p>Key requirement: use any app that can export cleanly to <code>.xls</code>, <code>.xlsx</code>, or <code>.csv</code> for later reporting.</p>
+<p class="ny-prep-card__cta-wrap"><a class="ny-prep-card__cta" href="https://nomadicyear.com/2016/04/expense-report-central-and-south-america/" target="_blank" rel="noopener noreferrer nofollow">See Expense Report</a></p>
+</article>
 
-We try to take money out only from an ATM located within the bank office. In Central and South Americas, there is usually a security guard posted outside, thus limiting the chances of robberies or skimmers.
-
-Read more here: http://www.uscreditcardguide.com/charles-schwab-visa-platinum-debit-card-no-atm-fee-wordwide-en/
-
-Card photo credit to above link.
-
-<h3>Maps and Navigation - Maps.me</h3>
-So, until Google Maps gets their shit together...we have to use something else. Honestly, when looking around for this last year, i couldn't believe Google Maps didn't jump on this yet.
-
-We started out using Here Maps by Nokia. You can download maps of any region in the world for offline use. Within the app you can also save point of interest, so thats nice. But thats about it. The color scheme just didn't do it for me. The names of streets and places did not appear at the zoom levels that you needed. The navigation setting did not tell you the distance to your destination...just the time. The search by GPS coordinates didn't not work reliably and with overlanding this is a no-go.
-
-We recently switched to Maps.me and I cant believe we didn't do this earlier. Its heaps better in readability, the colors remind me of Google Maps a bit. The street names appear where you need them. The same as Here Maps, you can download the maps of all the regions in the world for offline use.
-
-Since Maps.me uses the data provided by OpenStreetMaps (OSM), it has a ton of useful Points Of Interest (POI). Although not all the places are mapped, we find the bank locations very useful in our search for ATMs.
-
-In the car we have <strong>Navigator</strong> by MapFactor and maps downloaded from OSM. So the basically the same information, presented in a different wrapper.
-
-<h3>Camping - iOverlander app</h3>
-The one and only - iOverlander app. Offline locations for thousands of free and paid camping spots. Mostly centered around the PanAmerican Highway. People are slowly starting to contribute from around the world.
-
-Check out their main site as well - <a href="http://ioverlander.com">ioverlander.com</a>
-
-<h3>Budget Tracking - AndroMoney</h3>
-We use AndroMoney and its does the job. Whatever app you decide on, make sure you can easily export the data to an *.xls, *.xlsx or *.csv file for further editing on your computer.
-
-The expense report was possible through daily expense tracking - <a href="https://nomadicyear.com/2016/04/expense-report-central-and-south-america/">https://nomadicyear.com/2016/04/expense-report-central-and-south-america/</a>
-
+<article class="ny-prep-card">
+<div class="ny-prep-card__media"><img class="ny-prep-card__image" src="/uploads/2015/07/DSC00597.jpg" alt="Overlanding vehicle parked in remote landscape" loading="lazy" decoding="async"></div>
+<p class="ny-prep-card__type">Research</p>
 <h3>Helpful Blogs and Forums</h3>
-<a href="http://overlandsphere.com">overlandsphere.com</a>
-<a href="http://horizonsunlimited.com">Horizons Unlimited</a>
-
-&nbsp;
+<p>Before and during the trip, we relied heavily on overlanding communities and first-hand trip reports.</p>
+<p>Two consistent resources were Overland Sphere and Horizons Unlimited.</p>
+<p class="ny-prep-card__cta-wrap"><a class="ny-prep-card__cta" href="http://overlandsphere.com" target="_blank" rel="noopener noreferrer nofollow">Overland Sphere</a></p>
+<p class="ny-prep-card__cta-wrap"><a class="ny-prep-card__cta" href="http://horizonsunlimited.com" target="_blank" rel="noopener noreferrer nofollow">Horizons Unlimited</a></p>
+</article>
+</div>
+</section>

@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-03-30T21:34:36.711Z",
+  "inputs": {
+    "publicUploadsRoot": "/Users/ivanrazinkov/Desktop/NomadicYear/public/uploads",
+    "failOnMissingAlt": true
+  },
+  "summary": {
+    "contentFilesScanned": 98,
+    "uniqueUploadRefs": 5041,
+    "missingUploadRefs": 0,
+    "markdownImageAltGaps": 0,
+    "htmlImageAltGaps": 0,
+    "heroImageAltGaps": 0,
+    "totalAltGaps": 0
+  },
+  "missingUploadRefExamples": [],
+  "altGapExamples": []
+}

@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-03-30T21:34:29.672Z",
+  "inputs": {
+    "newUploadsRoot": "/Users/ivanrazinkov/Desktop/NomadicYear/archive/new_uploads",
+    "uploadsRoot": "/Users/ivanrazinkov/Desktop/NomadicYear/archive/uploads",
+    "publicUploadsRoot": "/Users/ivanrazinkov/Desktop/NomadicYear/public/uploads",
+    "failOnMissing": true
+  },
+  "summary": {
+    "contentFilesScanned": 98,
+    "uniqueUploadRefs": 5041,
+    "copiedFromNewUploads": 3642,
+    "copiedFromUploadsFallback": 1399,
+    "missingRefs": 0,
+    "uniqueTargetFilesWritten": 5041,
+    "duplicateNormalizedTargetPaths": 0,
+    "caseVariantPathCollisions": 0,
+    "caseFallbackSourceMatches": 5,
+    "ambiguousCaseFallbackMatches": 0
+  },
+  "missingExamples": [],
+  "duplicateTargetPathExamples": [],
+  "caseVariantCollisionExamples": [],
+  "ambiguousCaseFallbackExamples": []
+}

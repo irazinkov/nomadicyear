@@ -34,20 +34,20 @@ Transportation - boat, bus, ferry, car fumigation, rail, car import fee, subway,
 
 Pie chart is good, but we need to see the total amounts a bit better.
 
-<h3>Gas</h3>
+<h2>Gas</h2>
 We drive a 2000 Toyota Land Cruiser that gets about 10-12 mpg when fully loaded. So take all the gas spending in consideration. We drove a total of 17,500 miles. Unfortunately we did not keep track of mileage for each day, sorry. We will do that once we get the car back in Korea.
 
 We spent a total of <strong>$3975.16</strong> on gasoline, here is the breakdown.
 
 That works out to be, on average, 4.40 miles per dollar...shit thats a bit expensive. Maybe we should really look into a diesel.
 
-<h3>Food</h3>
+<h2>Food</h2>
 If you think that you can spend less money then us, here is where you can actually make a difference, besides driving a different car.
 You can save a bit of dough by cooking your own food, so lets look at food expenses of eating out vs. cooking.
 
 If we assume that eating out is twice as expensive as cooking yourself, then we could have saved around $1200. Take that we a grain of salt, since you cannot cook yourself everywhere.
 
-<h3>Lodging</h3>
+<h2>Lodging</h2>
 Another way we could save money is by free camping. Well, not all places feel secure enough to do that, plus we need to shower and use the toilet once in a while. First we will look at where we ended up sleeping.
 
 To make it easier for accounting reasons, everything that is not camping is considered hostels. Trust me, we dont stay in fancy 5 star hotels.
@@ -55,7 +55,7 @@ Surprisingly, almost every country has a some nights in hostels. Most of those t
 
 The chart above shows the total expenses in each category by country. Not surprisingly staying in a hostel is more expensive than camping...duh.
 
-<h3>Map of average daily expenses by country</h3>
+<h2>Map of average daily expenses by country</h2>
 We split it up into two maps for clarity.
 Central America
 

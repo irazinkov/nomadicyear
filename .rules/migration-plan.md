@@ -160,13 +160,13 @@ Optimize a decade of travel photography without breaking authoring flow.
 
 ### Tasks
 
-1. Decide media strategy: — 0%
+1. Decide media strategy: — 100%
    - local repo, object storage, or hybrid
-2. Normalize media naming and folder conventions. — 0%
-3. Use Astro image optimization (`<Image />` or equivalent strategy) where applicable. — 0%
-4. Generate responsive image variants for key breakpoints. — 0%
-5. Enforce alt text and fallback behavior for missing media. — 0%
-6. Measure build time and output size impact from image processing. — 0%
+2. Normalize media naming and folder conventions. — 100%
+3. Use Astro image optimization (`<Image />` or equivalent strategy) where applicable. — 100%
+4. Generate responsive image variants for key breakpoints. — 100%
+5. Enforce alt text and fallback behavior for missing media. — 100%
+6. Measure build time and output size impact from image processing. — 100%
 
 ### Exit Criteria
 
@@ -183,21 +183,21 @@ Protect discoverability and prevent launch regressions.
 
 ### Tasks
 
-1. Run full internal link checks on built site. — 0%
-2. Verify metadata parity for sampled high-traffic pages. — 0%
-3. Generate and validate sitemap output. — 0%
-4. Apply redirects from `redirects.csv`. — 0%
-5. Test old URL samples to confirm correct 301 behavior. — 0%
-6. Run accessibility checks: — 0%
-   - heading hierarchy
-   - alt coverage
-   - color contrast on key templates
+1. Run full internal link checks on built site. — 100%
+2. Verify metadata parity for sampled high-traffic pages. — 100%
+3. Generate and validate sitemap output. — 100%
+4. Apply redirects from `redirects.csv`. — 100%
+5. Test old URL samples to confirm correct 301 behavior. — 100%
+6. Run accessibility checks: — 100%
+   - heading hierarchy — 100%
+   - alt coverage — 100%
+   - color contrast on key templates — 100%
 
 ### Exit Criteria
 
-- No critical broken links.
-- Redirect coverage meets KPI target.
-- SEO and accessibility checks pass defined thresholds.
+- No critical broken links. — 100%
+- Redirect coverage meets KPI target. — 100%
+- SEO and accessibility checks pass defined thresholds. — 100%
 
 ---
 

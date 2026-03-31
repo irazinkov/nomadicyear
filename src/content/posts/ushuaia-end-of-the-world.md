@@ -200,17 +200,17 @@ I make that shit look goooooood.
 
 The before shot. Just so you know this is Hyein's only second time cutting hair. The first time was in San Diego a couple of days before we left.
 
-<a href="/uploads/2016/03/Capture1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Capture1" src="/uploads/2016/03/Capture1_thumb.jpg" alt="Capture1" width="800" height="442" border="0" /></a>
+<a href="/uploads/2016/03/capture1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Capture1" src="/uploads/2016/03/Capture1_thumb.jpg" alt="Capture1" width="800" height="442" border="0" /></a>
 
 I'm not sure why we decided to bring our own scissors and cut the hair...not much of money-saving. I think it's that I wanted to have a certain hairstyle and was not sure if they could understand me in my broken Spanish...and mess it up in the process.
 
 I've explained what i want to people in San Diego in ENGLISH and still came out with something that resembled a wet cat. Not a big deal, just want to look cool for this trip, you know?
 
-<a href="/uploads/2016/03/Capture3.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Capture3" src="/uploads/2016/03/Capture3_thumb.jpg" alt="Capture3" width="800" height="447" border="0" /></a>
+<a href="/uploads/2016/03/capture3.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Capture3" src="/uploads/2016/03/Capture3_thumb.jpg" alt="Capture3" width="800" height="447" border="0" /></a>
 
 I can see some progress already in the front.
 
-<a href="/uploads/2016/03/Capture4.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Capture4" src="/uploads/2016/03/Capture4_thumb.jpg" alt="Capture4" width="800" height="456" border="0" /></a>
+<a href="/uploads/2016/03/capture4.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Capture4" src="/uploads/2016/03/Capture4_thumb.jpg" alt="Capture4" width="800" height="456" border="0" /></a>
 
 If you think that cutting hair outside in the sunshine is a great idea...yeah, it can be. Just not when it is windy outside.
 
@@ -218,7 +218,7 @@ If you think that cutting hair outside in the sunshine is a great idea...yeah, i
 
 Blows the little hair clippings all over the person who is cutting the hair and make them dirty and annoyed.
 
-<a href="/uploads/2016/03/Capture6.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Capture6" src="/uploads/2016/03/Capture6_thumb.jpg" alt="Capture6" width="800" height="448" border="0" /></a>
+<a href="/uploads/2016/03/capture6.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Capture6" src="/uploads/2016/03/Capture6_thumb.jpg" alt="Capture6" width="800" height="448" border="0" /></a>
 
 And when they get annoyed they stop paying attention for just a brief second and pull your hair with the scissors...by accident.
 

@@ -1,6 +1,7 @@
 ---
-import { type CollectionEntry, getCollection, render } from "astro:content";
+import { type CollectionEntry, getCollection } from "astro:content";
 import BlogPost from "../../layouts/BlogPost.astro";
+import { rewriteResponsiveUploadImgTags } from "../../plugins/rehype-responsive-uploads.mjs";
 import { getPostSlug } from "../../utils/posts";
 
 export async function getStaticPaths() {
@@ -15,11 +16,11 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<"posts">;
 
 const post: Props = Astro.props;
-const { Content } = await render(post);
 const words = (post.body ?? "").trim().split(/\s+/).filter(Boolean).length;
 const readingTimeMinutes = Math.max(1, Math.ceil(words / 220));
+const contentHtml = rewriteResponsiveUploadImgTags(post.rendered?.html ?? "");
 ---
 
 <BlogPost {...post.data} readingTimeMinutes={readingTimeMinutes}>
-  <Content />
+  <Fragment set:html={contentHtml} />
 </BlogPost>

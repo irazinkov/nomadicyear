@@ -135,7 +135,7 @@ As we got down the mountain the clouds cleared and you could see how the mountai
 Further down the mountain you find the little farming town that cultivates all these mountains.
 
 <a href="/uploads/2015/11/DSC01571.jpg"><img class="aligncenter size-full wp-image-542" src="/uploads/2015/11/DSC01571.jpg" alt="DSC01571" width="800" height="533" /></a>
-<h3>Next up - Lake Atitlan!</h3>
+<h2>Next up - Lake Atitlan!</h2>
 Here i'm going to digress from discussing the beauty of Guatemala and talk about something that we started to notice.
 
 The whole time we were in Mexico, we didn't feel like we were treated like tourists. Yeah, yeah - I know - people did look at us and knew we were not local. But we never felt like we got treated different because of it. We paid the same prices as the locals, we felt like we integrated better. A whole different story in Guatemala. Here the tourist prices are 4-5 times higher than local prices. All the camping spots were 2-3 times higher than our most expensive ones in Mexico.....and why? I have no idea...
@@ -175,7 +175,7 @@ After some dinner and general sobering up we tried to meet with our newly made f
 <a href="/uploads/2015/11/DSC01604.jpg"><img class="aligncenter size-full wp-image-579" src="/uploads/2015/11/DSC01604.jpg" alt="DSC01604" width="800" height="181" /></a>
 
 We only stayed a night, but it was beautiful.
-<h3>Next up - Antigua!</h3>
+<h2>Next up - Antigua!</h2>
 Central Guatemala has mountainous terrain, so all the roads are curvy and always either uphill or downhill. Old american school buses are used here as public transport. And OMG these buses push the limits of physics by almost drifting around the corners. If your average american housewife saw her kids' school bus doing that, the school district would be sued and broke in seconds.
 
 But what is even more OUTRAGEOUS... is that the bus workers climb out of the back of the bus and on top of it.....WHILE IT IS STILL DRIFTING AROUND THE CORNER!

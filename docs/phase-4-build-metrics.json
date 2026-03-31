@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-03-30T21:33:03.848Z",
+  "inputs": {
+    "distRoot": "/Users/ivanrazinkov/Desktop/NomadicYear/dist",
+    "skipBuild": false,
+    "failOnBudget": true,
+    "buildBudgetMs": 300000
+  },
+  "summary": {
+    "buildDurationMs": 9262,
+    "buildDurationHuman": "9.26s",
+    "buildBudgetPassed": true,
+    "totalFiles": 5670,
+    "htmlFiles": 619,
+    "imageFiles": 5035,
+    "uploadFiles": 5041,
+    "totalBytes": 2109844677,
+    "totalBytesHuman": "1.96 GB",
+    "imageBytes": 2095523083,
+    "imageBytesHuman": "1.95 GB",
+    "uploadBytes": 2099542956,
+    "uploadBytesHuman": "1.96 GB"
+  },
+  "topLargestFiles": [
+    {
+      "path": "uploads/2016/06/DSC00597.jpg",
+      "sizeBytes": 12223661
+    },
+    {
+      "path": "uploads/2015/07/DSC00597.jpg",
+      "sizeBytes": 12223661
+    },
+    {
+      "path": "uploads/2015/10/DSC00711.jpg",
+      "sizeBytes": 10176408
+    },
+    {
+      "path": "uploads/2017/01/20161111_151834.jpg",
+      "sizeBytes": 3122024
+    },
+    {
+      "path": "uploads/2016/06/Busan-Car-Shipping.pdf",
+      "sizeBytes": 2707011
+    },
+    {
+      "path": "uploads/2015/07/20141122_101349.jpg",
+      "sizeBytes": 2704811
+    },
+    {
+      "path": "uploads/2016/09/DSC3137.jpg",
+      "sizeBytes": 2269655
+    },
+    {
+      "path": "uploads/2016/08/DSC0667.jpg",
+      "sizeBytes": 2179163
+    },
+    {
+      "path": "uploads/2016/05/Surat_Thani_Koh_Samui_05983.jpg",
+      "sizeBytes": 2134301
+    },
+    {
+      "path": "uploads/2016/08/DSC0902.jpg",
+      "sizeBytes": 2118622
+    },
+    {
+      "path": "uploads/2016/09/DSC3094.jpg",
+      "sizeBytes": 2114201
+    },
+    {
+      "path": "uploads/2016/05/DSC6703.jpg",
+      "sizeBytes": 2065469
+    },
+    {
+      "path": "uploads/2016/08/DSC0875.jpg",
+      "sizeBytes": 2051594
+    },
+    {
+      "path": "uploads/2016/08/DSC2363.jpg",
+      "sizeBytes": 2037237
+    },
+    {
+      "path": "uploads/2016/08/DSC0899.jpg",
+      "sizeBytes": 2032160
+    }
+  ]
+}

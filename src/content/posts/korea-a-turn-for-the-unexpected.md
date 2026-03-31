@@ -84,7 +84,7 @@ Mom and dad, they are always happy to see us. Worried for us, but always support
 More friends and more drinking, it might be harder to recognize them without the dress and suit, but thats the newly wed couple on the right. We met with them at their new apartment for a little house warming party after they got back from their honeymoon trip to Spain. These guys have all known each other for 9 years...i'm the knew one here, thanks for welcoming me with open arms.
 
 And just like that, the two weeks in Seoul flew by. We got super lucky with the weather, in the last weeks in Moscow the snow was starting to fall, it never really stuck around, but still nothing too pleasant. In Seoul we were warm, dry and happy. Can't wait to visit again.
-<h3>China</h3>
+<h2>China</h2>
 Its hard to hide the plan now...we are going to spend the winter travelling to warm places while we wait for the spring to give us a chance to travel Europe in comfortable places. Our original plan was to fly to India for a month, were we would meet up with a friend and travel together. Then we looked at the tickets and realized that just like in Singapore we could do a stop over in Beijing. This is a good, very good, thing. Trying to travel China with our own car is a complicated, expensive mess. Sure, people do it all the time but it requires being a part of group, planned itinerary...things that we don't know how to do.
 
 <a href="/uploads/2016/11/DSC06841.jpg"><img class="aligncenter size-large wp-image-6491" src="/uploads/2016/11/DSC06841-1024x683.jpg" alt="dsc06841" width="697" height="465" /></a>

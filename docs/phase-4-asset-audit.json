@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-03-30T20:23:05.571Z",
+  "inputs": {
+    "wxrPath": "/Users/ivanrazinkov/Desktop/NomadicYear/archive/nomadicyear.WordPress.2026-03-24.xml",
+    "uploadsRoot": "/Users/ivanrazinkov/Desktop/NomadicYear/archive/uploads",
+    "newUploadsRoot": "/Users/ivanrazinkov/Desktop/NomadicYear/archive/new_uploads"
+  },
+  "copySummary": {
+    "referencedOriginals": 5665,
+    "copied": 5664,
+    "missingFromUploads": 1,
+    "missingSourceExamples": [
+      "2025/03/mt-sample-background.jpg"
+    ]
+  },
+  "referenceAudit": {
+    "contentFilesScanned": 98,
+    "uniqueAssetsReferenced": 5045,
+    "foundInBoth": 3646,
+    "foundOnlyInUploads": 1399,
+    "foundOnlyInNewUploads": 0,
+    "missingAssets": 0,
+    "missingExamples": []
+  }
+}

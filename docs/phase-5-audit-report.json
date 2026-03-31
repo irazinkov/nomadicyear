@@ -1,0 +1,374 @@
+{
+  "generatedAt": "2026-03-30T22:30:15.126Z",
+  "mode": "strict",
+  "summary": {
+    "distHtmlFiles": 618,
+    "checkedInternalLinks": 11790,
+    "internalLinkIssues": 0,
+    "metadataSamples": 25,
+    "metadataIssues": 0,
+    "sitemapCount": 1,
+    "sitemapUrlCount": 618,
+    "sitemapIssues": 0,
+    "redirectMappingsLoaded": 87,
+    "redirectSamples": 20,
+    "redirectSampleIssues": 0,
+    "headingIssues": 0,
+    "altIssues": 0,
+    "contrastChecks": 7,
+    "contrastFailures": 0,
+    "criticalCount": 0
+  },
+  "internalLinks": {
+    "issues": []
+  },
+  "metadataParity": {
+    "samples": [
+      {
+        "oldPath": "/2015/07/bought-the-car/",
+        "newPath": "/blog/bought-the-car/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/bought-the-car/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2015/07/custom-storage-built/",
+        "newPath": "/blog/custom-storage-built/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/custom-storage-built/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2015/07/dual-battery-install/",
+        "newPath": "/blog/dual-battery-install/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/dual-battery-install/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2015/07/suspension-front-bumper-maintenance-etc/",
+        "newPath": "/blog/suspension-front-bumper-maintenance-etc/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/suspension-front-bumper-maintenance-etc/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2015/09/rv-review-by-luke-capasso/",
+        "newPath": "/blog/rv-review-by-luke-capasso/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/rv-review-by-luke-capasso/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2015/10/when-do-you-guys-leave/",
+        "newPath": "/blog/when-do-you-guys-leave/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/when-do-you-guys-leave/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2015/11/cough-emala-a-k-a-guatemala/",
+        "newPath": "/blog/cough-emala-a-k-a-guatemala/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/cough-emala-a-k-a-guatemala/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2015/11/food-and-the-city-mexican-style/",
+        "newPath": "/blog/food-and-the-city-mexican-style/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/food-and-the-city-mexican-style/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2015/11/mainland-mexico/",
+        "newPath": "/blog/mainland-mexico/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/mainland-mexico/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2015/11/the-couple-that-poops-together-stays-together/",
+        "newPath": "/blog/the-couple-that-poops-together-stays-together/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/the-couple-that-poops-together-stays-together/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2015/11/water-activities/",
+        "newPath": "/blog/water-activities/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/water-activities/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2015/12/566/",
+        "newPath": "/blog/566/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/566/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2015/12/how-i-met-your-monkey-nicaragua-costa-rica/",
+        "newPath": "/blog/how-i-met-your-monkey-nicaragua-costa-rica/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/how-i-met-your-monkey-nicaragua-costa-rica/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2016/01/bienvenidos-a-south-america-colombia/",
+        "newPath": "/blog/bienvenidos-a-south-america-colombia/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/bienvenidos-a-south-america-colombia/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2016/01/cuban-experience-crossing-the-darien-gap/",
+        "newPath": "/blog/cuban-experience-crossing-the-darien-gap/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/cuban-experience-crossing-the-darien-gap/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2016/01/gate-to-south-america-panama/",
+        "newPath": "/blog/gate-to-south-america-panama/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/gate-to-south-america-panama/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2016/01/lima-peru/",
+        "newPath": "/blog/lima-peru/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/lima-peru/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2016/01/new-year-new-hemisphere-ecuador/",
+        "newPath": "/blog/new-year-new-hemisphere-ecuador/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/new-year-new-hemisphere-ecuador/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2016/01/peru-northern-sierra/",
+        "newPath": "/blog/peru-northern-sierra/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/peru-northern-sierra/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2016/02/cuzco-peru/",
+        "newPath": "/blog/cuzco-peru/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/cuzco-peru/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2016/02/eduardo-avaroa-offroading-bolivia/",
+        "newPath": "/blog/eduardo-avaroa-offroading-bolivia/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/eduardo-avaroa-offroading-bolivia/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2016/02/machu-picchu-peru/",
+        "newPath": "/blog/machu-picchu-peru/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/machu-picchu-peru/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2016/02/nazca-lines-peru/",
+        "newPath": "/blog/nazca-lines-peru/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/nazca-lines-peru/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2016/02/salar-de-uyuni-bolivia/",
+        "newPath": "/blog/salar-de-uyuni-bolivia/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/salar-de-uyuni-bolivia/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      },
+      {
+        "oldPath": "/2016/03/carretera-australchile/",
+        "newPath": "/blog/carretera-australchile/",
+        "titlePresent": true,
+        "descriptionPresent": true,
+        "canonicalPresent": true,
+        "canonicalPath": "/blog/carretera-australchile/",
+        "canonicalPathMatchesTarget": true,
+        "titleExactMatch": null,
+        "descriptionExactMatch": null
+      }
+    ],
+    "issues": []
+  },
+  "sitemap": {
+    "issues": []
+  },
+  "redirects": {
+    "issues": []
+  },
+  "accessibility": {
+    "headingIssues": [],
+    "altIssues": [],
+    "contrastResults": [
+      {
+        "id": "body-light",
+        "fg": "#111827",
+        "bg": "#f9fafb",
+        "min": 4.5,
+        "ratio": 16.98,
+        "pass": true
+      },
+      {
+        "id": "body-dark",
+        "fg": "#f3f4f6",
+        "bg": "#0f172a",
+        "min": 4.5,
+        "ratio": 16.22,
+        "pass": true
+      },
+      {
+        "id": "nav-light",
+        "fg": "#374151",
+        "bg": "#f9fafb",
+        "min": 4.5,
+        "ratio": 9.86,
+        "pass": true
+      },
+      {
+        "id": "footer-light",
+        "fg": "#4b5563",
+        "bg": "#f9fafb",
+        "min": 4.5,
+        "ratio": 7.23,
+        "pass": true
+      },
+      {
+        "id": "active-link-light",
+        "fg": "#115e59",
+        "bg": "#f9fafb",
+        "min": 4.5,
+        "ratio": 7.26,
+        "pass": true
+      },
+      {
+        "id": "nav-dark",
+        "fg": "#d1d5db",
+        "bg": "#0f172a",
+        "min": 4.5,
+        "ratio": 12.12,
+        "pass": true
+      },
+      {
+        "id": "active-link-dark",
+        "fg": "#5eead4",
+        "bg": "#0f172a",
+        "min": 4.5,
+        "ratio": 12.07,
+        "pass": true
+      }
+    ],
+    "contrastFailures": []
+  }
+}

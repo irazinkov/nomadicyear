@@ -18,7 +18,18 @@
     "phase0:redirect-draft": "node scripts/phase0/generate-redirect-draft.mjs",
     "phase2:analyze-wxr": "node scripts/migrate/analyze-wxr.mjs",
     "phase2:migrate-wxr": "node scripts/migrate/convert-wxr-to-markdown.mjs",
-    "phase3:migrate-pages": "node scripts/migrate/convert-wxr-pages-to-markdown.mjs"
+    "phase3:migrate-pages": "node scripts/migrate/convert-wxr-pages-to-markdown.mjs",
+    "phase4:prepare-assets": "node scripts/phase4/prepare-new-uploads-and-audit.mjs",
+    "phase4:fix-alt": "node scripts/phase4/fix-missing-alt-text.mjs",
+    "phase4:sync-public": "node scripts/phase4/sync-referenced-assets-to-public.mjs",
+    "phase4:sync-public:strict": "node scripts/phase4/sync-referenced-assets-to-public.mjs --fail-on-missing",
+    "phase4:validate": "node scripts/phase4/validate-phase4.mjs",
+    "phase4:validate:strict-alt": "node scripts/phase4/validate-phase4.mjs --fail-on-missing-alt",
+    "phase4:measure": "node scripts/phase4/measure-build-metrics.mjs --fail-on-budget",
+    "phase4:measure:skip-build": "node scripts/phase4/measure-build-metrics.mjs --skip-build",
+    "phase5:redirects": "node scripts/phase5/generate-cloudflare-redirects.mjs",
+    "phase5:audit": "node scripts/phase5/run-phase5-audit.mjs",
+    "phase5:audit:strict": "node scripts/phase5/run-phase5-audit.mjs --fail-on-critical"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.2",

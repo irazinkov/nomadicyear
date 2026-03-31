@@ -24,7 +24,7 @@ legacyUrl: "http://nomadicyear.com/2015/12/how-i-met-your-monkey-nicaragua-costa
 status: "publish"
 draft: false
 ---
-<h3>Nicaragua</h3>
+<h2>Nicaragua</h2>
 Where should we start for this post? Hm, i think the welcome sign to Nicaragua is a good start. Although, when we were there we felt anything BUT welcome.
 
 So after spending an hour in a line to get our exit stamp from Honduras, we were happy to get to the Nicaraguan side of the border, hoping that things would be better, more organized here.
@@ -167,8 +167,8 @@ Views on Nicaragua on our way South.
 Wind turbine installations on the shore of Lake Nicaragua. This is almost at the border with Costa Rica.
 
 That is it for Nicaragua. Sorry we couldn't explore you more. Thanks for cheap and clean hotels, great food, awesome people and welcoming country.  Aaaaand free healthcare!
-<h3></h3>
-<h3>Costa Rica</h3>
+<h2></h2>
+<h2>Costa Rica</h2>
 It is interesting to see how quickly things change from one country to the next.
 
 At the border crossing into Costa Rica the immigration officer sat in an air conditioned room and used a computer to scan our passports.

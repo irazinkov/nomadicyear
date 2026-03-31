@@ -7,16 +7,58 @@ import { SITE_TITLE } from "../consts";
   title={`About | ${SITE_TITLE}`}
   description="About the Nomadic Year travel archive."
 >
-  <article class="prose prose-lg dark:prose-invert mx-auto">
-    <h1>About</h1>
-    <p>
-      Nomadic Year is a ten-year travel archive focused on field notes, routes,
-      and photography. This project is currently being migrated from WordPress
-      to Astro with a minimalist, text-first reading experience.
-    </p>
-    <p>
-      As migration progresses, older entries are being normalized, typed, and
-      prepared for faster search and cleaner long-term maintenance.
-    </p>
+  <article class="mx-auto max-w-none ny-preparation-page">
+    <h1 class="sr-only">About Us</h1>
+
+    <section class="ny-prep-hero">
+      <p class="ny-prep-hero__kicker">About</p>
+      <h2>Who We Are</h2>
+      <p>
+        We are Ivan and Hyein, originally from Russia and South Korea, living
+        out of our Toyota Land Cruiser while driving around the world.
+      </p>
+    </section>
+
+    <section class="ny-prep-section">
+      <div class="ny-prep-card">
+        <div class="ny-prep-card__media">
+          <img
+            class="ny-prep-card__image"
+            src="/uploads/2016/04/about-us-photo-1024x683.jpg"
+            srcset="/uploads/2016/04/about-us-photo-300x200.jpg 300w, /uploads/2016/04/about-us-photo-640x480.jpg 640w, /uploads/2016/04/about-us-photo-1024x683.jpg 1024w, /uploads/2016/04/about-us-photo.jpg 1500w"
+            sizes="(max-width: 768px) 100vw, 900px"
+            alt="Ivan and Hyein standing with their Land Cruiser"
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+          />
+        </div>
+
+        <p>So i guess you want to know who we are.</p>
+        <p>
+          We are Ivan and Hyein, originally from Russia and South Korea, but
+          live in California now.
+        </p>
+        <p>
+          Live is an overstatement, since now we actually live in our lovely
+          Toyota Land Cruiser 100 as we are on a quest to drive around the
+          world.
+        </p>
+        <p>
+          We started in San Diego, California and plan to drive through Central
+          and South America. Afterwards we will ship the car to Korea, and
+          while our home on wheels enjoys a cruise we will head to South East
+          Asia to check out the sights as backpackers.
+        </p>
+        <p>
+          Once we get the car in Korea, we will take a ferry to Vladivostok and
+          drive west through Russia, Mongolia, the Stans and onto Europe.
+        </p>
+        <p>
+          The plan was to do this in 1 year at about $100/day. Lets see if we
+          can!
+        </p>
+      </div>
+    </section>
   </article>
 </Layout>

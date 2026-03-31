@@ -27,7 +27,7 @@ I’m sure you have all looked at the world map at least once in your life and t
 Speaking of number one… the first thing we did in Chile, like in all the other countries, is going through the immigration and customs. And guess, what? They immigration officer didn’t even ask where we came from, neither did he look for a Bolivian exit stamp, which was non-existent in the US passport. Instead he just stamped it and told us to go to the next window for customs.
 
 At the customs it is a completely different story, here they searched our car more thoroughly than ever before and took all our fruits and eggs. Damn it, i had a nice watermelon saved for this heat!
-<h3>San Pedro de Atacama</h3>
+<h2>San Pedro de Atacama</h2>
 <a href="/uploads/2016/03/DSC04259.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04259" src="/uploads/2016/03/DSC04259_thumb.jpg" alt="DSC04259" width="800" height="533" border="0" /></a>
 
 The first town that we got to see in Chile is San Pedro de Atacama, apparently one of the more touristy places. The first surprise was the price of the accommodation, at $10 per person…we haven’t seen these prices since we left California. Well, a few times in Mexico we paid $20 for camping. Oh yeah thats $10 to camp. Anyway, not very important, just a bit of a shock to us.
@@ -75,7 +75,7 @@ I’m not sure why the car looks tilted in this photo.
 Thats the clean Ivan climbing down in the morning.
 
 2 days of driving to get you out of the desert and into the Santiago region of the country.
-<h3>Vina del Mar</h3>
+<h2>Vina del Mar</h2>
 <a href="/uploads/2016/03/DSC04277.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04277" src="/uploads/2016/03/DSC04277_thumb.jpg" alt="DSC04277" width="800" height="533" border="0" /></a>
 
 After the desert we made our way to the coast, just west of Santiago.
@@ -107,7 +107,7 @@ You can watch the big ships unloading right in front of you. You could also take
 <a href="/uploads/2016/03/DSC04294.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04294" src="/uploads/2016/03/DSC04294_thumb.jpg" alt="DSC04294" width="800" height="533" border="0" /></a>
 
 The city is able to pull of the old architecture and the new graffiti without it clashing too much. The hipster bands playing in the street only add to the feel of an older city that can live it up in the 21st century.
-<h3>Santiago</h3>
+<h2>Santiago</h2>
 The capital city of Chile and just an hour away from the coast it also the second largest city that we visited in South America, Lima is a bit bigger (<a href="https://en.wikipedia.org/wiki/List_of_cities_in_South_America">Wiki – list of cities in South America</a>). While not the largest, Santiago definitely claims the first place as the most beautiful background for cityscapes. When the weather cooperates and the rain clears the ever-present smog, you can see beautiful snow-capped mountain surrounding the city from the East.
 
 <a href="/uploads/2016/03/santiago-cityscape.png"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="santiago cityscape" src="/uploads/2016/03/santiago-cityscape_thumb.png" alt="santiago cityscape" width="800" height="383" border="0" /></a>
@@ -151,7 +151,7 @@ After the chaos, dirt, smells and general riff raff of all the previous countrie
 <a href="/uploads/2016/03/DSC04316.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04316" src="/uploads/2016/03/DSC04316_thumb.jpg" alt="DSC04316" width="800" height="533" border="0" /></a>
 
 Walking back to our home we were lucky enough to see a short Tango performance.
-<h3>Concepcion</h3>
+<h2>Concepcion</h2>
 <a href="/uploads/2016/03/Juanfaby.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Juanfaby" src="/uploads/2016/03/Juanfaby_thumb.jpg" alt="Juanfaby" width="800" height="452" border="0" /></a>
 
 Our friends Faby and Juan are from a town called Concepcion, and are our primary source of trustworthy information about Chile. I remember almost year and a half ago sitting in our kitchen back in San Diego talking about Chile, all the beautiful parks and great wine. We decided that we could not miss visiting the city of our friends and decided to drop by Concepcion.
@@ -171,7 +171,7 @@ Not our typical breakfast layout, since we are making korean soup, but close eno
 <a href="/uploads/2016/03/DSC04346.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04346" src="/uploads/2016/03/DSC04346_thumb.jpg" alt="DSC04346" width="800" height="533" border="0" /></a>
 
 Aaaah… a local drink you can buy everywhere in Northern Chile – Mote con huesillos. A sweet drink made with whole wheat, peaches and sugar/honey. Served cold. I didn’t expect that i would like whole wheat…but it had a pleasant taste and very nice texture. Sort of like the chilean version of Boba tea.
-<h3>Villarica</h3>
+<h2>Villarica</h2>
 <a href="/uploads/2016/03/DSC04348.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04348" src="/uploads/2016/03/DSC04348_thumb.jpg" alt="DSC04348" width="800" height="533" border="0" /></a>
 
 We drove and drove and drove – our main destination being the famous Carretera Austral, a road that starts in Puerto Montt and winds its way through beautiful nature in the South of Chile. We couldn’t get from Concepcion to Puerto Montt in one day so, we had to stop in a little village on the side of the lake, with a volcano in the background.
@@ -209,7 +209,7 @@ A police officer came by and told us that we are okay to camp, but the people in
 <a href="/uploads/2016/03/DSC04386.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04386" src="/uploads/2016/03/DSC04386_thumb.jpg" alt="DSC04386" width="800" height="533" border="0" /></a>
 
 When we went to sleep we were the only people in this little park. In the morning I jokingly mentioned that the circus arrived overnight. The came over in the morning to talk to us and turned out they were really a travelling circus troupe going to San Pedro de Atacama.
-<h3>Tour of the car</h3>
+<h2>Tour of the car</h2>
 <a href="/uploads/2016/03/DSC04366.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04366" src="/uploads/2016/03/DSC04366_thumb.jpg" alt="DSC04366" width="800" height="533" border="0" /></a>
 
 We will digress from our enthralling trip and talk a little about the car. Why now, in the middle of Chile? No reason, we IS adults…we do what we want!

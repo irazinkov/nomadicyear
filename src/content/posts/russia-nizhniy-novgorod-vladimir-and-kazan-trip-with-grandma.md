@@ -40,7 +40,7 @@ I might have overdone it with the driving in a single day from Miass to Kazan. T
 Actually the Russian roads, a butt of a joke for many centuries, have finally risen to a decent standard. The road surface is good, the only downside is that most of the time its only a single lane in each direction. Before we crossed the Ural mountains this was not a problem, but here in the European part of Russia the truck traffic is a hundred, no, a thousand times worse.
 
 For those 500 miles you are not just cruising down some empty road in the Southwest of United States, here you are battling for space as you heart rate goes up every time you try to pass a big rig.
-<h3>Nizhniy Novgorod (GPS: 56.32857, 44.003505)</h3>
+<h2>Nizhniy Novgorod (GPS: 56.32857, 44.003505)</h2>
 Not wanting to repeat the same mistakes we drove only a little bit to visit the great Nizniy Novgorod. There are two cities in Russia called Novgorod (means <em>Newtown), </em>one somewhere North of Moscow and this one. People usually and lovingly refer to this Novgorod as just "Nizhniy", meaning the <em>lower one.</em>
 
 <a href="/uploads/2016/10/DSC3145.jpg"><img class="aligncenter size-large wp-image-6340" src="/uploads/2016/10/DSC3145-1024x683.jpg" alt="_dsc3145" width="697" height="465" /></a>
@@ -60,7 +60,7 @@ Unfortunately, the weather was already starting to show its true colors and afte
 <a href="/uploads/2016/10/DSC3168.jpg"><img class="aligncenter size-large wp-image-6339" src="/uploads/2016/10/DSC3168-1024x683.jpg" alt="_dsc3168" width="697" height="465" /></a>
 
 Only to discover this beautiful walking street, called Bolshaya Pokrovskaya, there is no regular car traffic on it. The street is lined with shops, restaurants and reminds me of Seoul very much, except its much colder and about a quarter of the people. The food is also a bit different, but the prices are much better. Even though we are getting closer to Moscow, in Nizhniy Novgorod you can still enjoy a beer for a couple of dollars. We liked it so much here that we stayed an extra day, just to relax, drink beer and walk around. If you are get a chance, drive through the city and stop for a night...its one of the more pleasant cities we visited.
-<h3>Vladimir (GPS: 56.128889, 40.407521)</h3>
+<h2>Vladimir (GPS: 56.128889, 40.407521)</h2>
 Only a few hours from Nizhniy Novgorod, it was nice to not have to spend a whole day stuck between trucks. Here we are meeting with an old family friend Gregory (Grisha in Russian) and his wife Olya.
 
 <a href="/uploads/2016/10/DSC3223_2.jpg"><img class="aligncenter wp-image-6422" src="/uploads/2016/10/DSC3223_2.jpg" alt="_dsc3223_2" width="697" height="852" /></a>
@@ -118,7 +118,7 @@ In the evening we gather the troops, Grisha invited his brother with his wife an
 <a href="/uploads/2016/09/DSC3330.jpg"><img class="aligncenter size-large wp-image-6312" src="/uploads/2016/09/DSC3330-1024x683.jpg" alt="_dsc3330" width="697" height="465" /></a>
 
 Loaded with an extra passenger....something which we haven't done since Peru, we sat out towards Moscow with my dad. Thanks to Grisha and Olya for the present and warm welcome!
-<h3>Kazan (GPS: 55.782354, 49.124225)</h3>
+<h2>Kazan (GPS: 55.782354, 49.124225)</h2>
 My great-grandmother, Nina, is from a very large family in Kazan. She was born in 1914, youngest out of 8 siblings. Although all her brothers and sisters have past, she is still alive an well in Moscow, at a young age of 102. Needless to say that we have a lot of relatives still living in Kazan and i would consider it THE family town for my whole side of mom's family.
 
 This all should explain why we skipped ahead to Moscow so that we can meet up with my grandmother and go visit Kazan together.

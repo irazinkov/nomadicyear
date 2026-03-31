@@ -25,7 +25,7 @@ Peru - whenever you hear it, you think of people in native clothes, llamas, Mach
 People are drawn to the allure of this place and I as usual have no idea what to expect from this place, except for Machu Picchu.
 
 <a href="/uploads/2016/01/DSC02883.jpg" rel="attachment wp-att-1431"><img class="aligncenter size-full wp-image-1431" src="/uploads/2016/01/DSC02883.jpg" alt="DSC02883" width="800" height="533" /></a>
-<h3>Border to San Ignacio</h3>
+<h2>Border to San Ignacio</h2>
 We have grown a bit tired of the easy life on the PanAmerican Highway, so we decided to "kick it up a notch" and go a little bit further east.
 
 And for the most part, it was a pleasant drive through the green hills and valleys of Ecuador. But on the last stretch of the road, leading to the border with Peru, the pavement disappeared.
@@ -124,7 +124,7 @@ And thats only half of the trip.
 <a href="/uploads/2016/01/DSC02918.jpg" rel="attachment wp-att-1453"><img class="aligncenter size-full wp-image-1453" src="/uploads/2016/01/DSC02918.jpg" alt="DSC02918" width="800" height="533" /></a>
 
 Now we have to climb out of this valley. I'll save you the pain, took another 3 hours. And remember, that its a single lane...but the traffic goes both ways. If you get unlucky, you'll need to back up on this hellish road to a place big enough to let the other cars squeeze through. We did get unlucky a couple of times, but in relatively good places.
-<h3>Celendin</h3>
+<h2>Celendin</h2>
 <a href="/uploads/2016/01/DSC02919.jpg" rel="attachment wp-att-1454"><img class="aligncenter size-full wp-image-1454" src="/uploads/2016/01/DSC02919.jpg" alt="DSC02919" width="800" height="533" /></a>
 
 Just beyond that last mountain lies a valley with a beautiful little city - Celendin. Fine, you caught me, the city is nothing special. But after that brutal drive, I would have been happy to see a single house with a flat piece of land to park our car for the night.

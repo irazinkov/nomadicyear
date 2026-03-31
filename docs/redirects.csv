@@ -71,7 +71,8 @@ old_url,new_url,status_code,priority,notes
 /2017/01/india-stuck-in-mumbai-with-no-money/,/blog/india-stuck-in-mumbai-with-no-money/,301,high,legacy date-based post URL
 /2017/01/india-udaipur-when-the-river-lights-up/,/blog/india-udaipur-when-the-river-lights-up/,301,high,legacy date-based post URL
 /2017/02/india-jaisalmer-the-golden-city-of-rajasthan-and-camels/,/blog/india-jaisalmer-the-golden-city-of-rajasthan-and-camels/,301,high,legacy date-based post URL
-/2024/11/russia-moscow/,/blog/russia-moscow/,301,high,legacy date-based post URL
+/2024/11/russia-moscow/,/blog/russia-moscow-family-and-friends/,301,high,legacy empty placeholder consolidated to first Moscow story
+/blog/russia-moscow/,/blog/russia-moscow-family-and-friends/,301,medium,remove legacy migrated placeholder slug
 /2024/11/russia-nizhniy-novgorod-and-vladimir/,/blog/russia-nizhniy-novgorod-and-vladimir/,301,high,legacy date-based post URL
 /about-us/,/about/,301,medium,legacy about page slug normalization
 /blank/,/about/,301,low,legacy placeholder page consolidated to about

@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-03-30T21:05:07.714Z",
+  "summary": {
+    "filesScanned": 87,
+    "filesChanged": 3,
+    "altAttributesFixed": 120
+  },
+  "changedFiles": [
+    {
+      "file": "src/content/posts/india-jaisalmer-the-golden-city-of-rajasthan-and-camels.md",
+      "fixedCount": 39
+    },
+    {
+      "file": "src/content/posts/india-stuck-in-mumbai-with-no-money.md",
+      "fixedCount": 52
+    },
+    {
+      "file": "src/content/posts/india-udaipur-when-the-river-lights-up.md",
+      "fixedCount": 29
+    }
+  ]
+}

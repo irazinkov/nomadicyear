@@ -1,68 +1,128 @@
 ---
 import { getCollection } from "astro:content";
+import PostArchiveCard from "../components/PostArchiveCard.astro";
 import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
-import FormattedDate from "../components/FormattedDate.astro";
 import Layout from "../layouts/Layout.astro";
-import { getPostUrl, sortPostsByDateDesc } from "../utils/posts";
+import { sortPostsByDateDesc } from "../utils/posts";
+
+const INITIAL_VISIBLE = 12;
+const BATCH_SIZE = 8;
 
 const posts = (await getCollection("posts"))
   .filter((post) => !post.data.draft)
   .sort(sortPostsByDateDesc);
-
-const postsByYear = posts.reduce<Record<string, typeof posts>>((acc, post) => {
-  const year = String(post.data.pubDate.getFullYear());
-  if (!acc[year]) {
-    acc[year] = [];
-  }
-  acc[year].push(post);
-  return acc;
-}, {});
-
-const years = Object.keys(postsByYear).sort((a, b) => Number(b) - Number(a));
 ---
 
 <Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
-  <section class="space-y-8">
+  <section class="space-y-6">
     <div class="space-y-2">
       <h1 class="text-3xl font-semibold text-gray-900 dark:text-white">
-        Travel Archive
+        Nomadic Year Blog
       </h1>
       <p class="text-gray-600 dark:text-gray-400">
-        Ten years of notes, routes, border crossings, and long train rides.
+        Ten years of travel stories, now as an endless card feed.
       </p>
     </div>
 
-    {
-      years.map((year) => (
-        <section class="space-y-4" aria-label={`Posts from ${year}`}>
-          <h2 class="text-xl font-semibold text-gray-900 dark:text-gray-100">
-            {year}
-          </h2>
-          <ul class="space-y-2">
-            {postsByYear[year].map((post) => (
-              <li>
-                <a
-                  href={getPostUrl(post)}
-                  class="flex items-baseline gap-4 rounded px-2 py-1 transition hover:bg-gray-100 dark:hover:bg-gray-800"
-                >
-                  <span class="w-16 shrink-0 text-sm text-gray-500 dark:text-gray-400">
-                    <FormattedDate
-                      date={post.data.pubDate}
-                      includeYear={false}
-                    />
-                  </span>
-                  <span class="font-semibold text-gray-900 dark:text-gray-100">
-                    {post.data.title}
-                  </span>
-                </a>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ))
-    }
-    <div class="pt-2">
-      <a href="/blog/" class="text-sm font-medium">Browse full archive →</a>
+    <ul
+      id="ny-home-feed"
+      class="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3"
+      data-initial-visible={INITIAL_VISIBLE}
+      data-batch-size={BATCH_SIZE}
+    >
+      {
+        posts.map((post, index) => (
+          <li class:list={["h-full", index >= INITIAL_VISIBLE && "hidden"]} data-feed-item>
+            <PostArchiveCard post={post} />
+          </li>
+        ))
+      }
+    </ul>
+
+    <div id="ny-feed-sentinel" class="h-6" aria-hidden="true"></div>
+
+    <div class="flex justify-center pb-6">
+      <button
+        id="ny-load-more"
+        type="button"
+        class="rounded-md border border-gray-300 px-4 py-2 text-sm font-medium dark:border-gray-700"
+      >
+        Load More
+      </button>
     </div>
+
+    <noscript>
+      <style>
+        #ny-home-feed [data-feed-item] {
+          display: list-item !important;
+        }
+        #ny-load-more {
+          display: none !important;
+        }
+      </style>
+    </noscript>
   </section>
 </Layout>
+
+<script is:inline>
+  (() => {
+    if (typeof window === "undefined") return;
+
+    const feed = document.getElementById("ny-home-feed");
+    const sentinel = document.getElementById("ny-feed-sentinel");
+    const loadMoreButton = document.getElementById("ny-load-more");
+
+    if (!(feed instanceof HTMLUListElement)) return;
+    const items = [...feed.querySelectorAll("[data-feed-item]")];
+    if (items.length === 0) return;
+
+    const initialVisible = Number(feed.dataset.initialVisible || "12");
+    const batchSize = Number(feed.dataset.batchSize || "8");
+    let visibleCount = Math.max(0, Math.min(initialVisible, items.length));
+
+    const updateControls = () => {
+      const hasMore = visibleCount < items.length;
+      if (loadMoreButton instanceof HTMLButtonElement) {
+        loadMoreButton.hidden = !hasMore;
+      }
+      if (sentinel instanceof HTMLElement) {
+        sentinel.hidden = !hasMore;
+      }
+    };
+
+    const revealNextBatch = () => {
+      if (visibleCount >= items.length) {
+        updateControls();
+        return;
+      }
+
+      const nextVisible = Math.min(visibleCount + batchSize, items.length);
+      for (let index = visibleCount; index < nextVisible; index += 1) {
+        items[index]?.classList.remove("hidden");
+      }
+      visibleCount = nextVisible;
+      updateControls();
+    };
+
+    if (loadMoreButton instanceof HTMLButtonElement) {
+      loadMoreButton.addEventListener("click", revealNextBatch);
+    }
+
+    updateControls();
+
+    if (!(sentinel instanceof HTMLElement)) return;
+    if (!("IntersectionObserver" in window)) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (!entry.isIntersecting) continue;
+          revealNextBatch();
+        }
+      },
+      { rootMargin: "300px 0px 300px 0px" },
+    );
+
+    observer.observe(sentinel);
+  })();
+</script>

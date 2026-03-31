@@ -28,7 +28,7 @@ I know, i know its almost the same in the states. But when we were leaving it wa
 <a href="/uploads/2016/01/DSC02705.jpg" rel="attachment wp-att-1320"><img class="aligncenter size-full wp-image-1320" src="/uploads/2016/01/DSC02705.jpg" alt="DSC02705" width="800" height="533" /></a>
 
 Since no one wants to fill up with the "expensive" Colombian gas, there are lines at the gas station right after the border.
-<h3>Otavalo</h3>
+<h2>Otavalo</h2>
 The city itself is nothing special but it claims to have the largest outdoor market in South America.
 
 We like markets...lets go!
@@ -56,7 +56,7 @@ Don't know where to look? Look at the LATITUDE... thats 0.02 degrees south of th
 WOOOHOOOOOOH!!!
 
 This is a first for both of us, neither one of us has stepped a foot in the Southern Hemisphere. This trip has had a lot of "first" for both of us.
-<h3>Quito</h3>
+<h2>Quito</h2>
 Quito - the highest capital in the world. And NOT the largest city in Ecuador.
 
 Driving through the country and into the capital you can't help but notice that Ecuador is nice.
@@ -134,7 +134,7 @@ I could resist myself :)
 <a href="/uploads/2016/01/DSC02743.jpg" rel="attachment wp-att-1346"><img class="aligncenter size-full wp-image-1346" src="/uploads/2016/01/DSC02743.jpg" alt="DSC02743" width="800" height="533" /></a>
 
 I'm liking this new trend of beer photos. I'm getting thirsty for one as i write.
-<h3>Banos</h3>
+<h2>Banos</h2>
 We spent the night in Quito sleeping in a parking lot of the central park. And at some ungodly hour (~4am) people started parking there and going for a jog, making a general ruckus of things.
 
 Luckily it started to rain so all these healthy exercise people got scared off and left, giving us a few more hours of calm sleep.
@@ -285,7 +285,7 @@ Pitahaya or dragon fruit, you are most likely familiar with the pink version of 
 The inside is similar in texture to a kiwi and is best eaten with a spoon. We tried to bargain at the markets about the prices. But were told that this is an "exotic" fruit.
 
 It is so funny to hear such things in places that we ourselves consider exotic.
-<h3>Vilcabamba</h3>
+<h2>Vilcabamba</h2>
 Just a little village on the way to Peru. We were tired of driving and sleeping in parking lots, so we decided to stay there a couple of nights in a nice hostel.
 
 The first night we tried to make dinner, when it was dark and instantly regretted it.
@@ -305,7 +305,7 @@ I couldn't open it without destroying the bug.
 <a href="/uploads/2016/01/DSC02879.jpg" rel="attachment wp-att-1418"><img class="aligncenter size-full wp-image-1418" src="/uploads/2016/01/DSC02879.jpg" alt="DSC02879" width="800" height="533" /></a>
 
 After 20 minutes i finally managed to pry him off the carpet and safely transport far away from the camp.
-<h3>Summary of Ecuador</h3>
+<h2>Summary of Ecuador</h2>
 <ol>
 	<li>Clean and beautiful country</li>
 	<li>US currency, so you dont have to use your brain to calculate prices</li>

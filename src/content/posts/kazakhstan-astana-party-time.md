@@ -172,7 +172,7 @@ We hung around the club until well into the night, dancing, smoking hookah and m
 So many times on this trip you meet people, get to know them and make friends. Most time, even though we want to see each other again, life takes us in different directions. But this day in Astana we were lucky that life brought us closer again to share these few days. I hope that in the future life will be kind to us and let us see each other again.
 
 Thanks to Aliya, Medet, Torehan, Akbope and Marzhan for an unforgettable time in Astana. We miss you already!
-<h3>Borovoe (Burabay GPS 53.082995, 70.308597)</h3>
+<h2>Borovoe (Burabay GPS 53.082995, 70.308597)</h2>
 <a href="/uploads/2016/09/DSC2997.jpg"><img class="aligncenter size-large wp-image-6193" src="/uploads/2016/09/DSC2997-1024x683.jpg" alt="_dsc2997" width="697" height="465" /></a>
 
 Everyone in Kazakhstan kept mentioning this place called Borovoe at that we absolutely must visit it. People didn't believe our stories of beautiful Kyrgyzstan and said that we biased because we haven't seen Borovoe yet. After driving for a thousand kilometers through a wasteland of steppe, it was honestly very hard to believe that anything beautiful could exist in this part of Kazakhstan.

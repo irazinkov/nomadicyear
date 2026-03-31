@@ -33,9 +33,9 @@ draft: false
 <div id="google_translate_element"></div>
 We learned a trick to passing the border with minimal hassle. During a usual border process the passengers go through the immigration and then wait in a separate area while the customs officials inspect the car. This is what we do now, Hyein just follows me back to the car and sticks around. The officers tell her to go sit on a bench somewhere, when i tell them that at this point THEY have to make a decision. If they need to open the tent and do a thorough search, she stays because i cannot do this by myself.
 Usually, they look quizzically at us....how dare we give them an ultimatum?!....and then tell her to go sit on a bench while we finish the inspection in less than 5 minutes without opening the tent. 4 out of 5 times works every time!
-<h3><img class="aligncenter size-large wp-image-6264" src="/uploads/2016/09/DSC06592-1024x683.jpg" alt="dsc06592" width="697" height="465" /></h3>
+<h2><img class="aligncenter size-large wp-image-6264" src="/uploads/2016/09/DSC06592-1024x683.jpg" alt="dsc06592" width="697" height="465" /></h2>
 Yeah definitely out of the step and into the lakes and forests. The whole night we were driving and the visibility was getting worse and worse. I thought it was mostly because of the misty dirt from the road and other vehicles. In the morning we saw that our white tent has become a mass burial ground for mosquitoes. Just for the record...this is the most bugs we have collected in just a few hours of driving. The only other time i have seen it worse, was during a butterfly hatching event during spring in Alabama. Back then we needed to stop every 30 minute to wash our windshield by hand.
-<h3>Miass (GPS 55.066107, 60.104446)</h3>
+<h2>Miass (GPS 55.066107, 60.104446)</h2>
 &nbsp;
 
 <a href="/uploads/2016/09/Capture1-1.jpg"><img class="aligncenter size-large wp-image-6263" src="/uploads/2016/09/Capture1-1-1024x634.jpg" alt="capture1" width="697" height="432" /></a>

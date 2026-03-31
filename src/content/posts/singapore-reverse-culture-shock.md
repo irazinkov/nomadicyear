@@ -157,7 +157,7 @@ Instead went to try some "traditional" Singaporean food at Song Fa Bak Kut Teh. 
 We tried to eat our food as slowly as possible, but it was just too tasty. And perfect if you are a tad hungover. Without any food on the table, the waiting staff kindly shooed us out of the place. I think Gordon Ramsey would be proud of this place - clean, efficient, great food, good service! I approve.
 
 <a href="/uploads/2016/05/Singapore-05861.jpg"><img class="aligncenter size-large wp-image-3361" src="/uploads/2016/05/Singapore-05861-1024x683.jpg" alt="singapore, strict, laws, durian, fines, subway, mrt" width="697" height="465" /></a>
-<h3>History Part - Must Read!</h3>
+<h2>History Part - Must Read!</h2>
 We will not take a short break from monotony of our everyday lives and talk about REAL Singapore.
 
 Singapore is an island city-state, the only one in the world. It has no natural resources, except for durian (a stinky fruit). From 1800's to 1960's it was a British colony and only in the last 50 years has been completely independent. So how is it that they have the World's 3rd highest GDP of $82,000<sup><a href="https://en.wikipedia.org/wiki/Singapore">1</a></sup>?

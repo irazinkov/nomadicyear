@@ -2,6 +2,7 @@
 import { Image } from "astro:assets";
 import type { CollectionEntry } from "astro:content";
 import FormattedDate from "../components/FormattedDate.astro";
+import { getUploadResponsiveSources } from "../utils/uploadImage";
 import { formatTaxonomyLabel } from "../utils/posts";
 import Layout from "./Layout.astro";
 
@@ -25,10 +26,14 @@ const {
 const hasHeroImage = Boolean(heroImage);
 const localHeroImage = typeof heroImage === "string" ? undefined : heroImage;
 const remoteHeroImage = typeof heroImage === "string" ? heroImage : undefined;
+const remoteHeroResponsiveSources =
+  remoteHeroImage && remoteHeroImage.startsWith("/uploads/")
+    ? getUploadResponsiveSources(remoteHeroImage)
+    : null;
 ---
 
 <Layout title={title} description={description}>
-  <article class="mx-auto max-w-3xl">
+  <article class="mx-auto max-w-3xl" data-lightbox-root>
     <header class="space-y-4 pb-8">
       <h1
         class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white"
@@ -104,18 +109,21 @@ const remoteHeroImage = typeof heroImage === "string" ? heroImage : undefined;
             />
           ) : (
             <img
-              src={remoteHeroImage}
+              src={remoteHeroResponsiveSources?.src ?? remoteHeroImage}
               alt={heroImageAlt ?? title}
               class="w-full rounded-lg shadow-md"
-              loading="lazy"
+              srcset={remoteHeroResponsiveSources?.srcset}
+              sizes={remoteHeroResponsiveSources?.sizes}
+              loading="eager"
               decoding="async"
+              fetchpriority="high"
             />
           )}
         </div>
       )
     }
 
-    <div class="prose prose-lg mx-auto dark:prose-invert">
+    <div class="ny-prose-readable prose prose-lg mx-auto max-w-none prose-img:w-full prose-img:max-w-full prose-img:rounded-xl prose-img:shadow-md dark:prose-invert">
       <slot />
     </div>
   </article>
