@@ -25,3 +25,11 @@ pnpm-debug.log*
 
 # editor settings
 .vscode/
+
+# local migration archives / large media (keep out of git)
+.worktrees/
+archive/uploads/
+archive/new_uploads/
+archive/nomadicyear.WordPress.2026-03-24.xml
+public/uploads/
+zip images backup/
