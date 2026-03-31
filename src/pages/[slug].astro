@@ -1,6 +1,7 @@
 ---
-import { type CollectionEntry, getCollection, render } from "astro:content";
+import { type CollectionEntry, getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
+import { rewriteResponsiveUploadImgTags } from "../plugins/rehype-responsive-uploads.mjs";
 
 export async function getStaticPaths() {
   const pages = (await getCollection("pages")).filter(
@@ -15,12 +16,148 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<"pages">;
 
 const page: Props = Astro.props;
-const { Content } = await render(page);
+const pageSlug = page.data.slug ?? page.id;
+const isVideoPage = pageSlug === "video";
+const isPreparationPage = pageSlug === "preparation";
+const isTravelTipsPage = pageSlug === "travel-tips";
+const isPeopleWhoHelpedPage = pageSlug === "sponsors-and-credits";
+const isCustomHeroPage =
+  isPreparationPage || isTravelTipsPage || isPeopleWhoHelpedPage;
+const contentHtml = rewriteResponsiveUploadImgTags(page.rendered?.html ?? "");
 ---
 
 <Layout title={page.data.title} description={page.data.description}>
-  <article class="prose prose-lg mx-auto dark:prose-invert">
-    <h1>{page.data.title}</h1>
-    <Content />
+  <article
+    class:list={[
+      isPeopleWhoHelpedPage
+        ? "mx-auto max-w-3xl ny-credits-page"
+        : isPreparationPage || isTravelTipsPage
+        ? "mx-auto max-w-none ny-preparation-page"
+        : "prose prose-lg mx-auto max-w-none prose-img:rounded-xl prose-img:shadow-md dark:prose-invert",
+      isVideoPage && "ny-video-gallery",
+    ]}
+    data-lightbox-root
+    data-video-gallery={isVideoPage ? "true" : undefined}
+  >
+    <h1 class:list={[isCustomHeroPage && "sr-only"]}>{page.data.title}</h1>
+    <Fragment set:html={contentHtml} />
   </article>
 </Layout>
+
+{
+  isVideoPage && (
+    <script is:inline>
+      {`(() => {
+  if (typeof window === "undefined") return;
+
+  const root = document.querySelector('[data-video-gallery="true"]');
+  if (!(root instanceof HTMLElement)) return;
+
+  const embeds = root.querySelectorAll("iframe[src]");
+  if (embeds.length === 0) return;
+
+  const parseProvider = (src) => {
+    const youtubeMatch = src.match(/youtube\\.com\\/embed\\/([^?&/]+)/i);
+    if (youtubeMatch?.[1]) return { provider: "youtube", id: youtubeMatch[1] };
+
+    const shortYoutubeMatch = src.match(/youtu\\.be\\/([^?&/]+)/i);
+    if (shortYoutubeMatch?.[1]) return { provider: "youtube", id: shortYoutubeMatch[1] };
+
+    const vimeoMatch = src.match(/player\\.vimeo\\.com\\/video\\/(\\d+)/i);
+    if (vimeoMatch?.[1]) return { provider: "vimeo", id: vimeoMatch[1] };
+
+    return { provider: "unknown", id: null };
+  };
+
+  const withCleanParams = (rawSrc, provider, autoplay) => {
+    let url;
+    try {
+      url = new URL(rawSrc, window.location.origin);
+    } catch {
+      return rawSrc;
+    }
+
+    if (provider === "vimeo") {
+      url.searchParams.set("title", "0");
+      url.searchParams.set("byline", "0");
+      url.searchParams.set("portrait", "0");
+      url.searchParams.set("badge", "0");
+      url.searchParams.set("controls", "0");
+      url.searchParams.set("dnt", "1");
+      url.searchParams.set("autopause", "0");
+      if (autoplay) url.searchParams.set("autoplay", "1");
+    }
+
+    if (provider === "youtube") {
+      url.searchParams.set("modestbranding", "1");
+      url.searchParams.set("rel", "0");
+      url.searchParams.set("playsinline", "1");
+      if (autoplay) url.searchParams.set("autoplay", "1");
+    }
+
+    return url.toString();
+  };
+
+  for (const frame of embeds) {
+    if (!(frame instanceof HTMLIFrameElement)) continue;
+
+    const originalSrc = frame.getAttribute("src");
+    if (!originalSrc) continue;
+
+    const { provider, id } = parseProvider(originalSrc);
+    if (provider === "unknown") continue;
+
+    const wrapper = document.createElement("div");
+    wrapper.className = "ny-video-embed";
+
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "ny-video-poster";
+    button.setAttribute("aria-label", "Play video");
+
+    const preview = document.createElement("img");
+    preview.className = "ny-video-poster__img";
+    preview.loading = "lazy";
+    preview.decoding = "async";
+    preview.alt = "";
+    preview.src =
+      provider === "youtube" && id
+        ? \`https://i.ytimg.com/vi/\${id}/hqdefault.jpg\`
+        : provider === "vimeo" && id
+          ? \`https://vumbnail.com/\${id}.jpg\`
+          : "";
+    button.append(preview);
+
+    const shade = document.createElement("span");
+    shade.className = "ny-video-poster__shade";
+    button.append(shade);
+
+    const play = document.createElement("span");
+    play.className = "ny-video-poster__play";
+    play.textContent = "▶";
+    button.append(play);
+
+    const providerBadge = document.createElement("span");
+    providerBadge.className = "ny-video-poster__provider";
+    providerBadge.textContent = provider === "vimeo" ? "Vimeo" : "YouTube";
+    button.append(providerBadge);
+
+    button.addEventListener("click", () => {
+      const player = document.createElement("iframe");
+      player.className = "ny-video-frame";
+      player.src = withCleanParams(originalSrc, provider, true);
+      player.loading = "lazy";
+      player.allow =
+        "autoplay; fullscreen; picture-in-picture; encrypted-media; clipboard-write";
+      player.allowFullscreen = true;
+      player.referrerPolicy = "strict-origin-when-cross-origin";
+      wrapper.replaceChildren(player);
+    });
+
+    wrapper.append(button);
+    frame.replaceWith(wrapper);
+  }
+})();`}
+    </script>
+  )
+}

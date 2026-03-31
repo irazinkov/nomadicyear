@@ -1,5 +1,6 @@
 ---
 import BaseHead from "../components/BaseHead.astro";
+import ImageLightbox from "../components/ImageLightbox.astro";
 import ThemeToggle from "../components/ThemeToggle.astro";
 import { SITE_TITLE } from "../consts";
 
@@ -12,7 +13,10 @@ interface Props {
 const { title, description, noindex = false } = Astro.props;
 const pathname = Astro.url.pathname.replace(/\/+$/, "") || "/";
 const navLinks = [
-  { href: "/south-america-expense-report-in-korean", label: "Our Korean Blog" },
+  {
+    href: "https://m.blog.naver.com/nomadicyear",
+    label: "Our Korean Blog",
+  },
   { href: "/video", label: "Video" },
   { href: "/image-gallery", label: "Image Gallery" },
   { href: "/map", label: "Route" },
@@ -32,7 +36,7 @@ const navLinks = [
     class="min-h-screen bg-gray-50 text-gray-900 dark:bg-slate-900 dark:text-gray-100"
   >
     <div
-      class="mx-auto flex min-h-screen max-w-3xl flex-col px-4 sm:px-6 lg:px-8"
+      class="mx-auto flex min-h-screen max-w-3xl flex-col px-4 sm:px-6 lg:max-w-[80vw] lg:px-8"
     >
       <header class="py-8">
         <div class="mb-4 flex items-center justify-between">
@@ -64,11 +68,18 @@ const navLinks = [
           >
             {
               navLinks.map((link) => {
-                const normalizedHref = link.href.replace(/\/+$/, "") || "/";
-                const isActive = pathname === normalizedHref;
+                const isExternal = /^https?:\/\//i.test(link.href);
+                const normalizedHref = isExternal
+                  ? link.href
+                  : link.href.replace(/\/+$/, "") || "/";
+                const isActive = !isExternal && pathname === normalizedHref;
                 return (
                   <a
-                    href={`${normalizedHref}/`}
+                    href={
+                      isExternal ? normalizedHref : `${normalizedHref}/`
+                    }
+                    target={isExternal ? "_blank" : undefined}
+                    rel={isExternal ? "noopener noreferrer" : undefined}
                     class:list={[
                       "rounded px-2 py-1 transition",
                       isActive
@@ -95,5 +106,6 @@ const navLinks = [
         <p>&copy; {new Date().getFullYear()} {SITE_TITLE}</p>
       </footer>
     </div>
+    <ImageLightbox />
   </body>
 </html>

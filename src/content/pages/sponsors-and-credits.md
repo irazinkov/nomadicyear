@@ -1,11 +1,51 @@
 ---
 title: "People who helped"
 slug: "sponsors-and-credits"
-description: "This would be impossible without the help, support and inspiration from these individuals: Earth graphic by Freepik from Flaticon is licensed under CC BY 3.0 . Made with Logo Maker"
+description: "An editorial acknowledgment list of the people and resources that made Nomadic Year possible."
 legacyUrl: "http://nomadicyear.com/sponsors-and-credits/"
 draft: false
 ---
 
-This would be impossible without the help, support and inspiration from these individuals:
+<section class="ny-prep-hero">
+<p class="ny-prep-hero__kicker">Credits</p>
+<h2>People Who Helped Us</h2>
+<p>This journey would be impossible without the help, support, and inspiration from these individuals.</p>
+</section>
 
-Earth graphic by <a href="http://www.freepik.com/">Freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a> is licensed under <a title="Creative Commons BY 3.0" href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>. Made with <a title="Logo Maker" href="http://logomakr.com">Logo Maker</a>
+<section class="ny-credits-section">
+<h2>Acknowledgments</h2>
+<ol class="ny-credits-list">
+<li class="ny-credits-item"><span class="ny-credits-given">Luke</span><span class="ny-credits-family">@CRMS</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Fernando</span><span class="ny-credits-family">@CRMS</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Craig</span><span class="ny-credits-family">@CRMS</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Charlie</span><span class="ny-credits-family">Boorman</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Bridget</span><span class="ny-credits-family">Carragher</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Michael</span><span class="ny-credits-family">Hein</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">EJ</span><span class="ny-credits-family">Holden</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Youngmin</span><span class="ny-credits-family">Jeon</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Don</span><span class="ny-credits-family">Johnson</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Jan</span><span class="ny-credits-family">Karlseder</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Andrei</span><span class="ny-credits-family">Khapikov</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Polina</span><span class="ny-credits-family">Khapikova</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Kavon</span><span class="ny-credits-family">Khashe</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Martin</span><span class="ny-credits-family">Kolnik</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Veronika</span><span class="ny-credits-family">Kralova</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Ian</span><span class="ny-credits-family">Lian</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Zoey</span><span class="ny-credits-family">Long</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Dmitry</span><span class="ny-credits-family">Lyumkis</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Vikram</span><span class="ny-credits-family">Magoon</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Ewan</span><span class="ny-credits-family">McGreggor</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Clint</span><span class="ny-credits-family">Potter</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Jeevsey</span><span class="ny-credits-family">Ranade</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Jania</span><span class="ny-credits-family">Razinkova</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Michael</span><span class="ny-credits-family">Selbert</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Matthew</span><span class="ny-credits-family">Vassilakos</span></li>
+<li class="ny-credits-item"><span class="ny-credits-given">Claudio</span><span class="ny-credits-family">von Planta</span></li>
+</ol>
+</section>
+
+<section class="ny-credits-meta">
+<h2>Asset Credits</h2>
+<p>Earth graphic by <a href="http://www.freepik.com/" target="_blank" rel="noopener noreferrer nofollow">Freepik</a> from <a href="http://www.flaticon.com/" target="_blank" rel="noopener noreferrer nofollow">Flaticon</a>, licensed under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener noreferrer nofollow">CC BY 3.0</a>.</p>
+<p>Original logo was made with <a href="http://logomakr.com" target="_blank" rel="noopener noreferrer nofollow">Logo Maker</a>.</p>
+</section>
