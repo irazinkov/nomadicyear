@@ -31,10 +31,10 @@ status: "publish"
 draft: false
 ---
 <div id="google_translate_element"></div>
-We learned a trick to passing the border with minimal hassle. During a usual border process the passengers go through the immigration and then wait in a separate area while the customs officials inspect the car. This is what we do now, Hyein just follows me back to the car and sticks around. The officers tell her to go sit on a bench somewhere, when i tell them that at this point THEY have to make a decision. If they need to open the tent and do a thorough search, she stays because i cannot do this by myself.
+We learned a trick to passing the border with minimal hassle. During a usual border process the passengers go through the immigration and then wait in a separate area while the customs officials inspect the car. This is what we do now, Hyein just follows me back to the car and sticks around. The officers tell her to go sit on a bench somewhere, when I tell them that at this point THEY have to make a decision. If they need to open the tent and do a thorough search, she stays because I cannot do this by myself.
 Usually, they look quizzically at us....how dare we give them an ultimatum?!....and then tell her to go sit on a bench while we finish the inspection in less than 5 minutes without opening the tent. 4 out of 5 times works every time!
 <h2><img class="aligncenter size-large wp-image-6264" src="/uploads/2016/09/DSC06592-1024x683.jpg" alt="dsc06592" width="697" height="465" /></h2>
-Yeah definitely out of the step and into the lakes and forests. The whole night we were driving and the visibility was getting worse and worse. I thought it was mostly because of the misty dirt from the road and other vehicles. In the morning we saw that our white tent has become a mass burial ground for mosquitoes. Just for the record...this is the most bugs we have collected in just a few hours of driving. The only other time i have seen it worse, was during a butterfly hatching event during spring in Alabama. Back then we needed to stop every 30 minute to wash our windshield by hand.
+Yeah definitely out of the step and into the lakes and forests. The whole night we were driving and the visibility was getting worse and worse. I thought it was mostly because of the misty dirt from the road and other vehicles. In the morning we saw that our white tent has become a mass burial ground for mosquitoes. Just for the record...this is the most bugs we have collected in just a few hours of driving. The only other time I have seen it worse, was during a butterfly hatching event during spring in Alabama. Back then we needed to stop every 30 minute to wash our windshield by hand.
 <h2>Miass (GPS 55.066107, 60.104446)</h2>
 &nbsp;
 
@@ -48,7 +48,7 @@ According to an old Russian tradition, you have to greet a dear guest with bread
 
 <a href="/uploads/2016/09/DSC3036.jpg"><img class="aligncenter size-large wp-image-6276" src="/uploads/2016/09/DSC3036-1024x683.jpg" alt="_dsc3036" width="697" height="465" /></a>
 
-Its amazing actually writing a story and being able to link back to your previous posts to show you guys where and when we met, you are part of this trip and you can see the story develop. If you are knew here or developed amnesia...here is a link to our first meeting <a href="http://nomadicyear.com2016/07/russia-the-baikal-olympics-2016-episode-1/">http://nomadicyear.com2016/07/russia-the-baikal-olympics-2016-episode-1/</a>
+It's amazing actually writing a story and being able to link back to your previous posts to show you guys where and when we met, you are part of this trip and you can see the story develop. If you are new here or developed amnesia...here is a link to our first meeting <a href="http://nomadicyear.com2016/07/russia-the-baikal-olympics-2016-episode-1/">http://nomadicyear.com2016/07/russia-the-baikal-olympics-2016-episode-1/</a>
 
 <a href="/uploads/2016/09/DSC3045.jpg"><img class="aligncenter size-large wp-image-6229" src="/uploads/2016/09/DSC3045-1024x683.jpg" alt="_dsc3045" width="697" height="465" /></a>
 
@@ -72,13 +72,13 @@ Now the town is no longer off-limits and two foreign agents like ourselves can e
 
 <a href="/uploads/2016/09/DSC3054.jpg"><img class="aligncenter size-large wp-image-6233" src="/uploads/2016/09/DSC3054-1024x683.jpg" alt="_dsc3054" width="697" height="465" /></a>
 
-Now about the cool robot, its called "Bogomol" which means praying mantis in Russia. The base was originally design for dangerous work in defusing explosives in civilian and army uses. It has many different configurations, and can be designed to work in extremely high radiation environments such as Chernobyl reactor number 4.
+Now about the cool robot, it's called "Bogomol" which means praying mantis in Russia. The base was originally designed for dangerous work in defusing explosives in civilian and army uses. It has many different configurations, and can be designed to work in extremely high radiation environments such as Chernobyl reactor number 4.
 
 We played around with a robot amazed at its stereo vision and far reaching capabilities, then headed out to check out Miass and nearby Ural mountains.
 
 <a href="/uploads/2016/09/DSC3060.jpg"><img class="aligncenter size-large wp-image-6234" src="/uploads/2016/09/DSC3060-1024x683.jpg" alt="_dsc3060" width="697" height="465" /></a>
 
-So what is there to see around here...lakes and mountains. Now i have to warn you that these are not the sky scraping peak of Pamir, but gentle slopes of Ural. And there is something like 80 lakes in the near vicinity of the town.
+So what is there to see around here...lakes and mountains. Now I have to warn you that these are not the sky scraping peak of Pamir, but gentle slopes of Ural. And there is something like 80 lakes in the near vicinity of the town.
 
 <a href="/uploads/2016/09/DSC3062.jpg"><img class="aligncenter size-large wp-image-6235" src="/uploads/2016/09/DSC3062-1024x683.jpg" alt="_dsc3062" width="697" height="465" /></a>
 
@@ -108,21 +108,21 @@ Idyllic lakes and little island all around the town, people from all over the co
 
 <a href="/uploads/2016/09/DSC3105.jpg"><img class="aligncenter size-large wp-image-6245" src="/uploads/2016/09/DSC3105-1024x683.jpg" alt="_dsc3105" width="697" height="465" /></a>
 
-Little presents to remember the visit....i got a "Ural Mountain" flask. I joked that you are not supposed to give it empty, so Marina instantly went to the car and filled it to the brim with cognac!
+Little presents to remember the visit....I got a "Ural Mountain" flask. I joked that you are not supposed to give it empty, so Marina instantly went to the car and filled it to the brim with cognac!
 
 <a href="/uploads/2016/09/DSC3107.jpg"><img class="aligncenter size-large wp-image-6246" src="/uploads/2016/09/DSC3107-1024x683.jpg" alt="_dsc3107" width="697" height="465" /></a>
 
-Hyein also got a little present....a box for jewelry, that i was made to promise to fill up with time.
+Hyein also got a little present....a box for jewelry, that I was made to promise to fill up with time.
 
 <a href="/uploads/2016/09/DSC3108.jpg"><img class="aligncenter wp-image-6247" src="/uploads/2016/09/DSC3108-683x1024.jpg" alt="_dsc3108" width="697" height="1044" /></a>
 
 <a href="/uploads/2016/09/DSC3110.jpg"><img class="aligncenter wp-image-6248" src="/uploads/2016/09/DSC3110-683x1024.jpg" alt="_dsc3110" width="697" height="1044" /></a>
 
-Just west of Miass is the official line that separates Asia and Europe, although the Eurasia continent does not have a natural division line, people have decided to separate it along the Ural mountains. So there is an actual place where you leave Asia and finally arrive in Europe. Everyone honestly thought the sign is going to be a bit more impressive... but we didnt come here for the sign, we came here for the people.
+Just west of Miass is the official line that separates Asia and Europe, although the Eurasia continent does not have a natural division line, people have decided to separate it along the Ural mountains. So there is an actual place where you leave Asia and finally arrive in Europe. Everyone honestly thought the sign is going to be a bit more impressive... but we didn't come here for the sign, we came here for the people.
 
 <a href="/uploads/2016/09/DSC3114.jpg"><img class="aligncenter size-large wp-image-6249" src="/uploads/2016/09/DSC3114-1024x683.jpg" alt="_dsc3114" width="697" height="465" /></a>
 
-Back at home, we had a real treat ahead of ourselves....a very Russian tradition of making your own dumplings. The hardest part is making the dough from scratch, but with experts this was much easier and more fun than i would have expected.
+Back at home, we had a real treat ahead of ourselves....a very Russian tradition of making your own dumplings. The hardest part is making the dough from scratch, but with experts this was much easier and more fun than I would have expected.
 
 <a href="/uploads/2016/09/DSC3115.jpg"><img class="aligncenter size-large wp-image-6250" src="/uploads/2016/09/DSC3115-1024x683.jpg" alt="_dsc3115" width="697" height="465" /></a>
 
@@ -142,15 +142,15 @@ Here you have proof, a bit out of focus, but still proof of my amazing dumpling 
 
 <a href="/uploads/2016/09/DSC3130.jpg"><img class="aligncenter size-large wp-image-6254" src="/uploads/2016/09/DSC3130-1024x683.jpg" alt="_dsc3130" width="697" height="465" /></a>
 
-I'm not sure how many exactly we made, but thats the point you sit around, drinking, laughing together and in the end you eat what you have made...i perfect kind of dinner party in my mind!
+I'm not sure how many exactly we made, but that's the point you sit around, drinking, laughing together and in the end you eat what you have made...I perfect kind of dinner party in my mind!
 
 <a href="/uploads/2016/09/DSC3131.jpg"><img class="aligncenter size-large wp-image-6255" src="/uploads/2016/09/DSC3131-1024x683.jpg" alt="_dsc3131" width="697" height="465" /></a>
 
-Now this is where things go from good to ..... i dont even remember what happened last night. Its probably never a good idea after consuming copious amounts of liquor already, to start drinking something from a bottle with a snake in it, ESPECIALLY if its holding a scorpion.
+Now this is where things go from good to ..... I don't even remember what happened last night. It's probably never a good idea after consuming copious amounts of liquor already, to start drinking something from a bottle with a snake in it, ESPECIALLY if it's holding a scorpion.
 
 <a href="/uploads/2016/09/DSC3133.jpg"><img class="aligncenter size-large wp-image-6256" src="/uploads/2016/09/DSC3133-1024x683.jpg" alt="_dsc3133" width="697" height="465" /></a>
 
-But we did...and all i remember after that an uncontrollable desire to giggle. We said good night to each other and instead of going to sleep, we continued to laugh like mad people...in the morning i had to apologize to our hosts. They smiled and gave us a cup of coffee.
+But we did...and all I remember after that an uncontrollable desire to giggle. We said good night to each other and instead of going to sleep, we continued to laugh like mad people...in the morning I had to apologize to our hosts. They smiled and gave us a cup of coffee.
 
 <a href="/uploads/2016/09/DSC3137.jpg"><img class="aligncenter size-large wp-image-6257" src="/uploads/2016/09/DSC3137-1024x683.jpg" alt="_dsc3137" width="697" height="465" /></a>
 
@@ -162,7 +162,7 @@ That you will be welcomed and loved, fed and never thirsty.
 
 <a href="/uploads/2016/09/DSC3142.jpg"><img class="aligncenter size-large wp-image-6259" src="/uploads/2016/09/DSC3142-1024x683.jpg" alt="_dsc3142" width="697" height="465" /></a>
 
-As the Russian hospitality is one of the best in the world. And i know what i'm talking about.
+As the Russian hospitality is one of the best in the world. And I know what I'm talking about.
 
 <a href="/uploads/2016/09/DSC06595.jpg"><img class="aligncenter size-large wp-image-6266" src="/uploads/2016/09/DSC06595-1024x683.jpg" alt="dsc06595" width="697" height="465" /></a>
 
@@ -174,7 +174,7 @@ The idea of banya is very simple, you heat up a room, go inside and warm up, the
 
 <a href="/uploads/2016/09/DSC06599.jpg"><img class="aligncenter size-large wp-image-6268" src="/uploads/2016/09/DSC06599-1024x683.jpg" alt="dsc06599" width="697" height="465" /></a>
 
-Testing out the clear waters of the lake for temperature, water quality and most importantly taste! Yup, the water is so clean you can drink it straight from the lake, but i suggest swimming a bit away from the sweat infested waters near your friends.
+Testing out the clear waters of the lake for temperature, water quality and most importantly taste! Yup, the water is so clean you can drink it straight from the lake, but I suggest swimming a bit away from the sweat infested waters near your friends.
 
 <a href="/uploads/2016/09/20160904_195908.jpg"><img class="aligncenter size-large wp-image-6262" src="/uploads/2016/09/20160904_195908-1024x576.jpg" alt="20160904_195908" width="697" height="392" /></a>
 
@@ -182,11 +182,11 @@ In banya by tradition you have to wear a silly wool hat that will protect your h
 
 <a href="/uploads/2016/09/20160904_192922-1.jpg"><img class="aligncenter size-large wp-image-6261" src="/uploads/2016/09/20160904_192922-1-1024x576.jpg" alt="20160904_192922-1" width="697" height="392" /></a>
 
-Another tradition is to take some tree branches and mercilessly beat each other with them...i kid, the specially prepared leafed branches increase the circulation and heat applied to your skin. You are NEVER supposed to smack people with them, just gently brush the skin.
+Another tradition is to take some tree branches and mercilessly beat each other with them...I kid, the specially prepared leafed branches increase the circulation and heat applied to your skin. You are NEVER supposed to smack people with them, just gently brush the skin.
 
 <a href="/uploads/2016/09/20160904_183907.jpg"><img class="aligncenter wp-image-6260" src="/uploads/2016/09/20160904_183907-576x1024.jpg" alt="20160904_183907" width="697" height="1239" /></a>
 
-After you have cooked enough and you resemble a fully done lobster, then its time to jump into the lake. It is true that you are so warm from the inside that no matter how cold the water is...you will never care. Remember that the water under the ice cannot be less than zero degrees...so that basically the limit of how cold you will get. And after spending 20 minutes inside a 100C chamber you can easily stand a few minutes in the ice cold waters.
+After you have cooked enough and you resemble a fully done lobster, then it's time to jump into the lake. It is true that you are so warm from the inside that no matter how cold the water is...you will never care. Remember that the water under the ice cannot be less than zero degrees...so that basically the limit of how cold you will get. And after spending 20 minutes inside a 100C chamber you can easily stand a few minutes in the ice cold waters.
 
 <a href="/uploads/2016/09/DSC06600.jpg"><img class="aligncenter size-large wp-image-6269" src="/uploads/2016/09/DSC06600-1024x683.jpg" alt="dsc06600" width="697" height="465" /></a>
 
@@ -202,7 +202,7 @@ After the water has calmed the fire inside your body, a feeling of pure relaxati
 
 <a href="/uploads/2016/09/DSC06614.jpg"><img class="aligncenter size-large wp-image-6272" src="/uploads/2016/09/DSC06614-1024x683.jpg" alt="dsc06614" width="697" height="465" /></a>
 
-This is not just a washing experience, its a cleansing experience for your body and mind. The body aches with pleasure of the warmth and coolness of the water.
+This is not just a washing experience, it's a cleansing experience for your body and mind. The body aches with pleasure of the warmth and coolness of the water.
 
 <a href="/uploads/2016/09/DSC06616.jpg"><img class="aligncenter size-large wp-image-6273" src="/uploads/2016/09/DSC06616-1024x683.jpg" alt="dsc06616" width="697" height="465" /></a>
 
@@ -210,7 +210,7 @@ The beer and your friends' company make for the best time. You would think that 
 
 <a href="/uploads/2016/09/DSC06626.jpg"><img class="aligncenter size-large wp-image-6275" src="/uploads/2016/09/DSC06626-1024x683.jpg" alt="dsc06626" width="697" height="465" /></a>
 
-That is until you accidentally sit down somewhere and rest your head. You will be dragged off to sleep with a might of a tropical storm, nothing can stand in its way.
+That is until you accidentally sit down somewhere and rest your head. You will be dragged off to sleep with the might of a tropical storm, nothing can stand in its way.
 
 <a href="/uploads/2016/09/DSC06623.jpg"><img class="aligncenter size-large wp-image-6274" src="/uploads/2016/09/DSC06623-1024x683.jpg" alt="dsc06623" width="697" height="465" /></a>
 

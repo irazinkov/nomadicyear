@@ -30,11 +30,16 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/06/the-warm-siberian-welcome-russia/"
 status: "publish"
 draft: false
+lat: 54.063263
+lng: 121.40383
+mapOrder: 2
+mapTitle: "Trans-Siberian Memorial Stop"
+transport: "drive"
 ---
 <div id="google_translate_element"></div>
 Knowing the language completely changes the dynamic of your travel. During the first part of our journey we purposefully tried to be isolated by not buying any SIM cards. In the beginning our poor understanding of Spanish further isolated us from freely hanging out and meeting the locals.
 
-But now we are in Russia…the Motherland…and we know the language, at least I think i know it.
+But now we are in Russia…the Motherland…and we know the language, at least I think I know it.
 
 Funny enough our first connection in Russia came through on a Korean channel. Keunshik, a fellow traveler that we have mentioned before, set us up with a few contacts all along our path from Vladivostok to Ulan-Ude.
 
@@ -62,9 +67,9 @@ These days it took us only 4 days to get from Khabarovsk to Chita, we camped at 
 
 <a href="/uploads/2016/06/DSC8344.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8344" src="/uploads/2016/06/DSC8344_thumb.jpg" alt="_DSC8344" width="697" height="465" border="0" /></a>
 
-The road is so good and the sights are so picturesque that I didn’t even try to go above the official speed limit of 90 kph (55 mph). Yeah its a bit on the slow side, but this way i could relax and look around without stressing.
+The road is so good and the sights are so picturesque that I didn’t even try to go above the official speed limit of 90 kph (55 mph). Yeah it's a bit on the slow side, but this way I could relax and look around without stressing.
 
-Whenever we got a chance we stopped, smelled the beautiful blooming forest and fields. If we got lucky we met the locals and tried to find out about the region as much as possible. This Russian cowboy was eager to see us, but was not a big talker so as usual i had to do most of the talking. Still, it felt great to be able to just stop and have a fully understood conversation. Even though I have never been in this part of my country, i still feel very comfortable here.
+Whenever we got a chance we stopped, smelled the beautiful blooming forest and fields. If we got lucky we met the locals and tried to find out about the region as much as possible. This Russian cowboy was eager to see us, but was not a big talker so as usual I had to do most of the talking. Still, it felt great to be able to just stop and have a fully understood conversation. Even though I have never been in this part of my country, I still feel very comfortable here.
 
 <a href="/uploads/2016/06/DSC8357.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8357" src="/uploads/2016/06/DSC8357_thumb.jpg" alt="_DSC8357" width="697" height="465" border="0" /></a>
 
@@ -86,7 +91,7 @@ In the morning we dragged ourselves out of bed, said good-bye to our new friends
 
 Anywhere we are moving slow enough for people to get a chance to talk to us, we get stopped and asked what exactly are we doing with a California license plate in RUSSIAAAA.
 
-This time it was Oleg…who happened to speak perfect English and i don’t mean just grammar…the pronounciation was there 100%.
+This time it was Oleg…who happened to speak perfect English and I don’t mean just grammar…the pronunciation was there 100%.
 
 It took us just over 5 hours to upload our blogs…a process that takes less than 30 minutes if you are in the States and 10 minutes in your are in Korea.
 
@@ -98,7 +103,7 @@ Annoyed by the disastrously slow internet we needed to get a breath of fresh air
 
 In every city and town you will find a memorial, and many cars have stickers with various slogans commemorating the event.
 
-If you are American then its sort of like the 9/11 but way…WAY bigger.
+If you are American then it's sort of like the 9/11 but way…WAY bigger.
 
 The park was closed for renovations, but we managed to find an open gate and snuck in to take some pictures.
 
@@ -158,7 +163,7 @@ They happily agreed and soon enough the word of our travels spread through the g
 
 <a href="/uploads/2016/06/DSC8425.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8425" src="/uploads/2016/06/DSC8425_thumb.jpg" alt="_DSC8425" width="697" height="465" border="0" /></a>
 
-Since we finally speak the language and can have an actual conversation, i was happy to explain what we are doing and answer all the questions they have. I’m used to being the center of attention, but even for me it was a bit overwhelming to be surrounded by 60 kids…all looking at you, smiling, asking questions.
+Since we finally speak the language and can have an actual conversation, I was happy to explain what we are doing and answer all the questions they have. I’m used to being the center of attention, but even for me it was a bit overwhelming to be surrounded by 60 kids…all looking at you, smiling, asking questions.
 
 <a href="/uploads/2016/06/DSC8428.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8428" src="/uploads/2016/06/DSC8428_thumb.jpg" alt="_DSC8428" width="697" height="465" border="0" /></a>
 
@@ -192,7 +197,7 @@ Although our Hodori is not as cool as a train, it has a lot of things packed ins
 
 <a href="/uploads/2016/06/DSC8450.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8450" src="/uploads/2016/06/DSC8450_thumb.jpg" alt="_DSC8450" width="697" height="465" border="0" /></a>
 
-I also love showing the car and being able to fully explain all the things that we have done to it. Before it was a few words in Spanish and excited finger-pointing with arm waving. Now i can actually make a comprehensible statement about the installation of various things and their purpose.
+I also love showing the car and being able to fully explain all the things that we have done to it. Before it was a few words in Spanish and excited finger-pointing with arm waving. Now I can actually make a comprehensible statement about the installation of various things and their purpose.
 
 <a href="/uploads/2016/06/DSC8451.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8451" src="/uploads/2016/06/DSC8451_thumb.jpg" alt="_DSC8451" width="697" height="465" border="0" /></a>
 
@@ -212,7 +217,7 @@ Somewhere just before Ulan-Ude we stopped for the night. And in the morning were
 
 <a href="/uploads/2016/06/DSC8477.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8477" src="/uploads/2016/06/DSC8477_thumb.jpg" alt="_DSC8477" width="697" height="465" border="0" /></a>
 
-Gladly showed everything to them, hoping that they don’t find any problems. I’m not sure why, but growing up in US you start to fear the police. So I get nervous even if i didn’t do anything wrong and have blue uniforms surrounding me.
+Gladly showed everything to them, hoping that they don’t find any problems. I’m not sure why, but growing up in US you start to fear the police. So I get nervous even if I didn’t do anything wrong and have blue uniforms surrounding me.
 
 <a href="/uploads/2016/06/DSC8487.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8487" src="/uploads/2016/06/DSC8487_thumb.jpg" alt="_DSC8487" width="697" height="465" border="0" /></a>
 
@@ -236,13 +241,13 @@ Just wanted to show you the kind of bathrooms we have been using. This is the la
 
 <a href="/uploads/2016/06/DSC8517.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8517" src="/uploads/2016/06/DSC8517_thumb.jpg" alt="_DSC8517" width="697" height="465" border="0" /></a>
 
-Maybe its a left over from the commie times, but Russian’s love making monuments. When you cross a state line in US all you get is a simple metal sign post. NO…here you get a work of art. Depending on the wealth of the region some are old and crumbling probably untouched since perestroika and some are beautiful brand new sculptures, like this one – welcoming us to the Republic of Buryati.
+Maybe it's a leftover from the commie times, but Russians love making monuments. When you cross a state line in US all you get is a simple metal sign post. NO…here you get a work of art. Depending on the wealth of the region some are old and crumbling probably untouched since perestroika and some are beautiful brand new sculptures, like this one – welcoming us to the Republic of Buryati.
 
 <a href="/uploads/2016/06/DSC8524.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8524" src="/uploads/2016/06/DSC8524_thumb.jpg" alt="_DSC8524" width="697" height="465" border="0" /></a>
 
 As usual by now, Zhargal from Chita gave us a contact for a bike club in Ulan-Ude. The name of the club is “Opposite” and Zhenya, the president of the club greeted us and informed that tonight we will not be alone – 3 riders, 2 from Poland and 1 from Kazakhstan, will be joining us. Awesome, the more the better.
 
-But first things first…after a long drive or ride if you are on 2 wheels, you have to eat some local food. And in Buryati land you HAVE to eat “Pozyi”, its like a large dumpling. When you eat it you first have to take a bite and suck out all the delicious meat juices. I heard it somewhere that it is a law, while you are in Republic of Buryati, that you have to eat the “Pozyi” with your hand and not a fork!
+But first things first…after a long drive or ride if you are on 2 wheels, you have to eat some local food. And in Buryati land you HAVE to eat “Pozyi”, it's like a large dumpling. When you eat it you first have to take a bite and suck out all the delicious meat juices. I heard it somewhere that it is a law, while you are in Republic of Buryati, that you have to eat the “Pozyi” with your hand and not a fork!
 
 Forgot to introduce the folks from left to right – Sherik, Grisha, Marek and Meeeeee.
 
@@ -252,11 +257,11 @@ Ooops, I just noticed that both Marek and I are breaking the law with our spoons
 
 Besides being the capital of Buryati Republic and the mecca for “pozyi” eating, Ulan-Ude is also known for having a really, really large statue of Lenin’s head. I’ve heard conflicting statements that it is either the largest or the second largest Lenin head in the world. Once again we are writing this in the absence of internet, so you will have to confirm fact by yourself. Please comment and let me know.
 
-Another thing that i wish i had internet so i could tell you more about are the Buryati people. They don't look like the Western Slavic Russians that you are used to seeing. They are ethnically different. Here i might be a bit politically incorrect, but this is not the first nor the last time. They are somehow related to the Mongol nomadic tribes. But I think they don't like being compared or associated with them.  I’m intrigued by this and will research more later on and update you guys in the Mongolian post.
+Another thing that I wish I had internet so I could tell you more about are the Buryati people. They don't look like the Western Slavic Russians that you are used to seeing. They are ethnically different. Here I might be a bit politically incorrect, but this is not the first nor the last time. They are somehow related to the Mongol nomadic tribes. But I think they don't like being compared or associated with them.  I’m intrigued by this and will research more later on and update you guys in the Mongolian post.
 
 <a href="/uploads/2016/06/DSC8560.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8560" src="/uploads/2016/06/DSC8560_thumb.jpg" alt="_DSC8560" width="697" height="465" border="0" /></a>
 
-Back in the motorcycle club headquarters. We went to take a shower in the public sauna…where i forgot to wear slippers, so i’m hoping my feet are not going to fall off from some crazy disease.
+Back in the motorcycle club headquarters. We went to take a shower in the public sauna…where I forgot to wear slippers, so I’m hoping my feet are not going to fall off from some crazy disease.
 
 <a href="/uploads/2016/06/DSC8572.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8572" src="/uploads/2016/06/DSC8572_thumb.jpg" alt="_DSC8572" width="697" height="465" border="0" /></a>
 
@@ -294,7 +299,7 @@ Here are the things that needed to be corrected.
 
 2. If you are here, then be with me. Some people treat the bike clubs as just a place to store their bike while they go out and meet their friend in the city. If you are coming to the club then you want to meet the people and get to know them. Treat this as a cultural exchange opportunity. Don’t park your bike and then go to sleep in a hotel.
 
-3. Russians are not trying to rip you off. A lot of times the club members spend their own time and money towing, fixing and helping stranded bikers. So when they ask you to pay for something, dont feel like they are trying to make money off you.
+3. Russians are not trying to rip you off. A lot of times the club members spend their own time and money towing, fixing and helping stranded bikers. So when they ask you to pay for something, don\x27t feel like they are trying to make money off you.
 
 4. This is the funniest one. Get a better nickname than Park, Kim or Lee. For whatever reason all the Koreans that come over introduce themselves by their last name…and since there are literally only 4 of them. This gets a bit messy after only 5 visitors.
 
@@ -312,7 +317,7 @@ The guys organized a single sober person who was given the task of driving us ar
 
 <a href="/uploads/2016/06/DSC8602.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8602" src="/uploads/2016/06/DSC8602_thumb.jpg" alt="_DSC8602" width="697" height="465" border="0" /></a>
 
-Thats a complete tour package. We got a chance to visit the Buddhist temple, they are called “Dotsan” here. Once again saw Lenin’s big head. And went back to our headquarters.
+That\x27s a complete tour package. We got a chance to visit the Buddhist temple, they are called “Dotsan” here. Once again saw Lenin’s big head. And went back to our headquarters.
 
 <a href="/uploads/2016/06/DSC8610.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8610" src="/uploads/2016/06/DSC8610_thumb.jpg" alt="_DSC8610" width="697" height="465" border="0" /></a>
 
@@ -376,6 +381,6 @@ His name is Chris, we exchanged numbers and hopefully will meet again in Mongoli
 
 Summary
 
-I haven’t done this in a while. So here it comes. Overlanding in Russia during summer is absolutely amazing. The weather is great, when its not raining. The day light is well into 18-20 hour range in the middle of June. People are nice and EXTREMELY welcoming. With the current USD to Ruble exchange rate, things are very affordable. So if you are thinking to go or not…drop everything and come over right this second.
+I haven’t done this in a while. So here it comes. Overlanding in Russia during summer is absolutely amazing. The weather is great, when it's not raining. The daylight is well into 18-20 hour range in the middle of June. People are nice and EXTREMELY welcoming. With the current USD to Ruble exchange rate, things are very affordable. So if you are thinking to go or not…drop everything and come over right this second.
 
 The roads are no worse than what we have seen in South America. The infrastructure is good and the nature is even better.

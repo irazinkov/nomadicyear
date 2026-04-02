@@ -49,7 +49,7 @@ Luckily, Argentina's government thought ahead and made put some points of intere
 
 <a href="/uploads/2016/03/dsc04800.jpg"><img class="alignnone size-full" title="DSC04800.jpg" src="/uploads/2016/03/dsc04800.jpg" alt="image" /></a>
 
-Next up, the government decided that it has too much money and built some angels with horns, put up some flags and a beautiful road. You know the overlander's moto by now: "if there is a road we must drive it and if there isnt, we must try it". We drove down, feeling like welcome guests that arrived at day too late...all the decorations there, but the party is done.
+Next up, the government decided that it has too much money and built some angels with horns, put up some flags and a beautiful road. You know the overlander's moto by now: "if there is a road we must drive it and if there isn't, we must try it". We drove down, feeling like welcome guests that arrived at day too late...all the decorations there, but the party is done.
 
 <a href="/uploads/2016/03/dsc04811.jpg"><img class="alignnone size-full" title="DSC04811.jpg" src="/uploads/2016/03/dsc04811.jpg" alt="image" /></a>
 

@@ -19,6 +19,11 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/06/korea-car-shipping-guide/"
 status: "publish"
 draft: false
+lat: 35.118514
+lng: 129.049924
+mapOrder: 1
+mapTitle: "Busan Ferry Terminal"
+transport: "boat"
 ---
 <h2>Download the PDF version - <a href="/uploads/2016/06/Busan-Car-Shipping.pdf">Busan Car Shipping.pdf</a></h2>
 <h2>1 Overview</h2>
@@ -36,7 +41,7 @@ his email is lasmid@hanmail.net. Prices from 2016 for our Land Cruiser 100 for 1
 <h3>2.2 International Driver License
 2.3 Vehicle Ownership Certificate</h3>
 For our California registered Land Cruiser we were able to present a Title. We were also asked about our California registration, which we couldn’t produce since it already expired. We said that
-we dont have it and it was not an issue.
+we don't have it and it was not an issue.
 <h2>3 Before you show up at the Customs</h2>
 <ol>
  	<li>Check to make sure your container is on its way. http://www.track-trace.com/container</li>
@@ -65,7 +70,7 @@ Korean - "안녕하세요, 저희는 차로 한국을 여행하고자 하는 (co
  	<li>Vehicle Clearance Office
 Located in the building of Busan International Ferry Terminal on the first floor next to the security gates. Here are the GPS coordinates: 35.118514, 129.049924. In side the office introduce yourself and mention that you have a car that you need to import. Most of the time these guys deal with cars coming in on a ferry from Japan and not with containers. Assure them that you have the container delivered to this terminal and that you will go open it right now.</li>
  	<li>Walk through the security to get your container.Now you need to go to the “Container Delivery” area to open you container and get your car out. You will need your passport to get through the security, if the security is not allowing you to go through ask them to call the “Vehicle Clearance Office”. Once in, go all the way to the building and inside ask for the office. They will organize the container unloading from the truck, opening it up and unstuffing it. And we asked, you can unstuff it yourself, but you will still get charged for it. So just let them do it.
-The workers are unfamiliar with the process and might ask you for a temporary import permit, which you cannot have before the inspection. Don’t worry and say you dont need it, if there is still an issue ask them to call the Vehicle Clearance Office.</li>
+The workers are unfamiliar with the process and might ask you for a temporary import permit, which you cannot have before the inspection. Don’t worry and say you don't need it, if there is still an issue ask them to call the Vehicle Clearance Office.</li>
  	<li>Drive your car back to the inspection area
 Drive your car back to the Vehicle Inspection Area, a worker from the “Unloading Company” will escort you there.</li>
  	<li>Vehicle inspection and X-ray

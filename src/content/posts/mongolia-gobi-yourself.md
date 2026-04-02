@@ -28,9 +28,14 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/07/mongolia-gobi-yourself/"
 status: "publish"
 draft: false
+lat: 43.795247
+lng: 102.18479
+mapOrder: 3
+mapTitle: "Khongoryn Els"
+transport: "drive"
 ---
 <div id="google_translate_element"></div>
-Sitting around in the hostel, we tried to figure out what else to do in Mongolia. It's not like there is a shortage of things to be done, just we never really prepared. We looked around other people's blogs and found some GPS tracks for Gobi. Perfect, i guess we are going to Gobi Dessert.
+Sitting around in the hostel, we tried to figure out what else to do in Mongolia. It's not like there is a shortage of things to be done, just we never really prepared. We looked around other people's blogs and found some GPS tracks for Gobi. Perfect, I guess we are going to Gobi Dessert.
 
 <a href="/uploads/2016/07/DSC9846.jpg"><img class="aligncenter size-large wp-image-5197" src="/uploads/2016/07/DSC9846-1024x683.jpg" alt="_DSC9846" width="697" height="465" /></a>
 
@@ -56,13 +61,13 @@ I'm not sure what you think a dessert is supposed to look like, but is not alway
 
 We decided that 350 miles was quite enough for one day and found a place to sleep off the main road, near a ger camp.
 
-I've heard terrible stories of people camping next to Mongolian camps and then having to deal with the Mongols coming over and bothering them. I'm sure this happens but in our experience has not been a problem. We always ask them if its okay to sleep here or there. They usual point to a good place and leave you alone....most of the time.
+I've heard terrible stories of people camping next to Mongolian camps and then having to deal with the Mongols coming over and bothering them. I'm sure this happens but in our experience has not been a problem. We always ask them if it's okay to sleep here or there. They usually point to a good place and leave you alone....most of the time.
 
 <a href="/uploads/2016/07/DSC9867.jpg"><img class="aligncenter size-large wp-image-5202" src="/uploads/2016/07/DSC9867-1024x683.jpg" alt="_DSC9867" width="697" height="465" /></a>
 
 After a nice dinner we climbed into the roof-top-tent and passed out. Only to be awake in the middle of the night by a terrible wind. a f
 
-This is one of a few downsides of our current setup, its vulnerable to wind. Rain is okay for a few days, but a strong wind it feels like will break the tent. So we had to get down and set up the little REI ground tent behind the car for cover.
+This is one of a few downsides of our current setup, it's vulnerable to wind. Rain is okay for a few days, but a strong wind it feels like will break the tent. So we had to get down and set up the little REI ground tent behind the car for cover.
 
 I've emailed the manufactures of the Maggiolina roof-top-tent about wind stability and will write more about this topic later.
 
@@ -72,7 +77,7 @@ You know us...so by know you know that we are not afraid of a challenge or more 
 
 To see that stereotypical image of the Gobi dessert you need to drive another 150 miles West from Dalanzadgad. Here the switches from brand new asphalt to 4.5 billion year old earth.
 
-Tire pressure lowered to a reasonable 1.2 bar (17psi), this makes the road a bit more bearable. Otherwise its not hard driving, keep the compass and GPS on hand as you will get sidetracked and lost unless you constantly check your bearing.
+Tire pressure lowered to a reasonable 1.2 bar (17psi), this makes the road a bit more bearable. Otherwise it's not hard driving, keep the compass and GPS on hand as you will get sidetracked and lost unless you constantly check your bearing.
 
 <a href="/uploads/2016/07/DSC9881.jpg"><img class="aligncenter size-large wp-image-5205" src="/uploads/2016/07/DSC9881-1024x683.jpg" alt="_DSC9881" width="697" height="465" /></a>
 
@@ -88,7 +93,7 @@ Yes, we can come back any time...you'll do it next weekend. At first with a smil
 
 The trek up was long and we lost a lot of people on the way...no seriously, some old guy had to turn around because he couldn't make it up. He made the crucial mistake of wearing shoes, go bare foot if you can. Come to think of it, he was a good 40 years older than us...that might have something to do with it.
 
-Took us about 40 minutes to get up to the top and the last 15 minutes i thought of joining the older gentelman for whisky at the bottom and say the hell with this mountain climbing business.
+Took us about 40 minutes to get up to the top and the last 15 minutes I thought of joining the older gentelman for whisky at the bottom and say the hell with this mountain climbing business.
 
 <a href="/uploads/2016/07/DSC9897.jpg"><img class="aligncenter size-large wp-image-5208" src="/uploads/2016/07/DSC9897-1024x683.jpg" alt="_DSC9897" width="697" height="465" /></a>
 
@@ -96,11 +101,11 @@ I'm glad the though of turning around didn't take hold in my mind. The view from
 
 <a href="/uploads/2016/07/DSC9904.jpg"><img class="aligncenter size-large wp-image-5209" src="/uploads/2016/07/DSC9904-1024x683.jpg" alt="_DSC9904" width="697" height="465" /></a>
 
-The sand is soft and dry, it feels like a playground...a very large sandbox for adults. Jump around, slide down...its forgiving.
+The sand is soft and dry, it feels like a playground...a very large sandbox for adults. Jump around, slide down...it's forgiving.
 
 <a href="/uploads/2016/07/DSC9906.jpg"><img class="aligncenter size-large wp-image-5210" src="/uploads/2016/07/DSC9906-1024x683.jpg" alt="_DSC9906" width="697" height="465" /></a>
 
-Hyein looked at the untouched side of the dune that i have spoiled with my presence, but decided not to go down there.
+Hyein looked at the untouched side of the dune that I have spoiled with my presence, but decided not to go down there.
 
 <a href="/uploads/2016/07/gobi1.jpg"><img class="aligncenter size-large wp-image-5224" src="/uploads/2016/07/gobi1-1024x571.jpg" alt="gobi1" width="697" height="389" /></a>
 
@@ -112,7 +117,7 @@ You can walk along the top of the dune as far as you want, the top is only a cou
 
 <a href="/uploads/2016/07/gobi3.jpg"><img class="aligncenter size-large wp-image-5226" src="/uploads/2016/07/gobi3-1024x568.jpg" alt="gobi3" width="697" height="387" /></a>
 
-Unless your stupid husband starts pushing you off the top. Yeahh....king-of-the-hill, remember that game? Apparently they don't play this game in Korea. As Hyein thought i was trying to assassinate her and bury in the sand, where no one would even know to look.
+Unless your stupid husband starts pushing you off the top. Yeahh....king-of-the-hill, remember that game? Apparently they don't play this game in Korea. As Hyein thought I was trying to assassinate her and bury in the sand, where no one would even know to look.
 
 <a href="/uploads/2016/07/gobi4.jpg"><img class="aligncenter size-large wp-image-5227" src="/uploads/2016/07/gobi4-1024x569.jpg" alt="gobi4" width="697" height="387" /></a>
 
@@ -128,7 +133,7 @@ Pushed all the right buttons to disconnect all the electronics and lock the cent
 
 <a href="/uploads/2016/07/DSC9923.jpg"><img class="aligncenter size-large wp-image-5213" src="/uploads/2016/07/DSC9923-1024x683.jpg" alt="_DSC9923" width="697" height="465" /></a>
 
-Instead of freaking out about it...remember what the guide tells you "Don't Panic", i got out and quickly dug him out with my our bare hands.
+Instead of freaking out about it...remember what the guide tells you "Don't Panic", I got out and quickly dug him out with my our bare hands.
 
 <a href="/uploads/2016/07/DSC9924.jpg"><img class="aligncenter size-large wp-image-5214" src="/uploads/2016/07/DSC9924-1024x683.jpg" alt="_DSC9924" width="697" height="465" /></a>
 
@@ -148,7 +153,7 @@ While we were literally flying down the dune we happen to meet a Korean family, 
 
 <a href="/uploads/2016/07/gobi6.jpg"><img class="aligncenter size-large wp-image-5229" src="/uploads/2016/07/gobi6-1024x565.jpg" alt="gobi6" width="697" height="385" /></a>
 
-They were doing a two week tour and were staying in one of the many ger camps all around the sand dunes. The great thing is that you can camp just next to the camp and there are no problems, you dont have to pay anything since you are not using any of the utilities.
+They were doing a two week tour and were staying in one of the many ger camps all around the sand dunes. The great thing is that you can camp just next to the camp and there are no problems, you don't have to pay anything since you are not using any of the utilities.
 
 <a href="/uploads/2016/07/DSC9944.jpg"><img class="aligncenter size-large wp-image-5217" src="/uploads/2016/07/DSC9944-1024x683.jpg" alt="_DSC9944" width="697" height="465" /></a>
 
@@ -156,7 +161,7 @@ Draw in by the general commotion we decided against everything we have read to g
 
 <a href="/uploads/2016/07/DSC9946.jpg"><img class="aligncenter size-large wp-image-5218" src="/uploads/2016/07/DSC9946-1024x683.jpg" alt="_DSC9946" width="697" height="465" /></a>
 
-I would not recommend this to anyone. The camels are walking sacks of semi-digested but still fermenting plant material, and they silently release the built up pressure without any sort of apologies. So you are constantly surrounded by an aroma that makes your eyes water a little bit. You need to ride in pants, i was wearing shorts and after that my legs were itching like crazy for a while.
+I would not recommend this to anyone. The camels are walking sacks of semi-digested but still fermenting plant material, and they silently release the built up pressure without any sort of apologies. So you are constantly surrounded by an aroma that makes your eyes water a little bit. You need to ride in pants, I was wearing shorts and after that my legs were itching like crazy for a while.
 
 <a href="/uploads/2016/07/DSC9971.jpg"><img class="aligncenter size-large wp-image-5219" src="/uploads/2016/07/DSC9971-1024x683.jpg" alt="_DSC9971" width="697" height="465" /></a>
 
@@ -166,11 +171,11 @@ Btw these are the Bactrian Camels they have 2 humps, as opposed to Dromedary Cam
 
 When they put the foot down and actually put weight on it, the foot slowly, like gel spreads on the surface. It definitely looks like these guys are walking on gel. I'm sure this is for better traction in the sand or something like it.
 
-Anyway - listen to everyone else and us...dont ride the camels. Waste of time and money. Plus we had to wash our favorite pants and shorts, not an easy task in the Gobi.
+Anyway - listen to everyone else and us...don't ride the camels. Waste of time and money. Plus we had to wash our favorite pants and shorts, not an easy task in the Gobi.
 
 <a href="/uploads/2016/07/DSC9978.jpg"><img class="aligncenter size-large wp-image-5220" src="/uploads/2016/07/DSC9978-1024x683.jpg" alt="_DSC9978" width="697" height="465" /></a>
 
-Not wanting the repeat of last night, we didn't even open the roof-top-tent and just set up our little one behind the car. At least we can get some rest, even if its a bit less comfy.
+Not wanting the repeat of last night, we didn't even open the roof-top-tent and just set up our little one behind the car. At least we can get some rest, even if it's a bit less comfy.
 
 <a href="/uploads/2016/07/DSC9982.jpg"><img class="aligncenter size-large wp-image-5221" src="/uploads/2016/07/DSC9982-1024x683.jpg" alt="_DSC9982" width="697" height="465" /></a>
 
@@ -182,7 +187,7 @@ How can a place look so beautiful, green, yellow, brown and blue, like the paint
 
 <a href="/uploads/2016/07/DSC9995.jpg"><img class="aligncenter size-large wp-image-5223" src="/uploads/2016/07/DSC9995-1024x683.jpg" alt="_DSC9995" width="697" height="465" /></a>
 
-We thought of climbing up the dune again, but they stopped lying to each other, smiled and said that the road is long and we dont want to waste any more time than we need to.
+We thought of climbing up the dune again, but they stopped lying to each other, smiled and said that the road is long and we don't want to waste any more time than we need to.
 
 <a href="/uploads/2016/07/gobi7.jpg"><img class="aligncenter size-large wp-image-5230" src="/uploads/2016/07/gobi7-1024x571.jpg" alt="gobi7" width="697" height="389" /></a>
 
@@ -198,7 +203,7 @@ This is the important bit about the route of our trip. We looked at where we wer
 
 <a href="/uploads/2016/07/map_small.jpg"><img class="aligncenter size-full wp-image-5380" src="/uploads/2016/07/map_small.jpg" alt="map_small" width="697" height="515" /></a>
 
-Now lets look at the map, it makes sense, at least by distance to just go straight up, instead of going back to Ulaanbaatar and then to Bayankhongor.
+Now let's look at the map, it makes sense, at least by distance to just go straight up, instead of going back to Ulaanbaatar and then to Bayankhongor.
 
 <a href="/uploads/2016/07/DSC0014.jpg"><img class="aligncenter size-large wp-image-5186" src="/uploads/2016/07/DSC0014-1024x683.jpg" alt="_DSC0014" width="697" height="465" /></a>
 
@@ -214,7 +219,7 @@ The only problem is the absence of any cars on the road and the wet, muddy spots
 
 You are sitting at home now or in your office, which is better because my goal is to distract you from work as much as possible, and this doesn't seem that scary.
 
-Okay, i'll give it to you...we would have been safe, just severely inconvenienced. We have enough food and water for probably a week, in an emergency even longer. Just waiting for some car to get us out might have taken a day.
+Okay, I'll give it to you...we would have been safe, just severely inconvenienced. We have enough food and water for probably a week, in an emergency even longer. Just waiting for some car to get us out might have taken a day.
 
 <a href="/uploads/2016/07/DSC0038.jpg"><img class="aligncenter size-large wp-image-5190" src="/uploads/2016/07/DSC0038-1024x683.jpg" alt="_DSC0038" width="697" height="465" /></a>
 
@@ -254,17 +259,17 @@ After that mountain pass, we continued on goat trails towards the city. The rive
 
 And it wasn't done with us for the day, only 20 km from asphalt and the town of Ulzit, the river swelled over a flat plain, drowning the road at points. The ground was mushy, muddy and very slippery. We were just driving along, keeping up speed to get through some iffy parts, when the car started its ballet performance on ice, swirling around, spinning, the dashboard beeping and lighting up with all kinds of "oh shit" lights.
 
-But the electronics did their job, the car slowed down, straightened itself out, realizing that if we stop completely we might be here for a while, i pressed on the accelerator to get us out of this damn wetness. In one of its spinning maneuvers it felt like the car will go over on its side, but instead it did something crazy with the electronics and managed to stay upright. It was scary, but we were buckled up and secure, so not dangerous.
+But the electronics did their job, the car slowed down, straightened itself out, realizing that if we stop completely we might be here for a while, I pressed on the accelerator to get us out of this damn wetness. In one of its spinning maneuvers it felt like the car will go over on its side, but instead it did something crazy with the electronics and managed to stay upright. It was scary, but we were buckled up and secure, so not dangerous.
 
 <a href="/uploads/2016/07/DSC0055.jpg"><img class="aligncenter size-large wp-image-5196" src="/uploads/2016/07/DSC0055-1024x683.jpg" alt="_DSC0055" width="697" height="465" /></a>
 
-We got finally got to some asphalt and thank all the gods we know of for looking out for us. Somewhere along the way, i got so tired that i promised that i will kiss the first asphalt we see.
+We got finally got to some asphalt and thank all the gods we know of for looking out for us. Somewhere along the way, I got so tired that I promised that I will kiss the first asphalt we see.
 
 As soon as we drove onto it, I got out, got on my knees and get it a little peck.
 
 Summary:
 
-Definitely the craziest, scariest, most awesome offroading adventure so far. If we would have known it would be this hard, we would have never done it. Sometimes its good not to be too prepared.
+Definitely the craziest, scariest, most awesome off-roading adventure so far. If we would have known it would be this hard, we would have never done it. Sometimes it's good not to be too prepared.
 
 I would recommend it to anyone who wants to experience real Mongolia. People write on the many blogs that the Southern route through Mongolia is boring, well here is an easy fix. Go through Gobi. I promise you will not be bored.
 

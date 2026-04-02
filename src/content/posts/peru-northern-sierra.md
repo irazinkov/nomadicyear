@@ -32,7 +32,7 @@ And for the most part, it was a pleasant drive through the green hills and valle
 
 <a href="/uploads/2016/01/DSC02884.jpg" rel="attachment wp-att-1432"><img class="aligncenter size-full wp-image-1432" src="/uploads/2016/01/DSC02884.jpg" alt="DSC02884" width="800" height="533" /></a>
 
-From what we decided on the spot at that moment, this was our first river crossing. Yes, i know this is not exactly Nile, Amazon or the Ganges...but you remember your first forever...right?
+From what we decided on the spot at that moment, this was our first river crossing. Yes, I know this is not exactly Nile, Amazon or the Ganges...but you remember your first forever...right?
 
 <a href="/uploads/2016/01/DSC02891.jpg" rel="attachment wp-att-1435"><img class="aligncenter size-full wp-image-1435" src="/uploads/2016/01/DSC02891.jpg" alt="DSC02891" width="800" height="533" /></a>
 
@@ -40,7 +40,7 @@ I would love to tell you how scary and bad this road was, my passion for a good 
 
 <a href="/uploads/2016/01/DSC02888.jpg" rel="attachment wp-att-1433"><img class="aligncenter size-full wp-image-1433" src="/uploads/2016/01/DSC02888.jpg" alt="DSC02888" width="800" height="533" /></a>
 
-I realize that we dont take nearly enough pictures of our home. Its all churches and food. This vehicle is the true masterpiece...thanks for taking care of us buddy!
+I realize that we don't take nearly enough pictures of our home. It's all churches and food. This vehicle is the true masterpiece...thanks for taking care of us buddy!
 
 <a href="/uploads/2016/01/DSC02893.jpg" rel="attachment wp-att-1436"><img class="aligncenter size-full wp-image-1436" src="/uploads/2016/01/DSC02893.jpg" alt="DSC02893" width="800" height="533" /></a>
 
@@ -48,11 +48,11 @@ Through magic of internet... you didn't have to suffer through the dust, bone sh
 
 <a href="/uploads/2016/01/DSC02894.jpg" rel="attachment wp-att-1437"><img class="aligncenter size-full wp-image-1437" src="/uploads/2016/01/DSC02894.jpg" alt="DSC02894" width="800" height="533" /></a>
 
-I'm not sure what your morning routine is...okay, scratch that... i don't want to know what it is.
+I'm not sure what your morning routine is...okay, scratch that... I don't want to know what it is.
 
 This is ours - coffee and eggs. That night we parked in a hotel parking lot and slept in the tent.
 
-Its safe, clean and about 1/2 or 1/3 of the cheapest room price. The only problem is that you have to climb down and walk to the bathroom.
+It's safe, clean and about 1/2 or 1/3 of the cheapest room price. The only problem is that you have to climb down and walk to the bathroom.
 
 <a href="/uploads/2016/01/DSC02897.jpg" rel="attachment wp-att-1440"><img class="aligncenter size-full wp-image-1440" src="/uploads/2016/01/DSC02897.jpg" alt="DSC02897" width="800" height="533" /></a>
 
@@ -60,7 +60,7 @@ No...no, we are not in India. And the only way you can tell that, is because you
 
 <a href="/uploads/2016/01/DSC02899.jpg" rel="attachment wp-att-1441"><img class="aligncenter size-full wp-image-1441" src="/uploads/2016/01/DSC02899.jpg" alt="DSC02899" width="800" height="533" /></a>
 
-Until they finally decide to respect the rules of the road and move over. We dont actually have to deal with this that often, we just take a picture every time we see them.<a href="/uploads/2016/01/DSC02900.jpg" rel="attachment wp-att-1442"><img class="aligncenter size-full wp-image-1442" src="/uploads/2016/01/DSC02900.jpg" alt="DSC02900" width="800" height="533" /></a>
+Until they finally decide to respect the rules of the road and move over. We don't actually have to deal with this that often, we just take a picture every time we see them.<a href="/uploads/2016/01/DSC02900.jpg" rel="attachment wp-att-1442"><img class="aligncenter size-full wp-image-1442" src="/uploads/2016/01/DSC02900.jpg" alt="DSC02900" width="800" height="533" /></a>
 
 I was in a solemn mood and Hyein took advantage by taking a normal picture of me, without making any faces. We drove for a few hours along the river at the bottom of a huge stone walled canyon. Since there is no place to stop for the night, we drove up a little mountain road to the top of the canyon and found a city to spend the night.
 
@@ -76,11 +76,11 @@ Trust me, we would have taken a picture of where we came from, but for whatever 
 
 <a href="/uploads/2016/01/DSC02904.jpg" rel="attachment wp-att-1444"><img class="aligncenter size-full wp-image-1444" src="/uploads/2016/01/DSC02904.jpg" alt="DSC02904" width="800" height="533" /></a>
 
-I know its hard to get a sense of scale on this image, but those little lines on the mountain are roads, zig-zagging back and forth. A truly breathtaking view...for me. Hyein said that "breathtaking" is a bit of strong word...i stand by it though, i could barely control my excitement.
+I know it's hard to get a sense of scale on this image, but those little lines on the mountain are roads, zig-zagging back and forth. A truly breathtaking view...for me. Hyein said that "breathtaking" is a bit of strong word...I stand by it though, I could barely control my excitement.
 
 <a href="/uploads/2016/01/DSC02905.jpg" rel="attachment wp-att-1445"><img class="aligncenter size-full wp-image-1445" src="/uploads/2016/01/DSC02905.jpg" alt="DSC02905" width="800" height="533" /></a>
 
-I mean, just look at this!!! Do you see that river all the way at the bottom? Thats like 8000-9000 feet down.
+I mean, just look at this!!! Do you see that river all the way at the bottom? That's like 8000-9000 feet down.
 
 <a href="/uploads/2016/01/DSC02910.jpg" rel="attachment wp-att-1447"><img class="aligncenter size-full wp-image-1447" src="/uploads/2016/01/DSC02910.jpg" alt="DSC02910" width="800" height="533" /></a>
 
@@ -90,21 +90,21 @@ Of course not, because they haven't made a road there yet! Well, the Peruvian's 
 
 <img class="aligncenter size-full wp-image-1446" src="/uploads/2016/01/DSC02907.jpg" alt="DSC02907" width="800" height="533" />
 
-Yup, thats the road on left.
+Yup, that's the road on left.
 
 <a href="/uploads/2016/01/DSC02911.jpg" rel="attachment wp-att-1448"><img class="aligncenter size-full wp-image-1448" src="/uploads/2016/01/DSC02911.jpg" alt="DSC02911" width="800" height="533" /></a>
 
-Its carved from the side of the mountain, single lane and thank god that its paved.
+It's carved from the side of the mountain, single lane and thank god that it's paved.
 
 <a href="/uploads/2016/01/DSC02912.jpg" rel="attachment wp-att-1449"><img class="aligncenter size-full wp-image-1449" src="/uploads/2016/01/DSC02912.jpg" alt="DSC02912" width="800" height="533" /></a>
 
-Its not that bad, we only had a few places that were superficially scary. Where the road became so narrow and the turns so tight, that i swear at some point the middle of the car had nothing but air underneath it.
+It's not that bad, we only had a few places that were superficially scary. Where the road became so narrow and the turns so tight, that I swear at some point the middle of the car had nothing but air underneath it.
 
 <a href="/uploads/2016/01/DSC02913.jpg" rel="attachment wp-att-1450"><img class="aligncenter size-full wp-image-1450" src="/uploads/2016/01/DSC02913.jpg" alt="DSC02913" width="800" height="533" /></a>
 
 You are going so slow, 10-15 mph, that there is no serious danger.
 
-Except fatigue. Yup, thats the real killer here.<a href="/uploads/2016/01/DSC02913.jpg" rel="attachment wp-att-1450">
+Except fatigue. Yup, that's the real killer here.<a href="/uploads/2016/01/DSC02913.jpg" rel="attachment wp-att-1450">
 </a><a href="/uploads/2016/01/DSC02914.jpg" rel="attachment wp-att-1451"><img class="aligncenter size-full wp-image-1451" src="/uploads/2016/01/DSC02914.jpg" alt="DSC02914" width="800" height="533" /></a>
 
 Remember that little river I mentioned in one of the above photos?
@@ -117,13 +117,13 @@ Here it is, plus a donkey that absolutely refused to move for us. Anyone willing
 
 Any takers? Look at the photos again and give it a try...come on...just for fun.
 
-Fine, i'll tell you - over 3 hours. Yup, you can go from San Diego to Los Angeles and half way back in that time. If there is no traffic...but really..are we ever that lucky?
+Fine, I'll tell you - over 3 hours. Yup, you can go from San Diego to Los Angeles and half way back in that time. If there is no traffic...but really..are we ever that lucky?
 
-And thats only half of the trip.
+And that's only half of the trip.
 
 <a href="/uploads/2016/01/DSC02918.jpg" rel="attachment wp-att-1453"><img class="aligncenter size-full wp-image-1453" src="/uploads/2016/01/DSC02918.jpg" alt="DSC02918" width="800" height="533" /></a>
 
-Now we have to climb out of this valley. I'll save you the pain, took another 3 hours. And remember, that its a single lane...but the traffic goes both ways. If you get unlucky, you'll need to back up on this hellish road to a place big enough to let the other cars squeeze through. We did get unlucky a couple of times, but in relatively good places.
+Now we have to climb out of this valley. I'll save you the pain, took another 3 hours. And remember, that it's a single lane...but the traffic goes both ways. If you get unlucky, you'll need to back up on this hellish road to a place big enough to let the other cars squeeze through. We did get unlucky a couple of times, but in relatively good places.
 <h2>Celendin</h2>
 <a href="/uploads/2016/01/DSC02919.jpg" rel="attachment wp-att-1454"><img class="aligncenter size-full wp-image-1454" src="/uploads/2016/01/DSC02919.jpg" alt="DSC02919" width="800" height="533" /></a>
 
@@ -131,11 +131,11 @@ Just beyond that last mountain lies a valley with a beautiful little city - Cele
 
 <a href="/uploads/2016/01/DSC02920.jpg" rel="attachment wp-att-1455"><img class="aligncenter size-full wp-image-1455" src="/uploads/2016/01/DSC02920.jpg" alt="DSC02920" width="800" height="533" /></a>
 
-We managed to find a place to stay for the night and catch the last rays of the sun. OMG, look how beautiful...and i promise it is not photoshopped...
+We managed to find a place to stay for the night and catch the last rays of the sun. OMG, look how beautiful...and I promise it is not photoshopped...
 
 <a href="/uploads/2016/01/DSC02922.jpg" rel="attachment wp-att-1456"><img class="aligncenter size-full wp-image-1456" src="/uploads/2016/01/DSC02922.jpg" alt="DSC02922" width="800" height="533" /></a>
 
-I'm not sure why i'm including this photo - maybe for you to get a sense of what a little town center in the back country of Peru looks like? Either way, its here now.
+I'm not sure why I'm including this photo - maybe for you to get a sense of what a little town center in the back country of Peru looks like? Either way, it's here now.
 
 Next day we got to our next stop for the night pretty early - about 3pm. We stopped at the market, picked up veggies and cooked a little feast.
 
@@ -153,7 +153,7 @@ We talked to the lady in the 3rd office, no luck. So we continued further south.
 
 <a href="/uploads/2016/01/DSC02935.jpg" rel="attachment wp-att-1464"><img class="aligncenter size-full wp-image-1464" src="/uploads/2016/01/DSC02935.jpg" alt="DSC02935" width="800" height="533" /></a>
 
-We drove and drove, some times on paved, some times on dirt roads all in the mountains. Soon we started to notice something strange. Look at the photo of the a village above. Notice anything strange or out of place? Anything? Yup...no people and no cars. I know its hard to see but most houses are boarded up and half of them have "for sale" signs. It felt like driving through a film set that just finished filming yesterday. Everything is still there but the people.
+We drove and drove, some times on paved, some times on dirt roads all in the mountains. Soon we started to notice something strange. Look at the photo of the village above. Notice anything strange or out of place? Anything? Yup...no people and no cars. I know it's hard to see but most houses are boarded up and half of them have "for sale" signs. It felt like driving through a film set that just finished filming yesterday. Everything is still there but the people.
 <a href="/uploads/2016/01/DSC02938.jpg" rel="attachment wp-att-1465"><img class="aligncenter size-full wp-image-1465" src="/uploads/2016/01/DSC02938.jpg" alt="DSC02938" width="800" height="533" /></a>
 
 Crazy roads, awesome mountains and millions of colors that is what you get once you get off the PanAmerican.
@@ -200,11 +200,11 @@ Each region of Peru has their specific style for hats.
 
 <a href="/uploads/2016/01/DSC02978.jpg" rel="attachment wp-att-1485"><img class="aligncenter size-full wp-image-1485" src="/uploads/2016/01/DSC02978.jpg" alt="DSC02978" width="800" height="533" /></a>
 
-Is that Kim Jung-Un pushing the cart? Now that i look more closely at this photo, reminds me of some old Soviet propaganda posters  - "people of different countries, unite!" and "through hard and multi-culturalism - we are all soviets!"
+Is that Kim Jung-Un pushing the cart? Now that I look more closely at this photo, reminds me of some old Soviet propaganda posters  - "people of different countries, unite!" and "through hard and multi-culturalism - we are all soviets!"
 
 <a href="/uploads/2016/01/DSC02979.jpg" rel="attachment wp-att-1486"><img class="aligncenter size-full wp-image-1486" src="/uploads/2016/01/DSC02979.jpg" alt="DSC02979" width="800" height="533" /></a>
 
-Managed to score these things - honestly dont even know what they are called.  But you can eat the white fluff inside, nothing special here.
+Managed to score these things - honestly don't even know what they are called.  But you can eat the white fluff inside, nothing special here.
 
 <a href="/uploads/2016/01/DSC02980.jpg" rel="attachment wp-att-1487"><img class="aligncenter size-full wp-image-1487" src="/uploads/2016/01/DSC02980.jpg" alt="DSC02980" width="800" height="533" /></a>
 
@@ -214,7 +214,7 @@ Local woman/drug dealer...packing our latest addiction - pineapple tomatillos. T
 
 <a href="/uploads/2016/01/DSC02982.jpg" rel="attachment wp-att-1489"><img class="aligncenter size-full wp-image-1489" src="/uploads/2016/01/DSC02982.jpg" alt="DSC02982" width="800" height="533" /></a>
 
-Feels like our blog is taking a turn to some anthropological research with all these photos. Or maybe its a native fashion blog...not sure anymore.
+Feels like our blog is taking a turn to some anthropological research with all these photos. Or maybe it's a native fashion blog...not sure anymore.
 
 <a href="/uploads/2016/01/DSC02985.jpg" rel="attachment wp-att-1490"><img class="aligncenter size-full wp-image-1490" src="/uploads/2016/01/DSC02985.jpg" alt="DSC02985" width="800" height="533" /></a>
 
@@ -263,7 +263,7 @@ In the middle of these rocks we found some stone dwellings. They are not even ho
 
 <a href="/uploads/2016/01/DSC03026.jpg" rel="attachment wp-att-1519"><img class="aligncenter size-full wp-image-1519" src="/uploads/2016/01/DSC03026.jpg" alt="DSC03026" width="800" height="533" /></a>
 
-Im not sure of the quality of the route. Look at a few rocks and they all seem old. It feels like a lot of them would easily break under stress. But what do i know...
+I'm not sure of the quality of the route. Look at a few rocks and they all seem old. It feels like a lot of them would easily break under stress. But what do I know...
 
 <a href="/uploads/2016/01/DSC03027.jpg" rel="attachment wp-att-1520"><img class="aligncenter size-full wp-image-1520" src="/uploads/2016/01/DSC03027.jpg" alt="DSC03027" width="800" height="533" /></a>
 
@@ -285,7 +285,7 @@ Aaah...these are the crack cocaine of the tomatillo world - pineapple tomatillos
 
 <a href="/uploads/2016/01/DSC03050.jpg" rel="attachment wp-att-1531"><img class="aligncenter size-full wp-image-1531" src="/uploads/2016/01/DSC03050.jpg" alt="DSC03050" width="800" height="533" /></a>
 
-And our newly discovered fruit - Cherimoya. Of course, we have seen it before even in California. But we finally tried and loved it. And best of all you get 6 giant cherimoyas for $4...mom, dont be jealous.
+And our newly discovered fruit - Cherimoya. Of course, we have seen it before even in California. But we finally tried and loved it. And best of all you get 6 giant cherimoyas for $4...mom, don't be jealous.
 
 <a href="/uploads/2016/01/DSC03056-1.jpg" rel="attachment wp-att-1540"><img class="aligncenter size-full wp-image-1540" src="/uploads/2016/01/DSC03056-1.jpg" alt="DSC03056" width="800" height="533" /></a>
 

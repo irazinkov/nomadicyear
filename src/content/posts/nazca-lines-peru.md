@@ -3,8 +3,8 @@ title: "Nazca Lines - Peru"
 slug: "nazca-lines-peru"
 pubDate: "2016-02-01T16:57:22Z"
 updatedDate: "2016-09-18T12:39:07Z"
-description: "Just a single day ride away from Lima is the infamous Nazca. I mean the city itself is nothing to write home about, so i wont. We are here only for the Nazca lines! Thats, not a photo of the lines...i..."
-excerpt: "Just a single day ride away from Lima is the infamous Nazca. I mean the city itself is nothing to write home about, so i wont. We are here only for the Nazca lines! Thats, not a photo of the lines...i..."
+description: "Just a single day ride away from Lima is the infamous Nazca. I mean the city itself is nothing to write home about, so I won't. We are here only for the Nazca lines! That's not a photo of the lines...I..."
+excerpt: "Just a single day ride away from Lima is the infamous Nazca. I mean the city itself is nothing to write home about, so I won't. We are here only for the Nazca lines! That's not a photo of the lines...I..."
 heroImage: "/uploads/2016/01/nazca-slider.jpg"
 heroImageAlt: "nazca - slider"
 country: "peru"
@@ -22,7 +22,7 @@ draft: false
 ---
 Just a single day ride away from Lima is the infamous Nazca.
 
-I mean the city itself is nothing to write home about, so i wont.
+I mean the city itself is nothing to write home about, so I won't.
 
 We are here only for the Nazca lines!
 
@@ -30,7 +30,7 @@ We are here only for the Nazca lines!
 
 <a href="/uploads/2016/01/DSC03136.jpg" rel="attachment wp-att-1665"><img class="aligncenter size-full wp-image-1665" src="/uploads/2016/01/DSC03136.jpg" alt="DSC03136" width="800" height="533" /></a>
 
-Thats, not a photo of the lines...its us. I wanted to included it, just in case you forgot what we look like.
+That's not a photo of the lines...it's us. I wanted to include it, just in case you forgot what we look like.
 
 Anyway, we decided to not go through a tour agency and just drove to the airport.
 
@@ -40,7 +40,7 @@ A tiny little place, with a few counter. You go up to the counter, pay $70 per p
 
 <a href="/uploads/2016/01/DSC03140.jpg" rel="attachment wp-att-1593"><img class="aligncenter size-full wp-image-1593" src="/uploads/2016/01/DSC03140.jpg" alt="DSC03140" width="800" height="533" /></a>
 
-No..no...i kid the stamp is free, the $70 is for the 40 minute flight to take a look at the Nazca lines.
+No..no...I kid the stamp is free, the $70 is for the 40 minute flight to take a look at the Nazca lines.
 
 <a href="/uploads/2016/01/DSC03135.jpg" rel="attachment wp-att-1664"><img class="aligncenter size-full wp-image-1664" src="/uploads/2016/01/DSC03135.jpg" alt="DSC03135" width="800" height="533" /></a>
 
@@ -80,7 +80,7 @@ View of the dessert on which the lines are located with some farms in the backgr
 
 <a href="/uploads/2016/01/DSC03163.jpg" rel="attachment wp-att-1614"><img class="aligncenter size-full wp-image-1614" src="/uploads/2016/01/DSC03163.jpg" alt="DSC03163" width="800" height="533" /></a>
 
-For some reason these hills came out in a negative color, i'm pretty sure they didn't look exactly like this. Something to do with exposure and contrast?
+For some reason these hills came out in a negative color, I'm pretty sure they didn't look exactly like this. Something to do with exposure and contrast?
 
 <a href="/uploads/2016/01/DSC03164.jpg" rel="attachment wp-att-1615"><img class="aligncenter size-full wp-image-1615" src="/uploads/2016/01/DSC03164.jpg" alt="DSC03164" width="800" height="533" /></a>
 
@@ -90,15 +90,15 @@ For some reason these hills came out in a negative color, i'm pretty sure they d
 
 Successive views of the "astronaut". There is a theory that the Nazca lines were created by aliens, because apparently people did not posses the necessary technology to do so.
 
-Really? NO.....REALLY? Its a bunch of lines in dirt...its not the international space station. Hyein and I could do this, given enough time.
+Really? NO.....REALLY? It's a bunch of lines in dirt...it's not the international space station. Hyein and I could do this, given enough time.
 
-And i guess mystery sells tickets, so the whole alien theory is further perpetuated. And conveniently, this little guy looks like a person in a space suit.
+And I guess mystery sells tickets, so the whole alien theory is further perpetuated. And conveniently, this little guy looks like a person in a space suit.
 
 Anyway...moving on...
 
 <a href="/uploads/2016/01/DSC03169.jpg" rel="attachment wp-att-1620"><img class="aligncenter size-full wp-image-1620" src="/uploads/2016/01/DSC03169.jpg" alt="DSC03169" width="800" height="533" /></a>
 
-Oh hey, its me...trying to hold in my vomit.
+Oh hey, it's me...trying to hold in my vomit.
 
 I didn't tell you yet?
 
@@ -106,7 +106,7 @@ The pilot leans the plane so that you get a really good view at the ground, maki
 
 This means that people who are not used to this, basically all the tourists, get really, really, really nauseous.
 
-Hyein, being the smart one in our relationship, took a dramamine. And i decided to man it out.
+Hyein, being the smart one in our relationship, took a dramamine. And I decided to man it out.
 
 <a href="/uploads/2016/01/DSC03170.jpg" rel="attachment wp-att-1621"><img class="aligncenter size-full wp-image-1621" src="/uploads/2016/01/DSC03170.jpg" alt="DSC03170" width="800" height="533" /></a>
 
@@ -114,7 +114,7 @@ This is what a horizontal position of the plane looks like... so all the photos 
 
 <a href="/uploads/2016/01/DSC03172.jpg" rel="attachment wp-att-1622"><img class="aligncenter size-full wp-image-1622" src="/uploads/2016/01/DSC03172.jpg" alt="DSC03172" width="800" height="533" /></a>
 
-Monkey. ooooh...im getting nauseous just looking at this photos...my body has a conditional memory.
+Monkey. ooooh...I'm getting nauseous just looking at this photos...my body has a conditional memory.
 
 <a href="/uploads/2016/01/DSC03179.jpg" rel="attachment wp-att-1628"><img class="aligncenter size-full wp-image-1628" src="/uploads/2016/01/DSC03179.jpg" alt="DSC03179" width="800" height="533" /></a>
 
@@ -162,7 +162,7 @@ How about an aerial view?
 
 <a href="/uploads/2016/01/DSC03198.jpg" rel="attachment wp-att-1642"><img class="aligncenter size-full wp-image-1642" src="/uploads/2016/01/DSC03198.jpg" alt="DSC03198" width="800" height="533" /></a>
 
-Can you see it now? Well, its obviously a "tree" on the left and "hands" on the right. Who knew?
+Can you see it now? Well, it's obviously a "tree" on the left and "hands" on the right. Who knew?
 
 And that's the road and the tower from which we took the photos.
 
@@ -178,16 +178,16 @@ Heading back to the airport.
 
 <a href="/uploads/2016/01/DSC03210.jpg" rel="attachment wp-att-1651"><img class="aligncenter size-full wp-image-1651" src="/uploads/2016/01/DSC03210.jpg" alt="DSC03210" width="800" height="533" /></a>
 
-I looks happy because i managed to keep from sharing the contents of my stomach with the rest of the crew.
+I looks happy because I managed to keep from sharing the contents of my stomach with the rest of the crew.
 
 <a href="/uploads/2016/01/DSC03211.jpg" rel="attachment wp-att-1652"><img class="aligncenter size-full wp-image-1652" src="/uploads/2016/01/DSC03211.jpg" alt="DSC03211" width="800" height="533" /></a>
 
-But the guy next to me....he had the plastic bag out the whole time. I swear if he would have started...i dont know if i would have been able to control myself.
+But the guy next to me....he had the plastic bag out the whole time. I swear if he would have started...I don't know if I would have been able to control myself.
 
 Overall, I'm ambivalent about this experience.
 <ol>
 	<li>$70 is a lot of money in this part of the world</li>
-	<li>It is a vomit inducing flight (i've never been car or sea sick before)</li>
+	<li>It is a vomit inducing flight (I've never been car or sea sick before)</li>
 	<li>Lines are hard to see</li>
 </ol>
 But when else are you going to be here to do this? Most likely never...so bite some dramamine and spend the money.

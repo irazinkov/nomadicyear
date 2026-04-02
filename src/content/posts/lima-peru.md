@@ -24,13 +24,13 @@ After getting down from the mountains in the North of Peru, it was a fast drive 
 
 It felt so strange to go in a straight line and above 40 mph. Not even strange, more scary than anything. The road was so smooth and the ride so quite, it felt like you were floating above the ground.
 
-Living in San Diego, I used to constantly complain, mostly to myself, about the quality of our roads. I now miss them, yes there are potholes and some rough ground...but its still so much better overall!
+Living in San Diego, I used to constantly complain, mostly to myself, about the quality of our roads. I now miss them, yes there are potholes and some rough ground...but it's still so much better overall!
 
 Let me put it to you in comparison. Back home when you get to a smooth piece of road you say..."finally, the bad stuff is done".
 
-Here, its the opposite, when you get to a nice stretch of road...you are constantly looking and waiting for it to end. You can't believe your eyes and your butt that this will last for much longer, it just CANT!
+Here, it's the opposite, when you get to a nice stretch of road...you are constantly looking and waiting for it to end. You can't believe your eyes and your butt that this will last for much longer, it just CANT!
 
-I sound like I'm complaining - no thats not it. It just breaks my heart every time i miss a pothole or a speed bump and the car's shocks bottom out with a loud thud.
+I sound like I'm complaining - no that's not it. It just breaks my heart every time I miss a pothole or a speed bump and the car's shocks bottom out with a loud thud.
 
 After so much time in the car you become one with it and it's pain is your pain.
 
@@ -42,17 +42,17 @@ Why is there a picture of a restaurant? Because it is important to our story :)
 
 Gone are the days of Mexican tacos and tlayudas, the El Salvadorian pupusas are a distant memory. For the last month our diet consists mostly of rice, chicken and some fresh veggies.
 
-I've heard before from other travelers about the lack of imagination in the cuisine, but it was hard for me to believe that cuisine could be so flat. Its just the same thing - rice and chicken. Fine, i know there are other things...but we are tired of them. We WANT REAL FOOD.
+I've heard before from other travelers about the lack of imagination in the cuisine, but it was hard for me to believe that cuisine could be so flat. Its just the same thing - rice and chicken. Fine, I know there are other things...but we are tired of them. We WANT REAL FOOD.
 
 <a href="/uploads/2016/01/DSC03061.jpg" rel="attachment wp-att-1548"><img class="aligncenter size-full wp-image-1548" src="/uploads/2016/01/DSC03061.jpg" alt="DSC03061" width="800" height="533" /></a>
 
 So, upon arrival in Lima we were pleasantly surprised by the large number of different cuisines and restaurants.
 
-This place - "La Lucha Sangucheria" was in our favorite app, iOverlander. There was a review there stating that the pork sandwich is beyond good...its godly...i'm paraphrasing.
+This place - "La Lucha Sangucheria" was in our favorite app, iOverlander. There was a review there stating that the pork sandwich is beyond good...it's godly...I'm paraphrasing.
 
 <a href="/uploads/2016/01/DSC03063.jpg" rel="attachment wp-att-1550"><img class="aligncenter size-full wp-image-1550" src="/uploads/2016/01/DSC03063.jpg" alt="DSC03063" width="800" height="533" /></a>
 
-The sandwich was amazing. Looking back i'm not sure if it was truly a peak of culinary art or we were just starved for flavor.
+The sandwich was amazing. Looking back I'm not sure if it was truly a peak of culinary art or we were just starved for flavor.
 
 If you guys live in a big city and are used to trying whatever food you can think of...that is a luxury. Treasure it and have something delicious for us!
 
@@ -66,7 +66,7 @@ Managed to find a Japanese place, Hyein was beyond ecstatic.
 
 Just a simple ramen and a roll - something that you can go out and get any time and any day of the week. To us - this is celebration!
 
-<a href="/uploads/2016/01/DSC03068.jpg" rel="attachment wp-att-1554"><img class="aligncenter size-full wp-image-1554" src="/uploads/2016/01/DSC03068.jpg" alt="DSC03068" width="800" height="533" /></a>I'm sure i licked the plate clean...dont care what anyone thinks.
+<a href="/uploads/2016/01/DSC03068.jpg" rel="attachment wp-att-1554"><img class="aligncenter size-full wp-image-1554" src="/uploads/2016/01/DSC03068.jpg" alt="DSC03068" width="800" height="533" /></a>I'm sure I licked the plate clean...don't care what anyone thinks.
 
 Next day, with our hunger momentarily satiated - time to take a look at the city.
 
@@ -76,7 +76,7 @@ First of all - Lima is huge, like 9 million people. And the outskirts are trashy
 
 <a href="/uploads/2016/01/DSC03069.jpg" rel="attachment wp-att-1555"><img class="aligncenter size-full wp-image-1555" src="/uploads/2016/01/DSC03069.jpg" alt="DSC03069" width="800" height="533" /></a>
 
-Souvenir shops all around. Hyein found a full size llama stuffed animal. It was so plushy, i wanted to take it, but we dont have enough space.
+Souvenir shops all around. Hyein found a full size llama stuffed animal. It was so plushy, I wanted to take it, but we don't have enough space.
 
 <a href="/uploads/2016/01/DSC03070.jpg" rel="attachment wp-att-1556"><img class="aligncenter size-full wp-image-1556" src="/uploads/2016/01/DSC03070.jpg" alt="DSC03070" width="800" height="533" /></a>
 
@@ -104,7 +104,7 @@ Little side streets, leading away from the main square. Filled with shops and re
 
 <a href="/uploads/2016/01/DSC03083.jpg" rel="attachment wp-att-1567"><img class="aligncenter size-full wp-image-1567" src="/uploads/2016/01/DSC03083.jpg" alt="DSC03083" width="800" height="533" /></a>
 
-Walking around, we came across a park. Maybe its the architecture, or the traffic, but it gave me a very New York vibe.
+Walking around, we came across a park. Maybe it's the architecture, or the traffic, but it gave me a very New York vibe.
 
 <a href="/uploads/2016/01/DSC03084.jpg" rel="attachment wp-att-1568"><img class="aligncenter size-full wp-image-1568" src="/uploads/2016/01/DSC03084.jpg" alt="DSC03084" width="800" height="533" /></a>
 
@@ -140,7 +140,7 @@ The transfer paper is applied so that you can stick it on your car without any p
 
 <a href="/uploads/2016/01/DSC03095.jpg" rel="attachment wp-att-1577"><img class="aligncenter size-full wp-image-1577" src="/uploads/2016/01/DSC03095.jpg" alt="DSC03095" width="800" height="533" /></a>
 
-Back at the car - applying the new world map. This was a coordinated effort between the two of us, to make sure its not crooked :)
+Back at the car - applying the new world map. This was a coordinated effort between the two of us, to make sure it's not crooked :)
 
 <a href="/uploads/2016/01/DSC03098.jpg" rel="attachment wp-att-1578"><img class="aligncenter size-full wp-image-1578" src="/uploads/2016/01/DSC03098.jpg" alt="DSC03098" width="800" height="533" /></a>
 
@@ -166,20 +166,20 @@ Everything was still there, but somehow they did not evoke the same feeling of e
 
 So you think that since we are in a big and beautiful city such as Lima, we should be exploring it, going to museums... doing all the touristy stuff?
 
-No, after a few months of travel all the cities start to resemble each other...and we would rather spend our time inside...getting high on ink fumes. Seriously, that stuff is no joke...i'm sure the people that work there end up losing a few brain cells.
+No, after a few months of travel all the cities start to resemble each other...and we would rather spend our time inside...getting high on ink fumes. Seriously, that stuff is no joke...I'm sure the people that work there end up losing a few brain cells.
 
-So what is our big plan for the day? Ohhh, i know... lets make stickers of all the countries that we plan to visit and put that shit on our car! Sounds like a great plan.
+So what is our big plan for the day? Ohhh, I know... let's make stickers of all the countries that we plan to visit and put that shit on our car! Sounds like a great plan.
 <a href="/uploads/2016/01/DSC03108.jpg" rel="attachment wp-att-1586"><img class="aligncenter size-full wp-image-1586" src="/uploads/2016/01/DSC03108.jpg" alt="DSC03108" width="800" height="533" /></a>
 
 Since, we are dealing with actual material being cut, each letter was individually checked for continuity. And each flag was carefully stolen from Wikipedia. Thank you Wiki and Mr. Wales.
 
-Maybe next time they ask for donations, i will break my long silence and chip in a few shekels.
+Maybe next time they ask for donations, I will break my long silence and chip in a few shekels.
 
 We didn't know when we would get another chance to print out stickers, so we guessed on all the possible places we would go.
 
 <a href="/uploads/2016/01/DSC03109.jpg" rel="attachment wp-att-1587"><img class="aligncenter size-full wp-image-1587" src="/uploads/2016/01/DSC03109.jpg" alt="DSC03109" width="800" height="533" /></a>
 
-Carefully cutting out all the flags. We should have been more careful when checking the flags...because there is a mistake in one of them. If you can find it...be the first to write in the comments and i'll buy you a beer...or paypal you enough money for a round of beer. Seriously, who doesn't want a free beer?
+Carefully cutting out all the flags. We should have been more careful when checking the flags...because there is a mistake in one of them. If you can find it...be the first to write in the comments and I'll buy you a beer...or paypal you enough money for a round of beer. Seriously, who doesn't want a free beer?
 
 <a href="/uploads/2016/01/DSC03110.jpg" rel="attachment wp-att-1588"><img class="aligncenter size-full wp-image-1588" src="/uploads/2016/01/DSC03110.jpg" alt="DSC03110" width="800" height="533" /></a>
 
@@ -197,4 +197,4 @@ Last sticker for now - Peru.
 
 I think that we will finish the driver's side with South America and start on the passenger's side after Argentina.
 
-Now that we got the stickers...done with Lima, lets move on to Nazca.
+Now that we got the stickers...done with Lima, let's move on to Nazca.

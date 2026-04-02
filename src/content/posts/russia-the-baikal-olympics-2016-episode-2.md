@@ -3,8 +3,8 @@ title: "Russia - The Baikal Olympics 2016 - Episode 2"
 slug: "russia-the-baikal-olympics-2016-episode-2"
 pubDate: "2016-07-05T16:00:34Z"
 updatedDate: "2016-07-03T14:38:03Z"
-description: "Day 4 Lets stop talking about how hard it is to wake up in the morning and focus on the beautiful things in life. Kids. At this event there is a lot them, everyone who had a child and could bring them..."
-excerpt: "Day 4 Lets stop talking about how hard it is to wake up in the morning and focus on the beautiful things in life. Kids. At this event there is a lot them, everyone who had a child and could bring them..."
+description: "Day 4 Let's stop talking about how hard it is to wake up in the morning and focus on the beautiful things in life. Kids. At this event there is a lot them, everyone who had a child and could bring them..."
+excerpt: "Day 4 Let's stop talking about how hard it is to wake up in the morning and focus on the beautiful things in life. Kids. At this event there is a lot them, everyone who had a child and could bring them..."
 heroImage: "/uploads/2016/07/korandovod_slider_2.jpg"
 heroImageAlt: "korandovod_slider_2"
 country: "russia"
@@ -33,7 +33,7 @@ draft: false
 ---
 <div id="google_translate_element"></div>
 <h2>Day 4</h2>
-Lets stop talking about how hard it is to wake up in the morning and focus on the beautiful things in life.
+Let's stop talking about how hard it is to wake up in the morning and focus on the beautiful things in life.
 
 Kids.
 
@@ -49,9 +49,9 @@ But most of the time they roam from one tent or table to the next one, showing u
 
 <a href="/uploads/2016/07/DSC9133-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9133" src="/uploads/2016/07/DSC9133_thumb.jpg" alt="_DSC9133" width="697" height="465" border="0" /></a>
 
-Anton really took to copying Korean text that Hyein would write for him. By the end of the camp he got so fast and good at it that we didn’t have enough time to make new samples for him. I remember myself at an early age fascinated by a person, a car or something and i just couldn’t leave it alone. I would hang about, asking questions, hoping that i wouldn’t be shooed away.
+Anton really took to copying Korean text that Hyein would write for him. By the end of the camp he got so fast and good at it that we didn’t have enough time to make new samples for him. I remember myself at an early age fascinated by a person, a car or something and I just couldn’t leave it alone. I would hang about, asking questions, hoping that I wouldn’t be shooed away.
 
-Back home our circle of friends is just starting to have kids so almost none of them are in the age where they aimlessly hang about nearby you. Here, i got to remember my childhood and wanted to do everything they asked of us. Sometimes it was hard to say no because we also wanted to hang out with other folks.
+Back home our circle of friends is just starting to have kids so almost none of them are in the age where they aimlessly hang about nearby you. Here, I got to remember my childhood and wanted to do everything they asked of us. Sometimes it was hard to say no because we also wanted to hang out with other folks.
 
 <a href="/uploads/2016/07/DSC9135-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9135" src="/uploads/2016/07/DSC9135_thumb.jpg" alt="_DSC9135" width="697" height="465" border="0" /></a>
 
@@ -59,7 +59,7 @@ Are we going to just listen to your ramblings about your childhood?
 
 No! The plan for the day is to get into our cars and drive all the way to the North of the island. We here there are cool views, interesting animals and a challenging road.
 
-Thinking that we are going to be short of gas for the drive back to the gas station we hitched a ride with Natasha and Anton. By the way, there are NO gas stations on the island and the earliest gas station back is about 10 miles after the ferry on the mainland. So plan accordingly. In our usual style of being totally prepared we filled up our main tank all the way…but for whatever dumb reason decided against filling the canister and the secondary tank… please dont be like us. Think more.
+Thinking that we are going to be short of gas for the drive back to the gas station we hitched a ride with Natasha and Anton. By the way, there are NO gas stations on the island and the earliest gas station back is about 10 miles after the ferry on the mainland. So plan accordingly. In our usual style of being totally prepared we filled up our main tank all the way…but for whatever dumb reason decided against filling the canister and the secondary tank… please don't be like us. Think more.
 
 Our was smack in the center of the island so we had about 25 miles to go the northern end.
 
@@ -71,19 +71,19 @@ A quick meeting was held, people were called on the radio, other teams from Kora
 
 <a href="/uploads/2016/07/DSC9141-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9141" src="/uploads/2016/07/DSC9141_thumb.jpg" alt="_DSC9141" width="697" height="465" border="0" /></a>
 
-I dont mind at all, we just get to see the beautiful sights one more time.
+I don't mind at all, we just get to see the beautiful sights one more time.
 
 <a href="/uploads/2016/07/DSC9142-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9142" src="/uploads/2016/07/DSC9142_thumb.jpg" alt="_DSC9142" width="697" height="465" border="0" /></a>
 
 While Ruslan was heading back to camp we were delegate with getting some Omul for dinner.
 
-Our favorite variety is the one in the bottom center. Its not too salty, cold smoked, very fatty. Lots and lots of flavor, and when your mouth is satiated with the taste, just take another sip of beer to refresh your taste buds.
+Our favorite variety is the one in the bottom center. It's not too salty, cold smoked, very fatty. Lots and lots of flavor, and when your mouth is satiated with the taste, just take another sip of beer to refresh your taste buds.
 
 <a href="/uploads/2016/07/DSC9144-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9144" src="/uploads/2016/07/DSC9144_thumb.jpg" alt="_DSC9144" width="697" height="465" border="0" /></a>
 
 Back in camp Dima aka Danon is deep into his engine bay, trying to troubleshoot the stupid light. Boris is there with suggestions and moral support, while not forgetting to enjoy his vacation with a beer.
 
-I tried my best to help, but not being familiar with the cars or their problems i was of little help.
+I tried my best to help, but not being familiar with the cars or their problems I was of little help.
 
 Danon changed the oil, check the pressure sensor, checked the oil pump…still no luck.
 
@@ -93,7 +93,7 @@ While he was busy trying to resuscitate his Korando back to life other people we
 
 Turns out the wire from the oil pressure sensor has worn through the insulation and was shorting to +12V effectively turning on the light. Danon quickly ran separate wires to the sensor and that was it.
 
-Did i forget to tell you that he was supposed to leave early in the morning the following day to go back home to Novosibirk?
+Did I forget to tell you that he was supposed to leave early in the morning the following day to go back home to Novosibirk?
 
 So this fix was just fun and games…it needed to happen.
 
@@ -107,7 +107,7 @@ With a half tank of gas even at the worst offroad fuel consumption we concluded 
 
 <a href="/uploads/2016/07/DSC9160-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9160" src="/uploads/2016/07/DSC9160_thumb.jpg" alt="_DSC9160" width="697" height="465" border="0" /></a>
 
-The actual road was not that bad. There was some deep sand that we just plowed through with some speed and without any issues. Then came the hard packed dirt with offset dips, what i mean by that is when you are going straight there is a whole in the ground but only for one of the wheels, then a few feet later there is another whole for the other side. You have to go really slow and hear as you car is being stretched fully like an acrobat, the suspension working out all its kinks as it conforms to the ups and downs of the road.
+The actual road was not that bad. There was some deep sand that we just plowed through with some speed and without any issues. Then came the hard packed dirt with offset dips, what I mean by that is when you are going straight there is a hole in the ground but only for one of the wheels, then a few feet later there is another hole for the other side. You have to go really slow and hear as your car is being stretched fully like an acrobat, the suspension working out all its kinks as it conforms to the ups and downs of the road.
 
 It felt that at some points the dips were so deep that at least one of the wheels had to be in the air. But we looked at the Korandos in the rear view mirror and saw them easily dealing with it, with all wheels safely planted on the ground. So I assume we did no worse.
 
@@ -169,7 +169,7 @@ We spent almost the whole day driving together and on the way back thought it wo
 
 Hyein mentioned that she loved Russian "okroshka" so it was decided that we are having okroshka for dinner.
 
-So what is it? It's a type of salad or soup that is traditionally eaten in the summer. Its made from hard boiled eggs, bologna, cucumber, dill and potatoes. Once you got the salad base ready you pour special sour kvas over it, making it a cold soup. We couldn't find the special kvas in the village store, so had to use the run of the mill one.
+So what is it? It's a type of salad or soup that is traditionally eaten in the summer. It's made from hard boiled eggs, bologna, cucumber, dill and potatoes. Once you got the salad base ready you pour special sour kvas over it, making it a cold soup. We couldn't find the special kvas in the village store, so had to use the run of the mill one.
 
 <a href="/uploads/2016/07/DSC9222-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9222" src="/uploads/2016/07/DSC9222_thumb.jpg" alt="_DSC9222" width="697" height="465" border="0" /></a>
 
@@ -209,7 +209,7 @@ A representative of the Kingdom of Koryo (aka South Korea) has come to show that
 
 <a href="/uploads/2016/07/DSC9243-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9243" src="/uploads/2016/07/DSC9243_thumb.jpg" alt="_DSC9243" width="697" height="465" border="0" /></a>
 
-But lets not forget that this is still a friendly competition. So smiles all around, until they found out that i punctured their tires...muaahahahahah!
+But let's not forget that this is still a friendly competition. So smiles all around, until they found out that I punctured their tires...muaahahahahah!
 
 <a href="/uploads/2016/07/DSC9245-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9245" src="/uploads/2016/07/DSC9245_thumb.jpg" alt="_DSC9245" width="697" height="465" border="0" /></a>
 
@@ -231,7 +231,7 @@ The tire pressure was too high so we dropped it down, turned off all the electro
 
 <a href="/uploads/2016/07/DSC9264-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9264" src="/uploads/2016/07/DSC9264_thumb.jpg" alt="_DSC9264" width="697" height="465" border="0" /></a>
 
-We lined up at our side of the arena, Hyein took the spear, while i white-knuckled waited for the go signal.
+We lined up at our side of the arena, Hyein took the spear, while I white-knuckled waited for the go signal.
 
 Our opponent is the Great Knight from the Kingdom of Koryo (aka Dongkyung and Isul).
 
@@ -289,9 +289,9 @@ Ruslan on the shore and his wife, Irina, and son, Sergei, in the boat.
 
 <a href="/uploads/2016/07/DSC9337.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9337" src="/uploads/2016/07/DSC9337_thumb.jpg" alt="_DSC9337" width="697" height="465" border="0" /></a>
 
-With all the practice of driving in the sand, i was excited to get our Hodori covered in some mud.
+With all the practice of driving in the sand, I was excited to get our Hodori covered in some mud.
 
-Under Ruslan's tutelage we practiced driving up the hill in rocky, sandy and muddy conditions. I have to say that i didn't know that our Hodori is this capable in so many different environments, even so heavily loaded.
+Under Ruslan's tutelage we practiced driving up the hill in rocky, sandy and muddy conditions. I have to say that I didn't know that our Hodori is this capable in so many different environments, even so heavily loaded.
 
 <a href="/uploads/2016/07/DSC9338.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9338" src="/uploads/2016/07/DSC9338_thumb.jpg" alt="_DSC9338" width="697" height="465" border="0" /></a>
 
@@ -305,7 +305,7 @@ So he go into our Hodori...said it was much roomier than he thought. Hyein manag
 
 <a href="/uploads/2016/07/DSC9343.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9343" src="/uploads/2016/07/DSC9343_thumb.jpg" alt="_DSC9343" width="697" height="465" border="0" /></a>
 
-I don't know why i look so serious at this point. Maybe I'm a bit nervous driving it? We are just going up the hill, with a lake behind me, on a stick and in someone else's car....so no reason at all.
+I don't know why I look so serious at this point. Maybe I'm a bit nervous driving it? We are just going up the hill, with a lake behind me, on a stick and in someone else's car....so no reason at all.
 
 Honestly in low gear with all the differentials locked and with a diesel in first gear I literally didn't have to press the gas it kinda just idled up the hill without even losing traction once.
 
@@ -319,7 +319,7 @@ At the closing ceremony one of the sponsors of the event showed up and talked ab
 
 To show off their instant hot shower they asked two teams to compete in washing their hair. In a matter of just a couple of minutes the guys had clean heads and yes, the water was warm, but because of the competition the ladies managed to get the rest of their bodies wet as well and with the sun going down the two poor guys sat their the rest of the event shivering.
 
-Okay, so i do appreciate the products, but for us they wouldn't work because they are high wattage, electrical power-hungry devices that run on 220V. For regular camping this might work...not for our style though.
+Okay, so I do appreciate the products, but for us they wouldn't work because they are high wattage, electrical power-hungry devices that run on 220V. For regular camping this might work...not for our style though.
 
 <a href="/uploads/2016/07/DSC9347.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9347" src="/uploads/2016/07/DSC9347_thumb.jpg" alt="_DSC9347" width="697" height="465" border="0" /></a>
 
@@ -339,15 +339,15 @@ And before the announcer even finished saying: "Doshirak", we were up and runnin
 
 <a href="/uploads/2016/07/DSC9367.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9367" src="/uploads/2016/07/DSC9367_thumb.jpg" alt="_DSC9367" width="697" height="465" border="0" /></a>
 
-I'm sorry that Petya and Danon were not there to accept their prize...i took it on their behalf. The acceptance speech filled with tears and many thanks to everyone for welcoming us to this community.
+I'm sorry that Petya and Danon were not there to accept their prize...I took it on their behalf. The acceptance speech filled with tears and many thanks to everyone for welcoming us to this community.
 
 <a href="/uploads/2016/07/DSC9370.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9370" src="/uploads/2016/07/DSC9370_thumb.jpg" alt="_DSC9370" width="697" height="465" border="0" /></a>
 
-Final photo with the communal kids...i honestly don't even know who their parents are or if they even have them. Hm...they did go to sleep somewhere at night, so I'm assuming they had some parental units with them.
+Final photo with the communal kids...I honestly don't even know who their parents are or if they even have them. Hm...they did go to sleep somewhere at night, so I'm assuming they had some parental units with them.
 
 <a href="/uploads/2016/07/DSC9356.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9356" src="/uploads/2016/07/DSC9356_thumb.jpg" alt="_DSC9356" width="697" height="465" border="0" /></a>
 
-Grandmother Margarita was chosen as the honorable representative of the community for raising and lower the flag at the ceremonies. She is 76 years old and still comes out to these events...i'm sure my grandmother would do the same, given a chance.
+Grandmother Margarita was chosen as the honorable representative of the community for raising and lower the flag at the ceremonies. She is 76 years old and still comes out to these events...I'm sure my grandmother would do the same, given a chance.
 
 <a href="/uploads/2016/07/DSC9359.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9359" src="/uploads/2016/07/DSC9359_thumb.jpg" alt="_DSC9359" width="697" height="465" border="0" /></a>
 
@@ -371,7 +371,7 @@ In the morning, we watched everyone leave and as they passed by our car everyone
 
 At some point the hugs and good-byes became so much that Hyein could not contain her emotions and shed a few tears.
 
-To be honest, i wanted to let a few go...
+To be honest, I wanted to let a few go...
 
 <a href="/uploads/2016/07/DSC9388.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9388" src="/uploads/2016/07/DSC9388_thumb.jpg" alt="_DSC9388" width="697" height="465" border="0" /></a>
 
@@ -383,7 +383,7 @@ While we were driving back, the realization that this is over and everyone is go
 
 <a href="/uploads/2016/07/DSC9393.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9393" src="/uploads/2016/07/DSC9393_thumb.jpg" alt="_DSC9393" width="697" height="465" border="0" /></a>
 
-Its like the feeling at the end of a long Sunday...when you realize the weekend is over and you have to go back to school or work tomorrow morning.
+It's like the feeling at the end of a long Sunday...when you realize the weekend is over and you have to go back to school or work tomorrow morning.
 
 We said good-bye in Irkutsk...but in Russian we never say "good-bye" we always say "do svidanya" translated as "until the next meeting".
 

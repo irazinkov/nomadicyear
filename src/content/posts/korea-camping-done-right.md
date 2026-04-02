@@ -3,8 +3,8 @@ title: "Korea - Camping Done Right"
 slug: "korea-camping-done-right"
 pubDate: "2016-06-16T03:09:57Z"
 updatedDate: "2016-06-16T03:09:57Z"
-description: "In the previous post i mentioned about the Korean overlanding site and that Hyein posted on there that we are doing some trips in Korea. Well the response was outstanding, people were very nice and we..."
-excerpt: "In the previous post i mentioned about the Korean overlanding site and that Hyein posted on there that we are doing some trips in Korea. Well the response was outstanding, people were very nice and we..."
+description: "In the previous post I mentioned about the Korean overlanding site and that Hyein posted on there that we are doing some trips in Korea. Well the response was outstanding, people were very nice and we..."
+excerpt: "In the previous post I mentioned about the Korean overlanding site and that Hyein posted on there that we are doing some trips in Korea. Well the response was outstanding, people were very nice and we..."
 heroImage: "/uploads/2016/06/korea-camping.jpg"
 heroImageAlt: "korea camping"
 categories:
@@ -22,37 +22,37 @@ status: "publish"
 draft: false
 ---
 <div id="google_translate_element"></div>
-In the previous post i mentioned about the Korean overlanding site and that Hyein posted on there that we are doing some trips in Korea. Well the response was outstanding, people were very nice and welcoming, even more so the big-wigs that run that community decided to organize a weekend camping and invite us.
+In the previous post I mentioned about the Korean overlanding site and that Hyein posted on there that we are doing some trips in Korea. Well the response was outstanding, people were very nice and welcoming, even more so the big-wigs that run that community decided to organize a weekend camping and invite us.
 
-Btw, do you like how i tie in the previous post? Makes you want to go back and read ...right?
+Btw, do you like how I tie in the previous post? Makes you want to go back and read ...right?
 
 <a href="/uploads/2016/06/DSC7335.jpg"><img class="aligncenter size-large wp-image-4089" src="/uploads/2016/06/DSC7335-1024x683.jpg" alt="_DSC7335" width="697" height="465" /></a>
 
-Before committing to this event, i asked Heyin how many people are in the community. Her response well...it used to be 30,000 but now its only 1000.
+Before committing to this event, I asked Heyin how many people are in the community. Her response well...it used to be 30,000 but now its only 1000.
 
 Shit...are they all going to come out? That's like a small hippie convention. Hyein assured me that only the a few people will be joining us.
 
 <a href="/uploads/2016/06/DSC7368.jpg"><img class="aligncenter size-large wp-image-4090" src="/uploads/2016/06/DSC7368-1024x683.jpg" alt="_DSC7368" width="697" height="465" /></a>
 
-The name of the forum is "Nangman", which means romance in Korean. And the head guy who runs the forum is called "Mulgogi" (translated as fish).  In the first post i described it is an overlanding forum, but i now understand that is more of a car camping forum. People come together to learn, dream and actually build their dream camping cars.
+The name of the forum is "Nangman", which means romance in Korean. And the head guy who runs the forum is called "Mulgogi" (translated as fish).  In the first post I described it is an overlanding forum, but I now understand that is more of a car camping forum. People come together to learn, dream and actually build their dream camping cars.
 
 In the real world Mulgogi actually runs a camping car design and construction business. On Saturday morning, before we went camping we were invited to come by the shop and have a look-see.
 
 You see all these cute little trucks? Those are Kia Bongo's, the work horse of Korean small businesses. These are used as delivery vehicles, small construction, road work, refrigerated cargo...there is a million of them on the roads of Korea. And non those look like the thing Mulgogi creates.
 
-Depending on the customer's needs he can make anything, but what i really like about his work is quality. Everything is thought out, everything matches and aligns, there are no unnecessary bits hanging off the vehicle just for shits and giggles.
+Depending on the customer's needs he can make anything, but what I really like about his work is quality. Everything is thought out, everything matches and aligns, there are no unnecessary bits hanging off the vehicle just for shits and giggles.
 
 <a href="/uploads/2016/06/DSC7336.jpg"><img class="aligncenter size-large wp-image-4091" src="/uploads/2016/06/DSC7336-1024x683.jpg" alt="_DSC7336" width="697" height="465" /></a>
 
 That's his own Land Rover...got the usual kit - roof-top-tent, awning, fridge... Everything neat and clean. And its a diesel.
 
-Maybe i dont know anything about anything but it seems like diesels are the way to go for overlanding.
+Maybe I don't know anything about anything but it seems like diesels are the way to go for overlanding.
 
-We rarely need to go fast, most of the time we are carrying around a bunch of weight, and the mpg's on these things are better from what i hear. So why can't i get one in our Land Cruiser?
+We rarely need to go fast, most of the time we are carrying around a bunch of weight, and the mpg's on these things are better from what I hear. So why can't I get one in our Land Cruiser?
 
 <a href="/uploads/2016/06/DSC7357.jpg"><img class="aligncenter size-large wp-image-4093" src="/uploads/2016/06/DSC7357-1024x683.jpg" alt="_DSC7357" width="697" height="465" /></a>
 
-Thats HK (left) and Mulgogi (right), two longtime friends and active members of the korean car camping community. Turns out that everyone else who was coming camping with us, decided to meet up at the workshop first and then head over to the camp spot.
+That's HK (left) and Mulgogi (right), two longtime friends and active members of the korean car camping community. Turns out that everyone else who was coming camping with us, decided to meet up at the workshop first and then head over to the camp spot.
 
 <a href="/uploads/2016/06/DSC7373.jpg"><img class="aligncenter size-large wp-image-4092" src="/uploads/2016/06/DSC7373-1024x683.jpg" alt="_DSC7373" width="697" height="465" /></a>
 
@@ -66,11 +66,11 @@ Before the arduous journey to the North of South Korea, we need to fill up on so
 
 Of course, you can't accidentally just walk into North Korea. The border between the North and the South is one most guarded, weaponized and militarized places in the world. Each country actually has a buffer zone before the actual border, creating a 2.5 mile wide "Demilitarized Zone (DMZ)". Do you see the irony in the name now?
 
-Although, terrible for the humans this is an amazing sanctuary for the humans. It has been reported...somewhere, dont want to look for a source, that the pure absence of humans lets animals prosper, even when there thousand of land mines around.
+Although, terrible for the humans this is an amazing sanctuary for the humans. It has been reported...somewhere, don't want to look for a source, that the pure absence of humans let's animals prosper, even when there thousand of land mines around.
 
 <a href="/uploads/2016/06/DSC7398.jpg"><img class="aligncenter size-large wp-image-4096" src="/uploads/2016/06/DSC7398-1024x683.jpg" alt="_DSC7398" width="697" height="465" /></a>
 
-We aren't going that close to the border, but this is the closest that i have been to the DMZ.
+We aren't going that close to the border, but this is the closest that I have been to the DMZ.
 
 And we are rolling strong in a convoy of 6 cars, most of them heavily modified for camping. We definitely stand out in the average Korean traffic of Hyundai Elantra's and Kia Sorrento's.
 
@@ -82,7 +82,7 @@ So, although it is the first time meeting all these people they have read Hyein'
 
 Last week when overlanding we looked into camping spot in various parts of Korea and all we found were sites for like $30-40 USD PER NIGHT.
 
-Yeah let that sink in...you've seen our budget post...thats almost a third of our daily budget, we cant just spend it on a place to park our car and pass out.
+Yeah let that sink in...you've seen our budget post...that's almost a third of our daily budget, we can't just spend it on a place to park our car and pass out.
 
 Small size of Korea, high population density and short weekends drive people to known locations with all the amenities. Plus these days camping is IN, but its more like glamping now.
 
@@ -114,7 +114,7 @@ This Lina...the cutest thing in this whole campsite.
 
 After finding a spot large enough for all of us, we furiously started setting up.
 
-Now i have to tel you that there is a difference between the way these guys camp and us. When designing our rig, i wanted everything to be super efficient. I hate wasting time on setting something up only to take it down the next morning.
+Now I have to tel you that there is a difference between the way these guys camp and us. When designing our rig, I wanted everything to be super efficient. I hate wasting time on setting something up only to take it down the next morning.
 
 We have an awning but rarely use it because most time we stop when the sun is no longer a problem. And so far the rain has only been a real problem once.
 
@@ -126,15 +126,15 @@ We keep it simple, because we have to move on the next day.
 
 <a href="/uploads/2016/06/DSC7498.jpg"><img class="aligncenter size-large wp-image-4106" src="/uploads/2016/06/DSC7498-1024x683.jpg" alt="_DSC7498" width="697" height="465" /></a>
 
-I dont see anything wrong with their way, its just a different solution to a different problem. Camping and overlanding are a bit different. It is okay to do something once or twice, but if are doing it every day and don't have to, then after a few weeks you will stop.
+I don't see anything wrong with their way, its just a different solution to a different problem. Camping and overlanding are a bit different. It is okay to do something once or twice, but if are doing it every day and don't have to, then after a few weeks you will stop.
 
 These guys also like to setup fast and be done. In this photo Mulgogi is proudly showing off a tent that sets up faster than our Airtop.
 
 <a href="/uploads/2016/06/camping.jpg"><img class="aligncenter size-large wp-image-4107" src="/uploads/2016/06/camping-1024x768.jpg" alt="camping" width="697" height="523" /></a>
 
-Man, one thing i have to say...once these guys are done setting up a camp, it actually looks like a little city.
+Man, one thing I have to say...once these guys are done setting up a camp, it actually looks like a little city.
 
-I'm finally living up to the blog name and feel like a nomad. This is what i imagine people did back in the day, ride all day with the whole family, then unload their horses and set up camp. Let the horses rest, while you eat and drink all night.
+I'm finally living up to the blog name and feel like a nomad. This is what I imagine people did back in the day, ride all day with the whole family, then unload their horses and set up camp. Let the horses rest, while you eat and drink all night.
 
 <a href="/uploads/2016/06/Capture3-1.jpg"><img class="aligncenter size-large wp-image-4108" src="/uploads/2016/06/Capture3-1-1024x574.jpg" alt="Capture3" width="697" height="391" /></a>
 
@@ -154,13 +154,13 @@ By the end of the day another camper joined us, but since he had a trailer his s
 
 <a href="/uploads/2016/06/DSC7532.jpg"><img class="aligncenter size-large wp-image-4112" src="/uploads/2016/06/DSC7532-1024x683.jpg" alt="_DSC7532" width="697" height="465" /></a>
 
-With the camp setup and everyone present, they decided to check out the car and make sure we will make it at least till the next city. I thought, i was paying attention pretty well to things, but its always a good idea to have a second pair of eyes or five look at your engine.
+With the camp setup and everyone present, they decided to check out the car and make sure we will make it at least till the next city. I thought, I was paying attention pretty well to things, but its always a good idea to have a second pair of eyes or five look at your engine.
 
 The verdict...not too bad. The coolant was a bit low and it seems that the hose clamps the guys were using on the radiator pipe were not properly tightened. This resulted in a small leak and loss of coolant. No big deal, fill that up and ready to go. Second, the plastic engine cover was rubbing on the radiator hose and could potentially make a hole in it. So we decided to fix it on the spot.
 
 <a href="/uploads/2016/06/DSC7542.jpg"><img class="aligncenter size-large wp-image-4113" src="/uploads/2016/06/DSC7542-1024x683.jpg" alt="_DSC7542" width="697" height="465" /></a>
 
-I tried to use my trusty swiss knife, but the guy with the trailer apparently had an electric saw. Man, i would have thought that to be excessive, but now that i need it...it’s perfect.
+I tried to use my trusty swiss knife, but the guy with the trailer apparently had an electric saw. Man, I would have thought that to be excessive, but now that I need it...it’s perfect.
 
 <a href="/uploads/2016/06/DSC7544.jpg"><img class="aligncenter size-large wp-image-4114" src="/uploads/2016/06/DSC7544-1024x683.jpg" alt="_DSC7544" width="697" height="465" /></a>
 

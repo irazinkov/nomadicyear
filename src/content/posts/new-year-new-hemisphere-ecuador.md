@@ -3,8 +3,8 @@ title: "New Year, New Hemisphere - Ecuador"
 slug: "new-year-new-hemisphere-ecuador"
 pubDate: "2016-01-15T09:00:10Z"
 updatedDate: "2016-09-18T12:37:18Z"
-description: "I started with a picture on purpose...look at these gas prices!!! Thats US dollars btw. I know, i know its almost the same in the states. But when we were leaving it was at $3.50/gal in San Diego. Sin..."
-excerpt: "I started with a picture on purpose...look at these gas prices!!! Thats US dollars btw. I know, i know its almost the same in the states. But when we were leaving it was at $3.50/gal in San Diego. Sin..."
+description: "I started with a picture on purpose...look at these gas prices!!! That's US dollars btw. I know, I know it's almost the same in the states. But when we were leaving it was at $3.50/gal in San Diego. Sin..."
+excerpt: "I started with a picture on purpose...look at these gas prices!!! That's US dollars btw. I know, I know it's almost the same in the states. But when we were leaving it was at $3.50/gal in San Diego. Sin..."
 heroImage: "/uploads/2016/01/ecuador-3.jpg"
 heroImageAlt: "ecuador 3"
 country: "ecuador"
@@ -21,9 +21,9 @@ draft: false
 ---
 <a href="/uploads/2016/01/DSC02704.jpg" rel="attachment wp-att-1319"><img class="aligncenter size-full wp-image-1319" src="/uploads/2016/01/DSC02704.jpg" alt="DSC02704" width="800" height="533" /></a>
 
-I started with a picture on purpose...look at these gas prices!!! Thats US dollars btw.
+I started with a picture on purpose...look at these gas prices!!! That's US dollars btw.
 
-I know, i know its almost the same in the states. But when we were leaving it was at $3.50/gal in San Diego.
+I know, I know it's almost the same in the states. But when we were leaving it was at $3.50/gal in San Diego.
 
 <a href="/uploads/2016/01/DSC02705.jpg" rel="attachment wp-att-1320"><img class="aligncenter size-full wp-image-1320" src="/uploads/2016/01/DSC02705.jpg" alt="DSC02705" width="800" height="533" /></a>
 
@@ -31,15 +31,15 @@ Since no one wants to fill up with the "expensive" Colombian gas, there are line
 <h2>Otavalo</h2>
 The city itself is nothing special but it claims to have the largest outdoor market in South America.
 
-We like markets...lets go!
+We like markets...let's go!
 
 <a href="/uploads/2016/01/DSC02706.jpg" rel="attachment wp-att-1321"><img class="aligncenter size-full wp-image-1321" src="/uploads/2016/01/DSC02706.jpg" alt="DSC02706" width="800" height="533" /></a>
 
-Hm...not the Guadalajara market that we expected. Its clothes and souvenirs.
+Hm...not the Guadalajara market that we expected. It's clothes and souvenirs.
 
 <a href="/uploads/2016/01/DSC02707.jpg" rel="attachment wp-att-1322"><img class="aligncenter size-full wp-image-1322" src="/uploads/2016/01/DSC02707.jpg" alt="DSC02707" width="800" height="533" /></a>
 
-Do i need a hat? No...but i do want one.
+Do I need a hat? No...but I do want one.
 
 <a href="/uploads/2016/01/DSC02708.jpg" rel="attachment wp-att-1323"><img class="aligncenter size-full wp-image-1323" src="/uploads/2016/01/DSC02708.jpg" alt="DSC02708" width="800" height="533" /></a>
 
@@ -51,7 +51,7 @@ And of course, no market is complete without some home cooking. We couldn't quit
 
 <a href="/uploads/2016/01/DSC02713.jpg" rel="attachment wp-att-1325"><img class="aligncenter size-full wp-image-1325" src="/uploads/2016/01/DSC02713.jpg" alt="DSC02713" width="800" height="533" /></a>
 
-Don't know where to look? Look at the LATITUDE... thats 0.02 degrees south of the equator.
+Don't know where to look? Look at the LATITUDE... that's 0.02 degrees south of the equator.
 
 WOOOHOOOOOOH!!!
 
@@ -65,7 +65,7 @@ The roads are nice, the shoulders are clean. The cities and villages are tidy, t
 
 And probably 20 minutes into the country we got caught by a speed camera.
 
-It was such a bizarre thing, i would have never expected it for a million years. We will see just how well the bureaucracy works when we try to exit Ecuador.
+It was such a bizarre thing, I would have never expected it for a million years. We will see just how well the bureaucracy works when we try to exit Ecuador.
 
 <a href="/uploads/2016/01/DSC02715.jpg" rel="attachment wp-att-1326"><img class="aligncenter size-full wp-image-1326" src="/uploads/2016/01/DSC02715.jpg" alt="DSC02715" width="800" height="533" /></a>
 
@@ -125,7 +125,7 @@ It was nice a clean but reminded me of Pacific Beach too much.
 
 <a href="/uploads/2016/01/DSC02740.jpg" rel="attachment wp-att-1343"><img class="aligncenter size-full wp-image-1343" src="/uploads/2016/01/DSC02740.jpg" alt="DSC02740" width="800" height="533" /></a>
 
-The plaza was called "Foch Plaza" so obviously they couldnt resist from a little pun...but who could blame them...definitely not us!
+The plaza was called "Foch Plaza" so obviously they couldn't resist from a little pun...but who could blame them...definitely not us!
 
 <a href="/uploads/2016/01/DSC02741.jpg" rel="attachment wp-att-1344"><img class="aligncenter size-full wp-image-1344" src="/uploads/2016/01/DSC02741.jpg" alt="DSC02741" width="800" height="533" /></a>
 
@@ -133,7 +133,7 @@ I could resist myself :)
 
 <a href="/uploads/2016/01/DSC02743.jpg" rel="attachment wp-att-1346"><img class="aligncenter size-full wp-image-1346" src="/uploads/2016/01/DSC02743.jpg" alt="DSC02743" width="800" height="533" /></a>
 
-I'm liking this new trend of beer photos. I'm getting thirsty for one as i write.
+I'm liking this new trend of beer photos. I'm getting thirsty for one as I write.
 <h2>Banos</h2>
 We spent the night in Quito sleeping in a parking lot of the central park. And at some ungodly hour (~4am) people started parking there and going for a jog, making a general ruckus of things.
 
@@ -173,7 +173,7 @@ Before getting into the car managed to snap a few photos of the rainbow.
 
 <a href="/uploads/2016/01/DSC02787.jpg" rel="attachment wp-att-1364"><img class="aligncenter size-full wp-image-1364" src="/uploads/2016/01/DSC02787.jpg" alt="DSC02787" width="800" height="533" /></a>
 
-Its not the first rainbow i have seen, but the most vivid one so far.
+It's not the first rainbow I have seen, but the most vivid one so far.
 
 <a href="/uploads/2016/01/DSC02789.jpg" rel="attachment wp-att-1366"><img class="aligncenter size-full wp-image-1366" src="/uploads/2016/01/DSC02789.jpg" alt="DSC02789" width="800" height="533" /></a>
 
@@ -185,7 +185,7 @@ We tried to stay at the hostel in town, but luckily for us they were all booked.
 
 <a href="/uploads/2016/01/DSC02797.jpg" rel="attachment wp-att-1372"><img class="aligncenter size-full wp-image-1372" src="/uploads/2016/01/DSC02797.jpg" alt="DSC02797" width="800" height="533" /></a>
 
-Thank you, backpackers for filling up the hostel. Otherwise i would have never witnessed this beautiful sight. We were close enough to hear the deep, rumbling explosions of the eruptions.
+Thank you, backpackers for filling up the hostel. Otherwise I would have never witnessed this beautiful sight. We were close enough to hear the deep, rumbling explosions of the eruptions.
 
 <a href="/uploads/2016/01/DSC02800.jpg" rel="attachment wp-att-1373"><img class="aligncenter size-full wp-image-1373" src="/uploads/2016/01/DSC02800.jpg" alt="DSC02800" width="800" height="533" /></a>
 
@@ -201,7 +201,7 @@ Mother hen sitting on her eggs, didn't look too happy about us being there.
 
 <a href="/uploads/2016/01/DSC02804.jpg" rel="attachment wp-att-1377"><img class="aligncenter size-full wp-image-1377" src="/uploads/2016/01/DSC02804.jpg" alt="DSC02804" width="800" height="533" /></a>
 
-This is probably the coolest camp site we stayed at so far. Since we are on the side of the mountain, the place is nothing more than a flat plateau about 10 meters at its widest and 70 meters long.
+This is probably the coolest campsite we stayed at so far. Since we are on the side of the mountain, the place is nothing more than a flat plateau about 10 meters at its widest and 70 meters long.
 
 <a href="/uploads/2016/01/DSC02805.jpg" rel="attachment wp-att-1378"><img class="aligncenter size-full wp-image-1378" src="/uploads/2016/01/DSC02805.jpg" alt="DSC02805" width="800" height="533" /></a>
 
@@ -209,13 +209,13 @@ If you stand on the edge, it literally looks like you are at the end of the worl
 
 <a href="/uploads/2016/01/DSC02806.jpg" rel="attachment wp-att-1379"><img class="aligncenter size-full wp-image-1379" src="/uploads/2016/01/DSC02806.jpg" alt="DSC02806" width="800" height="533" /></a>
 
-But the next plateau is about 6 meters below us. The views are absolutely stunning, i wish the volcano wasn't covered by clouds.
+But the next plateau is about 6 meters below us. The views are absolutely stunning, I wish the volcano wasn't covered by clouds.
 
 <a href="/uploads/2016/01/DSC02808.jpg" rel="attachment wp-att-1381"><img class="aligncenter size-full wp-image-1381" src="/uploads/2016/01/DSC02808.jpg" alt="DSC02808" width="800" height="533" /></a>
 
 Now, can you imagine if you could fly off of the edge and just sail into the sky?
 
-Well, Sergei is not here, so we cant just bug him to take us paragliding.
+Well, Sergei is not here, so we can't just bug him to take us paragliding.
 
 But we could swing off the side of the mountain.
 
@@ -271,10 +271,10 @@ Hyein very excited for all the fresh veggies.
 
 <a href="/uploads/2016/01/DSC02867.jpg" rel="attachment wp-att-1409"><img class="aligncenter size-full wp-image-1409" src="/uploads/2016/01/DSC02867.jpg" alt="DSC02867" width="800" height="533" /></a>
 
-And i found my favorite vegetable - its is best slowly baked and served with a lot of fatty bits.
+And I found my favorite vegetable - it's best slowly baked and served with a lot of fatty bits.
 <a href="/uploads/2016/01/DSC02868.jpg" rel="attachment wp-att-1410"><img class="aligncenter size-full wp-image-1410" src="/uploads/2016/01/DSC02868.jpg" alt="DSC02868" width="800" height="533" /></a>
 
-I look a bit scary, even mad, in this photo - i'm just hungry.
+I look a bit scary, even mad, in this photo - I'm just hungry.
 
 <a href="/uploads/2016/01/DSC02870.jpg" rel="attachment wp-att-1411"><img class="aligncenter size-full wp-image-1411" src="/uploads/2016/01/DSC02870.jpg" alt="DSC02870" width="800" height="533" /></a>
 
@@ -298,17 +298,17 @@ BUT NOT when they are soooooo large.
 
 <a href="/uploads/2016/01/DSC02880.jpg" rel="attachment wp-att-1419"><img class="aligncenter size-full wp-image-1419" src="/uploads/2016/01/DSC02880.jpg" alt="DSC02880" width="800" height="533" /></a>
 
-Fine...call me a pansy, screw it i dont care. I knew this guy will not harm us, but he was flying close to our food and then decided to attach himself to the carpet right in front of our kitchen drawer.
+Fine...call me a pansy, screw it I don't care. I knew this guy will not harm us, but he was flying close to our food and then decided to attach himself to the carpet right in front of our kitchen drawer.
 
 I couldn't open it without destroying the bug.
 
 <a href="/uploads/2016/01/DSC02879.jpg" rel="attachment wp-att-1418"><img class="aligncenter size-full wp-image-1418" src="/uploads/2016/01/DSC02879.jpg" alt="DSC02879" width="800" height="533" /></a>
 
-After 20 minutes i finally managed to pry him off the carpet and safely transport far away from the camp.
+After 20 minutes I finally managed to pry him off the carpet and safely transport far away from the camp.
 <h2>Summary of Ecuador</h2>
 <ol>
 	<li>Clean and beautiful country</li>
-	<li>US currency, so you dont have to use your brain to calculate prices</li>
+	<li>US currency, so you don't have to use your brain to calculate prices</li>
 	<li>REALLY cheap gas</li>
 	<li>Good, fresh food.</li>
 	<li>Nice people</li>

@@ -81,7 +81,7 @@ Turns out they are part of a team that was supposed to go to Mongolia on the way
 
 <a href="/uploads/2016/07/DSC9152-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9152" src="/uploads/2016/07/DSC9152_thumb.jpg" alt="_DSC9152" width="697" height="465" border="0" /></a>
 
-The asphalt roads ended 10 miles before we even got to the ferry, so you understand what happens when you mix offroading with rain?
+The asphalt roads ended 10 miles before we even got to the ferry, so you understand what happens when you mix off-roading with rain?
 
 Yup…a bunch of slippery mud,  that we have never actually driven in. And being a bit on the safe side I drove super slow, while Boris in his light Korando jumped far ahead. Only to realize that he is dealing with a bunch of newbies and slowed down.
 
@@ -111,11 +111,11 @@ It’s kinda hard to hide the fact that Hyein is not Russian, so we had to come 
 
 <a href="/uploads/2016/07/DSC8694.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8694" src="/uploads/2016/07/DSC8694_thumb.jpg" alt="_DSC8694" width="697" height="465" border="0" /></a>
 
-I don't remember what I said… the drinks were starting to kick in. These people, who know a lot about their own 4x4’s were in general agreement that we at least look a bit like know what we are doing. I don't want to sound too arrogant, but i think everyone really enjoyed our handy work.
+I don't remember what I said… the drinks were starting to kick in. These people, who know a lot about their own 4x4’s were in general agreement that we at least look a bit like know what we are doing. I don't want to sound too arrogant, but I think everyone really enjoyed our handy work.
 
 <a href="/uploads/2016/07/DSC8696.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8696" src="/uploads/2016/07/DSC8696_thumb.jpg" alt="_DSC8696" width="697" height="465" border="0" /></a>
 
-As i’m starting to realize, the hot shower is what really draws the most attention but you guys already know that.
+As I’m starting to realize, the hot shower is what really draws the most attention but you guys already know that.
 
 <a href="/uploads/2016/07/DSC8700.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8700" src="/uploads/2016/07/DSC8700_thumb.jpg" alt="_DSC8700" width="697" height="465" border="0" /></a>
 
@@ -133,7 +133,7 @@ Some knew each other from previous meetings, this being the 9th one. For some, l
 
 But the amazing thing…it wasn’t important. The old-timers didn’t just hang out together. Everyone mingled, everyone introduced each other.
 
-At first i was the dedicated translator for Hyein, but somewhere in the night i was dragged to one side of the fire and Hyein to the other.
+At first I was the dedicated translator for Hyein, but somewhere in the night I was dragged to one side of the fire and Hyein to the other.
 
 Only 20 minutes later, I realized that she was hanging out on her own, somehow managing a conversation in a mix of broken Russian and English.
 
@@ -147,11 +147,11 @@ Boris, Natasha’s (look photo above) husband, the official funny man of the mee
 
 Since it was raining and we’ve already had enough of it in the last 2 weeks, we rented a little cabin.
 
-The only have i can sum up how amazing the first night was… we parked our car  and planned to move the bags into our cabin. We didn’t get to our cabin until late at night, it took us 5 hours to walk 200 feet. We stopped here, said hi there, drank a bit here…drank a lot there…
+The only have I can sum up how amazing the first night was… we parked our car  and planned to move the bags into our cabin. We didn’t get to our cabin until late at night, it took us 5 hours to walk 200 feet. We stopped here, said hi there, drank a bit here…drank a lot there…
 
 We didn’t even make our own dinner, people just offered us food from their tables. And this is not just for us…everyone just shared what they got.
 
-Somehow we managed to finally get to our bed. Hyein asked me if i brought the toothbrush bag from the car…”Hyein, I’m afraid to go out, because i might not make it back by sunrise.”
+Somehow we managed to finally get to our bed. Hyein asked me if I brought the toothbrush bag from the car…”Hyein, I’m afraid to go out, because I might not make it back by sunrise.”
 <h2>Day 1</h2>
 <a href="/uploads/2016/07/DSC8703.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8703" src="/uploads/2016/07/DSC8703_thumb.jpg" alt="_DSC8703" width="697" height="465" border="0" /></a>
 
@@ -173,7 +173,7 @@ Turns out that the shining sun and clear blue skies was not just my hungover ima
 
 <a href="/uploads/2016/07/DSC8714.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8714" src="/uploads/2016/07/DSC8714_thumb.jpg" alt="_DSC8714" width="697" height="465" border="0" /></a>
 
-Maybe its the magical powers of the Island or the fact that we don't have to see the rain anymore, but for the amount of alcohol consumed the night before…I’m feeling quite well. Maybe its the Ibuprofen kicking in.
+Maybe it's the magical powers of the Island or the fact that we don't have to see the rain anymore, but for the amount of alcohol consumed the night before…I’m feeling quite well. Maybe it's the Ibuprofen kicking in.
 
 <a href="/uploads/2016/07/DSC8724.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8724" src="/uploads/2016/07/DSC8724_thumb.jpg" alt="_DSC8724" width="697" height="465" border="0" /></a>
 
@@ -183,7 +183,7 @@ Nothing better than a good walk with fresh air to clean out the last bits of the
 
 The rain did manage to clean up the air, so that in the morning you had the most glorious view of the island, the lake and the coastline. And you are probably thinking…”omg, Ivan did you have to pose like this?”
 
-It's all natural baby…in the state that i was in, not much posing could have happened.
+It's all natural baby…in the state that I was in, not much posing could have happened.
 
 Sayana, the golden retriever, was definitely not new to photoshoots and looked her best that morning.
 
@@ -199,7 +199,7 @@ The waters in lake Baikal are amazingly clear. Standing on a little cliff you ca
 
 <a href="/uploads/2016/07/DSC8760.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8760" src="/uploads/2016/07/DSC8760_thumb.jpg" alt="_DSC8760" width="697" height="465" border="0" /></a>
 
-It's also insanely cold. During the winter the top freezes over with a layer of extremely transparent ice. If you are ever in this area in winter time, i think it would be a great idea to go on a tour or just drive yourself out onto the ice.
+It's also insanely cold. During the winter the top freezes over with a layer of extremely transparent ice. If you are ever in this area in winter time, I think it would be a great idea to go on a tour or just drive yourself out onto the ice.
 
 <a href="/uploads/2016/07/DSC8763.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8763" src="/uploads/2016/07/DSC8763_thumb.jpg" alt="_DSC8763" width="697" height="465" border="0" /></a>
 
@@ -211,7 +211,7 @@ It's so apparent that as soon as the sun goes beyond the mountains at sunset, th
 
 <a href="/uploads/2016/07/DSC8768.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8768" src="/uploads/2016/07/DSC8768_thumb.jpg" alt="_DSC8768" width="697" height="465" border="0" /></a>
 
-Maybe Hyein did not partake as much in the drinking, strange i do remember her trying all of the aforementioned drinks. Or maybe she is just not over 30, but she looks and feels a thousand times better than me.
+Maybe Hyein did not partake as much in the drinking, strange I do remember her trying all of the aforementioned drinks. Or maybe she is just not over 30, but she looks and feels a thousand times better than me.
 
 <a href="/uploads/2016/07/DSC8770.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8770" src="/uploads/2016/07/DSC8770_thumb.jpg" alt="_DSC8770" width="697" height="465" border="0" /></a>
 
@@ -249,11 +249,11 @@ The main alley of the camp, some people in the little cabins, some in the tents 
 
 <a href="/uploads/2016/07/DSC8852.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8852" src="/uploads/2016/07/DSC8852_thumb.jpg" alt="_DSC8852" width="697" height="465" border="0" /></a>
 
-The tasty Korean dish for the day is called “Rice Fist”…i’m not sure how much people liked it, but you must have a bit of Korean food at a Ssangyong meeting.
+The tasty Korean dish for the day is called “Rice Fist”…I’m not sure how much people liked it, but you must have a bit of Korean food at a Ssangyong meeting.
 
 <a href="/uploads/2016/07/DSC8862.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8862" src="/uploads/2016/07/DSC8862_thumb.jpg" alt="_DSC8862" width="697" height="465" border="0" /></a>
 
-Thanks to Kostay (left) and Irina (right) for making a short time of the tedious preparation.  As usual we didn’t really approach this endeavor with full thought and made too few “rice fists” and having to supplement the tasting with korean candy. Can i say thank you now to Hyein’s mom for insisting we take everything they bought for us?
+Thanks to Kostay (left) and Irina (right) for making a short time of the tedious preparation.  As usual we didn’t really approach this endeavor with full thought and made too few “rice fists” and having to supplement the tasting with korean candy. Can I say thank you now to Hyein’s mom for insisting we take everything they bought for us?
 
 <a href="/uploads/2016/07/DSC8878.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8878" src="/uploads/2016/07/DSC8878_thumb.jpg" alt="_DSC8878" width="697" height="464" border="0" /></a>
 
@@ -263,13 +263,13 @@ Since our tent and sleeping bags were still drying from the last week of rain, w
 
 This being an offroad gathering, the point of the ride was not just to cruise on the freeway, while looking at the sights. First of all there are no freeways or even paved roads here. And second…the fun part is getting your car stuck and everyone coming in to help.
 
-Unfortunately none of the Korando’s managed to get stuck in the sand, maybe the sand was still too wet from the rain or maybe its a testament to the quality of Koranado.
+Unfortunately none of the Korando’s managed to get stuck in the sand, maybe the sand was still too wet from the rain or maybe it's a testament to the quality of Korando.
 
 Only the little Honda HRV managed to get stuck and only because it completely stopped in the deep sand. In about a minute we managed to get it moving again…sadly.
 
 <a href="/uploads/2016/07/DSC8885.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8885" src="/uploads/2016/07/DSC8885_thumb.jpg" alt="_DSC8885" width="697" height="465" border="0" /></a>
 
-Fine…no one is willing to bury their car in the sand up to the mirrors? Okay, lets just go and drive around, looking for pretty spots.
+Fine…no one is willing to bury their car in the sand up to the mirrors? Okay, let's just go and drive around, looking for pretty spots.
 
 <a href="/uploads/2016/07/DSC8891.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8891" src="/uploads/2016/07/DSC8891_thumb.jpg" alt="_DSC8891" width="697" height="465" border="0" /></a>
 
@@ -277,7 +277,7 @@ Homyak and Olya with their Korando on a cliff North of our camp.
 
 <a href="/uploads/2016/07/DSC8869.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8869" src="/uploads/2016/07/DSC8869_thumb.jpg" alt="_DSC8869" width="697" height="465" border="0" /></a>
 
-A quick stop in the village of Khuzhir to get the famous “Omul” fish. Its endemic to Baikal and comes in a few varieties: fresh, cold smoked, hot smoked and semi-dried. We tried all of them and our favorite choice is the large fish (about 30 cm long), cold smoked, depending on the season it runs 200-300 rubles per fish. The smaller fish are much saltier and a bit tougher, so you can't eat as many of them <img class="wlEmoticon wlEmoticon-smile" style="border-style: none;" src="/uploads/2016/07/wlEmoticon-smile.png" alt="Smile" />
+A quick stop in the village of Khuzhir to get the famous “Omul” fish. It's endemic to Baikal and comes in a few varieties: fresh, cold smoked, hot smoked and semi-dried. We tried all of them and our favorite choice is the large fish (about 30 cm long), cold smoked, depending on the season it runs 200-300 rubles per fish. The smaller fish are much saltier and a bit tougher, so you can't eat as many of them <img class="wlEmoticon wlEmoticon-smile" style="border-style: none;" src="/uploads/2016/07/wlEmoticon-smile.png" alt="Smile" />
 
 <a href="/uploads/2016/07/DSC8894.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8894" src="/uploads/2016/07/DSC8894_thumb.jpg" alt="_DSC8894" width="697" height="465" border="0" /></a>
 
@@ -285,9 +285,9 @@ Back in the camp and there is not a minute to waste. To grant good fortune and w
 
 <a href="/uploads/2016/07/DSC8898.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8898" src="/uploads/2016/07/DSC8898_thumb-1.jpg" alt="_DSC8898" width="697" height="465" border="0" /></a>
 
-After he talked to the spirits in what i assume to be the Buryati language, while beating on the drum for 10 minutes, he gave our offerings in the forms of cookies, tea and alcohol to the spirits of the island and the lake.
+After he talked to the spirits in what I assume to be the Buryati language, while beating on the drum for 10 minutes, he gave our offerings in the forms of cookies, tea and alcohol to the spirits of the island and the lake.
 
-A quick note if you are ever in this ceremony, when i say he gave the offerings we just poured the tea and threw the cookies with a flick of his hand all over the crowd. So if you got an expensive camera…make sure to hide it for this part of the event.
+A quick note if you are ever in this ceremony, when I say he gave the offerings we just poured the tea and threw the cookies with a flick of his hand all over the crowd. So if you got an expensive camera…make sure to hide it for this part of the event.
 
 <a href="/uploads/2016/07/DSC8902.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8902" src="/uploads/2016/07/DSC8902_thumb.jpg" alt="_DSC8902" width="697" height="465" border="0" /></a>
 
@@ -305,7 +305,7 @@ This game is a great example of the general culture of the club. This is not a p
 
 <a href="/uploads/2016/07/DSC8915.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8915" src="/uploads/2016/07/DSC8915_thumb.jpg" alt="_DSC8915" width="697" height="465" border="0" /></a>
 
-Yup thats the great Baikal sunset, besides the pretty colors for me it was crazy to watch the sun leaving the horizon at 11pm. And at midnight you could still see the sunshine just beyond the horizon. The only sad part being that with the sun leaving, within minutes it felt like winter.
+Yup that's the great Baikal sunset, besides the pretty colors for me it was crazy to watch the sun leaving the horizon at 11pm. And at midnight you could still see the sunshine just beyond the horizon. The only sad part being that with the sun leaving, within minutes it felt like winter.
 <h2>Day 2</h2>
 <a href="/uploads/2016/07/DSC8916.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8916" src="/uploads/2016/07/DSC8916_thumb.jpg" alt="_DSC8916" width="697" height="465" border="0" /></a>
 
@@ -325,7 +325,7 @@ The official website for the club and the reason we are all here.
 
 <a href="/uploads/2016/07/DSC8931.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8931" src="/uploads/2016/07/DSC8931_thumb.jpg" alt="_DSC8931" width="697" height="465" border="0" /></a>
 
-Discussing the pros and cons of the two different Land Cruiser setups we both have. Ruslan (right), the 70-series owner, looked at our expedition setup and said that a lot of things are great but would not work in Russia. All the water piping that i have put in would burst during winter if not properly drained. The tent is great but in russian winter you need to have a heater because the temperatures dip below –50C in the night. I’m not even sure if our sleeping bags would do us any good. Lets hope we don’t need to actually test the limits of our gear in the cold.
+Discussing the pros and cons of the two different Land Cruiser setups we both have. Ruslan (right), the 70-series owner, looked at our expedition setup and said that a lot of things are great but would not work in Russia. All the water piping that I have put in would burst during winter if not properly drained. The tent is great but in russian winter you need to have a heater because the temperatures dip below –50C in the night. I’m not even sure if our sleeping bags would do us any good. Let's hope we don’t need to actually test the limits of our gear in the cold.
 
 <a href="/uploads/2016/07/DSC8934.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8934" src="/uploads/2016/07/DSC8934_thumb.jpg" alt="_DSC8934" width="697" height="465" border="0" /></a>
 
@@ -341,9 +341,9 @@ Not only were we not ignore, we were given the chance to say hi to the whole gro
 
 So whats the activity for the day? There is a tight schedule for fun, we must pack as much fun in the 5 days as possible. No minute is gone without completely maxing out on this thing called fun!
 
-Today, we are doing the tour of the island. We heard there are 2 lakes on an island that is already on a lake. Its like the Inception of lakes and islands.
+Today, we are doing the tour of the island. We heard there are 2 lakes on an island that is already on a lake. It's like the Inception of lakes and islands.
 
-And we are joining the “Mongolian Team” with our Land Cruiser. Thats Natasha, Boris’s daughter, and her son Anton.
+And we are joining the “Mongolian Team” with our Land Cruiser. That's Natasha, Boris’s daughter, and her son Anton.
 
 <a href="/uploads/2016/07/DSC8944.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8944" src="/uploads/2016/07/DSC8944_thumb.jpg" alt="_DSC8944" width="697" height="465" border="0" /></a>
 
@@ -356,7 +356,7 @@ The team for the day – 2 Land Cruiseres, 1 Ssangyong Musso and 5 Ssangyong Kor
 
 <a href="/uploads/2016/07/DSC8958.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8958" src="/uploads/2016/07/DSC8958_thumb.jpg" alt="_DSC8958" width="697" height="465" border="0" /></a>
 
-Dima, aka “Danone”, yup just like the yogurt. Thats why we decided to go with a food related name as well.
+Dima, aka “Danone”, yup just like the yogurt. That's why we decided to go with a food related name as well.
 
 <a href="/uploads/2016/07/DSC8967.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8967" src="/uploads/2016/07/DSC8967_thumb.jpg" alt="_DSC8967" width="697" height="465" border="0" /></a>
 
@@ -384,11 +384,11 @@ Traveling in a group can be some much fun, when you got a great group of people 
 
 <a href="/uploads/2016/07/dip-in-Baikal-2.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="dip in Baikal 2" src="/uploads/2016/07/dip-in-Baikal-2_thumb.jpg" alt="dip in Baikal 2" width="697" height="405" border="0" /></a>
 
-It has been my life goal to take a dip in Baikal, ever since I learned of it’s existence. Even from Moscow its quite far away, so it took me many years of living in the States and driving around the world to cross this little goal of my checklist. I never thought I would be doing this with my awesome wife and the great group of Korandovod.
+It has been my life goal to take a dip in Baikal, ever since I learned of it’s existence. Even from Moscow it's quite far away, so it took me many years of living in the States and driving around the world to cross this little goal of my checklist. I never thought I would be doing this with my awesome wife and the great group of Korandovod.
 
 <a href="/uploads/2016/07/dip-in-Baikal-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="dip in Baikal 1" src="/uploads/2016/07/dip-in-Baikal-1_thumb.jpg" alt="dip in Baikal 1" width="697" height="392" border="0" /></a>
 
-I’ve already mentioned that the waters are a scalding 10C and I’m not a big fan of swimming along ice cubes, but there is no way that i’m leaving here without at least taking a dip. Hyein, undeterred by the cold quickly marched in and plunged in the water without giving it much thought. I know that she knew if she stopped even for a second to think about it…it would be all over. Spurred on by her brave actions i plunged after her.
+I’ve already mentioned that the waters are a scalding 10C and I’m not a big fan of swimming along ice cubes, but there is no way that I’m leaving here without at least taking a dip. Hyein, undeterred by the cold quickly marched in and plunged in the water without giving it much thought. I know that she knew if she stopped even for a second to think about it…it would be all over. Spurred on by her brave actions I plunged after her.
 
 I've had the pleasure of swimming in the mountain lakes of California…but this is a whole other story. The breath escapes your body so fast that if you don't open your mouth you risk cracking your teeth and ripping your lips. Making animal noises definitely helps in this endeavor.
 
@@ -400,7 +400,7 @@ The whole team on the move.
 
 <a href="/uploads/2016/07/DSC9007-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9007" src="/uploads/2016/07/DSC9007_thumb.jpg" alt="_DSC9007" width="697" height="465" border="0" /></a>
 
-Not seeking an easy path, Petya (yellow shirt) found a sketchy road through the forest. From this photo it doesn’t seem that scary and in reality it wasn’t really that bad. But in the moment, i thought that our Hodori is going to flip over to the side and roll down the hill.
+Not seeking an easy path, Petya (yellow shirt) found a sketchy road through the forest. From this photo it doesn’t seem that scary and in reality it wasn’t really that bad. But in the moment, I thought that our Hodori is going to flip over to the side and roll down the hill.
 
 Petya’s calm words and assurances led us through the difficult part without an issue. The car rocked and jumped at every boulder that we crawled over, the traction control system did not help me in keeping calm by making a fuss of the whole situation.
 
@@ -408,7 +408,7 @@ Once down with the hard section I got out, looked around only to realize that we
 
 <a href="/uploads/2016/07/DSC9018-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9018" src="/uploads/2016/07/DSC9018_thumb.jpg" alt="_DSC9018" width="697" height="465" border="0" /></a>
 
-Back on the open, flat ground i thought about what happened today. We traveled 20,000 miles to meet these guys so they can teach us a bit about trail driving. And that our Land Cruiser, although very heavy, is still very capable off the road. As usual the limiting factor is the not the machine but the layer between the seat and the steering wheel (aka the driver…if you didn’t get that).
+Back on the open, flat ground I thought about what happened today. We traveled 20,000 miles to meet these guys so they can teach us a bit about trail driving. And that our Land Cruiser, although very heavy, is still very capable off the road. As usual the limiting factor is the not the machine but the layer between the seat and the steering wheel (aka the driver…if you didn’t get that).
 
 <a href="/uploads/2016/07/DSC9021-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9021" src="/uploads/2016/07/DSC9021_thumb.jpg" alt="_DSC9021" width="697" height="465" border="0" /></a>
 
@@ -416,7 +416,7 @@ The spirits of Olkhon and Baikal pleased by our offerings and especially by our 
 <h2>Day 3</h2>
 <a href="/uploads/2016/07/DSC9027-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9027" src="/uploads/2016/07/DSC9027_thumb.jpg" alt="_DSC9027" width="697" height="465" border="0" /></a>
 
-The sunset might have been unforgettable, but what happened after it…i honestly can't recall. There definitely was dinner with omul and beer, but after that its a blur.
+The sunset might have been unforgettable, but what happened after it…I honestly can't recall. There definitely was dinner with omul and beer, but after that it's a blur.
 
 We were woken up in the morning by excited voice of people getting ready for the main event of the day – “Korando Race”.
 
@@ -434,7 +434,7 @@ Instead of just explaining the rules, the organizers decided to show their own s
 
 <a href="/uploads/2016/07/DSC9043-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9043" src="/uploads/2016/07/DSC9043_thumb.jpg" alt="_DSC9043" width="697" height="465" border="0" /></a>
 
-Not shying away from the competition, Hyein, Dima (Danone) and Petya (Petrovich) quickly formed a team. I have to say that i would have loved to participate, but a recent twisted ankle stood in the way. Instead, i proclaimed myself the manager of the team and was left in charge of documenting this glorious event.
+Not shying away from the competition, Hyein, Dima (Danone) and Petya (Petrovich) quickly formed a team. I have to say that I would have loved to participate, but a recent twisted ankle stood in the way. Instead, I proclaimed myself the manager of the team and was left in charge of documenting this glorious event.
 
 Obviously the team name was chosen unanimously to be “Doshirak”.
 
@@ -480,7 +480,7 @@ Alexandr Shtol, defeated by the hill on the first try, had to prove it to himsel
 
 <a href="/uploads/2016/07/DSC9110-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9110" src="/uploads/2016/07/DSC9110_thumb.jpg" alt="_DSC9110" width="697" height="465" border="0" /></a>
 
-Before everyone could scurry away on their business we managed to take a few group photos. I’m not sure if everyone is here, but its supposed to be around 50 cars and 110 people.
+Before everyone could scurry away on their business we managed to take a few group photos. I’m not sure if everyone is here, but it's supposed to be around 50 cars and 110 people.
 
 <a href="/uploads/2016/07/DSC9114-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC9114" src="/uploads/2016/07/DSC9114_thumb.jpg" alt="_DSC9114" width="697" height="465" border="0" /></a>
 

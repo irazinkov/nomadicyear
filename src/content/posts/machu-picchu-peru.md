@@ -31,7 +31,7 @@ Most tourists go to Machu Picchu, located next to town of Aguas Calientes, by ei
 
 You see, the "normal" way would be to get a taxi from Cuzco to Ollantaytambo, were you would catch a train right to Aguas Calientes. This would set you back a couple of hundred bucks. If you are a poor student, travelling the world, then you could take the bus to Hydroelectrica, town next to Aguas Calientes, and then walk to the city. This would be much cheaper, but takes more time and energy.
 
-We didn't know this at the time, but there is no "road" going to Aguas Calientes, obviously there is a way to get there, but its only by railroad. I think this is done to control access to the city, thus controlling prices and maybe to create a feeling of a nature preserve? Either way, if you have your own car, its going to be a pain in the butt getting there.
+We didn't know this at the time, but there is no "road" going to Aguas Calientes, obviously there is a way to get there, but it's only by railroad. I think this is done to control access to the city, thus controlling prices and maybe to create a feeling of a nature preserve? Either way, if you have your own car, its going to be a pain in the butt getting there.
 
 I guess, you already know what we decided to do - that's right...we decided to drive to Hydroelectrica and then walk for 3 hours to the city.
 
@@ -81,13 +81,13 @@ At first, Hyein was barely walking because of her joint pain. But halfway throug
 
 <a href="/uploads/2016/02/DSC03442.jpg" rel="attachment wp-att-1760"><img class="aligncenter size-full wp-image-1760" src="/uploads/2016/02/DSC03442.jpg" alt="DSC03442" width="800" height="533" /></a>
 
-So, we ended up almost sprinting the last half - i really enjoyed that :)
+So, we ended up almost sprinting the last half - I really enjoyed that :)
 
 <a href="/uploads/2016/02/DSC03449.jpg" rel="attachment wp-att-1763"><img class="aligncenter size-full wp-image-1763" src="/uploads/2016/02/DSC03449.jpg" alt="DSC03449" width="800" height="533" /></a>
 
-Once in a while we did have to stop for a moment to catch our breath and take in the surroundings... thats when i would here the oh so familiar "sajin jooseyo :)!" (meaning, please take a photo).
+Once in a while we did have to stop for a moment to catch our breath and take in the surroundings... that's when I would here the oh so familiar "sajin jooseyo :)!" (meaning, please take a photo).
 
-I have to give immense credit to Hyein, for taking charge of documenting this whole trip. I know that without her, i would not have as many photos. Since she is always in charge of the camera, i kinda relax and don't take initiative in taking photos. So, i have to be kindly reminded ("sajin jooseyo!") once in a while to take some photos of her.
+I have to give immense credit to Hyein, for taking charge of documenting this whole trip. I know that without her, I would not have as many photos. Since she is always in charge of the camera, I kinda relax and don't take initiative in taking photos. So, I have to be kindly reminded ("sajin jooseyo!") once in a while to take some photos of her.
 
 Thanks, jagi!
 
@@ -101,9 +101,9 @@ Finally made it to Aguas Calientes! By this point the "cooperating" weather deci
 
 But, you see, there is a problem. Since we are the "always prepared" kind, we already bought tickets for Machu Picchu in Cuzco for this date. And there is NO WAY to change them. (side note: you can always buy the tickets in Aguas Calientes)
 
-Shit...this was Hyein's dream to see Machu Picchu. And now its raining. By this point our hearts were as gloomy as the nearby sky.
+Shit...this was Hyein's dream to see Machu Picchu. And now it's raining. By this point our hearts were as gloomy as the nearby sky.
 
-What the hell, we already have the tickets, lets just go and see it anyway. And if it continues raining we will stay another day and wait for the sun.
+What the hell, we already have the tickets, let's just go and see it anyway. And if it continues raining we will stay another day and wait for the sun.
 
 <a href="/uploads/2016/02/DSC03454.jpg" rel="attachment wp-att-1765"><img class="aligncenter size-full wp-image-1765" src="/uploads/2016/02/DSC03454.jpg" alt="DSC03454" width="800" height="533" /></a>
 
@@ -144,11 +144,11 @@ Matching hoodies - check. Pretty Machu Picchu photo - check!
 
 Close up of some of the structures. This is not the "original" way that it was discovered. According to wiki 30% of Machu Picchu has been restored to show what the estate used to look like.  <a href="/uploads/2016/02/DSC03488.jpg" rel="attachment wp-att-1787"><img class="aligncenter size-full wp-image-1787" src="/uploads/2016/02/DSC03488.jpg" alt="DSC03488" width="800" height="533" /></a>
 
-I'm not sure what is prettier...the ancient ruins or this beauty in front of them. Cheesy, i know, but i get browny points for comments like this :)
+I'm not sure what is prettier...the ancient ruins or this beauty in front of them. Cheesy, I know, but I get browny points for comments like this :)
 
 <a href="/uploads/2016/02/DSC03494.jpg" rel="attachment wp-att-1791"><img class="aligncenter size-full wp-image-1791" src="/uploads/2016/02/DSC03494.jpg" alt="DSC03494" width="800" height="533" /></a>
 
-Hyein's favorite kind of shot - "i give to you Machu Picchu".
+Hyein's favorite kind of shot - "I give to you Machu Picchu".
 
 <a href="/uploads/2016/02/DSC03497.jpg" rel="attachment wp-att-1793"><img class="aligncenter size-full wp-image-1793" src="/uploads/2016/02/DSC03497.jpg" alt="DSC03497" width="800" height="533" /></a>
 
@@ -172,7 +172,7 @@ Walking to the bridge, you can look down and see the town of Hydroelectrica. Thi
 
 The walk to the bridge only takes 10 minutes from "main" Machu Picchu. On the way there, the trail narrows to a single step by a large boulder. This is where I had a really "profound" realization.
 
-Our friends who have traveled to Machu Picchu before, must have stepped in this exact location as well. We have visited the same places as some of our friends...but never before was i sure that we have stepped in the same exact location. Silly, I know, but to me that is somehow special. Greetings to you my fellow trail sharers - Sergei, Soviet, Muna, Jiny, Jungmi, Simon and Kuyngmi.
+Our friends who have traveled to Machu Picchu before, must have stepped in this exact location as well. We have visited the same places as some of our friends...but never before was I sure that we have stepped in the same exact location. Silly, I know, but to me that is somehow special. Greetings to you my fellow trail sharers - Sergei, Soviet, Muna, Jiny, Jungmi, Simon and Kuyngmi.
 
 <a href="/uploads/2016/02/DSC03510.jpg" rel="attachment wp-att-1805"><img class="aligncenter size-full wp-image-1805" src="/uploads/2016/02/DSC03510.jpg" alt="DSC03510" width="800" height="533" /></a>
 
@@ -192,9 +192,9 @@ Hanging off the side of the Inca trail leading to the bridge.
 
 "Yay, my dream came true! I'm finally here!" Hyein was really excited to visit this place. I didn't realize how much it meant to her.
 
-So, she saw in some korean tv show about Machu Picchu that there are supposed to be llamas here. During the first half of visit we did not see a single one and i thought that they just brought them in for the show.
+So, she saw in some korean tv show about Machu Picchu that there are supposed to be llamas here. During the first half of visit we did not see a single one and I thought that they just brought them in for the show.
 
-Apparently, i was wrong.
+Apparently, I was wrong.
 
 <a href="/uploads/2016/02/DSC03548.jpg" rel="attachment wp-att-1827"><img class="aligncenter size-full wp-image-1827" src="/uploads/2016/02/DSC03548.jpg" alt="DSC03548" width="800" height="533" /></a>
 
@@ -208,7 +208,7 @@ After taking all the pretty overview pictures and walking to the bridge, we deci
 
 <a href="/uploads/2016/02/DSC03566.jpg" rel="attachment wp-att-1839"><img class="aligncenter size-full wp-image-1839" src="/uploads/2016/02/DSC03566.jpg" alt="DSC03566" width="800" height="533" /></a>
 
-If i remember correctly, you used to be able to walk anywhere. Well, now you just follow a trail through the city, which just avoids walking on most of the grassy areas. You still get to see everything, just not allowed to walk on the main lawns.
+If I remember correctly, you used to be able to walk anywhere. Well, now you just follow a trail through the city, which just avoids walking on most of the grassy areas. You still get to see everything, just not allowed to walk on the main lawns.
 
 <a href="/uploads/2016/02/DSC03570.jpg" rel="attachment wp-att-1843"><img class="aligncenter size-full wp-image-1843" src="/uploads/2016/02/DSC03570.jpg" alt="DSC03570" width="800" height="533" /></a>
 
@@ -222,7 +222,7 @@ So, naturally, I couldn't resist a chance to charge up on some of that positive 
 
 <a href="/uploads/2016/02/DSC03579.jpg" rel="attachment wp-att-1682"><img class="aligncenter size-full wp-image-1682" src="/uploads/2016/02/DSC03579.jpg" alt="DSC03579" width="800" height="533" /></a>
 
-Ah, thats Huayna Picchu, a neighboring estate. Its the mountain you see in the background of the typical Machu Picchu photos. It also has ruins but it is only accessible to 400 people a day. Since we were late buying our tickets, the tickets for this place were all sold out. It seems like getting to the top of this place would require some hardcore climbing, but hidden in the growth is a simple walk that anyone even with a bad hip can do.
+Ah, that's Huayna Picchu, a neighboring estate. Its the mountain you see in the background of the typical Machu Picchu photos. It also has ruins but it is only accessible to 400 people a day. Since we were late buying our tickets, the tickets for this place were all sold out. It seems like getting to the top of this place would require some hardcore climbing, but hidden in the growth is a simple walk that anyone even with a bad hip can do.
 
 <a href="/uploads/2016/02/DSC03582.jpg" rel="attachment wp-att-1685"><img class="aligncenter size-full wp-image-1685" src="/uploads/2016/02/DSC03582.jpg" alt="DSC03582" width="800" height="533" /></a>
 
@@ -258,7 +258,7 @@ With luck on our side, we finished the tour in the sun and no rain in sight.
 
 <a href="/uploads/2016/02/DSC03629.jpg" rel="attachment wp-att-1721"><img class="aligncenter size-full wp-image-1721" src="/uploads/2016/02/DSC03629.jpg" alt="DSC03629" width="800" height="533" /></a>
 
-Later in the trip we spoke with other people who visited Aguas Calientes and we were told the town feels fake and superficial. I agree with that statement only if you call any town next to a main attraction fake. Yes, it is there only to serve one purpose - house and feed the tourists. But since the only vehicles there are the tour buses and trains, and everything is built for pedestrians it has a great vibe. I walked around the town with a peculiar sense of familiarity. Like, i have been here before or some place like it.
+Later in the trip we spoke with other people who visited Aguas Calientes and we were told the town feels fake and superficial. I agree with that statement only if you call any town next to a main attraction fake. Yes, it is there only to serve one purpose - house and feed the tourists. But since the only vehicles there are the tour buses and trains, and everything is built for pedestrians it has a great vibe. I walked around the town with a peculiar sense of familiarity. Like, I have been here before or some place like it.
 
 <a href="/uploads/2016/02/DSC03630.jpg" rel="attachment wp-att-1722"><img class="aligncenter size-full wp-image-1722" src="/uploads/2016/02/DSC03630.jpg" alt="DSC03630" width="800" height="533" /></a>
 
@@ -290,7 +290,7 @@ Very fancy delivery of a simple green salad.
 
 <a href="/uploads/2016/02/DSC03640.jpg" rel="attachment wp-att-1730"><img class="aligncenter size-full wp-image-1730" src="/uploads/2016/02/DSC03640.jpg" alt="DSC03640" width="800" height="533" /></a>
 
-This is just a simple chicken breast, but the evening gown it put on that night was gorgeous. Some sort of sauce reduction (i know...very descriptive) with a perfectly grilled preparation. It was delicious.
+This is just a simple chicken breast, but the evening gown it put on that night was gorgeous. Some sort of sauce reduction (I know...very descriptive) with a perfectly grilled preparation. It was delicious.
 
 <a href="/uploads/2016/02/DSC03641.jpg" rel="attachment wp-att-1731"><img class="aligncenter size-full wp-image-1731" src="/uploads/2016/02/DSC03641.jpg" alt="DSC03641" width="800" height="533" /></a>
 
@@ -298,13 +298,13 @@ Next day, we woke up at the crack of dawn to get to our 6:40am train. Really, di
 
 Turns out it was just us and another couple who decided to get an early start for the day. A short, 20 minute, ride and we were back at Hydroelectrica. Taxi back to our car and on our way back to Cuzco.<a href="/uploads/2016/02/DSC03646.jpg" rel="attachment wp-att-1735"><img class="aligncenter size-full wp-image-1735" src="/uploads/2016/02/DSC03646.jpg" alt="DSC03646" width="800" height="533" /></a>
 
-Taking back the same crazy road. It looks scary, it feels a bit scary, but in reality a million cars and little tour vans go through here. I'm sure Peruvians dont even blink an eye when they encounter such a road.
+Taking back the same crazy road. It looks scary, it feels a bit scary, but in reality a million cars and little tour vans go through here. I'm sure Peruvians don't even blink an eye when they encounter such a road.
 
-On the way back to Cuzco - our usual routine when driving: listening to music or audiobook, AC set to 75F, fan set on #2, circulate inside air only, windows rolled up. Before i left, i spent a lot of tim insulating the car from outside noise. And it feels quite amazing, the city noise disappears completely when you close the door. The music sounds great, everything is great except for one thing - you can't hear your own vehicle. That is NO motor noise, no wheel noise, no road noise, only the creaking of the wooden shelves that i built.
+On the way back to Cuzco - our usual routine when driving: listening to music or audiobook, AC set to 75F, fan set on #2, circulate inside air only, windows rolled up. Before I left, I spent a lot of tim insulating the car from outside noise. And it feels quite amazing, the city noise disappears completely when you close the door. The music sounds great, everything is great except for one thing - you can't hear your own vehicle. That is NO motor noise, no wheel noise, no road noise, only the creaking of the wooden shelves that I built.
 
-Well, the weather on the drive back was so nice, that for a change we decided to roll down the windows. Only to discover the loudest screeching in the world. I mean like a train trying to stop, kind of loud. I knew it was the brakes right away. The only problem was that we were still a hundred miles away from Cuzco. I knew that we would make it back safely, so i did what my mom taught me with her old "Oka" car - turn on the music as loud as you can and dont worry about it until you can fix it.
+Well, the weather on the drive back was so nice, that for a change we decided to roll down the windows. Only to discover the loudest screeching in the world. I mean like a train trying to stop, kind of loud. I knew it was the brakes right away. The only problem was that we were still a hundred miles away from Cuzco. I knew that we would make it back safely, so I did what my mom taught me with her old "Oka" car - turn on the music as loud as you can and don't worry about it until you can fix it.
 
-Back in Russia my mom's first car was Oka - a little 2 cylinder, 2 door vehicle. It would constantly break down, make weird noises, the heater would all of a sudden break in the middle of Russian winter, basically everybody's first car. So every time there was a new noise, my mom would turn on her favorite song at the time as loud as she can to drown out the noise. And when the stereo refused to work, she would sing herself at the top of her lungs. Trust me, i was there, right there in the passenger seat, watching and learning!
+Back in Russia my mom's first car was Oka - a little 2 cylinder, 2 door vehicle. It would constantly break down, make weird noises, the heater would all of a sudden break in the middle of Russian winter, basically everybody's first car. So every time there was a new noise, my mom would turn on her favorite song at the time as loud as she can to drown out the noise. And when the stereo refused to work, she would sing herself at the top of her lungs. Trust me, I was there, right there in the passenger seat, watching and learning!
 
 <a href="/uploads/2016/02/Oka.jpg" rel="attachment wp-att-2028"><img class="aligncenter size-full wp-image-2028" src="/uploads/2016/02/Oka.jpg" alt="Oka" width="800" height="533" /></a>This is what it looked like and even the same color.
 
@@ -320,9 +320,9 @@ The front brakes were worn 85-90%, but with all the off-road driving the rotors 
 
 <a href="/uploads/2016/02/DSC03651.jpg" rel="attachment wp-att-1739"><img class="aligncenter size-full wp-image-1739" src="/uploads/2016/02/DSC03651.jpg" alt="DSC03651" width="800" height="533" /></a>
 
-Checking the rear - OMG we chewed through the pads all the way to the metal backbone and then some. I've had cars for the past 13 years and have always had the pleasure of changing the brake pads myself. And NEVER, have i seen anything like it, especially not in the back. Needless to say we needed to resurface the rear rotors as well.
+Checking the rear - OMG we chewed through the pads all the way to the metal backbone and then some. I've had cars for the past 13 years and have always had the pleasure of changing the brake pads myself. And NEVER, have I seen anything like it, especially not in the back. Needless to say we needed to resurface the rear rotors as well.
 
-This puzzles me a little bit. Here is why. Before we left,<a href="http://nomadicyear.com2015/07/suspension-front-bumper-maintenance-etc/"> i changed all the rotors and all the brake pads at the same time</a>. So we set out with 100% in the front and 100% in the back. Usually, the front pads wear down twice as fast the rears. So every other time you change both of them. In our case, the rear wore down faster than the front.
+This puzzles me a little bit. Here is why. Before we left,<a href="http://nomadicyear.com2015/07/suspension-front-bumper-maintenance-etc/"> I changed all the rotors and all the brake pads at the same time</a>. So we set out with 100% in the front and 100% in the back. Usually, the front pads wear down twice as fast the rears. So every other time you change both of them. In our case, the rear wore down faster than the front.
 
 I understand that we have driven a lot in the mountains and that the brakes would wear faster, but why the rear? Could it be because of all the extra weight in the back? Or could our rear calipers be sticking a little bit? Anyone with some knowledge on this...help me out. By this point we drove about 8500 miles. So any suggestions would be greatly appreciated!
 
@@ -338,6 +338,6 @@ My final notes on Machu Picchu:
 </ol>
 And since this is the last post from Peru, ill sum up our time here:
 
-After spending almost 3 weeks in Peru to simply put it - it is not like any other country. It has beautiful landscapes, mountains, sandy dunes, beautiful beaches, off-roading, great local produce. The historical attractions are also some of the best that i have ever seen. I feel like we have only scratched the surface of the tremendous culture. And the only other country, besides Mexico, that left me longing for. Peru is huge, i think you can easily spend 2 months here and not feel bored. Yes, i mentioned before that we were bored with the food, but i believe that is our own shortcoming and not the country's. Peru is where we fell in love with cherimoya and continued our affair with pineapple tomatillo. Peruvians work like there is no tomorrow and were very welcoming to us.
+After spending almost 3 weeks in Peru to simply put it - it is not like any other country. It has beautiful landscapes, mountains, sandy dunes, beautiful beaches, off-roading, great local produce. The historical attractions are also some of the best that I have ever seen. I feel like we have only scratched the surface of the tremendous culture. And the only other country, besides Mexico, that left me longing for. Peru is huge, I think you can easily spend 2 months here and not feel bored. Yes, I mentioned before that we were bored with the food, but I believe that is our own shortcoming and not the country's. Peru is where we fell in love with cherimoya and continued our affair with pineapple tomatillo. Peruvians work like there is no tomorrow and were very welcoming to us.
 
 Thank you, Peru!

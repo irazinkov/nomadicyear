@@ -3,8 +3,8 @@ title: "Cough-emala a.k.a. Guatemala"
 slug: "cough-emala-a-k-a-guatemala"
 pubDate: "2015-11-27T01:56:26Z"
 updatedDate: "2016-09-19T04:53:55Z"
-description: "Who is ready for another update? I am, I am! I know that you weren't expecting it, but we are still alive and trucking along central america. I bring to you Guatemala - land of volcanoes, mountains, l..."
-excerpt: "Who is ready for another update? I am, I am! I know that you weren't expecting it, but we are still alive and trucking along central america. I bring to you Guatemala - land of volcanoes, mountains, l..."
+description: "Who is ready for another update? I am, I am! I know that you weren't expecting it, but we are still alive and trucking along Central America. I bring to you Guatemala - land of volcanoes, mountains, l..."
+excerpt: "Who is ready for another update? I am, I am! I know that you weren't expecting it, but we are still alive and trucking along Central America. I bring to you Guatemala - land of volcanoes, mountains, l..."
 heroImage: "/uploads/2015/12/guatemala-slider.jpg"
 heroImageAlt: "guatemala - slider"
 country: "guatemala"
@@ -21,7 +21,7 @@ draft: false
 ---
 Who is ready for another update? I am, I am!
 
-I know that you weren't expecting it, but we are still alive and trucking along central america.
+I know that you weren't expecting it, but we are still alive and trucking along Central America.
 
 I bring to you Guatemala - land of volcanoes, mountains, lakes....and a lot of pollution. But more about that later on.
 
@@ -45,7 +45,7 @@ It felt like Mexico and Guatemala were separated like this: "Mexico, you get all
 
 In a day we needed to drive from the border to the town of Quetzaltenango, pronounced as Quite-salt-tango....not even kidding!
 
-You see that big mountain? Thats the volcano called Santa Maria that we are going to climb the next day, but for the night we are going to camp at the bottom of it.  Don't worry its not active...the volcano right behind it is the active one.
+You see that big mountain? That's the volcano called Santa Maria that we are going to climb the next day, but for the night we are going to camp at the bottom of it.  Don't worry it's not active...the volcano right behind it is the active one.
 
 <a href="/uploads/2015/11/DSC01484.jpg"><img class="aligncenter size-full wp-image-491" src="/uploads/2015/11/DSC01484.jpg" alt="DSC01484" width="800" height="533" /></a>
 
@@ -57,7 +57,7 @@ As a bonus we got to hang out with some farm animals...yay! Honestly, a nice cha
 
 <a href="/uploads/2015/11/DSC01496.jpg"><img class="aligncenter size-full wp-image-498" src="/uploads/2015/11/DSC01496.jpg" alt="DSC01496" width="800" height="533" /></a>
 
-The owner's daughter, the neighbor with her daughter and grand-daughter came over to check out our car and listen to our story. I proceeded to explain what we have been up to for the past few weeks in the most gringo Spanish possible. If not for the help of photos, maps and excited hand-waiving, i don't think they would have understood what we were doing. I definitely should learn Spanish, my good looks and pretty smile are not gonna last forever!
+The owner's daughter, the neighbor with her daughter and grand-daughter came over to check out our car and listen to our story. I proceeded to explain what we have been up to for the past few weeks in the most gringo Spanish possible. If not for the help of photos, maps and excited hand-waving, I don't think they would have understood what we were doing. I definitely should learn Spanish, my good looks and pretty smile are not gonna last forever!
 
 <a href="/uploads/2015/11/DSC01499.jpg"><img class="aligncenter size-full wp-image-500" src="/uploads/2015/11/DSC01499.jpg" alt="DSC01499" width="800" height="533" /></a>
 
@@ -73,13 +73,13 @@ The next day we had to get up at butt-crack of dawn a.k.a. 4am to start the hike
 
 <a href="/uploads/2015/11/DSC01515.jpg"><img class="aligncenter size-full wp-image-505" src="/uploads/2015/11/DSC01515.jpg" alt="DSC01515" width="800" height="181" /></a>
 
-The hike started out nice, but turned brutal for the last half. We were going up a 45 degree incline on a narrow winding trail in the wettest jungle i have ever been. But enough crying about it. In the end you have an amazing view and get to see a real life volcano. In the above photo we managed to capture an actual eruption (see, left side, mushroom-looking cloud).
+The hike started out nice, but turned brutal for the last half. We were going up a 45 degree incline on a narrow winding trail in the wettest jungle I have ever been. But enough crying about it. In the end you have an amazing view and get to see a real life volcano. In the above photo we managed to capture an actual eruption (see, left side, mushroom-looking cloud).
 
 <a href="/uploads/2015/11/DSC01516.jpg"><img class="aligncenter size-full wp-image-506" src="/uploads/2015/11/DSC01516.jpg" alt="DSC01516" width="800" height="533" /></a>
 
 Out of the jungle and into the cloud layer at the top of the volcano. By this point we were both very wet, tired and very hungry.
 
-But the views are stunning! That's the volcano of Santiaguito....wiki link - <a href="https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(volcano)">pshhhh</a> ...if you dont like our pictures.
+But the views are stunning! That's the volcano of Santiaguito....wiki link - <a href="https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(volcano)">pshhhh</a> ...if you don't like our pictures.
 
 &nbsp;
 
@@ -104,29 +104,29 @@ Exhausted we came to the car, packed and drove about an hour away to "Fuentes Ge
 
 <a href="/uploads/2015/11/DSC01546.jpg"><img class="aligncenter size-full wp-image-530" src="/uploads/2015/11/DSC01546.jpg" alt="DSC01546" width="800" height="533" /></a>
 
-If you are in the area, i definitely recommend stopping by this place. For us it was a godsend after the 8 hour hike. The water was really nice and warm, definitely relaxing for the sore muscles.
+If you are in the area, I definitely recommend stopping by this place. For us it was a godsend after the 8 hour hike. The water was really nice and warm, definitely relaxing for the sore muscles.
 
 <a href="/uploads/2015/11/DSC01544.jpg"><img class="aligncenter size-full wp-image-528" src="/uploads/2015/11/DSC01544.jpg" alt="DSC01544" width="800" height="533" /></a>
 
 <a href="/uploads/2015/11/go-pro-1.jpg"><img class="aligncenter size-full wp-image-546" src="/uploads/2015/11/go-pro-1.jpg" alt="go pro 1" width="800" height="444" /></a>
 
-The almost boiling water comes down the mountain and fills up the pool you see here. It is large enough to fit 30 people comfortably, as long as you dont think about all of them peeing in the water.<a href="/uploads/2015/11/DSC01543.jpg"><img class="aligncenter size-full wp-image-527" src="/uploads/2015/11/DSC01543.jpg" alt="DSC01543" width="800" height="533" /></a>
+The almost boiling water comes down the mountain and fills up the pool you see here. It is large enough to fit 30 people comfortably, as long as you don't think about all of them peeing in the water.<a href="/uploads/2015/11/DSC01543.jpg"><img class="aligncenter size-full wp-image-527" src="/uploads/2015/11/DSC01543.jpg" alt="DSC01543" width="800" height="533" /></a>
 
 Looking away from the mountain, you realize that you are in the cloud forest. Nothing but trees and clouds....gorgeous!
 
 <a href="/uploads/2015/11/DSC01540.jpg"><img class="aligncenter size-full wp-image-524" src="/uploads/2015/11/DSC01540.jpg" alt="DSC01540" width="800" height="533" /></a>
 
-In the morning the sun came out for a few hours, giving us time to dry our laundry and tent. We spent the night at the hot springs parking lot. It was quite and relaxing.
+In the morning the sun came out for a few hours, giving us time to dry our laundry and tent. We spent the night at the hot springs parking lot. It was quiet and relaxing.
 
 By the morning the empty parking lot quickly filled up with cars and people staring at our belongings strewn all over the place. The locals were very excited to look at our drying socks and underwear, they smiled and gave us thumbs-up. But as quickly as the sun comes out in this country, it disappears even faster.
 
 <a href="/uploads/2015/11/DSC01556.jpg"><img class="aligncenter size-full wp-image-533" src="/uploads/2015/11/DSC01556.jpg" alt="DSC01556" width="800" height="533" /></a>
 
-When i say that that this is up in the mountains, i mean it. With the clouds hugging the side of the road, you felt like there was nothing but thousands feet of air there.
+When I say that this is up in the mountains, I mean it. With the clouds hugging the side of the road, you felt like there was nothing but thousands of feet of air there.
 
 <a href="/uploads/2015/11/DSC01559.jpg"><img class="aligncenter size-full wp-image-535" src="/uploads/2015/11/DSC01559.jpg" alt="DSC01559" width="800" height="533" /></a>
 
-As we got down the mountain the clouds cleared and you could see how the mountains has been transformed into farmland. There is so little flat land here that people grow crops on almost vertical stretches. If you fall here, i dont know if you would be able to catch yourself before you hit the bottom. These are double black diamond farmlands!
+As we got down the mountain the clouds cleared and you could see how the mountains have been transformed into farmland. There is so little flat land here that people grow crops on almost vertical stretches. If you fall here, I don't know if you would be able to catch yourself before you hit the bottom. These are double black diamond farmlands!
 
 <a href="/uploads/2015/11/DSC01561.jpg"><img class="aligncenter size-full wp-image-537" src="/uploads/2015/11/DSC01561.jpg" alt="DSC01561" width="800" height="533" /></a>
 
@@ -136,7 +136,7 @@ Further down the mountain you find the little farming town that cultivates all t
 
 <a href="/uploads/2015/11/DSC01571.jpg"><img class="aligncenter size-full wp-image-542" src="/uploads/2015/11/DSC01571.jpg" alt="DSC01571" width="800" height="533" /></a>
 <h2>Next up - Lake Atitlan!</h2>
-Here i'm going to digress from discussing the beauty of Guatemala and talk about something that we started to notice.
+Here I'm going to digress from discussing the beauty of Guatemala and talk about something that we started to notice.
 
 The whole time we were in Mexico, we didn't feel like we were treated like tourists. Yeah, yeah - I know - people did look at us and knew we were not local. But we never felt like we got treated different because of it. We paid the same prices as the locals, we felt like we integrated better. A whole different story in Guatemala. Here the tourist prices are 4-5 times higher than local prices. All the camping spots were 2-3 times higher than our most expensive ones in Mexico.....and why? I have no idea...
 
@@ -148,13 +148,13 @@ Our campsite for the night, two volcanoes and a lake - I'll take it.
 
 <a href="/uploads/2015/11/DSC01587.jpg"><img class="aligncenter size-full wp-image-552" src="/uploads/2015/11/DSC01587.jpg" alt="DSC01587" width="800" height="533" /></a>
 
-Before we park for the night, we have to find a nice level spot for the car. That way we dont slide all over the tent at night.
+Before we park for the night, we have to find a nice level spot for the car. That way we don't slide all over the tent at night.
 
 <a href="/uploads/2015/11/DSC01588.jpg"><img class="aligncenter size-full wp-image-553" src="/uploads/2015/11/DSC01588.jpg" alt="DSC01588" width="800" height="533" /></a>
 
 Yeah....found the spot!
 
-While i was chatting to our Swiss neighbors about how pricey Guatemala feels, Hyein found some new friends. They invited us to share some drinks and hang out.
+While I was chatting to our Swiss neighbors about how pricey Guatemala feels, Hyein found some new friends. They invited us to share some drinks and hang out.
 
 You guys know me, I never turn down a drink offer, especially with so many ladies!
 
@@ -176,17 +176,17 @@ After some dinner and general sobering up we tried to meet with our newly made f
 
 We only stayed a night, but it was beautiful.
 <h2>Next up - Antigua!</h2>
-Central Guatemala has mountainous terrain, so all the roads are curvy and always either uphill or downhill. Old american school buses are used here as public transport. And OMG these buses push the limits of physics by almost drifting around the corners. If your average american housewife saw her kids' school bus doing that, the school district would be sued and broke in seconds.
+Central Guatemala has mountainous terrain, so all the roads are curvy and always either uphill or downhill. Old American school buses are used here as public transport. And OMG these buses push the limits of physics by almost drifting around the corners. If your average American housewife saw her kids' school bus doing that, the school district would be sued and broke in seconds.
 
 But what is even more OUTRAGEOUS... is that the bus workers climb out of the back of the bus and on top of it.....WHILE IT IS STILL DRIFTING AROUND THE CORNER!
 
 <a href="/uploads/2015/11/DSC01577.jpg"><img class="aligncenter size-full wp-image-548" src="/uploads/2015/11/DSC01577.jpg" alt="DSC01577" width="800" height="533" /></a>
 
-In this photo, you are probably thinking that we are catching up to the bus. NO, NO, NO... you are so wrong. That bus passed us, the rear door flew open. The guy grabbed the ladder and as the bus made another 7G turn, I swear, i saw the guy's feet come off the ladder and swing in the air. He then proceeded to climb to the top, secure some luggage that was apparently moving around and then safely get back in the bus. All of this happened at 45-55mph with constant turns.
+In this photo, you are probably thinking that we are catching up to the bus. NO, NO, NO... you are so wrong. That bus passed us, the rear door flew open. The guy grabbed the ladder and as the bus made another 7G turn, I swear, I saw the guy's feet come off the ladder and swing in the air. He then proceeded to climb to the top, secure some luggage that was apparently moving around and then safely get back in the bus. All of this happened at 45-55mph with constant turns.
 
 Hollywood, if you are ever in short supply of stunt men, just come to any Guatemalan bus depot and have your pick!
 
-Oh, yeah back to Antigua. Some history - old capital of Spanish colonies. History done! See...dont you wish all history was this easy and fast?
+Oh, yeah back to Antigua. Some history - old capital of Spanish colonies. History done! See...don't you wish all history was this easy and fast?
 
 <a href="/uploads/2015/11/DSC01610.jpg"><img class="aligncenter size-full wp-image-583" src="/uploads/2015/11/DSC01610.jpg" alt="DSC01610" width="800" height="533" /></a>
 
@@ -198,7 +198,7 @@ I have to admit that it is pretty and I definitely like the consistency in style
 
 <a href="/uploads/2015/11/DSC01620.jpg"><img class="aligncenter size-full wp-image-590" src="/uploads/2015/11/DSC01620.jpg" alt="DSC01620" width="800" height="533" /></a>
 
-The city itself is small probably about 1 or 2 square miles. Definitely can walk around the whole city in one full day. The center is restored and looks beautiful with man-made beauty surrounded by natures answer - volcanoes and clouds.
+The city itself is small probably about 1 or 2 square miles. Definitely can walk around the whole city in one full day. The center is restored and looks beautiful with man-made beauty surrounded by nature's answer - volcanoes and clouds.
 
 The periphery is a little bit more weathered....roman ruins level of weathered.  I mean...there is a tree growing from the building!
 
@@ -220,7 +220,7 @@ Having fun on our first day in Antigua!
 
 If you ever wondered about the local currency - well, wonder no more.
 
-The first night we spent two hours walking around the city trying to find a good, inexpensive place to eat. In Mexico we would usually ask directions to the local market and eat whatever they had there. Antiguan market only had a couple of stalls, that did not appeal to our appetite. All the restaurants in the city were outrageously expensive...i mean US level of expensive. Finally, we were to exhausted to care and just had some food. I have to admit it was really good, but 4 times what we would like to have paid for it.
+The first night we spent two hours walking around the city trying to find a good, inexpensive place to eat. In Mexico we would usually ask directions to the local market and eat whatever they had there. Antiguan market only had a couple of stalls, that did not appeal to our appetite. All the restaurants in the city were outrageously expensive...I mean US level of expensive. Finally, we were too exhausted to care and just had some food. I have to admit it was really good, but 4 times what we would like to have paid for it.
 
 While we were waiting for our food, I found this blog - <a href="http://christophercrouzet.com/blog/post/2014/01/19/Eating-Like-a-Local-in-Antigua,-Guatemala">Eating like a local - Antigua</a>. Thank you, Christopher!
 
@@ -240,29 +240,29 @@ LOOK AT THIS LUNCH - there is like a pound of guacamole in there. And it was onl
 
 Around the main square we saw a girl in a beautiful red dress doing a photo shoot. Maybe it was her birthday or maybe she was putting an ad for a mail-order bride....who knows. Either way, she looked gorgeous in that dress.
 
-By this time in the trip i started to feel a bit out of it - tired, annoyed, congested and a bit feverish. I thought it was my back acting up from all the driving, so we decided to go to the local witch doctor.
+By this time in the trip I started to feel a bit out of it - tired, annoyed, congested and a bit feverish. I thought it was my back acting up from all the driving, so we decided to go to the local witch doctor.
 
 <a href="/uploads/2015/11/DSC01636-2.jpg"><img class="aligncenter size-full wp-image-603" src="/uploads/2015/11/DSC01636-2.jpg" alt="DSC01636-2" width="800" height="533" /></a>
 
-After a hot pack and some electro stimulation, they proceeded to pull my back for 30 minutes. The whole ordeal cost only 50Q, but didnt help much.
+After a hot pack and some electro stimulation, they proceeded to pull my back for 30 minutes. The whole ordeal cost only 50Q, but didn't help much.
 
 <a href="/uploads/2015/11/DSC01624.jpg"><img class="aligncenter size-full wp-image-594" src="/uploads/2015/11/DSC01624.jpg" alt="DSC01624" width="800" height="533" /></a>
 
-Yeah......i dont look to good or too happy.
+Yeah......I don't look too good or too happy.
 
-Well, turned out i just had a cold. I spent the next two days laying in bed, sleeping and reading. I know you guys are deathly worried, but rest assured i'm all healthy now. Thank you for your best wishes though!
+Well, turned out I just had a cold. I spent the next two days laying in bed, sleeping and reading. I know you guys are deathly worried, but rest assured I'm all healthy now. Thank you for your best wishes though!
 
 Because of the cold our 1 day visit to Antigua turned into 4 full days.
 
-Maybe its because i was sick, but this is where another epiphany about Guatemala came about. <em>DISCLAIMER: the following message is purely objective and should be taken as such. It is based on numerous studies and opinions of millions of visitors.</em>
+Maybe it's because I was sick, but this is where another epiphany about Guatemala came about. <em>DISCLAIMER: the following message is purely objective and should be taken as such. It is based on numerous studies and opinions of millions of visitors.</em>
 
-Guatemala's air is severely polluted. It was hard to breath in Antigua. Every time a car accelerated it left a cloud of smoke. You could feel cancer growing inside of you. If not for the rain, you would not be able to tell that once all the buildings were brightly colored. The stench is so bad that you get a headache by going outside. And this is not only in Antigua, it is everywhere. We couldn't open our windows at all in Guatemala because of the exhaust. On mountain roads you would get nauseous from all the cars, trucks and buses spewing black smoke out of the back.
+Guatemala's air is severely polluted. It was hard to breathe in Antigua. Every time a car accelerated it left a cloud of smoke. You could feel cancer growing inside of you. If not for the rain, you would not be able to tell that once all the buildings were brightly colored. The stench is so bad that you get a headache by going outside. And this is not only in Antigua, it is everywhere. We couldn't open our windows at all in Guatemala because of the exhaust. On mountain roads you would get nauseous from all the cars, trucks and buses spewing black smoke out of the back.
 
-Maybe they don't have emission regulation here, maybe because we are in the mountains.... i dont know, but it sucks. I'm not sure how people live....no, no...survive here. This sucks from a personal health and environmental point of view. Fix yo shit Guatemala!
+Maybe they don't have emission regulation here, maybe because we are in the mountains.... I don't know, but it sucks. I'm not sure how people live....no, no...survive here. This sucks from a personal health and environmental point of view. Fix yo shit Guatemala!
 
 &nbsp;
 
-Okay i'll leave you guys with some good thoughts for the day. While we were updating our blog in the coffee shop we met Jisoo, a korean girl who works in El Salvador and is fearless to travel Central America alone. Hi, Jisoo!
+Okay I'll leave you guys with some good thoughts for the day. While we were updating our blog in the coffee shop we met Jisoo, a Korean girl who works in El Salvador and is fearless to travel Central America alone. Hi, Jisoo!
 
 <a href="/uploads/2015/11/DSC01646-2.jpg"><img class="aligncenter size-full wp-image-608" src="/uploads/2015/11/DSC01646-2.jpg" alt="DSC01646-2" width="800" height="533" /></a>
 
@@ -270,11 +270,11 @@ Oh, oh....and while I was lying deathly sick in bed....guess what Hyein was doin
 
 <a href="/uploads/2015/11/DSC01649-2.jpg"><img class="aligncenter size-full wp-image-611" src="/uploads/2015/11/DSC01649-2.jpg" alt="DSC01649-2" width="800" height="533" /></a>
 
-No, i kid. Here is another very different custom that we noticed only in Guatemala.
+No, I kid. Here is another very different custom that we noticed only in Guatemala.
 
-There are not a lot of Asians here, so everyone is very interested in meeting Hyein and these guys were fighting each other to take a picture with her. I dont think that she minds too much :)
+There are not a lot of Asians here, so everyone is very interested in meeting Hyein and these guys were fighting each other to take a picture with her. I don't think that she minds too much :)
 
-However, there are also people that come over to Hyein then said "China! China!" (pronounced "cheeena") and when she responded that she is from Korea the people put their index fingers to their eyes, stretched them sidewise and said...."you look like China!". I kid you not, that shit happened so many times that we got used to it at some level. I'm also afraid to imagine what people what do if we were black...
+However, there are also people that come over to Hyein then said "China! China!" (pronounced "cheeena") and when she responded that she is from Korea the people put their index fingers to their eyes, stretched them sidewise and said...."you look like China!". I kid you not, that shit happened so many times that we got used to it at some level. I'm also afraid to imagine what people would do if we were black...
 
 I'll sum up Guatemala for you if you are considering visiting it:
 <ol>

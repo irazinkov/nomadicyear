@@ -37,7 +37,7 @@ After that one night of partying in Singapore we are looking forward to actually
 
 Suin and her two friends, Mook and Prin,  were super awesome and picked us up from the airport. We chatted away about Singapore, our travels in the Americas and the most important things to know about Thailand. One of which apparently is that this building in the above photo is a "ghost" building. Not sure of the validity of this story, but that hasn't stopped me from telling them in the past. A few years back an unhappy worker committed suicide by jumping from the window. The company that he has worked for shortly afterwards went out of business. And all the companies that have moved in since that time have not been able to stay for a long time. So the office building just sits there, empty and unused.
 
-Whats the moral of the story? We learned that Thai's are extremely superstitious people and sometimes will condemn a building just because of one person.
+What\x27s the moral of the story? We learned that Thais are extremely superstitious people and sometimes will condemn a building just because of one person.
 
 <a href="/uploads/2016/05/Bangkok_0198.jpg"><img class="aligncenter wp-image-3478 size-large" src="/uploads/2016/05/Bangkok_0198-1024x683.jpg" alt="thailand, bangkok, king, royal family, portrait" width="697" height="465" /></a>
 
@@ -49,11 +49,11 @@ Suin, Hyein's cousin, has been studying in Thailand since high school and is cur
 
 <a href="/uploads/2016/05/Bangkok_0207.jpg"><img class="aligncenter wp-image-3480 size-large" src="/uploads/2016/05/Bangkok_0207-1024x683.jpg" alt="thailand, bangkok, singha, beer, leo, beer with ice" width="697" height="465" /></a>
 
-In line with our tradition, I present the Thai beer - Singha and Leo. If you are confused by the similarity...i was too. Singha is a mythological super duper lion and also sounds like Singapore. So why couldn't Singapore choose this animal as their mascot instead of the Merlion? It even sounds the same. Oh and Leo is also obviously lion, so we have to beers with big cat symbolism.
+In line with our tradition, I present the Thai beer - Singha and Leo. If you are confused by the similarity...I was too. Singha is a mythological super duper lion and also sounds like Singapore. So why couldn't Singapore choose this animal as their mascot instead of the Merlion? It even sounds the same. Oh and Leo is also obviously lion, so we have two beers with big cat symbolism.
 
 <a href="/uploads/2016/05/Bangkok_0214_somtum_tubwan.jpg"><img class="aligncenter wp-image-3481 size-large" src="/uploads/2016/05/Bangkok_0214_somtum_tubwan-1024x683.jpg" alt="thailand, bangkok, food, cuisine, somtum tubwan" width="697" height="465" /></a>
 
-First day, first meal and it is already amazing. To keep track of the foods we wrote down notes for each photo. This one says "somtum tubwan"...Hyein took the notes, so i'm not sure what that means. And google is not really helping me out here. We will go clockwise, starting at the fish, then you got baked chicken, papaya salad, beef with sauce, another papaya salad, beef with other sauce. Man, that sounds like i have no idea what i'm talking about...anyway it was perfect.
+First day, first meal and it is already amazing. To keep track of the foods we wrote down notes for each photo. This one says "somtum tubwan"...Hyein took the notes, so I'm not sure what that means. And google is not really helping me out here. We will go clockwise, starting at the fish, then you got baked chicken, papaya salad, beef with sauce, another papaya salad, beef with other sauce. Man, that sounds like I have no idea what I'm talking about...anyway it was perfect.
 
 <a href="/uploads/2016/05/Bangkok_0217_rose-apple.jpg"><img class="aligncenter wp-image-3482 size-large" src="/uploads/2016/05/Bangkok_0217_rose-apple-1024x683.jpg" alt="thailand, bangkok, rose apple, market" width="697" height="465" /></a>
 
@@ -67,7 +67,7 @@ I haven't seen this anywhere yet - the yellow watermelon and rose apple (photo a
 
 <a href="/uploads/2016/05/Bangkok_0219.jpg"><img class="aligncenter wp-image-3484 size-large" src="/uploads/2016/05/Bangkok_0219-1024x683.jpg" alt="thailand, bangkok, market, rambutan" width="697" height="465" /></a>
 
-Rambutan, its like a lychee but with hair.
+Rambutan, it's like a lychee but with hair.
 
 <a href="/uploads/2016/05/Bangkok_0225.jpg"><img class="aligncenter wp-image-3485 size-large" src="/uploads/2016/05/Bangkok_0225-1024x683.jpg" alt="thailand, bangkok, jackfruit, market" width="697" height="465" /></a>
 
@@ -99,7 +99,7 @@ Wondered through the street, the sides are line with bars, restaurants, shops an
 
 <a href="/uploads/2016/05/Bangkok_05900.jpg"><img class="aligncenter wp-image-3537 size-large" src="/uploads/2016/05/Bangkok_05900-1024x683.jpg" alt="thailand, bangkok, insects, khaosan road" width="697" height="465" /></a>
 
-Hair messy, eyes wild, face slimy...its not the bugs it's the Bangkok heat, still wreaking havoc at 9 pm.
+Hair messy, eyes wild, face slimy...it's not the bugs it's the Bangkok heat, still wreaking havoc at 9 pm.
 
 An unspecified number of liters later we collected our courage and each tried the bugs. Some tasted okay, some good, some would definitely avoid in the future. Instead of blindly munching on grasshoppers we played a game of rock-paper-scissors, suggested by none other than Hyein, and the loser would eat a bug. Hyein started to regret her suggestion after she lost 3 times in a row.
 
@@ -119,23 +119,23 @@ Looking as good as we possibly can after a night of insects and beer...AND massi
 
 The best thing about knowing someone in a place to where you are traveling is their knowledge of local foods. And Suin pulled out all the stops for us. This right here was my favorite meal in Thailand.
 
-After a night of debauchery a bowl of tender ribs in a sweet, salty and sour broth is unbelievable. As usual even though there was only 5 of us there, Suin ordered food for 10 people. If this was New York or LA, i would politely ask her to cut that shit out right away. But in Thailand food is insanely cheap, this whole meal for 5 cost us less than $20.
+After a night of debauchery a bowl of tender ribs in a sweet, salty and sour broth is unbelievable. As usual even though there was only 5 of us there, Suin ordered food for 10 people. If this was New York or LA, I would politely ask her to cut that shit out right away. But in Thailand food is insanely cheap, this whole meal for 5 cost us less than $20.
 
 We have been looking forward to trying for ourselves Thailand's cuisine. We've tried it back home and loved it and heard plenty of travelers rave about it.
 
 Verdict - it's better than you have tried or imagined it. It's the only cuisine I know that is not afraid to make a dish that has all the 5 tastes. Umami...that is the 5th one that you are thinking about and that rib dish was definitely rich in umami.
 
-I feel like i could go on about Thai food for a while...and I will, just not right now there is still a million food photos coming up.
+I feel like I could go on about Thai food for a while...and I will, just not right now there is still a million food photos coming up.
 
 <a href="/uploads/2016/05/Bangkok_0396.jpg"><img class="aligncenter wp-image-3494 size-large" src="/uploads/2016/05/Bangkok_0396-1024x683.jpg" alt="thailand, bangkok, red cross fair, crowd" width="697" height="465" /></a>
 
-Just like little babies, after lunch we headed back home for a nap. Its been a week and jet lag is still on our ass, like we flew just yesterday.
+Just like little babies, after lunch we headed back home for a nap. It's been a week and jet lag is still on our ass, like we flew just yesterday.
 
 At night we headed back to Bangkok to check out the bi-annual Red Cross Fair.
 
 The idea behind it is to educated people about health, regular medical check ups all while enjoying food, shopping and fairgrounds with rides.
 
-In reality, when we got there it was a never-ending river of people moving so close to each other that claustrophobia was enough to make you gasp for air. But in Bangkok's heat it was something beyond what my body could possibly enjoy. Too many people, too hard to breath and we really don't need to buy anything.
+In reality, when we got there it was a never-ending river of people moving so close to each other that claustrophobia was enough to make you gasp for air. But in Bangkok's heat it was something beyond what my body could possibly enjoy. Too many people, too hard to breathe and we really don't need to buy anything.
 
 <a href="/uploads/2016/05/Bangkok_0410.jpg"><img class="aligncenter wp-image-3495 size-large" src="/uploads/2016/05/Bangkok_0410-1024x683.jpg" alt="thailand, bangkok, street food, pad thai, red cross fair" width="697" height="465" /></a>
 
@@ -145,21 +145,21 @@ Maybe except for some Pad Thai. Disappointing that stuff from last night was WAY
 
 Suin, the all-knowing, quickly suggested that we should head back home and get some decent food around there. She knows just the place.
 
-No problem, lets grab a taxi and go back. I keep mentioning taxis here because in Bangkok we have taken taxis everywhere we went. The public transportation network is not really there and taxis are extremely cheap. Center of Bangkok to Salaya, where we lived, is a 30-45 minute ride and costs about $6. At the same time San Diego Airport to La Jolla in 30 minutes will set you back $80.
+No problem, let\x27s grab a taxi and go back. I keep mentioning taxis here because in Bangkok we have taken taxis everywhere we went. The public transportation network is not really there and taxis are extremely cheap. Center of Bangkok to Salaya, where we lived, is a 30-45 minute ride and costs about $6. At the same time San Diego Airport to La Jolla in 30 minutes will set you back $80.
 
 Btw that dish is called Khao Pot Poo or fried rice with crab and it is served with a traditional sauce of fish sauce and thai chilies.
 
 <a href="/uploads/2016/05/Bangkok_0424.jpg"><img class="aligncenter wp-image-3498 size-large" src="/uploads/2016/05/Bangkok_0424-1024x683.jpg" alt="thailand, bangkok, food, drinking" width="697" height="465" /></a>
 
-Way more fun than the silly Red Cross Fair. I'm not sure if you can see it, but the two glasses next to Suin and me with the yellow liquid is beer with ice. Because of the heat Thai's always drink their beer with ice. Confused at first, now I 100% support this practice...but only in Thailand.
+Way more fun than the silly Red Cross Fair. I'm not sure if you can see it, but the two glasses next to Suin and me with the yellow liquid is beer with ice. Because of the heat Thais always drink their beer with ice. Confused at first, now I 100% support this practice...but only in Thailand.
 
 <a href="/uploads/2016/05/Bangkok_0430.jpg"><img class="aligncenter wp-image-3500 size-large" src="/uploads/2016/05/Bangkok_0430-1024x683.jpg" alt="thailand, bangkok, food, drinking" width="697" height="465" /></a>
 
-This was an emotional moment and my sarcastic humor doesn't fit for this part of the story. This was a great moment, we shared food, drinks and after a while got onto the family stories. Some i knew, many I learned.
+This was an emotional moment and my sarcastic humor doesn't fit for this part of the story. This was a great moment, we shared food, drinks and after a while got onto the family stories. Some I knew, many I learned.
 
 <a href="/uploads/2016/05/Bangkok_0449.jpg"><img class="aligncenter wp-image-3501 size-large" src="/uploads/2016/05/Bangkok_0449-1024x683.jpg" alt="thailand, bangkok, food preparation, restaurant owner, chef" width="697" height="465" /></a>
 
-Towards the end Suin and Hyein started to speak in Korean so fast that I could not keep up with it and decided to go see the lady that made our delicious food that night. I asked her if i could take a picture of her hands working, she said only if i include her face with them...I see what you did there.
+Towards the end Suin and Hyein started to speak in Korean so fast that I could not keep up with it and decided to go see the lady that made our delicious food that night. I asked her if I could take a picture of her hands working, she said only if I include her face with them...I see what you did there.
 
 <a href="/uploads/2016/05/Bangkok_0415.jpg"><img class="aligncenter wp-image-3496 size-large" src="/uploads/2016/05/Bangkok_0415-1024x683.jpg" alt="thailand, bangkok, food, human hands, chicken feet" width="697" height="465" /></a>
 
@@ -167,7 +167,7 @@ Isn't this the most disturbing picture, like EVER? Those look like human hands..
 
 <a href="/uploads/2016/05/Bangkok_0451.jpg"><img class="aligncenter wp-image-3502 size-large" src="/uploads/2016/05/Bangkok_0451-1024x683.jpg" alt="thailand, bangkok, food, drinking, singha" width="697" height="465" /></a>
 
-Grand total for the night. I'm not sure if Suin and Hyein are tired or trying to hold back their tears. Eitherway, time to go home and get some rest.
+Grand total for the night. I'm not sure if Suin and Hyein are tired or trying to hold back their tears. Either way, time to go home and get some rest.
 
 <a href="/uploads/2016/05/Bangkok_0459_guay-tiew-reua.jpg"><img class="aligncenter wp-image-3503 size-large" src="/uploads/2016/05/Bangkok_0459_guay-tiew-reua-1024x683.jpg" alt="thailand, bangkok, food, cuisine, guay tiew reua" width="697" height="465" /></a>
 
@@ -175,9 +175,9 @@ Next morning - I present to you our breakfast, Guay Tiew Reua or River Boat Nood
 
 <a href="/uploads/2016/05/Bangkok_05917.jpg"><img class="aligncenter wp-image-3548 size-large" src="/uploads/2016/05/Bangkok_05917-1024x683.jpg" alt="thailand, bangkok, interview, english" width="697" height="465" /></a>
 
-On the way to the taxi i got stopped for a quick interview about global climate change. The interview was conducted in English and recorded either for a whole class to see or just for them. Funny enough, one of the questions they asked: "How was the climate different from your generation to ours?"
+On the way to the taxi I got stopped for a quick interview about global climate change. The interview was conducted in English and recorded either for a whole class to see or just for them. Funny enough, one of the questions they asked: "How was the climate different from your generation to ours?"
 
-Shit...these 18-year-olds think I am in different generation...is that true? Am i not one of them anymore?
+Shit...these 18-year-olds think I am in different generation...is that true? Am I not one of them anymore?
 
 <a href="/uploads/2016/05/Bangkok_0462.jpg"><img class="aligncenter wp-image-3549 size-large" src="/uploads/2016/05/Bangkok_0462-1024x683.jpg" alt="thailand, bangkok, tuk tuk" width="697" height="465" /></a>
 
@@ -200,13 +200,13 @@ The coolest part was when we bought some stale bread from an old man on the shor
 
 <a href="/uploads/2016/05/Bangkok_0533.jpg"><img class="aligncenter wp-image-3506 size-large" src="/uploads/2016/05/Bangkok_0533-1024x683.jpg" alt="thailand, bangkok, river, boat ride, feeding, catfish, fish" width="697" height="465" /></a>
 
-Given the muddy waters and general shape of the fish my expert conclusion is that these are catfish. Just to be more scientific, lets call them Asianus Felinipescarius.
+Given the muddy waters and general shape of the fish my expert conclusion is that these are catfish. Just to be more scientific, let\x27s call them Asianus Felinipescarius.
 
 Silly jokes aside, this was the best part of the boat ride. We got 6 loaves of bread for 20 baht and went through them in less than 5 minutes. Get 12, no screw it get 18 loaves and have fun, the fish will not stop eating until everything is gone.
 
 <a href="/uploads/2016/05/Bangkok_0603.jpg"><img class="aligncenter wp-image-3507 size-large" src="/uploads/2016/05/Bangkok_0603-1024x683.jpg" alt="thailand, bangkok, wat arun, 10 baht coin" width="697" height="465" /></a>
 
-The boat ride finishes on a pier next to Wat Arun, in Thai "Wat" means temple and "Arun" is Dawn. It's also the temple pictured on the 10 baht coin. If i knew we were coming here i would have found a cleaner coin, but this is all we had we us, so deal it.
+The boat ride finishes on a pier next to Wat Arun, in Thai "Wat" means temple and "Arun" is Dawn. It's also the temple pictured on the 10 baht coin. If I knew we were coming here I would have found a cleaner coin, but this is all we had with us, so deal it.
 
 <a href="/uploads/2016/05/Bangkok_0606.jpg"><img class="aligncenter wp-image-3508 size-large" src="/uploads/2016/05/Bangkok_0606-1024x683.jpg" alt="thailand, bangkok, clothing, restrictions, guidelines" width="697" height="465" /></a>
 
@@ -220,15 +220,15 @@ This is the first Thai temple that we visited so it will stick out in our memory
 
 I guess this counts as a "church" picture, right?
 
-So, lets see how this is different from a Christian church or a Hindu temple. Without offense to anyone, i hope. Okay, so Buddha is like Jesus H. Christ and is plastered all over the temple in all kinds of sizes from tiny figures to huge statues. The color scheme and tiered pyramid architecture much closer resembles the Hindu temples. And of course there is a bit of gold, but all the religions are guilty of this.
+So, let\x27s see how this is different from a Christian church or a Hindu temple. Without offense to anyone, I hope. Okay, so Buddha is like Jesus H. Christ and is plastered all over the temple in all kinds of sizes from tiny figures to huge statues. The color scheme and tiered pyramid architecture much closer resembles the Hindu temples. And of course there is a bit of gold, but all the religions are guilty of this.
 
 <a href="/uploads/2016/05/Bangkok_0648.jpg"><img class="aligncenter wp-image-3510 size-large" src="/uploads/2016/05/Bangkok_0648-683x1024.jpg" alt="thailand, bangkok, wat arun, temple, stupa" width="683" height="1024" /></a>
 
-So why do i get a different feeling here? When entering the greatest Christian cathedrals of Europe and Americas you get a sense of awe, yes the original meaning of the word, before SoCal girls took it over. That sense of something greater than just yourself, from the high ceilings to the echos of ethereal vocals. You feel small in the presence of God.
+So why do I get a different feeling here? When entering the greatest Christian cathedrals of Europe and Americas you get a sense of awe, yes the original meaning of the word, before SoCal girls took it over. That sense of something greater than just yourself, from the high ceilings to the echos of ethereal vocals. You feel small in the presence of God.
 
 On the other hand Hindu temples are a bit more practical, busy with worshipers coming and going. Smell of food, incense, flowers and your uncles sweat gives these temples a homey feel. A place where you are always welcome and will not be judged.
 
-In the Buddhist temple, you instantly feel calm. The open sky above your head is the highest ceiling you can wish for. And unless the temple is a major tourist attraction with thousands of tourists, you feel peaceful here. The large towers, called <em>stupas</em>, with their large bases make you feel grounded on this planet as you still reach for something greater with the rising peaks. Even though it was hot, humid and i was tired, i felt at home here.
+In the Buddhist temple, you instantly feel calm. The open sky above your head is the highest ceiling you can wish for. And unless the temple is a major tourist attraction with thousands of tourists, you feel peaceful here. The large towers, called <em>stupas</em>, with their large bases make you feel grounded on this planet as you still reach for something greater with the rising peaks. Even though it was hot, humid and I was tired, I felt at home here.
 
 <a href="/uploads/2016/05/Bangkok_0653_chut-lam.jpg"><img class="aligncenter wp-image-3511 size-large" src="/uploads/2016/05/Bangkok_0653_chut-lam-1024x683.jpg" alt="thailand, bangkok, traditional, clothing, dress, girl" width="697" height="465" /></a>
 
@@ -244,7 +244,7 @@ You are not going crazy, yes you saw this photo on Facebook already.
 
 <a href="/uploads/2016/05/Bangkok_0689.jpg"><img class="aligncenter wp-image-3554 size-large" src="/uploads/2016/05/Bangkok_0689-1024x683.jpg" alt="thailand, bangkok, wat arun, cats" width="697" height="465" /></a>
 
-I remember that at this point i started to feel a bit dizzy, had to sit down for a few minutes and drink some water. Lugging the camera around, taking photos and enjoying the temple i completely forgot to drink water. In this heat that could be a very dangerous thing, luckily I'm not THAT old yet so 5 minutes of rest a bottle of water and i was back to normal. Please, please, please make sure to drink enough liquids.
+I remember that at this point I started to feel a bit dizzy, had to sit down for a few minutes and drink some water. Lugging the camera around, taking photos and enjoying the temple I completely forgot to drink water. In this heat that could be a very dangerous thing, luckily I'm not THAT old yet so 5 minutes of rest a bottle of water and I was back to normal. Please, please, please make sure to drink enough liquids.
 
 <a href="/uploads/2016/05/Bangkok_0693.jpg"><img class="aligncenter wp-image-3555 size-large" src="/uploads/2016/05/Bangkok_0693-1024x683.jpg" alt="thailand, bangkok, buddha, wat pho " width="697" height="465" /></a>
 
@@ -288,7 +288,7 @@ Although very simple, mango and sticky rice, is a delicious dessert to enjoy eve
 
 And our strange/weird/unusual dish for the day - bird nest soup.
 
-It taste as good as it looks, disappointing. The actual nest has no taste and has a texture of squirmy jello. The broth, well it was so unoriginal, that i can't even remember if it was sweet or savory.
+It tastes as good as it looks, disappointing. The actual nest has no taste and has a texture of squirmy jello. The broth, well it was so unoriginal, that I can't even remember if it was sweet or savory.
 
 Apparently this is medicinal dish and helps you with all kinds of problems, from digestion to fertility. Just remember that you are actually eating rehydrated bird saliva, that's right, the nests are made from swiftlet's saliva.
 

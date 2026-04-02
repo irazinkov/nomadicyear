@@ -3,8 +3,8 @@ title: "Gate to South America - Panama"
 slug: "gate-to-south-america-panama"
 pubDate: "2016-01-02T14:38:27Z"
 updatedDate: "2016-09-18T12:38:28Z"
-description: "Panama...Panama? There only two things I know about Panama: 1) There is the Panama Canal and more importantly 2) it is the end of the road. No, literally, the famous Pan American Highway that goes for..."
-excerpt: "Panama...Panama? There only two things I know about Panama: 1) There is the Panama Canal and more importantly 2) it is the end of the road. No, literally, the famous Pan American Highway that goes for..."
+description: "Panama...Panama? There are only two things I know about Panama: 1) There is the Panama Canal and more importantly 2) it is the end of the road. No, literally, the famous Pan American Highway that goes for..."
+excerpt: "Panama...Panama? There are only two things I know about Panama: 1) There is the Panama Canal and more importantly 2) it is the end of the road. No, literally, the famous Pan American Highway that goes for..."
 heroImage: "/uploads/2016/01/panama-2-slider.jpg"
 heroImageAlt: "panama 2 - slider"
 country: "panama"
@@ -20,18 +20,18 @@ legacyUrl: "http://nomadicyear.com/2016/01/gate-to-south-america-panama/"
 status: "publish"
 draft: false
 ---
-Panama...Panama? There only two things I know about Panama: 1) There is the Panama Canal and more importantly 2) it is the end of the road.
+Panama...Panama? There are only two things I know about Panama: 1) There is the Panama Canal and more importantly 2) it is the end of the road.
 
 No, literally, the famous Pan American Highway that goes for thousands of miles from Alaska to Argentina...it breaks here for about 50 miles.
 
-This is the famous Darien Gap. Crossing the border I knew that we would could ship the car by boat and fly ourselves. But reading about it and actually doing it yourself are two very DIFFERENT things.
+This is the famous Darien Gap. Crossing the border I knew that we could ship the car by boat and fly ourselves. But reading about it and actually doing it yourself are two very DIFFERENT things.
 <a href="/uploads/2015/12/DSC01995.jpg" rel="attachment wp-att-907"><img class="aligncenter size-full wp-image-907" src="/uploads/2015/12/DSC01995.jpg" alt="DSC01995" width="800" height="533" /></a>
 
 The border crossing was very straightforward, but there were a LOT of people waiting to get into Panama and there was a general sense of disarray in the processing.
 
 <a href="/uploads/2015/12/DSC01992.jpg" rel="attachment wp-att-902"><img class="aligncenter size-full wp-image-902" src="/uploads/2015/12/DSC01992.jpg" alt="DSC01992" width="800" height="533" /></a>
 
-People crowding the office in what seems like a mess of people, but believe it or not there is an actual line (queque) here.
+People crowding the office in what seems like a mess of people, but believe it or not there is an actual line (queue) here.
 
 The border crossing process with a car is actually very simple: 1) get your passports stamped then 2) import the car.
 
@@ -39,9 +39,9 @@ The border crossing process with a car is actually very simple: 1) get your pass
 
 Here is the car immigration step. It works pretty well. You step up to the window, say in absolutely broken Spanish that you want to import your car and then just smile and nod.
 
-If they ask you a question and you dont understand...just smile, they will figure it out somehow. The only important part is to make sure all the numbers (VIN, license plate) are filled out correctly.
+If they ask you a question and you don't understand...just smile, they will figure it out somehow. The only important part is to make sure all the numbers (VIN, license plate) are filled out correctly.
 
-Anyway, enough with the bureaucracy - lets see where we are going to sleep for the night!
+Anyway, enough with the bureaucracy - let's see where we are going to sleep for the night!
 
 We drove a couple hours south and stopped for the night at a beach on the Pacific side.
 
@@ -65,11 +65,11 @@ It is amazing just how dramatic the sky looks in the sunset.
 
 <a href="/uploads/2015/12/DSC02010-Copy.jpg" rel="attachment wp-att-918"><img class="aligncenter size-full wp-image-918" src="/uploads/2015/12/DSC02010-Copy.jpg" alt="DSC02010 - Copy" width="800" height="533" /></a>
 
-Its like shooting fish in a barrel... just point your camera in the general direction of the sky/sun and you have an amazing photo.
+It's like shooting fish in a barrel... just point your camera in the general direction of the sky/sun and you have an amazing photo.
 
-Okay, okay...I exaggerate... i tried to take some pictures...but they are not on the blog and we will not talk about it.
+Okay, okay...I exaggerate... I tried to take some pictures...but they are not on the blog and we will not talk about it.
 
-So you look at these amazing photos and think..."i'm so jealous"...don't be! Soon after the sunset the myriads of bugs come out and begin their assault on anything with a pulse.
+So you look at these amazing photos and think..."I'm so jealous"...don't be! Soon after the sunset the myriads of bugs come out and begin their assault on anything with a pulse.
 
 After a quick dinner, it was off to the tent.
 
@@ -81,11 +81,11 @@ In the morning we thought about taking a dip in the ocean, but with enough light
 
 Stopped for the night at a beach side restaurant with gated parking, where you could camp over night.
 
-Finally, the water is clean and the waves are not going to break your neck. We got out our swimsuits and RAN for the water. The sun here is so brutal that the sand burns your feet and you can feel the your skin crackle and pop like bacon on a hot skillet.<a href="/uploads/2015/12/DSC02015.jpg" rel="attachment wp-att-921"><img class="aligncenter size-full wp-image-921" src="/uploads/2015/12/DSC02015.jpg" alt="DSC02015" width="800" height="533" /></a>
+Finally, the water is clean and the waves are not going to break your neck. We got out our swimsuits and RAN for the water. The sun here is so brutal that the sand burns your feet and you can feel your skin crackle and pop like bacon on a hot skillet.<a href="/uploads/2015/12/DSC02015.jpg" rel="attachment wp-att-921"><img class="aligncenter size-full wp-image-921" src="/uploads/2015/12/DSC02015.jpg" alt="DSC02015" width="800" height="533" /></a>
 
 &nbsp;
 
-What could have been a unbelievable photo...but we messed up the ISO setting on the camera so the following few pictures look "a bit" grainy. Damn it!
+What could have been an unbelievable photo...but we messed up the ISO setting on the camera so the following few pictures look "a bit" grainy. Damn it!
 
 <a href="/uploads/2015/12/DSC02028.jpg" rel="attachment wp-att-926"><img class="aligncenter size-full wp-image-926" src="/uploads/2015/12/DSC02028.jpg" alt="DSC02028" width="800" height="533" /></a>
 
@@ -97,7 +97,7 @@ The local restaurant dog that would go in the water to cool off once in a while.
 
 <a href="/uploads/2015/12/DSC02026.jpg" rel="attachment wp-att-925"><img class="aligncenter size-full wp-image-925" src="/uploads/2015/12/DSC02026.jpg" alt="DSC02026" width="800" height="533" /></a>
 
-Okay, since we failed at making something pretty in the sand. Lets just put the seashells on our hand and call it a day!
+Okay, since we failed at making something pretty in the sand. Let's just put the seashells on our hand and call it a day!
 
 <a href="/uploads/2015/12/DSC02036.jpg" rel="attachment wp-att-930"><img class="aligncenter size-full wp-image-930" src="/uploads/2015/12/DSC02036.jpg" alt="DSC02036" width="800" height="533" /></a>
 
@@ -113,7 +113,7 @@ Wow...look at that masterpiece! No, really, Ivan how old are you?
 
 <a href="/uploads/2015/12/DSC02044.jpg" rel="attachment wp-att-934"><img class="aligncenter size-full wp-image-934" src="/uploads/2015/12/DSC02044.jpg" alt="DSC02044" width="800" height="533" /></a>
 
-Better...finally there is something else to look at...also, i need to shave more often!
+Better...finally there is something else to look at...also, I need to shave more often!
 
 Next day we got to Panama City and started to prepare for car shipping.
 
@@ -121,13 +121,13 @@ A week before we contacted a shipping agent, Boris Jaramillo, who put us in touc
 
 This way we could share a single 40 foot container that could fit two cars. This would lower the shipping cost considerably.
 
-We got to Panama City before out shipping partners and decided to start the process alone. By this point in the trip we learned that things work differently here - if you can start something early - do it. Because tomorrow the office might be closed for some reason...or they might run out of forms or printer ink...
+We got to Panama City before our shipping partners and decided to start the process alone. By this point in the trip we learned that things work differently here - if you can start something early - do it. Because tomorrow the office might be closed for some reason...or they might run out of forms or printer ink...
 
 Step number one to get your car out of Panama is to do a police inspection to make sure that you didn't steal the car.
 
 <a href="/uploads/2015/12/DSC02073.jpg" rel="attachment wp-att-935"><img class="aligncenter size-full wp-image-935" src="/uploads/2015/12/DSC02073.jpg" alt="DSC02073" width="800" height="533" /></a>
 
-The day of the inspection you wake up butt early in the morning and drive to the shadiest part of Panama city. There you give copies of your documents to a grumpy looking officer who then makes you open the hood and wait next to your car. Then he comes over, checks the VIN, looks at the engine and tells you to pick up your export permit 5 hours later at the building across the street.
+The day of the inspection you wake up butt early in the morning and drive to the shadiest part of Panama City. There you give copies of your documents to a grumpy looking officer who then makes you open the hood and wait next to your car. Then he comes over, checks the VIN, looks at the engine and tells you to pick up your export permit 5 hours later at the building across the street.
 
 Btw, did you notice I fixed the stupid ISO setting? Don't the photos look much better? If you can see the difference just scroll up and compare :)
 
@@ -143,7 +143,7 @@ But....before you are allowed to go in...guess what!
 
 Yup, you guessed it - "Pants". You have to put on pants to go inside and sit in a nice air-conditioned room. Why? I have no idea. Modesty? Not sure, but walking a 100 feet from the car to the office in Panama's midday heat...trust me those pants felt a bit overkill.
 
-Inside, we waited for an hour for our permit only to notice that there is a mistake in our VIN and we had to wait another hour for them to fix it. But with the AC on full blast we sat there quitely, enjoying the cool air and our warm pants :)
+Inside, we waited for an hour for our permit only to notice that there is a mistake in our VIN and we had to wait another hour for them to fix it. But with the AC on full blast we sat there quietly, enjoying the cool air and our warm pants :)
 
 Finally, we got our permit - step 1 of the treasure hunt is done. Now we drive to Colon, a port city on the Atlantic side of Panama, where we will meet up with our shipping partners and pack our cars into a container.
 
@@ -153,7 +153,7 @@ How wrong was I? Simple answer - VERY.
 
 <a href="/uploads/2015/12/DSC02136.jpg" rel="attachment wp-att-988"><img class="aligncenter size-full wp-image-988" src="/uploads/2015/12/DSC02136.jpg" alt="DSC02136" width="800" height="533" /></a>
 
-We got to our hotel in Colon, parked the car and asked where we could go get some food. The security guard told us that it is late and it is safer just to stay and eat in the hotel. Wow...thats a first!
+We got to our hotel in Colon, parked the car and asked where we could go get some food. The security guard told us that it is late and it is safer just to stay and eat in the hotel. Wow...that's a first!
 
 The city is a SLUM. There is no "nice" part of town, at least we didn't find one.
 
@@ -173,7 +173,7 @@ Yup, the Panama Canal, more specifically the Gatun Locks.
 
 <a href="/uploads/2015/12/DSC02101.jpg" rel="attachment wp-att-953"><img class="aligncenter size-full wp-image-953" src="/uploads/2015/12/DSC02101.jpg" alt="DSC02101" width="800" height="533" /></a>
 
-I'm too lazy to look it up on Wikipedia today...but from what i remember i think there are 3 sets of locks in total. Two of them on the Pacific side and one of the Atlantic side.
+I'm too lazy to look it up on Wikipedia today...but from what I remember I think there are 3 sets of locks in total. Two of them on the Pacific side and one of the Atlantic side.
 
 Okay, fine... just because it is New Year I'll do you a favor - <a href="https://en.wikipedia.org/wiki/Panama_Canal#Layout">Gatun Locks and Canal Layout</a>. Yup, 3 sets of locks, still got it :)
 
@@ -183,7 +183,7 @@ I think Panama Canal is one of the coolest engineering masterpieces that we as h
 
 <a href="/uploads/2015/12/DSC02103.jpg" rel="attachment wp-att-955"><img class="aligncenter size-full wp-image-955" src="/uploads/2015/12/DSC02103.jpg" alt="DSC02103" width="800" height="533" /></a>
 
-Obligatory picture in front of the locks... we both came out really well in this picture, but i definitely need to be shaving more often.
+Obligatory picture in front of the locks... we both came out really well in this picture, but I definitely need to be shaving more often.
 
 Back to the canal.
 
@@ -197,7 +197,7 @@ And they are pulled forward by 6 locomotives that you can see in the photo above
 
 <a href="/uploads/2015/12/DSC02121.jpg" rel="attachment wp-att-973"><img class="aligncenter size-full wp-image-973" src="/uploads/2015/12/DSC02121.jpg" alt="DSC02121" width="800" height="533" /></a>
 
-Its very cool to see such a large shipping vessel, with the helm of the ship as large as the surrounding buildings.
+It's very cool to see such a large shipping vessel, with the helm of the ship as large as the surrounding buildings.
 
 <a href="/uploads/2015/12/DSC02127.jpg" rel="attachment wp-att-979"><img class="aligncenter size-full wp-image-979" src="/uploads/2015/12/DSC02127.jpg" alt="DSC02127" width="800" height="533" /></a>
 
@@ -207,7 +207,7 @@ You can barely see any space between the hull and the walls. Look below for a co
 
 This is the end or beginning of the canal, depending of how you look at it. At the far end of the photo is the Atlantic Ocean side of the canal.
 
-So the canal celebrated it's 100th birthday in 2014, and when it was designed it of course was designed with ever increasing vessel size in mind.
+So the canal celebrated its 100th birthday in 2014, and when it was designed it of course was designed with ever increasing vessel size in mind.
 
 But our ships have become so wide and long that they no longer fit in the canal. So....Panama, not wanting to lose the monopoly, is expanding the canal.
 
@@ -217,7 +217,7 @@ These new locks are 150% wider and longer. They are truly massive.
 
 The lock gates are so large that they serve as a bridge connecting the two sides of the lock.
 
-I mean, i took this pictures while driving on that gate. There are people working at the bottom of the lock, but you can barely see them.
+I mean, I took this pictures while driving on that gate. There are people working at the bottom of the lock, but you can barely see them.
 
 <a href="/uploads/2015/12/DSC02090.jpg" rel="attachment wp-att-944"><img class="aligncenter size-full wp-image-944" src="/uploads/2015/12/DSC02090.jpg" alt="DSC02090" width="800" height="533" /></a>
 

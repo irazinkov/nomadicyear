@@ -41,15 +41,15 @@ Our destination today was El Calafate, a small town near the famous Perito Moren
 
 <a href="/uploads/2016/03/DSC04524.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04524" src="/uploads/2016/03/DSC04524_thumb.jpg" alt="DSC04524" width="800" height="533" border="0" /></a>
 
-But before we get all googly-eyed about the glacier and how awesome it is, lets talk about Argentina’s real tourist attraction – beef and wine.
+But before we get all googly-eyed about the glacier and how awesome it is, let's talk about Argentina’s real tourist attraction – beef and wine.
 
-That’s right – “beef, its what’s for dinner”.
+That’s right – “beef, it's what’s for dinner”.
 
 After going to every single ATM in El Calafate and finding all of them without money, more about that later…we spent our last money on wine and steaks.
 
 <a href="/uploads/2016/03/DSC04525.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04525" src="/uploads/2016/03/DSC04525_thumb.jpg" alt="DSC04525" width="800" height="533" border="0" /></a>
 
-For whatever reason, we haven’t bought much fresh meat on the trip. Sure, we would get sausages, chorizo, hot dogs and cooked meat, just nothing raw. Not anymore. I’ve heard great things about the Argentine beef, lets see if it is up to snuff.
+For whatever reason, we haven’t bought much fresh meat on the trip. Sure, we would get sausages, chorizo, hot dogs and cooked meat, just nothing raw. Not anymore. I’ve heard great things about the Argentine beef, let's see if it is up to snuff.
 
 <a href="/uploads/2016/03/DSC04526.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04526" src="/uploads/2016/03/DSC04526_thumb.jpg" alt="DSC04526" width="800" height="533" border="0" /></a>
 
@@ -63,7 +63,7 @@ The morning greeted us with sunshine and warmth, let's go look at that ice-cube.
 
 <a href="/uploads/2016/03/DSC04531.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04531" src="/uploads/2016/03/DSC04531_thumb.jpg" alt="DSC04531" width="800" height="533" border="0" /></a>
 
-The glacier itself is about an hour away from the town. If you made wrong choice in life and did not bring your own car for this trip, i guess you could be a peasant and take one of the hundred tour buses from town. But then you have to interact with other people, how quaint.
+The glacier itself is about an hour away from the town. If you made wrong choice in life and did not bring your own car for this trip, I guess you could be a peasant and take one of the hundred tour buses from town. But then you have to interact with other people, how quaint.
 
 <a href="/uploads/2016/03/DSC04533.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04533" src="/uploads/2016/03/DSC04533_thumb.jpg" alt="DSC04533" width="800" height="533" border="0" /></a>
 
@@ -71,7 +71,7 @@ The entrance fee will set you back 200 local shekels or about 14 real dollars. Y
 
 <a href="/uploads/2016/03/DSC04536.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04536" src="/uploads/2016/03/DSC04536_thumb.jpg" alt="DSC04536" width="800" height="533" border="0" /></a>
 
-The photo is a bit dark, but we are not focusing on me here…its all about the glacier. You see it? It's that white strip in the background.
+The photo is a bit dark, but we are not focusing on me here…it's all about the glacier. You see it? It's that white strip in the background.
 
 <a href="/uploads/2016/03/DSC04538-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04538-1" src="/uploads/2016/03/DSC04538-1_thumb.jpg" alt="DSC04538-1" width="800" height="403" border="0" /></a>
 
@@ -103,7 +103,7 @@ No…no...nope, the tour guide on the boat just announced that the color is an i
 
 <a href="/uploads/2016/03/DSC04557.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04557" src="/uploads/2016/03/DSC04557_thumb.jpg" alt="DSC04557" width="800" height="533" border="0" /></a>
 
-So all these photos so far are taken from the boat of the southern face of the glacier. The boat couldn’t come all the way to the glacier because of unpredictable falling ice. But if you can use your imagination i’ll tell you some numbers for reference. The height of the glacier is 70 meters above water or about 20 story high building. Jesus…i just did that calculation, according to wiki one story is 3.5 meter. But that is one large ice-cube.
+So all these photos so far are taken from the boat of the southern face of the glacier. The boat couldn’t come all the way to the glacier because of unpredictable falling ice. But if you can use your imagination I’ll tell you some numbers for reference. The height of the glacier is 70 meters above water or about 20 story high building. Jesus…I just did that calculation, according to wiki one story is 3.5 meter. But that is one large ice-cube.
 
 &nbsp;
 
@@ -115,9 +115,9 @@ And as usual most of it is hidden under water. There is another 100 meters of ic
 
 With all these numbers it is not hard to believe that this ice field (the mother of this glacier so to say) is the 3rd largest fresh water reserve in the world. Whaaaaaat?!
 
-Btw, can you guess the largest water reserve? I’ll give you a hint – its a lake, its in Russia and we are going to visit it.
+Btw, can you guess the largest water reserve? I’ll give you a hint – it's a lake, it's in Russia and we are going to visit it.
 
-Give up? Okay, its Lake Baikal. How did i know that? Well Russians are very proud of their country and having largest and firsts of everything. So when you are a child in Russian school you learn about the deepest and best of all lakes – Lake Baikal. I think we are also Number 1 exporters of Potassium!
+Give up? Okay, it's Lake Baikal. How did I know that? Well Russians are very proud of their country and having largest and firsts of everything. So when you are a child in Russian school you learn about the deepest and best of all lakes – Lake Baikal. I think we are also Number 1 exporters of Potassium!
 
 <a href="/uploads/2016/03/DSC04565-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04565" src="/uploads/2016/03/DSC04565_thumb-1.jpg" alt="DSC04565" width="800" height="533" border="0" /></a>
 
@@ -133,7 +133,7 @@ Argentina should buy this picture from Hyein to use in promotion of the glacier.
 
 <a href="/uploads/2016/03/DSC04586.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04586" src="/uploads/2016/03/DSC04586_thumb.jpg" alt="DSC04586" width="800" height="533" border="0" /></a>
 
-Even though it was windy and cold, i stood outside the whole time with the GoPro rolling in hopes of capturing a calving event, thats when the ice breaks and falls in the water. It is almost impossible to predict when the next piece will fall and where. On this side of the glacier we saw a few “little” calvings, the quotes are there only because of difficulty in size perception. The chunks we saw falling were easily larger than our Hodori.
+Even though it was windy and cold, I stood outside the whole time with the GoPro rolling in hopes of capturing a calving event, that's when the ice breaks and falls in the water. It is almost impossible to predict when the next piece will fall and where. On this side of the glacier we saw a few “little” calvings, the quotes are there only because of difficulty in size perception. The chunks we saw falling were easily larger than our Hodori.
 
 <a href="/uploads/2016/03/DSC04593.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04593" src="/uploads/2016/03/DSC04593_thumb.jpg" alt="DSC04593" width="800" height="533" border="0" /></a>
 
@@ -169,11 +169,11 @@ Aaaaaaaaw, cuteness overload.
 
 <a href="/uploads/2016/03/DSC04617.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04617" src="/uploads/2016/03/DSC04617_thumb.jpg" alt="DSC04617" width="800" height="533" border="0" /></a>
 
-Stopped at the same supermarket as the day before to pick up some steaks. After i got the steaks, i walked around the meat section like a hungry lion, picking out his next victim. Beef wasn’t enough for today, i wanted something else.
+Stopped at the same supermarket as the day before to pick up some steaks. After I got the steaks, I walked around the meat section like a hungry lion, picking out his next victim. Beef wasn’t enough for today, I wanted something else.
 
 <a href="/uploads/2016/03/DSC04618.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04618" src="/uploads/2016/03/DSC04618_thumb.jpg" alt="DSC04618" width="800" height="533" border="0" /></a>
 
-Saw a whole lamb hanging there and asked the butcher if he could cut me some ribs. No problem…as much as you want. It is usually a bad idea to do grocery shopping while hungry and Hyein is my voice of reason at these moments. Today, she knew that i needed something else and just let me make my own decisions. Or maybe she just liked the steaks i made the day before and knew that i couldn’t go wrong here?
+Saw a whole lamb hanging there and asked the butcher if he could cut me some ribs. No problem…as much as you want. It is usually a bad idea to do grocery shopping while hungry and Hyein is my voice of reason at these moments. Today, she knew that I needed something else and just let me make my own decisions. Or maybe she just liked the steaks I made the day before and knew that I couldn’t go wrong here?
 
 <a href="/uploads/2016/03/DSC04621.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04621" src="/uploads/2016/03/DSC04621_thumb.jpg" alt="DSC04621" width="800" height="533" border="0" /></a>
 
@@ -181,11 +181,11 @@ Campfire, wine, salad and lamb.
 
 <a href="/uploads/2016/03/DSC04622.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04622" src="/uploads/2016/03/DSC04622_thumb.jpg" alt="DSC04622" width="800" height="401" border="0" /></a>
 
-After a bit too much wine, i tried to sing. And if you know me and my singing…well, Sam Smith’s “Writings on the wall” would not be the best choice for me.
+After a bit too much wine, I tried to sing. And if you know me and my singing…well, Sam Smith’s “Writings on the wall” would not be the best choice for me.
 
 <a href="/uploads/2016/03/DSC04624.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04624" src="/uploads/2016/03/DSC04624_thumb.jpg" alt="DSC04624" width="800" height="438" border="0" /></a>
 
-My only regret is that we started the fire too late and couldnt cook the lamb on these amazing coals. These were perfect for grilling a whole lamb, with all the fats slowly dripping down on to the fire, instantly burning and smoking the lamb. Ooooshhh, my mouth is watering as i write this.
+My only regret is that we started the fire too late and couldn't cook the lamb on these amazing coals. These were perfect for grilling a whole lamb, with all the fats slowly dripping down on to the fire, instantly burning and smoking the lamb. Ooooshhh, my mouth is watering as I write this.
 
 &nbsp;
 

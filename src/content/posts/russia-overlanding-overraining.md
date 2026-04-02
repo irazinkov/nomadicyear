@@ -35,11 +35,11 @@ The ferry was schedule before we even got the car in Busan, so that was all read
 
 <a href="/uploads/2016/06/DSC7827.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC7827" src="/uploads/2016/06/DSC7827_thumb.jpg" alt="_DSC7827" width="697" height="465" border="0" /></a>
 
-I dont like carrying a lot of stuff with us, we are not going out into the wilderness, we can always resupply on almost anything. But also its nice not to worry about toilet paper for the next 6 months.
+I don't like carrying a lot of stuff with us, we are not going out into the wilderness, we can always resupply on almost anything. But also its nice not to worry about toilet paper for the next 6 months.
 
 Anyway, car packed a day before we leave. We spent the day of actual leaving trying to busy ourselves and distract from the thought that this is the last day. I hate long good-byes, they make me even sadder. But this is Hyein’s family, we will make an exception.
 
-Finally, the moment came. Everyone was in tears, Hodori started and we rolled off. Ahead is a relatively short journey to the port town of Donghae on the east coast of Korea. Althought it was only 180 miles away, it took us over 6 hours to get there. We missed a few exits, a few tolls gates and the fact that it was a holiday weekend and half of the nation was on the move, didnt help.
+Finally, the moment came. Everyone was in tears, Hodori started and we rolled off. Ahead is a relatively short journey to the port town of Donghae on the east coast of Korea. Althought it was only 180 miles away, it took us over 6 hours to get there. We missed a few exits, a few tolls gates and the fact that it was a holiday weekend and half of the nation was on the move, didn't help.
 
 Got to Donghae late at night, found a gas station decided that we are back in overlanding mode and parked. Since it was my birthday and we spent most of it sitting in traffic, we walked over to the nearest watering hole for a drink. On the way met some Ukranian sailors that invited themselves to a beer. A few hours later finally managed to say good bye and walk back to our car.
 
@@ -61,13 +61,13 @@ Then back out from the ship, you go through security and back to Korean soil.
 
 Pay for the car ferry, then buy your ticket separately and be back 30 minutes before the ship leaves.
 
-While waiting in line for customs inspection, I met a Russian guy named Denis going back to Vladivostok after 2 weeks in Korea. I asked him about the difficulty of doing the import process myself to which he replied…”Ugh…Vanya you DON’T want to do it yourself. You probably forgot that you are going back to Russia!” Shit, that means i need to find an agent and now! There is no internet on the ferry and we have like an hour to sort this out.
+While waiting in line for customs inspection, I met a Russian guy named Denis going back to Vladivostok after 2 weeks in Korea. I asked him about the difficulty of doing the import process myself to which he replied…”Ugh…Vanya you DON’T want to do it yourself. You probably forgot that you are going back to Russia!” Shit, that means I need to find an agent and now! There is no internet on the ferry and we have like an hour to sort this out.
 
 Another problem is that DBS has called us multiple times about this and we refused their help thinking that we will be able to do it ourselves. So now we the tail between our legs and minutes before the ferry leaves we beg them for help. Being Korean and in general awesome people, they help as much as they can. We frantically call, send emails and all the documents, but since this is a Sunday we are sending them blindly without any response. No worries, we will figure it out when we get there. Not going to stress about this.
 
 <a href="/uploads/2016/06/DSC7845.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC7845" src="/uploads/2016/06/DSC7845_thumb.jpg" alt="_DSC7845" width="697" height="388" border="0" /></a>
 
-Can’t do anything now, lets just enjoy this little cruise.
+Can’t do anything now, let's just enjoy this little cruise.
 
 <a href="/uploads/2016/06/DSC7849.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC7849" src="/uploads/2016/06/DSC7849_thumb.jpg" alt="_DSC7849" width="697" height="465" border="0" /></a>
 
@@ -103,11 +103,11 @@ The Sea Port Building of Vladivostok. A very small port, especially after seeing
 
 <a href="/uploads/2016/06/DSC7893.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC7893" src="/uploads/2016/06/DSC7893_thumb.jpg" alt="_DSC7893" width="697" height="465" border="0" /></a>
 
-This gentelman is one of the 8 motorcycle riders who will travel from Vladivostok and apparently he has heard of our travels through the grapevine. He wanted to take a picture and being the celebrities that we are, we have to do what the fans want…you know that’s how its done in the biz.
+This gentleman is one of the 8 motorcycle riders who will travel from Vladivostok and apparently he has heard of our travels through the grapevine. He wanted to take a picture and being the celebrities that we are, we have to do what the fans want…you know that’s how it's done in the biz.
 
 <a href="/uploads/2016/06/DSC7895.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC7895" src="/uploads/2016/06/DSC7895_thumb.jpg" alt="_DSC7895" width="697" height="465" border="0" /></a>
 
-These are the Korean guys that are going to travel Russia and Europe. Not surprisingly, no Korean girls. They were super excited to get on the road and start the journey. All on bikes, big and small. The size doesn’t matter, its all about the adventure.
+These are the Korean guys that are going to travel Russia and Europe. Not surprisingly, no Korean girls. They were super excited to get on the road and start the journey. All on bikes, big and small. The size doesn’t matter, it's all about the adventure.
 
 The customs broker that we frantically emailed yesterday turned out to actually be the same guy who will deal with these guys’ bikes.
 
@@ -121,17 +121,17 @@ To understand the difficulty of this process you need to understand the intricac
 
 A temporary import of a vehicle requires you to first submit a personal letter to the head of Vladivostok customs, then once you get an approval from him you show all your documents to another customs officer who will actualy inspect your documents, your car and issue you a temporary permit. In some cases they have to do a visual inspection of the vehicle, not always.
 
-Oh and i forgot to tell you, once you leave the ship you dont actually take your car. The port workers drive it off and park it in Customs Holding Parking garage.
+Oh and I forgot to tell you, once you leave the ship you don't actually take your car. The port workers drive it off and park it in Customs Holding Parking garage.
 
 <a href="/uploads/2016/06/20160606_163147.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="20160606_163147" src="/uploads/2016/06/20160606_163147_thumb.jpg" alt="20160606_163147" width="697" height="523" border="0" /></a>
 
 If we would have been smart about it and gotten in contact with GMB earlier, then they would have already had the documents ready for you to submit to the head of customs. The other bikers just signed their documents on the day of arrival and got their bikes the next day.
 
-Another problem is that I am a Russian citizen and the customs office did not like nor understand why i would want to bring in a car only temporarily into the country. So we had to change all the ferry documents from my name to Hyein’s. Thank god I made sure that we are both listed as owners on the title.
+Another problem is that I am a Russian citizen and the customs office did not like nor understand why I would want to bring in a car only temporarily into the country. So we had to change all the ferry documents from my name to Hyein’s. Thank god I made sure that we are both listed as owners on the title.
 
 <a href="/uploads/2016/06/DSC7904.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC7904" src="/uploads/2016/06/DSC7904_thumb.jpg" alt="_DSC7904" width="697" height="465" border="0" /></a>
 
-While all of this is being figured out we realize that we will not be able to get out of Vladivostok for a few days. So lets relax, get everything we need to get done and enjoy this cluster fuck of bureacracy… more time in Vladivostok.
+While all of this is being figured out we realize that we will not be able to get out of Vladivostok for a few days. So let's relax, get everything we need to get done and enjoy this cluster fuck of bureacracy… more time in Vladivostok.
 
 <a href="/uploads/2016/06/DSC7907.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC7907" src="/uploads/2016/06/DSC7907_thumb.jpg" alt="_DSC7907" width="697" height="465" border="0" /></a>
 
@@ -167,7 +167,7 @@ No way man, taxi? What do you think we are made of money…public bus it is.
 
 <a href="/uploads/2016/06/DSC7929.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC7929" src="/uploads/2016/06/DSC7929_thumb.jpg" alt="_DSC7929" width="697" height="465" border="0" /></a>
 
-Got off the bus and started walking by following the phone GPS coordinates. At first, nothing weird… a little city park with a WW2 tank, then we had to walk through half demolished/half deconstructed old facotry with random shop everywhere. If it wasn’t day light, i would have not come to this part of town.
+Got off the bus and started walking by following the phone GPS coordinates. At first, nothing weird… a little city park with a WW2 tank, then we had to walk through half demolished/half deconstructed old facotry with random shop everywhere. If it wasn’t day light, I would have not come to this part of town.
 
 Just to be on the safe side we got 2 pairs of rear pads and a set for the front. I’d rather carry an extra than see my precious little disc ground up like last time in Peru.
 
@@ -203,11 +203,11 @@ I was worried that some things would be missing from car when we get it back and
 
 Meanwhile the weather has not been very cooperative for the last few days. If you can make out in the background there is actually a building engulfed by a never moving fog/rain. Everyone we met kept saying that we just came in the wrong time and that Vladivostok is beautiful in July. It seems like we always come in the wrong time…
 
-Lets the total process of getting the car out in Vladivostok.  Agent fee was 8000 Rubles ($120 USD), port unloading fee was 2200 Rubles ($34 USD) and car insurance for 4 months was 10,500 Rubles ($160). We could have gotten insurance for just a month at that would have been around 8000 Rubles, but there is a discount for longer periods.
+Let's the total process of getting the car out in Vladivostok.  Agent fee was 8000 Rubles ($120 USD), port unloading fee was 2200 Rubles ($34 USD) and car insurance for 4 months was 10,500 Rubles ($160). We could have gotten insurance for just a month at that would have been around 8000 Rubles, but there is a discount for longer periods.
 
 <a href="/uploads/2016/06/DSC7969.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC7969" src="/uploads/2016/06/DSC7969_thumb.jpg" alt="_DSC7969" width="697" height="465" border="0" /></a>
 
-Found a mechanic to change our pads, oil and do the wheel alignment. While we are at it, lets rotate the spare tires to the rear.
+Found a mechanic to change our pads, oil and do the wheel alignment. While we are at it, let's rotate the spare tires to the rear.
 
 <a href="/uploads/2016/06/DSC7972.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC7972" src="/uploads/2016/06/DSC7972_thumb.jpg" alt="_DSC7972" width="697" height="465" border="0" /></a>
 
@@ -229,7 +229,7 @@ Or maybe this is a sign of whats to come and the roads we are about to expereine
 
 <a href="/uploads/2016/06/DSC7997.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC7997" src="/uploads/2016/06/DSC7997_thumb.jpg" alt="_DSC7997" width="697" height="465" border="0" /></a>
 
-Proper high-tech alignment of Hodori under full operational load. Turns out we loaded it so much that our front wheels were leaning in towards each other just a bit. This is called …positive or negative camber…dont know which one because i dont have internet right now.
+Proper high-tech alignment of Hodori under full operational load. Turns out we loaded it so much that our front wheels were leaning in towards each other just a bit. This is called …positive or negative camber…don't know which one because I don't have internet right now.
 
 <a href="/uploads/2016/06/DSC8000.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8000" src="/uploads/2016/06/DSC8000_thumb.jpg" alt="_DSC8000" width="697" height="465" border="0" /></a>
 
@@ -257,7 +257,7 @@ Becuase of the weather and not the communist past, everything in Vladivostok was
 
 <a href="/uploads/2016/06/DSC8060.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8060" src="/uploads/2016/06/DSC8060_thumb.jpg" alt="_DSC8060" width="697" height="465" border="0" /></a>
 
-Keunshik’s apartment is one of 8 in this beautiful 100-year-old brick house. He says that on a good day you can see the bay right behind the house…yeah…whatever i don’t believe these good days exist here.
+Keunshik’s apartment is one of 8 in this beautiful 100-year-old brick house. He says that on a good day you can see the bay right behind the house…yeah…whatever I don’t believe these good days exist here.
 
 <a href="/uploads/2016/06/DSC8064.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8064" src="/uploads/2016/06/DSC8064_thumb.jpg" alt="_DSC8064" width="697" height="1046" border="0" /></a>
 
@@ -275,9 +275,9 @@ We are off to Khabarovsk, the next big city from Vladivostok…only 450 miles aw
 
 <a href="/uploads/2016/06/DSC8085.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8085" src="/uploads/2016/06/DSC8085_thumb.jpg" alt="_DSC8085" width="697" height="465" border="0" /></a>
 
-Man…these are the roads we have to deal with. Nah…i’m just messing with you. There was only a 10 mile stretch of dirt road, everything else was paved. But paved, doesn’t mean good in these parts of the world.
+Man…these are the roads we have to deal with. Nah…I’m just messing with you. There was only a 10 mile stretch of dirt road, everything else was paved. But paved, doesn’t mean good in these parts of the world.
 
-The road was a patchwork of various colors of asphalt, i’m sure some of it older than I am. On top of that add the never ending rain and you got yourself a very long road. It took us over 10 hours to get to Khabarovsk.
+The road was a patchwork of various colors of asphalt, I’m sure some of it older than I am. On top of that add the never ending rain and you got yourself a very long road. It took us over 10 hours to get to Khabarovsk.
 
 <a href="/uploads/2016/06/DSC06314.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC06314" src="/uploads/2016/06/DSC06314_thumb.jpg" alt="DSC06314" width="697" height="465" border="0" /></a>
 
@@ -291,9 +291,9 @@ Our original plan was to head out in the morning to Vanino, a port city 8 hours 
 
 <a href="/uploads/2016/06/DSC8101.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8101" src="/uploads/2016/06/DSC8101_thumb.jpg" alt="_DSC8101" width="697" height="465" border="0" /></a>
 
-We were supposed to meet some of friends of Keunshik and travel together. We called to confirm that the plans were still on and turned out that they were canceled because of the shitty rainy weather. So the frantic morning of packing turned into a relaxing hangout with the guys from the club. Thats Slava, nickname Sedoy (Gray Hair), and Sasha, nickname Trucker.
+We were supposed to meet some of friends of Keunshik and travel together. We called to confirm that the plans were still on and turned out that they were canceled because of the shitty rainy weather. So the frantic morning of packing turned into a relaxing hangout with the guys from the club. That's Slava, nickname Sedoy (Gray Hair), and Sasha, nickname Trucker.
 
-I’m not sure what i expected of bikers, but these guys are super nice all smiles and questions abou the trip. They even gave us two “Lynx of Amur” coffee mugs for the road.
+I’m not sure what I expected of bikers, but these guys are super nice all smiles and questions abou the trip. They even gave us two “Lynx of Amur” coffee mugs for the road.
 
 <a href="/uploads/2016/06/DSC8109.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8109" src="/uploads/2016/06/DSC8109_thumb.jpg" alt="_DSC8109" width="697" height="465" border="0" /></a>
 
@@ -307,13 +307,13 @@ Man…this is awesome!
 
 <a href="/uploads/2016/06/DSC06317.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC06317" src="/uploads/2016/06/DSC06317_thumb.jpg" alt="DSC06317" width="697" height="465" border="0" /></a>
 
-Its raining and cold, but he is still willing to give us a guided tour of his city…talk about Russian hospitality.
+It's raining and cold, but he is still willing to give us a guided tour of his city…talk about Russian hospitality.
 
 <a href="/uploads/2016/06/DSC06319.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC06319" src="/uploads/2016/06/DSC06319_thumb.jpg" alt="DSC06319" width="697" height="465" border="0" /></a>
 
 <a href="/uploads/2016/06/DSC8126.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8126" src="/uploads/2016/06/DSC8126_thumb.jpg" alt="_DSC8126" width="697" height="465" border="0" /></a>
 
-Ivanich, as the people call him, has been riding motorcycles his whole life and started this club in 2002 to do something good. They travel together, they host people from all over the world that need a safe place to sleep, fix bikes and have a shower to wash up. All of this is free of charge, thats what the club does. In the future they want to open up an actual traveler’s hotel with bikers and overlanders in mind…but for now you can have the dirt parking lot for free.
+Ivanich, as the people call him, has been riding motorcycles his whole life and started this club in 2002 to do something good. They travel together, they host people from all over the world that need a safe place to sleep, fix bikes and have a shower to wash up. All of this is free of charge, that's what the club does. In the future they want to open up an actual traveler’s hotel with bikers and overlanders in mind…but for now you can have the dirt parking lot for free.
 
 <a href="/uploads/2016/06/DSC8125.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8125" src="/uploads/2016/06/DSC8125_thumb.jpg" alt="_DSC8125" width="697" height="1046" border="0" /></a>
 
@@ -325,7 +325,7 @@ The plaza where we conviniently parked has quite a bit of controversial history.
 
 <a href="/uploads/2016/06/DSC8129.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8129" src="/uploads/2016/06/DSC8129_thumb.jpg" alt="_DSC8129" width="697" height="465" border="0" /></a>
 
-And here you see these guys looking at the church that they destroyed some 100 years ago. The current generation of Russia realizes that we should not destroy everything every time we change our minds about our government. Lets keep everything for future generations to learn from it. Thats why the Lenin was still standing there in Vladivostok, greeting you as you got off the boat.
+And here you see these guys looking at the church that they destroyed some 100 years ago. The current generation of Russia realizes that we should not destroy everything every time we change our minds about our government. Let's keep everything for future generations to learn from it. That's why the Lenin was still standing there in Vladivostok, greeting you as you got off the boat.
 
 <a href="/uploads/2016/06/DSC8135.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8135" src="/uploads/2016/06/DSC8135_thumb.jpg" alt="_DSC8135" width="697" height="465" border="0" /></a>
 
@@ -353,7 +353,7 @@ But  we are back in the club, seeking shelter under the roof, cooking our dinne
 
 The rain never stops, our tent is not necessarily wet, but the humidity is getting everywhere and everything feels damp.
 
-Not that i want to leave this place…i just want to drive somewhere in hopes of finding better weather.
+Not that I want to leave this place…I just want to drive somewhere in hopes of finding better weather.
 
 <a href="/uploads/2016/06/Khabarovsk-iron-tigers.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Khabarovsk iron tigers" src="/uploads/2016/06/Khabarovsk-iron-tigers_thumb.jpg" alt="Khabarovsk iron tigers" width="697" height="464" border="0" /></a>
 
@@ -363,17 +363,17 @@ I like that instead of bashing the other guys, he is just doing his thing and lo
 
 <a href="/uploads/2016/06/Lynx.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Lynx" src="/uploads/2016/06/Lynx_thumb.jpg" alt="Lynx" width="697" height="464" border="0" /></a>
 
-They even have an old stuffed Lynx in their guesthouse. Although its falling apart, Ivanich likes to keep it around, mostly to scare little Korean girls named Hyein.
+They even have an old stuffed Lynx in their guesthouse. Although it's falling apart, Ivanich likes to keep it around, mostly to scare little Korean girls named Hyein.
 
 <a href="/uploads/2016/06/DSC8156.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8156" src="/uploads/2016/06/DSC8156_thumb.jpg" alt="_DSC8156" width="697" height="465" border="0" /></a>
 
 In the morning, we packed in the rain and set out also in the rain.
 
-Seriously, this is what we have been dealing with for the past week. I dont even know how the sun feels on your skin anymore…will it blind me when it finally comes out?
+Seriously, this is what we have been dealing with for the past week. I don't even know how the sun feels on your skin anymore…will it blind me when it finally comes out?
 
 So where are we going?
 
-West. Thats is our general direction for the next few months. Just like South was in our previous life, now we will go as far West as the continent will take us.
+West. That's is our general direction for the next few months. Just like South was in our previous life, now we will go as far West as the continent will take us.
 
 The bridge you see takes you across the Amur river and is the beginning of thousands of kilometers long Amur Highway.
 
@@ -381,7 +381,7 @@ The bridge you see takes you across the Amur river and is the beginning of thous
 
 Our general destination is Chita, a whopping 1400 miles away. And during this whole time there is only one city anywhere near the highway.
 
-Its called Birobidzhan and it is the capitol of the Jewish Autonomous Region. I’m not sure how many Jews are left in this region, but the city sign looks like it has something similar to Hebrew on it. I’m assuming most of the Jews have long gone to Israel leaving only the name behind.
+Its called Birobidzhan and it is the capital of the Jewish Autonomous Region. I’m not sure how many Jews are left in this region, but the city sign looks like it has something similar to Hebrew on it. I’m assuming most of the Jews have long gone to Israel leaving only the name behind.
 
 Once again it was pouring buckets so we didn’t properly get a look at the city, just met one of Keunshik’s friends and passed along a present.
 
@@ -393,7 +393,7 @@ During the rain, there is a great deal of comfort to be inside a warm and dry ca
 
 Wait what? How are you taking photos like this?
 
-Someone here suggest i get a fisheye lens. So we went into a store in Vladivostok and thanks to the ludicrous exchange rate picked up a Russian made Zenitar for $120.
+Someone here suggest I get a fisheye lens. So we went into a store in Vladivostok and thanks to the ludicrous exchange rate picked up a Russian made Zenitar for $120.
 
 [/video]
 
@@ -451,7 +451,7 @@ China, not to be outdone, does the same.
 
 It even built and amusement park right on the riverwalk.
 
-Btw, thats a Russian Coast Guard boat there, guarding the motherland!
+Btw, that's a Russian Coast Guard boat there, guarding the motherland!
 
 <a href="/uploads/2016/06/DSC8268.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8268" src="/uploads/2016/06/DSC8268_thumb.jpg" alt="_DSC8268" width="697" height="465" border="0" /></a>
 
@@ -459,7 +459,7 @@ The scale of boasting is quite ridiculous. Everything on the border is perfect, 
 
 <a href="/uploads/2016/06/DSC8270.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8270" src="/uploads/2016/06/DSC8270_thumb.jpg" alt="_DSC8270" width="697" height="465" border="0" /></a>
 
-I feel like the sun has joined the competition between these to cities and wanted some attention for itself, because it was burning brighter and hotter than i have felt since leaving Thailand.
+I feel like the sun has joined the competition between these to cities and wanted some attention for itself, because it was burning brighter and hotter than I have felt since leaving Thailand.
 
 <a href="/uploads/2016/06/DSC8272.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8272" src="/uploads/2016/06/DSC8272_thumb.jpg" alt="_DSC8272" width="697" height="465" border="0" /></a>
 
@@ -469,13 +469,13 @@ Just look at this…and then remember that road, only 30 minutes away from here.
 
 <a href="/uploads/2016/06/DSC8279.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8279" src="/uploads/2016/06/DSC8279_thumb.jpg" alt="_DSC8279" width="697" height="465" border="0" /></a>
 
-Believe me, i’m not complaining, i’m just amazed at this. I’m sure in China its a very similar situation.
+Believe me, I’m not complaining, I’m just amazed at this. I’m sure in China it's a very similar situation.
 
-Once you go half-a-mile away from the border its all little huts and dirt roads.
+Once you go half-a-mile away from the border it's all little huts and dirt roads.
 
 <a href="/uploads/2016/06/DSC8281.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8281" src="/uploads/2016/06/DSC8281_thumb.jpg" alt="_DSC8281" width="697" height="465" border="0" /></a>
 
-But at the same time i’m impressed that this competition actually created something nice for people to enjoy.
+But at the same time I’m impressed that this competition actually created something nice for people to enjoy.
 
 Being from San Diego we know a thing or two about sharing a border with another nation and another city. There the border is something that neither Mexico nor US is proud of. Dirty and dangerous on both sides, we try to cross it as fast as possible and definitely do not go there for a liesurely Sunday stroll with the family.
 
@@ -487,7 +487,7 @@ We finally parked the car and dried everything out. All the people were walking 
 
 Satisfied with the dryness of our tent and done looking at the city we drove a bit more until the next rest stop.
 
-You see that yellow racquet in my hand? Thats the ultimate in the latest mosquito murdering accessories. When Hyein’s mom heard that she got a tropical disease from a mosquito she bought this thing for us.
+You see that yellow racquet in my hand? That's the ultimate in the latest mosquito murdering accessories. When Hyein’s mom heard that she got a tropical disease from a mosquito she bought this thing for us.
 
 What is it? Instead of a net it has electrified wires that zap bugs with 5000 volts of electricity.
 
@@ -495,7 +495,7 @@ All you hear is a crack and the bugs are gone. You are supposed to use it inside
 
 <a href="/uploads/2016/06/DSC8295.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8295" src="/uploads/2016/06/DSC8295_thumb.jpg" alt="_DSC8295" width="697" height="465" border="0" /></a>
 
-Now you are probably wondering how is the actual country, how is overlanding over there? Should i come here next time?
+Now you are probably wondering how is the actual country, how is overlanding over there? Should I come here next time?
 
 The answer is YES, if you like forests. This is the single longest stretch of wild forest that I have seen in my life. The highway runs away from even small villages, so you get a feeling of being completely on your own.
 
@@ -507,7 +507,7 @@ I heard Montana is the land of big skies…people just haven’t seen this place
 
 <a href="/uploads/2016/06/DSC8312.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8312" src="/uploads/2016/06/DSC8312_thumb.jpg" alt="_DSC8312" width="697" height="465" border="0" /></a>
 
-Yup, thats me, writing this blog post right now…somewhere between Khabarovsk and Chita.
+Yup, that's me, writing this blog post right now…somewhere between Khabarovsk and Chita.
 
 <a href="/uploads/2016/06/DSC8314.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="_DSC8314" src="/uploads/2016/06/DSC8314_thumb.jpg" alt="_DSC8314" width="697" height="465" border="0" /></a>
 

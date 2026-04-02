@@ -31,11 +31,11 @@ draft: false
 ---
 The last post felt like a final point, it even included a summary for Kyrgyzstan. Chronologically speaking, we still had to get from Pamir back to Osh, then Bishkek and then onto Kazakhstan. Although there are not a lot of new pretty pictures for you guys, we did have a little adventure.
 
-The trip to Osh was going to be a shake down for our Land Cruiser to make sure whatever we fixed in Bishkek would hold up on and off the road. After a bit of offroading to get to Peak Lenin, i checked the front right axle and sure enough there was a bit of grease leaking out. We just had it looked over, greased and new tie down put on. So in theory it should be in perfect shape...but if you look in the wheel arch you could see greasy splatters, the axle would spit out some grease as it rotated.
+The trip to Osh was going to be a shakedown for our Land Cruiser to make sure whatever we fixed in Bishkek would hold up on and off the road. After a bit of off-roading to get to Peak Lenin, I checked the front right axle and sure enough there was a bit of grease leaking out. We just had it looked over, greased and new tie-down put on. So in theory it should be in perfect shape...but if you look in the wheel arch you could see greasy splatters, the axle would spit out some grease as it rotated.
 
 This is definitely not an emergency, because the rubber boot is still intact but it messes with our spontaneity. When our friends moved on to Tajikistan to do the Pamir highway, not sure in the condition of our car we had to turn back to Bishkek to get it fixed. Our car is our life and we need it to be in perfect shape AT ALL TIMES. Its a safety concern as much as a freedom of movement.
 
-On the way back to Bishkek we got a "check engine light"...man, at least we are already going to a mechanic. Here, i thanked my carefulness...can you imagine having a leaking axle AND a messed up powertrain in Tajikistan...far away from help and mechanics.
+On the way back to Bishkek we got a "check engine light"...man, at least we are already going to a mechanic. Here, I thanked my carefulness...can you imagine having a leaking axle AND a messed up powertrain in Tajikistan...far away from help and mechanics.
 
 Turns out one of the 4 oxygen sensors gave out, we went back to our mechanic bought a new one and plugged it in. Worked like a charm. He also put a hose clamp on the axle boot and cranked it up to the max. So far so good on both issues. Time will tell and we will update more.
 
@@ -51,13 +51,13 @@ First and the most important on this list is my distant cousin Karl. I haven't s
 
 <a href="/uploads/2016/09/DSC06523.jpg"><img class="aligncenter size-large wp-image-6203" src="/uploads/2016/09/DSC06523-1024x683.jpg" alt="dsc06523" width="697" height="465" /></a>
 
-Back in Mongolia we saw plenty of two-hump (Bactrian) camels and i thought that one-hump (Dromedary) camels can only be found in Northern Africa. This guy is a long way from home, and good thing because that means we complete the Camel family bingo. In South America we saw the Llama, Guanaco, Vicuna and Alpaca; Mongolia gave us Bactrian and Kazakhstan the Dromedary. Do we win anything? Might have been cheaper to go to a zoo then spend thousands of dollars driving around the world looking for these guys.
+Back in Mongolia we saw plenty of two-hump (Bactrian) camels and I thought that one-hump (Dromedary) camels can only be found in Northern Africa. This guy is a long way from home, and good thing because that means we complete the Camel family bingo. In South America we saw the Llama, Guanaco, Vicuna and Alpaca; Mongolia gave us Bactrian and Kazakhstan the Dromedary. Do we win anything? Might have been cheaper to go to a zoo than spend thousands of dollars driving around the world looking for these guys.
 
 <a href="/uploads/2016/09/DSC2952.jpg"><img class="aligncenter size-large wp-image-6184" src="/uploads/2016/09/DSC2952-1024x683.jpg" alt="_dsc2952" width="697" height="465" /></a>
 
-Yes, we are back in Kazakhstan. The border crossing from Kyrgyzstan was fast and efficient, minimal waiting and paperwork. We breathed a sigh of relief, rolled up our windows and finally turned on the AC - no more Kyrgyz police. Final result we still have tinted windows and we didnt pay a single bribe.
+Yes, we are back in Kazakhstan. The border crossing from Kyrgyzstan was fast and efficient, minimal waiting and paperwork. We breathed a sigh of relief, rolled up our windows and finally turned on the AC - no more Kyrgyz police. Final result we still have tinted windows and we didn't pay a single bribe.
 
-The road from the border to Astana is boring...luckily the road itself is decent, but absolutely NOTHING to see. Audiobooks and sunflower seeds to the rescue...steppe and nothing but steppe for 12 hours a day. I think there was a single hill somewhere...still pretty boring. Maybe Mongolia was similar and i just didn't have enough time to look around, while driving on those crazy roads?
+The road from the border to Astana is boring...luckily the road itself is decent, but absolutely NOTHING to see. Audiobooks and sunflower seeds to the rescue...steppe and nothing but steppe for 12 hours a day. I think there was a single hill somewhere...still pretty boring. Maybe Mongolia was similar and I just didn't have enough time to look around, while driving on those crazy roads?
 
 <a href="/uploads/2016/09/DSC2955.jpg"><img class="aligncenter size-large wp-image-6186" src="/uploads/2016/09/DSC2955-1024x683.jpg" alt="_dsc2955" width="697" height="465" /></a>
 
@@ -73,7 +73,7 @@ In Astana we met up and stayed with Aliya, her husband Medet and their little so
 
 In the best of hospitality Aliya, Medet and Assel's mom invited us over to their house and sat us down for delicious Kazakh dinner and drinks (aka vodka).
 
-Aliya cooks a mean dinner and Kazakh vodka from Kokshetau doesn't give a hangover...or we didnt drink enough.
+Aliya cooks a mean dinner and Kazakh vodka from Kokshetau doesn't give a hangover...or we didn't drink enough.
 
 <a href="/uploads/2016/09/DSC2962.jpg"><img class="aligncenter size-large wp-image-6187" src="/uploads/2016/09/DSC2962-1024x683.jpg" alt="_dsc2962" width="697" height="465" /></a>
 
@@ -107,7 +107,7 @@ The streets will fill up with life, the trees will grow up to give shade to the 
 
 Speaking of ragers, Medet was invited to a bachelor party and took me along. Bro code invoked...we just sat around drinking beer and talking about the weather :)
 
-The conversation about meteorological patterns and anomalies in continued well into the night and we got to bed around the time the sun was coming up. In the morning thanks to Aliya's amazing food we felt almost a hundred percent.
+The conversation about meteorological patterns and anomalies continued well into the night and we got to bed around the time the sun was coming up. In the morning thanks to Aliya's amazing food we felt almost a hundred percent.
 
 <a href="/uploads/2016/09/IMG-20160828-WA0013.jpg"><img class="aligncenter wp-image-6222" src="/uploads/2016/09/IMG-20160828-WA0013.jpg" alt="img-20160828-wa0013" width="697" height="522" /></a>
 
@@ -177,15 +177,15 @@ Thanks to Aliya, Medet, Torehan, Akbope and Marzhan for an unforgettable time in
 
 Everyone in Kazakhstan kept mentioning this place called Borovoe at that we absolutely must visit it. People didn't believe our stories of beautiful Kyrgyzstan and said that we biased because we haven't seen Borovoe yet. After driving for a thousand kilometers through a wasteland of steppe, it was honestly very hard to believe that anything beautiful could exist in this part of Kazakhstan.
 
-Good thing that i dont judge, i just agreed and said that i would see for myself before coming to any conclusions.
+Good thing that I don't judge, I just agreed and said that I would see for myself before coming to any conclusions.
 
-The first give away that this is a place of importance should have been the best road we have seen since Korea. From Astana to Borovoe there is now a 3-4 lane concrete highway. Not knowing the local speed limit we kept it safe at around 80-90 kph. Literally everyone, even large trucks, were passing us. Then i see a sign saying that we should slow down to 120 kph. Holly smokes...that means the actual speed limit is something like 140? We can barely go that fast, but picked up our speed to a more respectable 110 kph.
+The first giveaway that this is a place of importance should have been the best road we have seen since Korea. From Astana to Borovoe there is now a 3-4 lane concrete highway. Not knowing the local speed limit we kept it safe at around 80-90 kph. Literally everyone, even large trucks, were passing us. Then I see a sign saying that we should slow down to 120 kph. Holy smokes...that means the actual speed limit is something like 140? We can barely go that fast, but picked up our speed to a more respectable 110 kph.
 
 <a href="/uploads/2016/09/DSC2998.jpg"><img class="aligncenter size-large wp-image-6194" src="/uploads/2016/09/DSC2998-1024x683.jpg" alt="_dsc2998" width="697" height="465" /></a>
 
 Arrived at night, the weather was turn for the worst with rain and temperatures getting closer to 5-6 C. Stayed the night in a little hostel. In the morning over breakfast made some new friends and decided to spend the day together exploring.
 
-As you can see from the photos, this is not your regular steppe. There is something like 20 lakes in this area, the lake in the photo above is only 4-6 meters deep and warms up really well during summer. The mountain you see in the photo above is famous for having all the elements of the periodic table within its belly, yes that means its a bit radioactive!
+As you can see from the photos, this is not your regular steppe. There is something like 20 lakes in this area, the lake in the photo above is only 4-6 meters deep and warms up really well during summer. The mountain you see in the photo above is famous for having all the elements of the periodic table within its belly, yes that means it's a bit radioactive!
 
 <a href="/uploads/2016/09/DSC3003.jpg"><img class="aligncenter size-large wp-image-6195" src="/uploads/2016/09/DSC3003-1024x683.jpg" alt="_dsc3003" width="697" height="465" /></a>
 
@@ -201,18 +201,18 @@ If we would have gotten here just a bit earlier, the waters would have been perf
 
 <a href="/uploads/2016/09/Capture1.jpg"><img class="aligncenter size-large wp-image-6199" src="/uploads/2016/09/Capture1-1024x576.jpg" alt="capture1" width="697" height="392" /></a>
 
-Psh...hiking thats not for us, we like all kinds of wheeled and four-legged transportation. Found out that we can go ride horses for about $6 per person per hour. That's double what we payed in Kyrgyzstan, but we were promised really well trained horses.
+Psh...hiking that's not for us, we like all kinds of wheeled and four-legged transportation. Found out that we can go ride horses for about $6 per person per hour. That's double what we payed in Kyrgyzstan, but we were promised really well trained horses.
 
 <a href="/uploads/2016/09/Capture2.jpg"><img class="aligncenter size-large wp-image-6200" src="/uploads/2016/09/Capture2-1024x572.jpg" alt="capture2" width="697" height="389" /></a>
 
-These were beasts of a horse, the largest steed we have EVER ridden. At the end of the hour, we asked if we can gallop back to the stable. Seeing that we are pretty comfortable in the saddle, our guide instructed us, stayed back to hold the other horses and let us go. The steeds didn't even need any encouragement and went full gallop in an instant. Standing in the stirrups, eyes watering from the wind, trying to hold on to your dear life and realizing that these guys are actually enjoying stretching their legs. It was so much fun that we wanted to go out again and gallop back to the stable. Hyein's horse didn't want to leave the stable at all, so i had to grab it and lead it out. But as soon as i dropped the rope it turned around and galloped back, this time faster than before.
+These were beasts of a horse, the largest steed we have EVER ridden. At the end of the hour, we asked if we can gallop back to the stable. Seeing that we are pretty comfortable in the saddle, our guide instructed us, stayed back to hold the other horses and let us go. The steeds didn't even need any encouragement and went full gallop in an instant. Standing in the stirrups, eyes watering from the wind, trying to hold on to your dear life and realizing that these guys are actually enjoying stretching their legs. It was so much fun that we wanted to go out again and gallop back to the stable. Hyein's horse didn't want to leave the stable at all, so I had to grab it and lead it out. But as soon as I dropped the rope it turned around and galloped back, this time faster than before.
 
 We said goodbye to the horses and went back to the hotel to hide from the coming cold.
 
 Tomorrow we head back to Russia for the 3rd time this trip. So it feels appropriate that we do a little summary of Kazakhstan.
 
-Only because of my dear friend Assel that I even originally thought of coming to Kazakhstan. When i mentioned my idea for this trip to her and told her that we really want to go to Mongolia, she was confused: "Ivan we have everything that Mongolia has just with better food!" I didn't believe you then, but I know better now.
+Only because of my dear friend Assel that I even originally thought of coming to Kazakhstan. When I mentioned my idea for this trip to her and told her that we really want to go to Mongolia, she was confused: "Ivan we have everything that Mongolia has just with better food!" I didn't believe you then, but I know better now.
 
-Kazakhstan is a huge country with beautiful nature, welcoming people and really, really good food. We were invited to more homes that we could go and visit. There was not a single dish that we tried that we did not like. Horse meat is an absolute if you are meat eater, i dont understand why we dont eat more of it in the States. Sharyn Canyon and Altyn Emel are gorgeous places that will forever be in our mind as THE place to see the Milky Way and shooting stars. Unlike Mongolia, there are roads here, some in better some in worse shape, but all paved nonetheless. The police is ages ahead of Kyrgyzstan in education and proper conduct. It seems like this ex-Soviet and ex-Russian Empire state is doing well or on its way to become a great country. I dont know the politics of the place, but people are happy living and in the young generation there is a great desire to do something great and make not only a name for themselves but to do go by their country.
+Kazakhstan is a huge country with beautiful nature, welcoming people and really, really good food. We were invited to more homes that we could go and visit. There was not a single dish that we tried that we did not like. Horse meat is an absolute if you are a meat eater, I don't understand why we don't eat more of it in the States. Sharyn Canyon and Altyn Emel are gorgeous places that will forever be in our mind as THE place to see the Milky Way and shooting stars. Unlike Mongolia, there are roads here, some better, some worse, but all paved nonetheless. The police is ages ahead of Kyrgyzstan in education and proper conduct. It seems like this ex-Soviet and ex-Russian Empire state is doing well or on its way to become a great country. I don't know the politics of the place, but people are happy living and in the young generation there is a great desire to do something great and make not only a name for themselves but to do good by their country.
 
-Now the bad part - if you are prone to addictions...do not, i repeat, DO NOT buy sunflower seeds. That shit is more addictive than heroin, will destroy your teeth, you will get fat and the car will become worse than a municipal dump. But they are so good...with a bit of salt.
+Now the bad part - if you are prone to addictions...do not, I repeat, DO NOT buy sunflower seeds. That shit is more addictive than heroin, will destroy your teeth, you will get fat and the car will become worse than a municipal dump. But they are so good...with a bit of salt.

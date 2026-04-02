@@ -3,8 +3,8 @@ title: "Ushuaia - End of the World"
 slug: "ushuaia-end-of-the-world"
 pubDate: "2016-03-29T00:48:29Z"
 updatedDate: "2016-09-18T12:27:48Z"
-description: "Before we get all emotional about reaching the southern most point on our journey. Lets look at the name of this symbolic town more closely – “Ushuaia”. I had to look at the photo below just to make s..."
-excerpt: "Before we get all emotional about reaching the southern most point on our journey. Lets look at the name of this symbolic town more closely – “Ushuaia”. I had to look at the photo below just to make s..."
+description: "Before we get all emotional about reaching the southern most point on our journey. Let\x27s look at the name of this symbolic town more closely – “Ushuaia”. I had to look at the photo below just to make s..."
+excerpt: "Before we get all emotional about reaching the southern most point on our journey. Let\x27s look at the name of this symbolic town more closely – “Ushuaia”. I had to look at the photo below just to make s..."
 heroImage: "/uploads/2016/03/Ushuaia-slider-2.jpg"
 heroImageAlt: "Ushuaia slider 2"
 country: "argentina"
@@ -22,19 +22,19 @@ legacyUrl: "http://nomadicyear.com/2016/03/ushuaia-end-of-the-world/"
 status: "publish"
 draft: false
 ---
-Before we get all emotional about reaching the southern most point on our journey. Lets look at the name of this symbolic town more closely – “Ushuaia”. I had to look at the photo below just to make sure I didn’t make a spelling mistake. It has more vowels than a word should, its like the opposite of the Slovak word for Thursday – “Chtverg”, which only has one vowel and generally unpronounceable unless you blood alcohol level is below 0.2%.
+Before we get all emotional about reaching the southern most point on our journey. Let\x27s look at the name of this symbolic town more closely – “Ushuaia”. I had to look at the photo below just to make sure I didn’t make a spelling mistake. It has more vowels than a word should, it's like the opposite of the Slovak word for Thursday – “Chtverg”, which only has one vowel and generally unpronounceable unless you blood alcohol level is below 0.2%.
 
 <a href="/uploads/2016/03/Cover1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Cover1" src="/uploads/2016/03/Cover1_thumb.jpg" alt="Cover1" width="800" height="533" border="0" /></a>
 
-Oh yeaaaah, there it is. Well, we saw it, now we can go back. I’m pretty sure that's how everyone feels once they reach this place. So why did i drive 20,000 miles? Just to see this place?
+Oh yeaaaah, there it is. Well, we saw it, now we can go back. I’m pretty sure that's how everyone feels once they reach this place. So why did I drive 20,000 miles? Just to see this place?
 
 The town council knowns that this is a symbolic destination for thousands of travelers and to lessen the disappointment of the town they put up great stone towers with the name written out.
 
-If you look at the photo closely, you will wonder by the hell would we put Sanscrit caption on OUR pictures. Well, i’m sorry to disappoint any of you who are looking for hidden messages in our blog. I was too lazy to make a new photo, so i just stole this one from Hyein’s blog. So, it's actually Korean, but for some reason she decided to rotate it 90 degrees counter-clockwise…weird, but we will go with it. I know you are wondering what it says – “End of the world, Ushuaia” just like in Spanish.
+If you look at the photo closely, you will wonder by the hell would we put Sanscrit caption on OUR pictures. Well, I’m sorry to disappoint any of you who are looking for hidden messages in our blog. I was too lazy to make a new photo, so I just stole this one from Hyein’s blog. So, it's actually Korean, but for some reason she decided to rotate it 90 degrees counter-clockwise…weird, but we will go with it. I know you are wondering what it says – “End of the world, Ushuaia” just like in Spanish.
 
 Great Ivan, so you finally made it there, the post is done and we can all go back to our lives?
 
-No, never! Lets start from the beginning.
+No, never! Let\x27s start from the beginning.
 
 <a href="/uploads/2016/03/DSC04705.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04705" src="/uploads/2016/03/DSC04705_thumb.jpg" alt="DSC04705" width="800" height="533" border="0" /></a>
 
@@ -52,21 +52,21 @@ Estancia San Gregorio is not even a town just a very large ranch. I am not the o
 
 Didn’t really follow through on my urge here and the urge itself quickly evaporated. Why?
 
-Yeah, those are not just lumps of cotton – those are hundreds of dead sheep. At first i thought that it was just the hides…no, there are bones, skulls and rotting meat in there. I’m still not sure what would cause the owners to just stockpile dead sheep. I’ve settled on the conclusion that they had some scary disease.
+Yeah, those are not just lumps of cotton – those are hundreds of dead sheep. At first I thought that it was just the hides…no, there are bones, skulls and rotting meat in there. I’m still not sure what would cause the owners to just stockpile dead sheep. I’ve settled on the conclusion that they had some scary disease.
 
-Urgh, but i smelled the air, which was absolutely foul, so will i have the disease now? Being a bit of a hypochondriac, I couldn’t get the thought out of my head until the end of the day.
+Urgh, but I smelled the air, which was absolutely foul, so will I have the disease now? Being a bit of a hypochondriac, I couldn’t get the thought out of my head until the end of the day.
 
 <a href="/uploads/2016/03/DSC04708.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04708" src="/uploads/2016/03/DSC04708_thumb.jpg" alt="DSC04708" width="800" height="533" border="0" /></a>
 
-Gross, lets forget about the dead sheep or in my case lets TRY to forget…stuck with that image and that SMELL forever.
+Gross, let\x27s forget about the dead sheep or in my case let\x27s TRY to forget…stuck with that image and that SMELL forever.
 
-Okay, let me explain the logistic of driving to “The end of the world”. Not taking in consideration Antarctica, mostly because its a BIT out of our budget. A week long cruise will set you back 5000 clams per person. Or for us that is 3-4 months of travel on mainland. Hm…we will leave Antarctica for when we are older or richer…whichever happens first.
+Okay, let me explain the logistics of driving to “The end of the world”. Not taking in consideration Antarctica, mostly because it's a BIT out of our budget. A week long cruise will set you back 5000 clams per person. Or for us that is 3-4 months of travel on mainland. Hm…we will leave Antarctica for when we are older or richer…whichever happens first.
 
 Since we can't drive to the actual “end of the world” we have to settle for something else. But this gets confusing, the actual end of the South American continent is not much further south than Punta Arenas…BUT, there is always a but, it is not the Southernmost point that you could get to in a car. That's where Ushuaia fits in. It is located on the island of Tierra del Fuego and is generally considered the southernmost city in the world.
 
 Right…so we are still on the mainland and that water we see to the south can only be one thing – the Strait of Magellan.
 
-Daaaaaamn – thats cool, Magellan came through here looking for some Indian spices.  According to the history books, they left Europe with 4 ships and only made it back with 1, but full of spices. I’m not sure if they lost any ships here, but that is a sign of all the shipwrecks in the strait.
+Daaaaaamn – that\x27s cool, Magellan came through here looking for some Indian spices.  According to the history books, they left Europe with 4 ships and only made it back with 1, but full of spices. I’m not sure if they lost any ships here, but that is a sign of all the shipwrecks in the strait.
 
 <a href="/uploads/2016/03/DSC04709.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04709" src="/uploads/2016/03/DSC04709_thumb.jpg" alt="DSC04709" width="800" height="533" border="0" /></a>
 
@@ -84,11 +84,11 @@ What is up with the borders here? Who stole from whom? Chile vs Argentina. I gue
 
 <a href="/uploads/2016/03/DSC04714.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04714" src="/uploads/2016/03/DSC04714_thumb.jpg" alt="DSC04714" width="800" height="533" border="0" /></a>
 
-Dont fret, we stopped in a little town in Tierra del Fuego (still on the Chile's side, that will be important) for the night.
+Don\x27t fret, we stopped in a little town in Tierra del Fuego (still on the Chile's side, that will be important) for the night.
 
 About a minute later a Land Rover Defender with a family of dad and his two grown-up sons parked right behind us.
 
-You can see them in the above photo, just behind the left should of the native Eskimo, sorry babe (i'm definitely going to get a comment about this when she reads it...we'll just wait and see :))
+You can see them in the above photo, just behind the left should of the native Eskimo, sorry babe (I'm definitely going to get a comment about this when she reads it...we'll just wait and see :))
 
 Jesus, Ivan your stories take forever. Sorry, sorry.
 
@@ -102,19 +102,19 @@ Here it goes, according to the local Chilean man.
 	<li>Chile being a reasonable and not able to support action on a possible second front decided to offer Argentina some land.</li>
 	<li>Argentina happy obliged. That was in 1881 or basically so long ago that it was hazy in everyone's memory, ESPECIALLY Argentina.</li>
 </ol>
-The whole story was told in a mix of Spanish, English and hand waving, but trust me i got it all. Also it was apparent that the Chileans are not necessarily all too keen on the Argentina.
+The whole story was told in a mix of Spanish, English and hand waving, but trust me I got it all. Also it was apparent that the Chileans are not necessarily all too keen on the Argentina.
 
 <a href="/uploads/2016/03/DSC04716.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04716" src="/uploads/2016/03/DSC04716_thumb.jpg" alt="DSC04716" width="800" height="533" border="0" /></a>
 
-So when I then asked to explain the Falkland war. I saw a smile on the mans face, no of course he was not laughing at the lives lost during the conflict. I think he was smiling because he felt that finally Argentina got what they deserved. If you are like me and the only time you heard about the Falkland island is from that one Patagonia episode of Top Gear, then ill elaborate a bit.
+So when I then asked to explain the Falkland war. I saw a smile on the man's face, no of course he was not laughing at the lives lost during the conflict. I think he was smiling because he felt that finally Argentina got what they deserved. If you are like me and the only time you heard about the Falkland island is from that one Patagonia episode of Top Gear, then I'll elaborate a bit.
 
 The Falkland island are located about 300 miles of the East coast of Argentina, smack in the Atlantic Ocean.. They are currently under British rule and have been under the Union Jack Flag without interruption since 1880's. Prior to this, there were a number of settlements there including British, but not much official government.
 
 <a href="/uploads/2016/03/DSC04718.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04718" src="/uploads/2016/03/DSC04718_thumb.jpg" alt="DSC04718" width="800" height="533" border="0" /></a>
 
-A hundred years later, in 1982 Argentina invaded the islands for about two months, until Britain unequivocally handed out some wooping. I'm not going to start another war here by siding with one country or the other. But i definitely noticed the joy in the old man's voice during this story.
+A hundred years later, in 1982 Argentina invaded the islands for about two months, until Britain unequivocally handed out some wooping. I'm not going to start another war here by siding with one country or the other. But I definitely noticed the joy in the old man's voice during this story.
 
-The more we travel around South America, the more we notice a bit of hostility towards Argentina from their neighbors. Hostility is not even the right word, more like: "these guys are pricks and are always asking for more." Do you know what i mean?
+The more we travel around South America, the more we notice a bit of hostility towards Argentina from their neighbors. Hostility is not even the right word, more like: "these guys are pricks and are always asking for more." Do you know what I mean?
 
 Oh and Falkland islands held a referendum if they want to stay part of the UK...they voted yes, so there you go.
 
@@ -142,7 +142,7 @@ Ushuaia is a small town by our California standards, but if you considered its l
 
 <a href="/uploads/2016/03/DSC04741.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04741" src="/uploads/2016/03/DSC04741_thumb.jpg" alt="DSC04741" width="800" height="533" border="0" /></a>
 
-The local young kids, just like teenagers everywhere, are into racing. And like their European and North American counterparts their first step in making a car go faster is to slap on some asian stickers. No worries guys, i get you...i've been there. But make sure the stickers are at least the right way up. Cuz the only time those words will make sense is if you are upside down in a ditch somewhere - so not that unlikely i guess.
+The local young kids, just like teenagers everywhere, are into racing. And like their European and North American counterparts their first step in making a car go faster is to slap on some asian stickers. No worries guys, I get you...I've been there. But make sure the stickers are at least the right way up. Cuz the only time those words will make sense is if you are upside down in a ditch somewhere - so not that unlikely I guess.
 
 <a href="/uploads/2016/03/DSC04742.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04742" src="/uploads/2016/03/DSC04742_thumb.jpg" alt="DSC04742" width="800" height="533" border="0" /></a>
 
@@ -152,7 +152,7 @@ Cover photo but without the sanskrit writing. Honestly guys, feel free to use it
 
 Raided the local grocery store for some food and wine. Turns out our campground for the night has a full kitchen and some place to hang out after dinner.
 
-Chef Ivan is cooking, i think by this point you are thinking that i cannot cook anything else except steaks. I assure you, I can...just not in Argentina.
+Chef Ivan is cooking, I think by this point you are thinking that I cannot cook anything else except steaks. I assure you, I can...just not in Argentina.
 
 This is the land of meat...and wine.
 
@@ -164,11 +164,11 @@ Our menu for the night, a perfect steak served with gnocchi in a cream and onion
 
 Oh and we pair it with an amazing, yes it was amazing...just look at my face, bottle of Argentina's Malbec.  The wine is 2014-2015, very young and will set you back only $3 usd.
 
-We do have amazing wines in California, but i just rarely come across a bottle this good at $3, this is a $10 and above deal.
+We do have amazing wines in California, but I just rarely come across a bottle this good at $3, this is a $10 and above deal.
 
 <a href="/uploads/2016/03/DSC04751.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04751" src="/uploads/2016/03/DSC04751_thumb.jpg" alt="DSC04751" width="800" height="533" border="0" /></a>
 
-Kids this is what happens if you dont eat all day and have a glass of wine on an empty stomach, then get warm from a great meal and fireplace.
+Kids this is what happens if you don\x27t eat all day and have a glass of wine on an empty stomach, then get warm from a great meal and fireplace.
 
 <a href="/uploads/2016/03/DSC04753.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04753" src="/uploads/2016/03/DSC04753_thumb.jpg" alt="DSC04753" width="800" height="533" border="0" /></a>
 
@@ -204,7 +204,7 @@ The before shot. Just so you know this is Hyein's only second time cutting hair.
 
 I'm not sure why we decided to bring our own scissors and cut the hair...not much of money-saving. I think it's that I wanted to have a certain hairstyle and was not sure if they could understand me in my broken Spanish...and mess it up in the process.
 
-I've explained what i want to people in San Diego in ENGLISH and still came out with something that resembled a wet cat. Not a big deal, just want to look cool for this trip, you know?
+I've explained what I want to people in San Diego in ENGLISH and still came out with something that resembled a wet cat. Not a big deal, just want to look cool for this trip, you know?
 
 <a href="/uploads/2016/03/capture3.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Capture3" src="/uploads/2016/03/Capture3_thumb.jpg" alt="Capture3" width="800" height="447" border="0" /></a>
 
@@ -228,9 +228,9 @@ I tried to explain that it is painful...Hyein just told me to quit bitching and 
 
 <a href="/uploads/2016/03/DSC04761.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04761" src="/uploads/2016/03/DSC04761_thumb.jpg" alt="DSC04761" width="800" height="533" border="0" /></a>
 
-After a few yells and screams from me...maybe even a few curses, i shut up and we were able to finish the job.
+After a few yells and screams from me...maybe even a few curses, I shut up and we were able to finish the job.
 
-Result - i'm VERY pleased, even better than the first time.
+Result - I'm VERY pleased, even better than the first time.
 
 <a href="/uploads/2016/03/Capture8.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="Capture8" src="/uploads/2016/03/Capture8_thumb.jpg" alt="Capture8" width="800" height="463" border="0" /></a>
 
@@ -238,7 +238,7 @@ Apologizing for yelling a bit during the procedure, Hyein reluctantly gave in an
 
 <a href="/uploads/2016/03/DSC04766.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04766" src="/uploads/2016/03/DSC04766_thumb.jpg" alt="DSC04766" width="355" height="533" border="0" /></a>
 
-This might be the exact thing that this company wants...i dont care - NEVER buy this wine. It is just winegar - no vinegar...who cares...terrible. I had a few sips and poured it down the drain, undrinkable. Any publicity is good publicity...but please remember that LAVAQUE is BAD. Repeat it after me - LAVAQUE is TERRIBLE. Good, now i hope you dont go to a store and see the name and buy it because you have heard of it. Dont do it!
+This might be the exact thing that this company wants...I don\x27t care - NEVER buy this wine. It is just winegar - no vinegar...who cares...terrible. I had a few sips and poured it down the drain, undrinkable. Any publicity is good publicity...but please remember that LAVAQUE is BAD. Repeat it after me - LAVAQUE is TERRIBLE. Good, now I hope you don\x27t go to a store and see the name and buy it because you have heard of it. Don\x27t do it!
 
 <a href="/uploads/2016/03/DSC04769.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04769" src="/uploads/2016/03/DSC04769_thumb.jpg" alt="DSC04769" width="800" height="533" border="0" /></a>
 
@@ -256,7 +256,7 @@ Somehow we got a bit lucky and had a couple of days of perfect sunshine and calm
 
 On the way out of Ushuaia, stopped to take another picture of the beautiful lake. This is it, we are done going South. We reached the farthest point, the point that has been our destination for the last 4 months.
 
-For me it was a sad moment, of course i was happy to do get here, but it was sad that this part of the trip is done. To me going to Ushuaia has never been about getting there, but more about the journey to get there. And somehow it's just done, over before I could take it all in. I regret worrying so much in the previous months of the trip, about security, about money, about the car and all the other stupid little shit that we constantly occupy our mind with. I promise from now on i will be chill and patient Ivan...as i type this i know it sounds incredulous already....i will TRY to be more patient and chill, how about that?
+For me it was a sad moment, of course I was happy to do get here, but it was sad that this part of the trip is done. To me going to Ushuaia has never been about getting there, but more about the journey to get there. And somehow it's just done, over before I could take it all in. I regret worrying so much in the previous months of the trip, about security, about money, about the car and all the other stupid little shit that we constantly occupy our mind with. I promise from now on I will be chill and patient Ivan...as I type this I know it sounds incredulous already....I will TRY to be more patient and chill, how about that?
 
 I totally forgot to explain what happened on the way back North when we had to cross back to Chile. Usually, when you cross the border after the immigration and car paperwork the last step is the Customs.
 
@@ -270,18 +270,18 @@ This is where it gets a bit out of hand. She informs me that it's a violation, a
 
 The absurdity of the situation bring 2 more customs officers to the building where we proceed to not believe our eyes and ears at what is happening. I admit I was not the most cooperative person, but I don't think I was rude.
 
-They asked for my passport, mind you in Chile and Argentina I'm under Russian passport, and started to fill out the violation. They ask me where I live...not trying to introduce US into the mix I say, Russia. They dont believe me for second and ask another 20 times...then how come I speak English? Are you guys serious with this? To prove my place of residence they ask for my home address in Moscow to be written down in RUSSIAN. I write it down, the lady is so mad now that she picks up the form only to realize how stupid she looks now and puts it down.
+They asked for my passport, mind you in Chile and Argentina I'm under Russian passport, and started to fill out the violation. They ask me where I live...not trying to introduce US into the mix I say, Russia. They don\x27t believe me for a second and ask another 20 times...then how come I speak English? Are you guys serious with this? To prove my place of residence they ask for my home address in Moscow to be written down in RUSSIAN. I write it down, the lady is so mad now that she picks up the form only to realize how stupid she looks now and puts it down.
 
-Now she is even more mad. Remember that first officer whom i told about the tomato? I'm out of ideas so i go back to him and plead my innocence that i didn't know that salame is a fresh food. Luckily, their boss sees my frustration and decides to see what is happening. The main lady sees him and starts rattling off in Spanish, like we are in first grade in i just pulled her hair.
+Now she is even more mad. Remember that first officer whom I told about the tomato? I'm out of ideas so I go back to him and plead my innocence that I didn't know that salame is a fresh food. Luckily, their boss sees my frustration and decides to see what is happening. The main lady sees him and starts rattling off in Spanish, like we are in first grade in I just pulled her hair.
 
 The boss looks at us, ask how much salame we had?
 
 Just 190 grams - and informs us that he will only let us off with a warning. YESSSSSS a thousand times, YES!
 
-We go to his office where he fills out an insane number of documents and records this as my first strike...but without a penalty. He also calmly informs me that next offense is $10,000. I guess i'm not going back to Chile as Russian any time soon.
+We go to his office where he fills out an insane number of documents and records this as my first strike...but without a penalty. He also calmly informs me that next offense is $10,000. I guess I'm not going back to Chile as Russian any time soon.
 
 We thank him, get in the car and drive as far as possible. Our original plan was to spend the night in Chile, but this whole experience left a bit of a sour taste in my mouth, so I decide to drive out of Chile in case they change their mind and will not let me exit for whatever reason.
 
 Lesson learned, make sure to check for salame before going through the borders.
 
-Whats next? First, we test if our compass still works and is not permanently stuck on "S". Head up north and go to Buenos Aires. Oh and the penguins, can't forget about the penguins.
+What\x27s next? First, we test if our compass still works and is not permanently stuck on "S". Head up north and go to Buenos Aires. Oh and the penguins, can't forget about the penguins.

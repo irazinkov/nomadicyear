@@ -3,8 +3,8 @@ title: "Torres del Paine - Chile"
 slug: "torres-del-paine-chile"
 pubDate: "2016-03-19T16:38:26Z"
 updatedDate: "2016-09-18T12:27:39Z"
-description: "If you have had it with the pretty mountain pictures on this blog, well i can’t help you. This is going to be all about mountains and a bit about us. Maybe a bit about Chile and Argentina? The nationa..."
-excerpt: "If you have had it with the pretty mountain pictures on this blog, well i can’t help you. This is going to be all about mountains and a bit about us. Maybe a bit about Chile and Argentina? The nationa..."
+description: "If you have had it with the pretty mountain pictures on this blog, well I can’t help you. This is going to be all about mountains and a bit about us. Maybe a bit about Chile and Argentina? The nationa..."
+excerpt: "If you have had it with the pretty mountain pictures on this blog, well I can’t help you. This is going to be all about mountains and a bit about us. Maybe a bit about Chile and Argentina? The nationa..."
 heroImage: "/uploads/2016/03/torres-del-paine-slider.jpg"
 heroImageAlt: "torres del paine slider"
 country: "chile"
@@ -23,13 +23,13 @@ draft: false
 ---
 <a href="/uploads/2016/03/DSC04622-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04622" src="/uploads/2016/03/DSC04622_thumb-1.jpg" alt="DSC04622" width="800" height="426" border="0" /></a>
 
-If you have had it with the pretty mountain pictures on this blog, well i can’t help you. This is going to be all about mountains and a bit about us. Maybe a bit about Chile and Argentina?
+If you have had it with the pretty mountain pictures on this blog, well I can’t help you. This is going to be all about mountains and a bit about us. Maybe a bit about Chile and Argentina?
 
 <a href="/uploads/2016/03/DSC04623.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04623" src="/uploads/2016/03/DSC04623_thumb.jpg" alt="DSC04623" width="800" height="533" border="0" /></a>
 
 The national park Torres del Paine, pride of all Chile, can only be reached on land by driving through Argentina. Yeah, these is where South American geopolitics and borders become fuzzier than a furby. Get this, we drove out of Chile, spent 3 days in Argentina, continued driving in the same direction (South) and are going back into Chile. All this to visit Torres del Paine National Park.
 
-I know you are thinking to yourself: “I know Spanish..i got this. Ivan, is it Called the Bulls of Pain?”
+I know you are thinking to yourself: “I know Spanish..I got this. Ivan, is it Called the Bulls of Pain?”
 
 No, sadly, because that would be quite literal to what it actually does to people hiking there.
 
@@ -41,7 +41,7 @@ Speaking of names and their meanings, the previous blog post Perito Moreno, just
 
 We couldn’t leave Argentina without filling our fridge with various meat products. Only to remember at the Chilean border that you cannot bring any of that in. My heart and mostly my stomach could not imagine throwing these away or giving them to the customs officials. So we did what any of you would have done – hid them. Now if this is ever used in a court case the following story is purely fictional. We pulled over in a gas station and hid steaks and veggies all over the car, the best hiding place being our dirty laundry. But between the hand soap and shampoo was pretty good too.
 
-The customs lady came out, looked around the car a bit and let us go in. This time we marked on the customs form that we were NOT bringing any fresh foods with us. I can’t even describe you how lucky we were to get away this time. In the next post i’ll tell you what happens when we weren’t so lucky and why i’m no longer welcome to Chile with my Russian passport.
+The customs lady came out, looked around the car a bit and let us go in. This time we marked on the customs form that we were NOT bringing any fresh foods with us. I can’t even describe you how lucky we were to get away this time. In the next post I’ll tell you what happens when we weren’t so lucky and why I’m no longer welcome to Chile with my Russian passport.
 
 <a href="/uploads/2016/03/DSC04625-1.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04625-1" src="/uploads/2016/03/DSC04625-1_thumb.jpg" alt="DSC04625-1" width="800" height="533" border="0" /></a>
 
@@ -73,7 +73,7 @@ No, we didn’t ride the horse. But if you got the money or arthritis you can re
 
 <a href="/uploads/2016/03/DSC04641.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04641" src="/uploads/2016/03/DSC04641_thumb.jpg" alt="DSC04641" width="800" height="533" border="0" /></a>
 
-Started out with 4 layers of clothing, 20 minutes of uphill and i was ready to be naked.
+Started out with 4 layers of clothing, 20 minutes of uphill and I was ready to be naked.
 
 <a href="/uploads/2016/03/DSC04644.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04644" src="/uploads/2016/03/DSC04644_thumb.jpg" alt="DSC04644" width="800" height="533" border="0" /></a>
 
@@ -101,13 +101,13 @@ Just before you reach the lake and the three famous peaks (you can already see t
 
 <a href="/uploads/2016/03/DSC04666.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04666" src="/uploads/2016/03/DSC04666_thumb.jpg" alt="DSC04666" width="800" height="533" border="0" /></a>
 
-Parts of the trail become so steep that you have to use your hands to support yourself against a tree when climbing up. Or maybe we are so weak that only we have to cling on, while normal people just casually walk up. At the end, above the tree line, it’s hard to see where the trail goes, but the brightly colored hiking jackets tell you just how far you still have to go. Its like finding the cities on a night Earth from space just by the light outlines in the black.
+Parts of the trail become so steep that you have to use your hands to support yourself against a tree when climbing up. Or maybe we are so weak that only we have to cling on, while normal people just casually walk up. At the end, above the tree line, it’s hard to see where the trail goes, but the brightly colored hiking jackets tell you just how far you still have to go. It's like finding the cities on a night Earth from space just by the light outlines in the black.
 
 <a href="/uploads/2016/03/DSC04669.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04669" src="/uploads/2016/03/DSC04669_thumb.jpg" alt="DSC04669" width="800" height="533" border="0" /></a>
 
 Ooops, there it is. If you just scrolled down here to see why they are called the “blue towers”, you are cheating…go back and read the rest. For the rest of you…well you can obviously see the tower parts…and the blue lake, but it seems a bit green. I'm confused, so why is it blue?
 
-Could it be the sky? Not sure anymore. Did a bit of searching around and all i could find is the translation Paine=blue, but not the reason for it...whatever.
+Could it be the sky? Not sure anymore. Did a bit of searching around and all I could find is the translation Paine=blue, but not the reason for it...whatever.
 
 <a href="/uploads/2016/03/DSC04673.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04673" src="/uploads/2016/03/DSC04673_thumb.jpg" alt="DSC04673" width="800" height="533" border="0" /></a>
 
@@ -122,8 +122,8 @@ At the lake it got seriously cold, we put back on everything that we had. Even t
 Cute little foxes, running around among the tourists.
 
 <a href="/uploads/2016/03/DSC04698.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04698" src="/uploads/2016/03/DSC04698_thumb.jpg" alt="DSC04698" width="800" height="399" border="0" /></a>
-<p id="note-1-return">So now i’ll tell you the real translation for this park – “Towers of PAIN”. On the way down, i noticed that Hyein started to walk slower and slower. And with every step she winced in pain – shit<sup><a href="#note-1">[1]</a></sup>, its chikungunya acting up. By the time we got back to the refugio, Hyein was eyeing the horses and thinking of riding back down. We asked, and there was only one horse left or we only had enough money with us for one horse. Eitherway, i said i would walk but she could ride down. I realize now that it is hard to truly understand another person’s pain and that I should have listened to Hyein much closer. I know that I could have insisted instead of offering for her to ride. I’ll remember this and be better in the future.</p>
-We started back down from the refugio, one step at a time. At first Hyein was just walking slowly by herself, then i was supporting her with every step. We know it was something strange because actual grandmothers that we sprinted by on the way up, were now passing us an offering help. Hyein stoically refused my offers of a piggyback ride as long as she could humanly endure. But with each successive step shorter and taking longer than the one before, we both realized that it would take a while to get back.
+<p id="note-1-return">So now I’ll tell you the real translation for this park – “Towers of PAIN”. On the way down, I noticed that Hyein started to walk slower and slower. And with every step she winced in pain – shit<sup><a href="#note-1">[1]</a></sup>, it's chikungunya acting up. By the time we got back to the refugio, Hyein was eyeing the horses and thinking of riding back down. We asked, and there was only one horse left or we only had enough money with us for one horse. Either way, I said I would walk but she could ride down. I realize now that it is hard to truly understand another person’s pain and that I should have listened to Hyein much closer. I know that I could have insisted instead of offering for her to ride. I’ll remember this and be better in the future.</p>
+We started back down from the refugio, one step at a time. At first Hyein was just walking slowly by herself, then I was supporting her with every step. We know it was something strange because actual grandmothers that we sprinted by on the way up, were now passing us an offering help. Hyein stoically refused my offers of a piggyback ride as long as she could humanly endure. But with each successive step shorter and taking longer than the one before, we both realized that it would take a while to get back.
 
 Finally, got the GoPro out, but the backpack on Hyein and Hyein on me and ran down the mountain <img class="wlEmoticon wlEmoticon-smile" style="border-style: none;" src="/uploads/2016/03/wlEmoticon-smile-2.png" alt="Smile" />
 
@@ -141,10 +141,10 @@ And while having dinner we joined a pair of fellow travelers from France. A cup 
 
 <a href="/uploads/2016/03/DSC04702.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="DSC04702" src="/uploads/2016/03/DSC04702_thumb.jpg" alt="DSC04702" width="800" height="533" border="0" /></a>
 
-The French guys (of course we drank too much and forgot to write down the names) are backpacking around South America for 4 months and have done a lot of hitchhiking. Finally, we can tell them in person that our car doesn’t have space so we dont have to feel guilty anymore.
+The French guys (of course we drank too much and forgot to write down the names) are backpacking around South America for 4 months and have done a lot of hitchhiking. Finally, we can tell them in person that our car doesn’t have space so we don\x27t have to feel guilty anymore.
 
 Next up, we drive to Ushuaia – the end of the world.
-<p id="note-1">1<strong><a href="#note-1-return">^</a></strong> - Shit and other profanity. My grandmother, who reads this blog in Russian with the help of Google Translate, recently told me that she absolutely loves reading this and that we should continue writing. But she said, she did not enjoy the use of profane language by her dear grandson. Okay, i will try to refrain, but whatever I use doesn’t sound that bad in English and given the circumstances that i describe would be appropriate even in the gentlest of all the gentlemen circles.</p>
+<p id="note-1">1<strong><a href="#note-1-return">^</a></strong> - Shit and other profanity. My grandmother, who reads this blog in Russian with the help of Google Translate, recently told me that she absolutely loves reading this and that we should continue writing. But she said, she did not enjoy the use of profane language by her dear grandson. Okay, I will try to refrain, but whatever I use doesn’t sound that bad in English and given the circumstances that I describe would be appropriate even in the gentlest of all the gentlemen circles.</p>
 PS. Love you Ba.
 
 PSS. Looking around found another blogger with the same translation of the park name – great minds think alike Mike and Veronica.

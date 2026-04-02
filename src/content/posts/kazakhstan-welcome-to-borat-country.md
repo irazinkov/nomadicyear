@@ -3,8 +3,8 @@ title: "Kazakhstan - Welcome to Borat Country"
 slug: "kazakhstan-welcome-to-borat-country"
 pubDate: "2016-08-12T05:45:29Z"
 updatedDate: "2024-12-04T20:01:43Z"
-description: "Lets get this out of the way, yes we are going to the \"Borat\" country. Sadly, but that is how most Westerners perceive Kazakhstan. Even before visiting the country, i've always consider the movie more..."
-excerpt: "Lets get this out of the way, yes we are going to the \"Borat\" country. Sadly, but that is how most Westerners perceive Kazakhstan. Even before visiting the country, i've always consider the movie more..."
+description: "Let's get this out of the way, yes we are going to the \"Borat\" country. Sadly, but that is how most Westerners perceive Kazakhstan. Even before visiting the country, I've always considered the movie more..."
+excerpt: "Let's get this out of the way, yes we are going to the \"Borat\" country. Sadly, but that is how most Westerners perceive Kazakhstan. Even before visiting the country, I've always considered the movie more..."
 heroImage: "/uploads/2016/08/kazakhstan-sunflowers.jpg"
 heroImageAlt: "kazakhstan - sunflowers"
 country: "kazakhstan"
@@ -41,7 +41,7 @@ status: "publish"
 draft: false
 ---
 <div id="google_translate_element"></div>
-Lets get this out of the way, yes we are going to the "Borat" country. Sadly, but that is how most Westerners perceive Kazakhstan. Even before visiting the country, i've always consider the movie more of a parody than an actual documentary. I personally believe it poked just as much fun, if not more, at US rather than Kazakhstan. You have to be really naive at the world to think its actually true.
+Let's get this out of the way, yes we are going to the "Borat" country. Sadly, but that is how most Westerners perceive Kazakhstan. Even before visiting the country, I've always considered the movie more of a parody than an actual documentary. I personally believe it poked just as much fun, if not more, at US rather than Kazakhstan. You have to be really naive about the world to think it's actually true.
 
 <a href="/uploads/2016/08/DSC0620.jpg"><img class="aligncenter size-large wp-image-5495" src="/uploads/2016/08/DSC0620-1024x683.jpg" alt="_DSC0620" width="697" height="465" /></a>
 
@@ -67,7 +67,7 @@ At first just a couple of men showed up to chat with us. We politely showed the
 
 <a href="/uploads/2016/08/DSC0637.jpg"><img class="aligncenter size-large wp-image-5503" src="/uploads/2016/08/DSC0637-1024x683.jpg" alt="_DSC0637" width="697" height="465" /></a>
 
-In the presence of the villagers, we thought it would be the most appropriate time to hold our traditional sticker ceremony. With dramatic music and everyone standing at attention, Hyein put on the Kazakhstan sticker on. Looking at the flag, i have to say that it is one of the prettiest flags on our car. The colors are good, the sun and the bird are very well stylized...a 5 out of 5 on the flag Kazakhstan!
+In the presence of the villagers, we thought it would be the most appropriate time to hold our traditional sticker ceremony. With dramatic music and everyone standing at attention, Hyein put on the Kazakhstan sticker on. Looking at the flag, I have to say that it is one of the prettiest flags on our car. The colors are good, the sun and the bird are very well stylized...a 5 out of 5 on the flag Kazakhstan!
 
 <a href="/uploads/2016/08/DSC0640.jpg"><img class="aligncenter size-large wp-image-5504" src="/uploads/2016/08/DSC0640-1024x683.jpg" alt="_DSC0640" width="697" height="465" /></a>
 
@@ -77,13 +77,13 @@ Here is a little tip for all you travelers out there, tried to get some presents
 
 <a href="/uploads/2016/08/DSC0642.jpg"><img class="aligncenter size-large wp-image-5505" src="/uploads/2016/08/DSC0642-1024x683.jpg" alt="_DSC0642" width="697" height="465" /></a>
 
-I asked the girls to hold up their hands next to the Kazakhstan and the little one couldn't reach, so she just held up her hands very cutely. I love to meet and hang out with the locals, but on my own terms...especially not when getting ready in the morning. It took us almost 3 hours, instead of the usual 1.5 hours to fold the tent and make some coffee with eggs. But we are not in the rush, the weather is good and there are NO MOSQUITOES. Btw, if you are traveling yourself the mosquitoes dont have passports and are stopped by the Russia-Kazakhstan border. So unless Putin starts giving them out to literally just about anyone, you can safely escape the flying monsters in the peaceful Kazakh lands.
+I asked the girls to hold up their hands next to the Kazakhstan and the little one couldn't reach, so she just held up her hands very cutely. I love to meet and hang out with the locals, but on my own terms...especially not when getting ready in the morning. It took us almost 3 hours, instead of the usual 1.5 hours to fold the tent and make some coffee with eggs. But we are not in the rush, the weather is good and there are NO MOSQUITOES. Btw, if you are traveling yourself the mosquitoes don't have passports and are stopped by the Russia-Kazakhstan border. So unless Putin starts giving them out to literally just about anyone, you can safely escape the flying monsters in the peaceful Kazakh lands.
 
 <a href="/uploads/2016/08/DSC0645.jpg"><img class="aligncenter size-large wp-image-5506" src="/uploads/2016/08/DSC0645-1024x683.jpg" alt="_DSC0645" width="697" height="465" /></a>
 
-Here we skip a little bit to the next day, but i will fill you in with words...no pictures guys, i'm sorry state secrets...
+Here we skip a little bit to the next day, but I will fill you in with words...no pictures guys, I'm sorry state secrets...
 
-After leaving the little village behind, we drove all day towards Almaty, couldn't make it one day and stopped in a bigger village. We found a little motel, parked and walked over to a table to ask the guys sitting their if we can park here for the night. They said yes, but only if we sit down and have a drink with them. Sure...we can do that. Turns out that sitting at the table were the mayor of the town, the hotel owner, the governor, the senator and a business owner in this area. Holly smokes....we just walked into some movie. Long story short, we had a good night, talked about our travels and the next morning were invited to visit Alibek's house in the next town over.
+After leaving the little village behind, we drove all day towards Almaty, couldn't make it one day and stopped in a bigger village. We found a little motel, parked and walked over to a table to ask the guys sitting there if we can park here for the night. They said yes, but only if we sit down and have a drink with them. Sure...we can do that. Turns out that sitting at the table were the mayor of the town, the hotel owner, the governor, the senator and a business owner in this area. Holy smokes....we just walked into some movie. Long story short, we had a good night, talked about our travels and the next morning were invited to visit Alibek's house in the next town over.
 
 <a href="/uploads/2016/08/DSC0647.jpg"><img class="aligncenter size-large wp-image-5507" src="/uploads/2016/08/DSC0647-1024x683.jpg" alt="_DSC0647" width="697" height="465" /></a>
 
@@ -91,7 +91,7 @@ We drove a few hours in the morning and met Alibek at the entrance of Taldykorga
 
 <a href="/uploads/2016/08/DSC0650.jpg"><img class="aligncenter size-large wp-image-5508" src="/uploads/2016/08/DSC0650-1024x683.jpg" alt="_DSC0650" width="697" height="465" /></a>
 
-I'm sure he told his wife in the morning that we are coming, because she managed to cook up enough food for a small army. Btw, Alibek and his wife have 7 kids, 4 daughters and 3 sons. Thats already a small army, so having a couple of guests over can even go unnoticed. Anyway, the dish you see in the photo above is called <em>beshparmak</em>, its boiled horse meat, boiled horse sausage (no...not the actual progeny making device, just a sausage made with horse meat) all laid over large square wheat fresh pasta.
+I'm sure he told his wife in the morning that we are coming, because she managed to cook up enough food for a small army. Btw, Alibek and his wife have 7 kids, 4 daughters and 3 sons. That's already a small army, so having a couple of guests over can even go unnoticed. Anyway, the dish you see in the photo above is called <em>beshparmak</em>, its boiled horse meat, boiled horse sausage (no...not the actual progeny making device, just a sausage made with horse meat) all laid over large square wheat fresh pasta.
 
 I think this is the second or third time trying horse meat...but definitely the best prepared version. The meat itself was tender and succulent, the sausage, fatty and good...and pasta, well anything covered with meat juices will go down pretty easy. I give beshparmak a definite 5 out of 5.
 
@@ -105,7 +105,7 @@ As a good-bye present we were presented with a traditional Kazakh men's hat, cal
 
 <a href="/uploads/2016/08/DSC0658.jpg"><img class="aligncenter size-large wp-image-5510" src="/uploads/2016/08/DSC0658-1024x683.jpg" alt="_DSC0658" width="697" height="465" /></a>
 
-Thats not even the whole family, the oldest daughter (far right) is in last year of high school and the two youngest members of the family, the twin boys, are still under a year old. The other daughter and other son were in kindergarten when we visited.
+That's not even the whole family, the oldest daughter (far right) is in last year of high school and the two youngest members of the family, the twin boys, are still under a year old. The other daughter and other son were in kindergarten when we visited.
 
 <a href="/uploads/2016/08/DSC0659.jpg"><img class="aligncenter size-large wp-image-5511" src="/uploads/2016/08/DSC0659-1024x683.jpg" alt="_DSC0659" width="697" height="465" /></a>
 
@@ -119,7 +119,7 @@ Found a sweet camping spot in basically the center of the city, right on a bank 
 
 <a href="/uploads/2016/08/DSC0665.jpg"><img class="aligncenter size-large wp-image-5514" src="/uploads/2016/08/DSC0665-1024x683.jpg" alt="_DSC0665" width="697" height="465" /></a>
 
-Paid $15 for an urgent care visit to the best ophthamologist in town. You know that we go to the doctor for 2 reasons: first, to get the diagnosis and the medicine and second, probably the most important, to make you feel that everything is going to be okay. Well, this doctor was cool as a cucumber, i'm sure if we walked in there with our ear in our hand, she would have not batted an eye and saw that shit back up. That was a very complicated simile, plainly speaking she made us feel calm. She thoroughly examined Hyein's eyes and determined that it is <em>episcleritis</em>. Gave us some powders for internal use and some drops for the eye, told us to come back tomorrow.
+Paid $15 for an urgent care visit to the best ophthalmologist in town. You know that we go to the doctor for 2 reasons: first, to get the diagnosis and the medicine and second, probably the most important, to make you feel that everything is going to be okay. Well, this doctor was cool as a cucumber, I'm sure if we walked in there with our ear in our hand, she would have not batted an eye and saw that shit back up. That was a very complicated simile, plainly speaking she made us feel calm. She thoroughly examined Hyein's eyes and determined that it is <em>episcleritis</em>. Gave us some powders for internal use and some drops for the eye, told us to come back tomorrow.
 
 <a href="/uploads/2016/08/DSC0666.jpg"><img class="aligncenter size-large wp-image-5515" src="/uploads/2016/08/DSC0666-1024x683.jpg" alt="_DSC0666" width="697" height="465" /></a>
 
@@ -149,11 +149,11 @@ One of the main destination and favorite spots with the locals is the Big Almaty
 
 <a href="/uploads/2016/08/DSC0715.jpg"><img class="aligncenter size-large wp-image-5525" src="/uploads/2016/08/DSC0715-1024x683.jpg" alt="_DSC0715" width="697" height="465" /></a>
 
-Surrounded by the mountains, this lake reminds me of Torres del Paine...but instead of hiking up for 5 hours...we just drove up here on a beautiful road. And in beauty this place could rank up there with Torres del Paine and anything Switzerland can throw at it. Maybe i just haven't seen Switzerland and will be proven wrong when we get there...we shall see.
+Surrounded by the mountains, this lake reminds me of Torres del Paine...but instead of hiking up for 5 hours...we just drove up here on a beautiful road. And in beauty this place could rank up there with Torres del Paine and anything Switzerland can throw at it. Maybe I just haven't seen Switzerland and will be proven wrong when we get there...we shall see.
 
 <a href="/uploads/2016/08/DSC0733.jpg"><img class="aligncenter size-large wp-image-5527" src="/uploads/2016/08/DSC0733-1024x683.jpg" alt="_DSC0733" width="697" height="465" /></a>
 
-If you happen to have your passport with you, then Big Almaty Lake is only the half-way point. The road continues all the way to the top of the mountains, but its so close to the Kyrgyzstan border that you have to have documents with you. Luckily, we <em>omni mea mecum porto</em> (Latin for "we carry everything we own") so we could pass the checkpoint and drive up to the "kosmostancia" (space research station). This is a joint Russia-Kazakhstan scientific venture...i'm not sure what they study but lets take a guess and say its some sort of cosmic radiation, because i did not see any telescopes up here.
+If you happen to have your passport with you, then Big Almaty Lake is only the half-way point. The road continues all the way to the top of the mountains, but its so close to the Kyrgyzstan border that you have to have documents with you. Luckily, we <em>omni mea mecum porto</em> (Latin for "we carry everything we own") so we could pass the checkpoint and drive up to the "kosmostancia" (space research station). This is a joint Russia-Kazakhstan scientific venture...I'm not sure what they study but let's take a guess and say its some sort of cosmic radiation, because I did not see any telescopes up here.
 
 <a href="/uploads/2016/08/DSC0754.jpg"><img class="aligncenter size-large wp-image-5533" src="/uploads/2016/08/DSC0754-1024x683.jpg" alt="_DSC0754" width="697" height="465" /></a>
 
@@ -173,7 +173,7 @@ Next morning we went back to the doctor for a checkup, Hyein was getting better 
 
 <a href="/uploads/2016/08/DSC0765.jpg"><img class="aligncenter size-large wp-image-5536" src="/uploads/2016/08/DSC0765-1024x683.jpg" alt="_DSC0765" width="697" height="465" /></a>
 
-If you have a car you can drive yourself up to the skating rink, Medeu. We looked around for a bit and then took a bus to the next point - Shymbulak. During winter it is a ski resort with a couple of lifts and during the other times it turns into a mountain bike resort. Today the weather was not cooperating and clouds were covering everything just above the ski lodge, so we said screw this and went back down to the city. If you had time for only Alatau (the first day) or Medeu, i would suggest Alatau, prettier views and you can get everywhere yourself.
+If you have a car you can drive yourself up to the skating rink, Medeu. We looked around for a bit and then took a bus to the next point - Shymbulak. During winter it is a ski resort with a couple of lifts and during the other times it turns into a mountain bike resort. Today the weather was not cooperating and clouds were covering everything just above the ski lodge, so we said screw this and went back down to the city. If you had time for only Alatau (the first day) or Medeu, I would suggest Alatau, prettier views and you can get everywhere yourself.
 
 <a href="/uploads/2016/08/DSC0768.jpg"><img class="aligncenter size-large wp-image-5538" src="/uploads/2016/08/DSC0768-1024x683.jpg" alt="_DSC0768" width="697" height="465" /></a>
 
@@ -183,11 +183,11 @@ The Almaty Market was immaculate, the floors clean, everything organized by cate
 
 <a href="/uploads/2016/08/DSC0771.jpg"><img class="aligncenter size-large wp-image-5539" src="/uploads/2016/08/DSC0771-1024x683.jpg" alt="_DSC0771" width="697" height="465" /></a>
 
-This is also the first time that i have actually seen horse meat for sale. I'm sure if you were given two similar looking pieces of beef and horse meat...you would have a hard time telling them apart.
+This is also the first time that I have actually seen horse meat for sale. I'm sure if you were given two similar looking pieces of beef and horse meat...you would have a hard time telling them apart.
 
 <a href="/uploads/2016/08/DSC0772.jpg"><img class="aligncenter size-large wp-image-5540" src="/uploads/2016/08/DSC0772-1024x683.jpg" alt="_DSC0772" width="697" height="465" /></a>
 
-From what we learned, horse meat is much leaner with most of the fat being stored around the ribs. That makes sense, i imagine horses are much more active than cows. Even looking at a horse "fatty" doesn't come to mind...cows are different story.
+From what we learned, horse meat is much leaner with most of the fat being stored around the ribs. That makes sense, I imagine horses are much more active than cows. Even looking at a horse "fatty" doesn't come to mind...cows are different story.
 
 <a href="/uploads/2016/08/DSC0773.jpg"><img class="aligncenter size-large wp-image-5541" src="/uploads/2016/08/DSC0773-1024x683.jpg" alt="_DSC0773" width="697" height="465" /></a>
 
@@ -199,7 +199,7 @@ Ah, this is a bit more important than just a bunch of salads on display at the m
 
 So, this is the Korean food from North Korea that has been first adapted to the Vladivostok food availability, then transplanted to Central Asia, where it took another turn in a different direction. When Koreans say that this is NOT korean food they are right and wrong, this is the food of the people that are ethnically korean and had to adapt to the local produce availability. We can talk about it all we want, but the bottom line is that the food itself is absolutely delicious...just like the modern-day South Korean food.
 
-I wish i had more time and internet time to read up on the crazy relocations that Soviet Union did with whole cultures. According to some stories we heard, in Kazakhstan alone because of Soviet Union there are 130 ethnically different groups of people living today. If you got the time and interest read up on it...and tell me later!
+I wish I had more time and internet time to read up on the crazy relocations that Soviet Union did with whole cultures. According to some stories we heard, in Kazakhstan alone because of Soviet Union there are 130 ethnically different groups of people living today. If you got the time and interest read up on it...and tell me later!
 
 <a href="/uploads/2016/08/DSC0777.jpg"><img class="aligncenter size-large wp-image-5542" src="/uploads/2016/08/DSC0777-1024x683.jpg" alt="_DSC0777" width="697" height="465" /></a>
 
@@ -207,8 +207,8 @@ And Kazakhstan is our first Muslim country. Driving through the country on the w
 
 <a href="/uploads/2016/08/DSC0783.jpg"><img class="aligncenter size-large wp-image-5543" src="/uploads/2016/08/DSC0783-1024x683.jpg" alt="_DSC0783" width="697" height="465" /></a>
 
-We wondered around Almaty aimlessly until the end of the day, looking at various monuments, governments buildings, statues...the touristy fluff. Thats not the beauty of this city.
+We wondered around Almaty aimlessly until the end of the day, looking at various monuments, governments buildings, statues...the touristy fluff. That's not the beauty of this city.
 
-In Almaty there is not a specific place that you need to go, i was happy just walking down the streets under the shade of large trees, the houses are clean, the streets are immaculate, the city feels alive but not busy, relaxed but not too much. The traffic is busy but everyone seems to obey the traffic laws, without much honking. We tried to compare it to Singapore...where Singapore feels almost clinically sterile and polished, Almaty is like your grand-mothers home...its has the delicious smells of your grandmother's cooking, the furniture is old but sturdy and will be there long after you are gone, the house is clean, warm and fresh. Oh and of course there is that brand new LED tv...for watching your granny's favorite soap operas.
+In Almaty there is not a specific place that you need to go, I was happy just walking down the streets under the shade of large trees, the houses are clean, the streets are immaculate, the city feels alive but not busy, relaxed but not too much. The traffic is busy but everyone seems to obey the traffic laws, without much honking. We tried to compare it to Singapore...where Singapore feels almost clinically sterile and polished, Almaty is like your grand-mothers home...its has the delicious smells of your grandmother's cooking, the furniture is old but sturdy and will be there long after you are gone, the house is clean, warm and fresh. Oh and of course there is that brand new LED tv...for watching your granny's favorite soap operas.
 
 When you are here you feel welcome, you feel like you can eat well, sleep in and get away with things that you can't at your parents home. Yes, Almaty is your favorite granny's home.

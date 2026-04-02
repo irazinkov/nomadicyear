@@ -10,7 +10,12 @@ categories:
 tags: []
 legacyUrl: "http://nomadicyear.com/2024/11/russia-nizhniy-novgorod-and-vladimir/"
 status: "publish"
-draft: false
+draft: true
+lat: 56.326944
+lng: 44.0075
+mapOrder: 7
+mapTitle: "Nizhniy Novgorod"
+transport: "drive"
 ---
 &nbsp;
 

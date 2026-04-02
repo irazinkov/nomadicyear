@@ -3,8 +3,8 @@ title: "Thailand - Outsider's Guide to Songkran"
 slug: "thailand-outsiders-guide-to-songkran"
 pubDate: "2016-05-24T05:34:33Z"
 updatedDate: "2016-09-18T12:25:45Z"
-description: "Man, are we behind on our posts or what? I'm sorry if the quality of the posts has gone down...actually i'm not. First of all, not much to go down from and second, we have been too busy having way too..."
-excerpt: "Man, are we behind on our posts or what? I'm sorry if the quality of the posts has gone down...actually i'm not. First of all, not much to go down from and second, we have been too busy having way too..."
+description: "Man, are we behind on our posts or what? I'm sorry if the quality of the posts has gone down...actually I'm not. First of all, not much to go down from and second, we have been too busy having way too..."
+excerpt: "Man, are we behind on our posts or what? I'm sorry if the quality of the posts has gone down...actually I'm not. First of all, not much to go down from and second, we have been too busy having way too..."
 heroImage: "/uploads/2016/05/bangkok-slider-2.jpg"
 heroImageAlt: "bangkok, thailand, songkran"
 country: "thailand"
@@ -23,11 +23,11 @@ legacyUrl: "http://nomadicyear.com/2016/05/thailand-outsiders-guide-to-songkran/
 status: "publish"
 draft: false
 ---
-Man, are we behind on our posts or what? I'm sorry if the quality of the posts has gone down...actually i'm not. First of all, not much to go down from and second, we have been too busy having way too much fun in Seoul.
+Man, are we behind on our posts or what? I'm sorry if the quality of the posts has gone down...actually I'm not. First of all, not much to go down from and second, we have been too busy having way too much fun in Seoul.
 
 <a href="/uploads/2016/05/Bangkok_06206.jpg"><img class="aligncenter wp-image-3652 size-large" src="/uploads/2016/05/Bangkok_06206-1024x683.jpg" alt="bangkok, thailand, songkran, khaosan road" width="697" height="465" /></a>
 
-Okay, so we left off on the last post looking at how the Thai's celebrate Songkran in the rural parts of the country. A homely affair with nice people and fun attitude.
+Okay, so we left off on the last post looking at how the Thais celebrate Songkran in the rural parts of the country. A homely affair with nice people and fun attitude.
 
 <a href="/uploads/2016/05/Bangkok_06207.jpg"><img class="aligncenter wp-image-3653 size-large" src="/uploads/2016/05/Bangkok_06207-1024x683.jpg" alt="bangkok, thailand, songkran, khaosan road" width="697" height="465" /></a>
 
@@ -41,7 +41,7 @@ If you decide to visit this area, please only bring things that you are okay wit
 
 <a href="/uploads/2016/05/Bangkok_06213.jpg"><img class="aligncenter wp-image-3655 size-large" src="/uploads/2016/05/Bangkok_06213-1024x683.jpg" alt="bangkok, thailand, songkran, khaosan road" width="697" height="465" /></a>
 
-Unlike in Surat Thani, where i was the only Phalang (aka white person), almost a quarter of the people here are foreigners. You walk through the streets shooting water at anyone and anything you want. Try to avoid the face, especially the eyes, as it can hurt. I tried to be a dick and squirted some water into a dude's beer...his friend retaliated and shot me in the face, hitting my left it. I have to say that the pain i experienced for the next 15 minutes...i definitely deserved.
+Unlike in Surat Thani, where I was the only Phalang (aka white person), almost a quarter of the people here are foreigners. You walk through the streets shooting water at anyone and anything you want. Try to avoid the face, especially the eyes, as it can hurt. I tried to be a dick and squirted some water into a dude's beer...his friend retaliated and shot me in the face, hitting my left it. I have to say that the pain I experienced for the next 15 minutes...I definitely deserved.
 
 <a href="/uploads/2016/05/Bangkok_06214.jpg"><img class="aligncenter wp-image-3656 size-large" src="/uploads/2016/05/Bangkok_06214-1024x683.jpg" alt="bangkok, thailand, songkran, khaosan road" width="697" height="465" /></a>
 
@@ -49,7 +49,7 @@ Once you run out of water, go into any of the bars and cafes on the side of the 
 
 <a href="/uploads/2016/05/Bangkok_06215.jpg"><img class="aligncenter wp-image-3657 size-large" src="/uploads/2016/05/Bangkok_06215-1024x683.jpg" alt="bangkok, thailand, songkran, khaosan road" width="697" height="465" /></a>
 
-Music blaring from all the windows and when the beat drops, the crowd goes into a wild water spraying frenzy, shooting their loads all at the same time. Last year I had the pleasure of attending New York's Central Park water fight and i would say that both events were on par. Except here, you could refill your beer glass and water gun, all without leaving the party.
+Music blaring from all the windows and when the beat drops, the crowd goes into a wild water spraying frenzy, shooting their loads all at the same time. Last year I had the pleasure of attending New York's Central Park water fight and I would say that both events were on par. Except here, you could refill your beer glass and water gun, all without leaving the party.
 
 <a href="/uploads/2016/05/Bangkok_06216.jpg"><img class="aligncenter wp-image-3658 size-large" src="/uploads/2016/05/Bangkok_06216-1024x683.jpg" alt="bangkok, thailand, songkran, khaosan road" width="697" height="465" /></a>
 
@@ -59,7 +59,7 @@ People have no mercy and shoot the uniformed police officers who are still on du
 
 <a href="/uploads/2016/05/Bangkok_06219.jpg"><img class="aligncenter wp-image-3659 size-large" src="/uploads/2016/05/Bangkok_06219-1024x683.jpg" alt="bangkok, thailand, songkran, khaosan road" width="697" height="465" /></a>
 
-Can you see Hyein in the middle of all those colors? While i was waiting for our food and drinks, Hyein went out and just started shooting people.
+Can you see Hyein in the middle of all those colors? While I was waiting for our food and drinks, Hyein went out and just started shooting people.
 
 <a href="/uploads/2016/05/Bangkok_06221.jpg"><img class="aligncenter wp-image-3660 size-large" src="/uploads/2016/05/Bangkok_06221-1024x683.jpg" alt="bangkok, thailand, songkran, khaosan road" width="697" height="465" /></a>
 
@@ -67,15 +67,15 @@ And came back with the biggest grin on her face.
 
 Surprisingly, the bars on this street did not raise their prices...so even with all this happening around, you could still get a decently priced meal.
 
-Which Songkran did i like more, you ask?
+Which Songkran did I like more, you ask?
 
 Can I say both? They are just different. In Surat Thani you get to dump buckets full of water on people. But here you can have beer while shooting with the little pistol...you decide for yourself.
 
 <a href="/uploads/2016/05/Bangkok_0799.jpg"><img class="aligncenter wp-image-3661 size-large" src="/uploads/2016/05/Bangkok_0799-1024x683.jpg" alt="bangkok, thailand, thai food" width="697" height="465" /></a>
 
-If you are worried about getting back home completely wet...dont worry. If you think that now because you are all wet you have to take a tuk tuk? Nope, the cabbies are prepared for this and all the seats are wrapped in vinyl and the floor covered by rubber mats. Taking a tuk-tuk from Khaosan back to Salaya? Our clothes would get completely dry by the time get back.
+If you are worried about getting back home completely wet...don\x27t worry. If you think that now because you are all wet you have to take a tuk tuk? Nope, the cabbies are prepared for this and all the seats are wrapped in vinyl and the floor covered by rubber mats. Taking a tuk-tuk from Khaosan back to Salaya? Our clothes would get completely dry by the time get back.
 
-Shower, a little nap and then all of a sudden its dinner time.
+Shower, a little nap and then all of a sudden it's dinner time.
 
 Suin, where are you taking us today?
 
@@ -83,9 +83,9 @@ Suin, where are you taking us today?
 
 A German beer garden style restaurant with Thai food and imported German beer...how did you know that this is my favorite type of place?
 
-Suin, you are reading my mind. Whoever thought of this establishment is a pure genius. "Lets take the best from both world...German beer and Thai food"... make sure not to switch those though.
+Suin, you are reading my mind. Whoever thought of this establishment is a pure genius. "Let\x27s take the best from both world...German beer and Thai food"... make sure not to switch those though.
 
-And in response to the above photo: "Yes, Suin, i know your beer glass is empty, quit pointing to it, i'll get you another one".
+And in response to the above photo: "Yes, Suin, I know your beer glass is empty, quit pointing to it, I'll get you another one".
 
 <a href="/uploads/2016/05/Bangkok_0817-1.jpg"><img class="aligncenter wp-image-3663 size-large" src="/uploads/2016/05/Bangkok_0817-1-1024x683.jpg" alt="bangkok, thailand, thai food, pineapple" width="697" height="465" /></a>
 
@@ -97,7 +97,7 @@ And more delicious food. We got a blurry dish on the left called... and a chicke
 
 <a href="/uploads/2016/05/Bangkok_0841.jpg"><img class="aligncenter wp-image-3523 size-large" src="/uploads/2016/05/Bangkok_0841-1024x683.jpg" alt="bangkok, thailand, market, store" width="697" height="465" /></a>
 
-Check that photo out...there is definitely something too it. We try to capture mostly travel photos, but once in while get some pretty ones...mostly by accident. I have no idea what i'm doing with the camera.
+Check that photo out...there is definitely something too it. We try to capture mostly travel photos, but once in while get some pretty ones...mostly by accident. I have no idea what I'm doing with the camera.
 
 <a href="/uploads/2016/05/Bangkok_0845.jpg"><img class="aligncenter wp-image-3664 size-large" src="/uploads/2016/05/Bangkok_0845-1024x683.jpg" alt="bangkok, thailand," width="697" height="465" /></a>
 
@@ -109,23 +109,23 @@ Back at Suin's house, where we usually end our night by sitting around a small t
 
 <a href="/uploads/2016/05/Bangkok_0902.jpg"><img class="aligncenter wp-image-3665 size-large" src="/uploads/2016/05/Bangkok_0902-1024x683.jpg" alt="bangkok, thailand, cat" width="697" height="465" /></a>
 
-When choosing to buy a dslr, i read that a lot of people end up buying one when they get a kid expecting amazing photos and getting some brown colored toilet paper. Mate, its not the camera's fault. You just haven't figured out the right setting for it. And as you can see, neither have I. I would group pets and kids in the same category of difficulty of photography. Both are very active, both refuse to sit and pose, both don't understand English and both are very fast.
+When choosing to buy a dslr, I read that a lot of people end up buying one when they get a kid expecting amazing photos and getting some brown colored toilet paper. Mate, it's not the camera's fault. You just haven't figured out the right setting for it. And as you can see, neither have I. I would group pets and kids in the same category of difficulty of photography. Both are very active, both refuse to sit and pose, both don't understand English and both are very fast.
 
-Oh and i forgot...given the opportunity, both will shit all over your house.
+Oh and I forgot...given the opportunity, both will shit all over your house.
 
 <a href="/uploads/2016/05/Bangkok_0935.jpg"><img class="aligncenter wp-image-3666 size-large" src="/uploads/2016/05/Bangkok_0935-1024x683.jpg" alt="bangkok, thailand, street food" width="697" height="465" /></a>
 
-Another tough day in Thailand...i think today we just stayed at home and fixed whatever was aching them, we rested wrote a bit of the blog, got over the multiple day hangover and jet lag, caught up with world news. I personally did nothing and it was glorious.
+Another tough day in Thailand...I think today we just stayed at home and fixed whatever was aching them, we rested wrote a bit of the blog, got over the multiple day hangover and jet lag, caught up with world news. I personally did nothing and it was glorious.
 
 <a href="/uploads/2016/05/Bangkok_0947.jpg"><img class="aligncenter wp-image-3668 size-large" src="/uploads/2016/05/Bangkok_0947-1024x575.jpg" alt="bangkok, thailand, street food" width="697" height="391" /></a>
 
-But at night, we feast. Tonight its Thai Street food in Salaya. Thats Kohe (left) and April (right). Look at that sexy blur on our faces...someone (me, its me) kept the camera in Aperture mode...which like totally, doesn't work for this, duh!
+But at night, we feast. Tonight it's Thai Street food in Salaya. That\x27s Kohe (left) and April (right). Look at that sexy blur on our faces...someone (me, it's me) kept the camera in Aperture mode...which like totally, doesn't work for this, duh!
 
 <a href="/uploads/2016/05/Bangkok_0952.jpg"><img class="aligncenter wp-image-3525 size-large" src="/uploads/2016/05/Bangkok_0952-1024x683.jpg" alt="bangkok, thailand, street food" width="697" height="465" /></a>
 
-I'm writing this from Seoul, the land of amazing food, and on top of that i just had dinner and STILL my mouth is watering at the sight of these dishes. I can't even imagine what you guys are going through. And don't pretend like this is not delicious, you know you are jealous.
+I'm writing this from Seoul, the land of amazing food, and on top of that I just had dinner and STILL my mouth is watering at the sight of these dishes. I can't even imagine what you guys are going through. And don't pretend like this is not delicious, you know you are jealous.
 
-We got soup, its spicy, sweet, sour...the best way to describe it is fresh. Then to the right we have... a meat dish with just the right amount of sauce and spice. And at the bottom we got...a deep-fried deliciousness that goes perfectly well with beer.
+We got soup, it's spicy, sweet, sour...the best way to describe it is fresh. Then to the right we have... a meat dish with just the right amount of sauce and spice. And at the bottom we got...a deep-fried deliciousness that goes perfectly well with beer.
 
 <a href="/uploads/2016/05/Bangkok_0954.jpg"><img class="aligncenter wp-image-3526 size-large" src="/uploads/2016/05/Bangkok_0954-1024x683.jpg" alt="bangkok, thailand, street food" width="697" height="465" /></a>
 
@@ -137,17 +137,17 @@ You know what is the funny thing about this photo? That all of these are just si
 
 <a href="/uploads/2016/05/Bangkok_1030.jpg"><img class="aligncenter wp-image-3529 size-large" src="/uploads/2016/05/Bangkok_1030-1024x683.jpg" alt="bangkok, thailand, thai food, restaurant" width="697" height="465" /></a>
 
-In the morning...our mornings are most people's lunches, we decided to meet up with Cherry, Hyein's friend from Seoul. Man, i feel like a real novelist would introduce their characters better...but who am i kidding...this is just a travel blog. Okay, so Cherry studied in Moscow for a few years, before finishing college in Seoul and getting a job with Samsung. So what is she doing in Bangkok? The answer is studying Thai and becoming a regional specialist...wait but if she already studied in Moscow and speaks fluent Russian, why is she in Bangkok. Unfortunately, the answer will hurt my Russian pride...Thai's are just nicer people. Ouch...that did hurt, but only if you don't know Thai people and how awesome they are.
+In the morning...our mornings are most people's lunches, we decided to meet up with Cherry, Hyein's friend from Seoul. Man, I feel like a real novelist would introduce their characters better...but who am I kidding...this is just a travel blog. Okay, so Cherry studied in Moscow for a few years, before finishing college in Seoul and getting a job with Samsung. So what is she doing in Bangkok? The answer is studying Thai and becoming a regional specialist...wait but if she already studied in Moscow and speaks fluent Russian, why is she in Bangkok. Unfortunately, the answer will hurt my Russian pride...Thais are just nicer people. Ouch...that did hurt, but only if you don't know Thai people and how awesome they are.
 
 <a href="/uploads/2016/05/Bangkok_1052.jpg"><img class="aligncenter wp-image-3530 size-large" src="/uploads/2016/05/Bangkok_1052-1024x683.jpg" alt="bangkok, thailand, sun, hot" width="697" height="465" /></a>
 
 So as part of her contract, she studies Thai language and culture for a year, then goes back to Korea to work at Samsung. Pretty sweet gig if you ask me. She does have to write professional reports once in a while, but then again she is staying in a nice apartment and getting paid.
 
-Wait, I write reports...they may not be professional and come out whenever i wish...where is my apartment and play money? I feel sad now :(
+Wait, I write reports...they may not be professional and come out whenever I wish...where is my apartment and play money? I feel sad now :(
 
 <a href="/uploads/2016/05/Bangkok_1066.jpg"><img class="aligncenter wp-image-3531 size-large" src="/uploads/2016/05/Bangkok_1066-1024x683.jpg" alt="bangkok, thailand, night, city" width="697" height="465" /></a>
 
-For legal reasons, lets just assume that Cherry had no idea where we are going and why we are going there...she just tagged along.
+For legal reasons, let\x27s just assume that Cherry had no idea where we are going and why we are going there...she just tagged along.
 
 So mysterious, what are you guys gonna do?
 
@@ -183,11 +183,11 @@ I have to apologize right away for the content of the photos, if you see a cut o
 
 <a href="/uploads/2016/05/Bangkok_1153.jpg"><img class="aligncenter wp-image-3671 size-large" src="/uploads/2016/05/Bangkok_1153-683x1024.jpg" alt="bangkok, thailand, wat phra kaew, grand palace" width="683" height="1024" /></a>
 
-So if you dont like our photos...send us a 35mm prime lens :)
+So if you don\x27t like our photos...send us a 35mm prime lens :)
 
-Anyway, how is the temple? Hard to say, first of all if you are coming here dont forget to wear a long skirt if you are girl and long pants if you are a man. I obviously wore shorts, because it is 40C outside and had to borrow pants at the temple entrance. Just leave a deposit and you get it back when you return the pants.
+Anyway, how is the temple? Hard to say, first of all if you are coming here don\x27t forget to wear a long skirt if you are girl and long pants if you are a man. I obviously wore shorts, because it is 40C outside and had to borrow pants at the temple entrance. Just leave a deposit and you get it back when you return the pants.
 
-That means that you are walking around in this heat in long pants that dont breath AT ALL.
+That means that you are walking around in this heat in long pants that don\x27t breath AT ALL.
 <a href="/uploads/2016/05/Bangkok_1174.jpg"><img class="aligncenter wp-image-3672 size-large" src="/uploads/2016/05/Bangkok_1174-683x1024.jpg" alt="bangkok, thailand, wat phra kaew, grand palace" width="683" height="1024" /></a>
 
 Hyein had to wear a cardigan to cover her arms and shoulders. I understand modesty, but it's just too damn hot to be covering your skin.
@@ -196,31 +196,31 @@ In the background you have the Phra Si Ratana Chedi...a massive stupa completely
 
 <a href="/uploads/2016/05/Bangkok_1189.jpg"><img class="aligncenter wp-image-3674 size-large" src="/uploads/2016/05/Bangkok_1189-683x1024.jpg" alt="bangkok, thailand, wat phra kaew, grand palace" width="683" height="1024" /></a>
 
-Wow...i remember being hot...but i just look bad here. Not in an ugly way...more in a medical condition bad. Not a single piece of dry clothing on me.
+Wow...I remember being hot...but I just look bad here. Not in an ugly way...more in a medical condition bad. Not a single piece of dry clothing on me.
 
 <a href="/uploads/2016/05/Bangkok_1192.jpg"><img class="aligncenter wp-image-3675 size-large" src="/uploads/2016/05/Bangkok_1192-1024x683.jpg" alt="bangkok, thailand, wat phra kaew, grand palace, buddha" width="697" height="465" /></a>
 
-Inside the temple you are gently reminded that this is a religious institution and that Buddha is not just a brand name to be plastered over everything. You are not supposed to use Buddha head flower pots in your house or put his head on clothing. It might look cool, but very disrespectful and if you do decide to depict Buddha...dont just cut his head off, use the full figure. This actually reminds me a bit about Islam...where you are not allowed at all to make representation of Muhammad. Except the consequences and reactions are a bit different.
+Inside the temple you are gently reminded that this is a religious institution and that Buddha is not just a brand name to be plastered over everything. You are not supposed to use Buddha head flower pots in your house or put his head on clothing. It might look cool, but very disrespectful and if you do decide to depict Buddha...don\x27t just cut his head off, use the full figure. This actually reminds me a bit about Islam...where you are not allowed at all to make representation of Muhammad. Except the consequences and reactions are a bit different.
 
 <a href="/uploads/2016/05/Bangkok_1195.jpg"><img class="aligncenter wp-image-3676 size-large" src="/uploads/2016/05/Bangkok_1195-1024x683.jpg" alt="bangkok, thailand, wat phra kaew, grand palace, chinese" width="697" height="465" /></a>
 
-When walking around the heat is not the only problem, i swear half of China decided to visit the temple on the same day we did. The spaces between buildings are not very large and huge crowds make them feel even smaller. Extra body heat and sweat make it hard to breath and easily create a feeling of claustrophobia.
+When walking around the heat is not the only problem, I swear half of China decided to visit the temple on the same day we did. The spaces between buildings are not very large and huge crowds make them feel even smaller. Extra body heat and sweat make it hard to breathe and easily create a feeling of claustrophobia.
 
 <a href="/uploads/2016/05/Bangkok_1219.jpg"><img class="aligncenter wp-image-3681 size-large" src="/uploads/2016/05/Bangkok_1219-1024x683.jpg" alt="bangkok, thailand, wat phra kaew, grand palace" width="697" height="465" /></a>
 
-Thats the 50mm lens...i wanted to take the picture of the full building and Hyein, but there is not enough space to back up.
+That\x27s the 50mm lens...I wanted to take the picture of the full building and Hyein, but there is not enough space to back up.
 
 <a href="/uploads/2016/05/Bangkok_1235.jpg"><img class="aligncenter wp-image-3682 size-large" src="/uploads/2016/05/Bangkok_1235-1024x683.jpg" alt="bangkok, thailand, wat phra kaew, grand palace" width="697" height="465" /></a>
 
-After the temple we moved on to the Grand Palace, which is basically in the same complex and doesnt require another ticket. Here the space between buildings opens a bit, allowing people to spread out.
+After the temple we moved on to the Grand Palace, which is basically in the same complex and doesn\x27t require another ticket. Here the space between buildings opens a bit, allowing people to spread out.
 
 <a href="/uploads/2016/05/Bangkok_1238.jpg"><img class="aligncenter wp-image-3680 size-large" src="/uploads/2016/05/Bangkok_1238-1024x683.jpg" alt="bangkok, thailand, wat phra kaew, grand palace" width="697" height="465" /></a>
 
-This is good for us on two levels...finally dont have to smell other people's sweat...just my own. And second, we can foot zoom far enough away to actually fit some buildings into our shots. <a href="/uploads/2016/05/Bangkok_1251.jpg"><img class="aligncenter wp-image-3683 size-large" src="/uploads/2016/05/Bangkok_1251-1024x683.jpg" alt="bangkok, thailand, wat phra kaew, grand palace" width="697" height="465" /></a>
+This is good for us on two levels...finally don\x27t have to smell other people's sweat...just my own. And second, we can foot zoom far enough away to actually fit some buildings into our shots. <a href="/uploads/2016/05/Bangkok_1251.jpg"><img class="aligncenter wp-image-3683 size-large" src="/uploads/2016/05/Bangkok_1251-1024x683.jpg" alt="bangkok, thailand, wat phra kaew, grand palace" width="697" height="465" /></a>
 
 I'll try to summarize our experience with Wat Phra Kaew and the Grand Palace.
 
-It was very hot and sweaty. There were way too many tourists in the Wat to make it enjoyable, Palace was a bit better. The temple architecture is not that much different from the much less congested Wat Pho, so on our experience i would recommend going there instead. However, the Grand Palace was very pretty, I enjoyed the mix of European style architecture for the facade of the buildings with Thai traditional styled roof designs. Since i dont know if you can visit just the palace itself, i would have to recommend that you go visit them both. Do try to chose a cooler day. Got an idea...maybe if its raining it would be a perfect time to go since other tourists will try to stay inside? Plus the rain will only be a plus in this weather.
+It was very hot and sweaty. There were way too many tourists in the Wat to make it enjoyable, Palace was a bit better. The temple architecture is not that much different from the much less congested Wat Pho, so on our experience I would recommend going there instead. However, the Grand Palace was very pretty, I enjoyed the mix of European style architecture for the facade of the buildings with Thai traditional styled roof designs. Since I don\x27t know if you can visit just the palace itself, I would have to recommend that you go visit them both. Do try to chose a cooler day. Got an idea...maybe if it's raining it would be a perfect time to go since other tourists will try to stay inside? Plus the rain will only be a plus in this weather.
 
 <a href="/uploads/2016/05/Bangkok_1288.jpg"><img class="aligncenter wp-image-3686 size-large" src="/uploads/2016/05/Bangkok_1288-1024x683.jpg" alt="bangkok, thailand, night view, restaurant" width="697" height="465" /></a>
 
@@ -232,7 +232,7 @@ Our last night in Bangkok, decided to skip the street food and go out in style.
 
 <a href="/uploads/2016/05/Bangkok_1303.jpg"><img class="aligncenter wp-image-3688 size-large" src="/uploads/2016/05/Bangkok_1303-1024x683.jpg" alt="bangkok, thailand, thai food, restaurant" width="697" height="465" /></a>
 
-The food was very good as always. I have to say that the only difference that i noticed between street food and this place is the presentation, the actual quality of the dishes is the same. And surprisingly even though it felt like we were eating in a fancy night club, we did not spend more than $15 per person.
+The food was very good as always. I have to say that the only difference that I noticed between street food and this place is the presentation, the actual quality of the dishes is the same. And surprisingly even though it felt like we were eating in a fancy night club, we did not spend more than $15 per person.
 
 We say good bye to our new friends. Thank you for the good times and dealing with us: Mook, Mo, April, Kohe, Jinyong, Pailin and Cherry. Without you it would have been just another place that we saw on the trip, because of you guys it became a home for us. No, we didn't forget Suin, you know how much we appreciate everything and glad that I am part of your family now. Thanks for everything.
 
@@ -246,6 +246,6 @@ Yup, a wall-sized poster about Wan and Mou, two Thai world travelers. These guys
 
 That definitely makes me feel like a lazy ass, driving down the road in our comfy Land Cruiser. But this is a free world and we do what we want. Good for Wan and Mou though.
 
-We walked around the whole exhibit, looking and guessing at the location of the photos. It was super fun to recognize the places just from the background. Since not a lot of people in Thailand do this kind of extreme traveling, they are well known and celebrated for their achievement. I'm pretty sure when we get back to the states, no one will be making a exhibit about us. And thats okay, we do this travel for us :)
+We walked around the whole exhibit, looking and guessing at the location of the photos. It was super fun to recognize the places just from the background. Since not a lot of people in Thailand do this kind of extreme traveling, they are well known and celebrated for their achievement. I'm pretty sure when we get back to the states, no one will be making an exhibit about us. And that\x27s okay, we do this travel for us :)
 
 Up next: Elephants in Chiang Mai.

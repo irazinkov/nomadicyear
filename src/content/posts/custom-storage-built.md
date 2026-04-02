@@ -3,8 +3,8 @@ title: "Custom Storage Built"
 slug: "custom-storage-built"
 pubDate: "2015-07-30T20:57:49Z"
 updatedDate: "2016-09-19T04:57:33Z"
-description: "Organization. It is the answer to some many of life's problems. Decided to hack together a storage system for the the trip. Mainly for ease of fridge access. Obligatory CAD design. The colorful boxes..."
-excerpt: "Organization. It is the answer to some many of life's problems. Decided to hack together a storage system for the the trip. Mainly for ease of fridge access. Obligatory CAD design. The colorful boxes..."
+description: "Organization. It is the answer to so many of life's problems. Decided to hack together a storage system for the trip. Mainly for ease of fridge access. Obligatory CAD design. The colorful boxes..."
+excerpt: "Organization. It is the answer to so many of life's problems. Decided to hack together a storage system for the trip. Mainly for ease of fridge access. Obligatory CAD design. The colorful boxes..."
 heroImage: "/uploads/2015/08/Drawers-done.jpg"
 heroImageAlt: "Drawers done"
 categories:
@@ -16,7 +16,7 @@ draft: false
 ---
 Organization.
 
-It is the answer to some many of life's problems. Decided to hack together a storage system for the the trip. Mainly for ease of fridge access.
+It is the answer to so many of life's problems. Decided to hack together a storage system for the trip. Mainly for ease of fridge access.
 
 Obligatory CAD design. The colorful boxes are: table (white), stove (gray) and fridge (blue).  Don't critique me on accurate representation, ANYTHING can be approximate as a rectangle if you strain your imagination hard enough.
 
@@ -26,7 +26,7 @@ Took FOREVER to complete it. But nothing too crazy in terms of skills.
 
 Drawers slide out nicely and automatically lock in place when stowed.
 
-Bonus points if anyone figures out what we can store in the central awkward little drawer... Maybe some swords? A bat or a machete? Something long and skinny, come on guys i need ideas...
+Bonus points if anyone figures out what we can store in the central awkward little drawer... Maybe some swords? A bat or a machete? Something long and skinny, come on guys I need ideas...
 
 
 

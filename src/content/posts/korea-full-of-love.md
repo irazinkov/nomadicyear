@@ -22,10 +22,10 @@ draft: false
 ---
 To us Korea is not just a travel destination, but also our home. We have been dreaming of meeting up with family, friends and eating all that delicious Korean food.
 
-Our plan is to stay in Korea for 6 weeks, the longest of any country. Spend some time with Hyein's parents to make sure they are proper sick of us before we leave. This way they will not miss us as much...i'm not sure if this plan will work, but we will do our best.
+Our plan is to stay in Korea for 6 weeks, the longest of any country. Spend some time with Hyein's parents to make sure they are proper sick of us before we leave. This way they will not miss us as much...I'm not sure if this plan will work, but we will do our best.
 <a href="/uploads/2016/05/DSC2551.jpg"><img class="aligncenter size-large wp-image-3906" src="/uploads/2016/05/DSC2551-1024x683.jpg" alt="_DSC2551" width="697" height="465" /></a>
 
-Speaking of Korean food, i will do a separate post on all the Korean food we tried and why i think its one of the best in the world. Fine, i'm biased but the food is still great.
+Speaking of Korean food, I will do a separate post on all the Korean food we tried and why I think its one of the best in the world. Fine, I'm biased but the food is still great.
 
 There will be a proper "Korea overlanding" post, but we have to wait to get out car first. For now, we are staying with Hyein's family in Seoul.
 
@@ -33,7 +33,7 @@ There will be a proper "Korea overlanding" post, but we have to wait to get out 
 
 Funny enough, even though everyone knew months in advance the day we arriving, when we should up at the house...no one was there. It felt weird, walking through, calling out the names and realizing that no one loves you...no one cares. Right? You would expect that you would be greeted with smiles, hugs and tears all around... Nope, we are the forgot son and daughter.
 
-Turns out my self-pity party was unnecessary, Hyein's mom...i'll just call her Mom from now on...easier to type, same with Dad. They thought we are arriving much later and went to the store to buy some late minute deliciousness.
+Turns out my self-pity party was unnecessary, Hyein's mom...I'll just call her Mom from now on...easier to type, same with Dad. They thought we are arriving much later and went to the store to buy some late minute deliciousness.
 
 <a href="/uploads/2016/05/DSC3317-1.jpg"><img class="aligncenter size-large wp-image-3928" src="/uploads/2016/05/DSC3317-1-1024x683.jpg" alt="_DSC3317" width="697" height="465" /></a>
 
@@ -45,7 +45,7 @@ Anyway, I wish them all a big "HAPPY BIRTHDAY!" Next year, we will be there to c
 
 While in Thailand, we started to contact the family members and friends that we wanted to see to make sure we can plan everything out and not miss anyone.
 
-Hyein's Mom has 6 siblings and Hyein's Dad has 8 siblings. Yes, that is 14 uncle and aunts, 28 if you include their partners. Most of them have at least 2 kids...so thats somewhere around 30 cousins. And you thought your family was large.
+Hyein's Mom has 6 siblings and Hyein's Dad has 8 siblings. Yes, that is 14 uncle and aunts, 28 if you include their partners. Most of them have at least 2 kids...so that's somewhere around 30 cousins. And you thought your family was large.
 
 Now you understand why we started planing our schedule weeks before....
 
@@ -53,7 +53,7 @@ The first day we met parent's friends and spent a nice day of hanging out, eatin
 
 <a href="/uploads/2016/05/DSC2979-1.jpg"><img class="aligncenter size-large wp-image-3909" src="/uploads/2016/05/DSC2979-1-1024x683.jpg" alt="_DSC2979" width="697" height="465" /></a>
 
-Since Hyein was in charge of scheduling all the events, i felt like a celebrity. I would wake up in the morning, take a shower, have my coffee and listen to our plans for the day. On this beautiful day we went down to south of Seoul to meet with Dad's youngest sister. Oh and that is Soohwan, Hyein's brother in the red sweater.
+Since Hyein was in charge of scheduling all the events, I felt like a celebrity. I would wake up in the morning, take a shower, have my coffee and listen to our plans for the day. On this beautiful day we went down to south of Seoul to meet with Dad's youngest sister. Oh and that is Soohwan, Hyein's brother in the red sweater.
 
 <a href="/uploads/2016/05/DSC2991-1.jpg"><img class="aligncenter size-large wp-image-3910" src="/uploads/2016/05/DSC2991-1-1024x683.jpg" alt="_DSC2991" width="697" height="465" /></a>
 
@@ -71,7 +71,7 @@ Suin's mom runs a <em>Pansori </em>(wiki reference - <a href="https://en.wikip
 
 But this point in the blog you already know that I'm amazing at anything that I do...almost god like. Unfortunately, singing is not one of them. I personally love singing and do it all the time...just that other people don't seem to like it that much.
 
-On top of that add my basic Korean and you will see that i'm not much use in the Pansori academy. But I CAN put on some silly costumes and act the part.
+On top of that add my basic Korean and you will see that I'm not much use in the Pansori academy. But I CAN put on some silly costumes and act the part.
 
 <a href="/uploads/2016/05/DSC3043-1.jpg"><img class="aligncenter size-large wp-image-3913" src="/uploads/2016/05/DSC3043-1-1024x683.jpg" alt="_DSC3043" width="697" height="465" /></a>
 
@@ -83,7 +83,7 @@ Soohwan (Hyein's brother) reluctantly joining in on the silly play. He, like mos
 
 <a href="/uploads/2016/05/DSC3060-1.jpg"><img class="aligncenter size-large wp-image-3916" src="/uploads/2016/05/DSC3060-1-1024x683.jpg" alt="_DSC3060" width="697" height="465" /></a>
 
-Went outside and waved at passing cars...i'm pretty sure no one actually even noticed us. Btw, if you are wondering...that is a traditional Korean backpack that i'm wearing.
+Went outside and waved at passing cars...I'm pretty sure no one actually even noticed us. Btw, if you are wondering...that is a traditional Korean backpack that I'm wearing.
 
 <a href="/uploads/2016/05/DSC3096-1.jpg"><img class="aligncenter size-large wp-image-3917" src="/uploads/2016/05/DSC3096-1-1024x683.jpg" alt="_DSC3096" width="697" height="465" /></a>
 
@@ -95,11 +95,11 @@ Same day, more family. In the evening we decided to meet Dad's older sister and 
 
 <a href="/uploads/2016/05/DSC3121-1.jpg"><img class="aligncenter size-large wp-image-3919" src="/uploads/2016/05/DSC3121-1-1024x683.jpg" alt="_DSC3121" width="697" height="465" /></a>
 
-From their house drove 5 minutes to another sister's house and met up their family. By this point the elevator is super crowded, people are loud, everyone is laughing and i have no idea what is going on, just trying to capture the moment.
+From their house drove 5 minutes to another sister's house and met up their family. By this point the elevator is super crowded, people are loud, everyone is laughing and I have no idea what is going on, just trying to capture the moment.
 
 <a href="/uploads/2016/05/DSC3127-1.jpg"><img class="aligncenter size-large wp-image-3920" src="/uploads/2016/05/DSC3127-1-1024x683.jpg" alt="_DSC3127" width="697" height="465" /></a>
 
-Aaaaah...i get it...we are going outside to take the most North Korean picture ever.
+Aaaaah...I get it...we are going outside to take the most North Korean picture ever.
 
 <a href="/uploads/2016/05/DSC3131-1.jpg"><img class="aligncenter size-large wp-image-3921" src="/uploads/2016/05/DSC3131-1-1024x683.jpg" alt="_DSC3131" width="697" height="465" /></a>
 
@@ -121,11 +121,11 @@ A regular evening with the family turns into a mess of little kids, soju, beer, 
 
 <a href="/uploads/2016/05/DSC6499.jpg"><img class="aligncenter size-large wp-image-3940" src="/uploads/2016/05/DSC6499-1024x683.jpg" alt="_DSC6499" width="697" height="465" /></a>
 
-The coolest thing is that the mom and her three kids all live within 10 minutes of walking from each other. They see each other almost everyday...my family is so strewn all over the world that i get super jealous. Maybe my life would have been different if we all lived close to each other...
+The coolest thing is that the mom and her three kids all live within 10 minutes of walking from each other. They see each other almost everyday...my family is so strewn all over the world that I get super jealous. Maybe my life would have been different if we all lived close to each other...
 
 <a href="/uploads/2016/05/DSC3772.jpg"><img class="aligncenter size-large wp-image-3931" src="/uploads/2016/05/DSC3772-1024x683.jpg" alt="_DSC3772" width="697" height="465" /></a>
 
-Aaaah...the famous Korean card game, called Go-Stop. We played it with Mom's younger sister, who tried to teach me the rules but somehow ended up winning almost everything. Also, she was super funny when trying to explain she would speaker in Korean LOUDER, hoping that the louder she the better i will understand. Doesn't work that way...
+Aaaah...the famous Korean card game, called Go-Stop. We played it with Mom's younger sister, who tried to teach me the rules but somehow ended up winning almost everything. Also, she was super funny when trying to explain she would speaker in Korean LOUDER, hoping that the louder she the better I will understand. Doesn't work that way...
 
 <a href="/uploads/2016/05/DSC3706.jpg"><img class="aligncenter size-large wp-image-3930" src="/uploads/2016/05/DSC3706-1024x683.jpg" alt="_DSC3706" width="697" height="465" /></a>
 
@@ -193,9 +193,9 @@ I wonder if we continue traveling, that we will meet the same people in differen
 
 <a href="/uploads/2016/05/DSC6339.jpg"><img class="aligncenter size-large wp-image-3933" src="/uploads/2016/05/DSC6339-1024x683.jpg" alt="_DSC6339" width="697" height="465" /></a>
 
-Brian, Jiny and Jeongmi all from Hyein's college, Yonsei, and all of them went over for the one year exchange program to UCSD. They were there when i was trying to convince Hyein to go out with me, they saw all my bad jokes and silly attempts at making Hyein laugh and like me.
+Brian, Jiny and Jeongmi all from Hyein's college, Yonsei, and all of them went over for the one year exchange program to UCSD. They were there when I was trying to convince Hyein to go out with me, they saw all my bad jokes and silly attempts at making Hyein laugh and like me.
 
-But i'm not ashamed, it worked and we are here now.
+But I'm not ashamed, it worked and we are here now.
 
 That's not coke...Thai menthol sniffers.
 
@@ -209,7 +209,7 @@ Turns out Youngsoon is a fellow traveler and an Inspector in Korean police.
 
 <a href="/uploads/2016/05/DSC6447.jpg"><img class="aligncenter size-large wp-image-3935" src="/uploads/2016/05/DSC6447-1024x683.jpg" alt="_DSC6447" width="697" height="465" /></a>
 
-This is by far the funnest night i've had with a police officer...
+This is by far the funnest night I've had with a police officer...
 
 <a href="/uploads/2016/05/DSC6455.jpg"><img class="aligncenter size-large wp-image-3937" src="/uploads/2016/05/DSC6455-1024x683.jpg" alt="_DSC6455" width="697" height="465" /></a>
 

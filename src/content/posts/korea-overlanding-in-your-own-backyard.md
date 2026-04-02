@@ -50,19 +50,19 @@ We couldn't ask our parents to take the photo and had to find the just the right
 
 <a href="/uploads/2016/06/Capture1.jpg"><img class="aligncenter size-large wp-image-4046" src="/uploads/2016/06/Capture1-1024x574.jpg" alt="Capture1" width="697" height="391" /></a>
 
-Enjoying a bit of reading...my Korean language knowledge is very uneven. I would be stretching it if I say i'm anything about a beginner in conversation, but reading is at the lowest level. Yes, i know how to read...just takes me forever. But at least it provided some fun for the family. There is a video of it somewhere...that i'm not willing to share just yet.
+Enjoying a bit of reading...my Korean language knowledge is very uneven. I would be stretching it if I say I'm anything about a beginner in conversation, but reading is at the lowest level. Yes, I know how to read...just takes me forever. But at least it provided some fun for the family. There is a video of it somewhere...that I'm not willing to share just yet.
 
 <a href="/uploads/2016/06/Capture2.jpg"><img class="aligncenter size-large wp-image-4047" src="/uploads/2016/06/Capture2-1024x573.jpg" alt="Capture2" width="697" height="390" /></a>
 
-Btw, this is the Seoul Forest...a city park. We happened to visit during an event day and even though i can barely communicate in Korea, that didn't stop me from joining some quiz game. Hyein had to tag along as my translator.
+Btw, this is the Seoul Forest...a city park. We happened to visit during an event day and even though I can barely communicate in Korea, that didn't stop me from joining some quiz game. Hyein had to tag along as my translator.
 
 <a href="/uploads/2016/06/Capture3.jpg"><img class="aligncenter size-large wp-image-4048" src="/uploads/2016/06/Capture3-1024x574.jpg" alt="Capture3" width="697" height="391" /></a>
 
-Oh...there is also writing part to knowing a language. Well...that one sucks too. I was taking the game too seriously and just copied the answers from Hyein.  Since we were sitting face to face, i was reading her answers upside-down and wrote some of my letters upside down as well...not too smart.
+Oh...there is also writing part to knowing a language. Well...that one sucks too. I was taking the game too seriously and just copied the answers from Hyein.  Since we were sitting face to face, I was reading her answers upside-down and wrote some of my letters upside down as well...not too smart.
 
 <a href="/uploads/2016/06/Capture4.jpg"><img class="aligncenter size-large wp-image-4049" src="/uploads/2016/06/Capture4-1024x573.jpg" alt="Capture4" width="697" height="390" /></a>
 
-I felt great, round after round we were getting all the right answers and by we, i mean Hyein. But our glory didn't last long, in a single multiple choice question that after Hyein's translation i just guessed on my own and got it wrong. Unfortunately, so did she and just like that we were done.
+I felt great, round after round we were getting all the right answers and by we, I mean Hyein. But our glory didn't last long, in a single multiple choice question that after Hyein's translation I just guessed on my own and got it wrong. Unfortunately, so did she and just like that we were done.
 
 <a href="/uploads/2016/06/DSC3761.jpg"><img class="aligncenter size-large wp-image-4045" src="/uploads/2016/06/DSC3761-1024x683.jpg" alt="_DSC3761" width="697" height="465" /></a>
 
@@ -86,13 +86,13 @@ We now have to go to Busan and get our Hodori out and onto the roads.
 
 <a href="/uploads/2016/06/game-of-thrones.jpg"><img class="aligncenter size-large wp-image-4044" src="/uploads/2016/06/game-of-thrones-1024x576.jpg" alt="game of thrones" width="697" height="392" /></a>
 
-I'm not sure if i've mentioned the story behind it.
+I'm not sure if I've mentioned the story behind it.
 
-Back in San Diego we were feverishly planning the trip and tried to decide on a name for our car. Me being a wise-ass as usual I proposed "Hodor" from Game of Thrones. If you don't know what Game of Thrones is...i actually don't even know how you are reading this blog then...
+Back in San Diego we were feverishly planning the trip and tried to decide on a name for our car. Me being a wise-ass as usual I proposed "Hodor" from Game of Thrones. If you don't know what Game of Thrones is...I actually don't even know how you are reading this blog then...
 
 <a href="/uploads/2016/06/Hodor2.jpeg"><img class="aligncenter size-large wp-image-4038" src="/uploads/2016/06/Hodor2-1024x681.jpeg" alt="Hodor2" width="697" height="464" /></a>
 
-Anyway, my logic for the name is all good. Hodor is big, loyal and carries Bran. The only downside is that he is not that smart and can only say one word "Hodor", which i think came from "HOld the DOoR".
+Anyway, my logic for the name is all good. Hodor is big, loyal and carries Bran. The only downside is that he is not that smart and can only say one word "Hodor", which I think came from "HOld the DOoR".
 
 <a href="/uploads/2016/06/hodor3.jpg"><img class="aligncenter wp-image-4039" src="/uploads/2016/06/hodor3.jpg" alt="hodor3" width="697" height="392" /></a>
 
@@ -102,21 +102,21 @@ Hyein wasn't pleased to be riding around the world in a dumb car...so she polite
 
 <a href="/uploads/2016/06/DSC00597.jpg"><img class="aligncenter size-large wp-image-4050" src="/uploads/2016/06/DSC00597-1024x683.jpg" alt="DSC00597" width="697" height="465" /></a>
 
-Not willing to give up on it just yet, i thought that there is some world in Korean that is very similar.
+Not willing to give up on it just yet, I thought that there is some word in Korean that is very similar.
 
 Me: "Hyein...how do you say tiger in Korean"?
 
 Hyein: "Horangi."
 
-Me: "No, thats not it. Isn't there some tiger characted that sounds like Hodor?"
+Me: "No, that's not it. Isn't there some tiger character that sounds like Hodor?"
 
-Hyein: "Hodori (1988 Korean Olympic Games mascot)...omg, you are amazing Ivan..how did you know...this is the best name ever." (i'm paraphrasing a bit).
+Hyein: "Hodori (1988 Korean Olympic Games mascot)...omg, you are amazing Ivan..how did you know...this is the best name ever." (I'm paraphrasing a bit).
 
 So we took the best of both worlds: the strong, loyal, reliable Hodor and the smart, sexy, fast Hodori.
 
 &nbsp;
 
-Here comes the hard part...and i dont mean just getting our car from the Korean customs.
+Here comes the hard part...and I don't mean just getting our car from the Korean customs.
 
 The night before going to Busan to figure out our car situation we spend celebrating with Hyein's cousins. The celebration was so fun, that when we woke up at 5 am to take a shower and get ready for the bus ride to Busan, we were still quite tipsy. This kind of thing hasn't happened since college.
 
@@ -160,7 +160,7 @@ You get through the security gate, walk back to the container handling area wher
 
 <a href="/uploads/2016/05/DSC6543.jpg"><img class="aligncenter size-large wp-image-3971" src="/uploads/2016/05/DSC6543-1024x683.jpg" alt="_DSC6543" width="697" height="465" /></a>
 
-This is the moment of truth...did i pack the car correctly? Did i put on enough tension on the tie-downs?
+This is the moment of truth...did I pack the car correctly? Did I put on enough tension on the tie-downs?
 
 YEAAAAAHHH! Our Hodori is in the same position that we left him!!!
 
@@ -172,7 +172,7 @@ Just need to reconnect the battery (when shipping make sure to disconnect your b
 
 Started without a problem, but blew out a bunch of shit from the exhaust. I think it was just a bunch of rust coming from the exhaust pipe that rusted because of spending a month and a half out in the salty sea air. Wait, but isn't the container sealed? I thought so too, but I guess there are some leaks.
 
-The undercarriage is a bit more rusty then i remember in Uruguay and when trying to drive out of the container our rear left wheel locked up for some reason. Turns out there was huge chunk of rust that help the brake pad to the rotor...a bit of gas and we broke that sucker free.
+The undercarriage is a bit rustier than I remember in Uruguay and when trying to drive out of the container our rear left wheel locked up for some reason. Turns out there was a huge chunk of rust that held the brake pad to the rotor...a bit of gas and we broke that sucker free.
 
 <a href="/uploads/2016/05/DSC6552.jpg"><img class="aligncenter size-large wp-image-3974" src="/uploads/2016/05/DSC6552-1024x683.jpg" alt="_DSC6552" width="697" height="465" /></a>
 
@@ -184,7 +184,7 @@ Now go over to the inspection. This is the only reason that you need to truck yo
 
 The customs guys were joking that we so many borders crossed such a thorough inspection is nothing new to us. Actually, no...this is and Chile Food Nazi Police are the most thorough.
 
-I swear if i had a kilo of coke, i could have easily transported it to any country so far. I'm pretty sure when we get to the states they will label us as dangerous types and will search every single crevice of the car.
+I swear if I had a kilo of coke, I could have easily transported it to any country so far. I'm pretty sure when we get to the states they will label us as dangerous types and will search every single crevice of the car.
 
 <a href="/uploads/2016/05/DSC6555.jpg"><img class="aligncenter size-large wp-image-3976" src="/uploads/2016/05/DSC6555-1024x683.jpg" alt="_DSC6555" width="697" height="465" /></a>
 
@@ -216,9 +216,9 @@ But then you get back out on the open road and realize...whatever the consequenc
 
 You are probably going to laugh when you realize just how different is overlanding in Korea when compared to South America.
 
-First, the distances are tiny. What we covered in a single day in Argentina would be enough to cross the whole country from South to North. When we drove from Busan to Ulsan to see Young and Minsang, we put in the GPS coordinates and laughed...32 miles. Thats what some people in US count as their daily commute to work.
+First, the distances are tiny. What we covered in a single day in Argentina would be enough to cross the whole country from South to North. When we drove from Busan to Ulsan to see Young and Minsang, we put in the GPS coordinates and laughed...32 miles. That's what some people in US count as their daily commute to work.
 
-Second, the country is very developed and feel very safe. So you can literally drive anywhere you want, stop anywhere and sleep. Make sure just not to drive TOO far North, i hear they are not as nice over there.
+Second, the country is very developed and feel very safe. So you can literally drive anywhere you want, stop anywhere and sleep. Make sure just not to drive TOO far North, I hear they are not as nice over there.
 
 <a href="/uploads/2016/05/DSC6625.jpg"><img class="aligncenter size-large wp-image-3984" src="/uploads/2016/05/DSC6625-1024x683.jpg" alt="_DSC6625" width="697" height="465" /></a>
 
@@ -228,7 +228,7 @@ Third, the cost of eating out at the restaurant is relatively low, while the qua
 
 After visiting with Young and Minsang and catching up on all the latest gossip, we headed out for the day. Next destination is Gyeongju, this time even closer - 20 miles away.
 
-I am not complaining at all, the boring roads of Argentina is not what i consider to be perfect overlanding. Too much driving and too little to see.
+I am not complaining at all, the boring roads of Argentina is not what I consider to be perfect overlanding. Too much driving and too little to see.
 
 <a href="/uploads/2016/05/DSC6639.jpg"><img class="aligncenter size-large wp-image-3986" src="/uploads/2016/05/DSC6639-1024x683.jpg" alt="_DSC6639" width="697" height="465" /></a>
 
@@ -240,15 +240,15 @@ And what is left of this once important city? Not much...a few temples, which ha
 
 <a href="/uploads/2016/05/DSC6643.jpg"><img class="aligncenter size-large wp-image-3988" src="/uploads/2016/05/DSC6643-683x1024.jpg" alt="_DSC6643" width="683" height="1024" /></a>
 
-Here we have the Bulguksa buddhist temple, besides being one of the most important buddhist temples in the country it also has the two little towers. And one of them has been immortalized in the Korean 10 won coin. But thats a bit of a joke. Since 1000 won is about 1 usd, that makes 10 won worth less than a penny and no one uses them.
+Here we have the Bulguksa buddhist temple, besides being one of the most important buddhist temples in the country it also has the two little towers. And one of them has been immortalized in the Korean 10 won coin. But that's a bit of a joke. Since 1000 won is about 1 usd, that makes 10 won worth less than a penny and no one uses them.
 
 <a href="/uploads/2016/05/DSC6655.jpg"><img class="aligncenter size-large wp-image-3989" src="/uploads/2016/05/DSC6655-1024x683.jpg" alt="_DSC6655" width="697" height="465" /></a>
 
-A little piggy...i'm still not sure why its there. I'm going to assume that it is for luck...since its shiny and there was a whole bunch of people furiously polishing it with their grabby little tourist hands.
+A little piggy...I'm still not sure why its there. I'm going to assume that it is for luck...since its shiny and there was a whole bunch of people furiously polishing it with their grabby little tourist hands.
 
 <a href="/uploads/2016/05/DSC6659.jpg"><img class="aligncenter size-large wp-image-3990" src="/uploads/2016/05/DSC6659-1024x683.jpg" alt="_DSC6659" width="697" height="465" /></a>
 
-I'm better than you guys...i'll just stand next to it and look all smug, while secretly touching it with one finger, hoping that the luck would be indifferent to the amount of contact.
+I'm better than you guys...I'll just stand next to it and look all smug, while secretly touching it with one finger, hoping that the luck would be indifferent to the amount of contact.
 
 <a href="/uploads/2016/05/DSC6662.jpg"><img class="aligncenter size-large wp-image-3991" src="/uploads/2016/05/DSC6662-1024x683.jpg" alt="_DSC6662" width="697" height="465" /></a>
 
@@ -266,7 +266,7 @@ Whats the difference? Maybe one is for scholars and the other one for religious 
 
 Drive up the mountain, park the car, walk for 15 minutes while enjoying these ground squirrels and you get to the shrine - a large Buddha statue in a little cave.
 
-We dont have any photos of the Buddha, because no photography was allowed and in Korea we follow rules! Hyein also pointed out how much has changed in the last 20 years. When she was here in her childhood you could walk up to the Buddha and pay your respects and now due to a million tourists the Buddha solemnly sits behind a thick glass.
+We don't have any photos of the Buddha, because no photography was allowed and in Korea we follow rules! Hyein also pointed out how much has changed in the last 20 years. When she was here in her childhood you could walk up to the Buddha and pay your respects and now due to a million tourists the Buddha solemnly sits behind a thick glass.
 
 <a href="/uploads/2016/05/DSC6701.jpg"><img class="aligncenter size-large wp-image-3994" src="/uploads/2016/05/DSC6701-683x1024.jpg" alt="_DSC6701" width="683" height="1024" /></a>
 
@@ -294,7 +294,7 @@ One moment it is nice and peaceful and next thing you know you are surrounded by
 
 <a href="/uploads/2016/05/DSC6724.jpg"><img class="aligncenter size-large wp-image-3998" src="/uploads/2016/05/DSC6724-1024x683.jpg" alt="_DSC6724" width="697" height="465" /></a>
 
-Unlike the field trips i remember from my high-school days, the Koreans seem a bit more organized...as usual. The instructors have microphones with loud-speakers, special uniforms and led wands for directing the flow of human bodies. The kids walk in organized, 1+1 pattern. Instead of yelling the instructions, the group leader tells the kids to pass on the message to the next row behind them.
+Unlike the field trips I remember from my high-school days, the Koreans seem a bit more organized...as usual. The instructors have microphones with loud-speakers, special uniforms and led wands for directing the flow of human bodies. The kids walk in organized, 1+1 pattern. Instead of yelling the instructions, the group leader tells the kids to pass on the message to the next row behind them.
 
 On top of that add the myriad of high school girls posing in as large of group as they possibly can...you know for that "pretty girl group effect"...all with their own selfie sticks.
 
@@ -312,7 +312,7 @@ Just down the street from the gardens is this thing....First of all, what is it?
 
 Nope, its an observatory. One of the oldest in Asia actually.
 
-Okay, so we are all smart people here, lets try to figure out this thing, because i'm not quite sure how it works and what it does, if anything.
+Okay, so we are all smart people here, let's try to figure out this thing, because I'm not quite sure how it works and what it does, if anything.
 
 According to the description the inside is hollow from the little window all the way to the top. So you would climb in and sit there looking up at the sky.
 
@@ -324,7 +324,7 @@ This leaves me very confused why this is an observatory and why they needed to b
 
 <a href="/uploads/2016/05/DSC6751.jpg"><img class="aligncenter size-large wp-image-4001" src="/uploads/2016/05/DSC6751-1024x683.jpg" alt="_DSC6751" width="697" height="465" /></a>
 
-Moving right on. After a few visits to Korea you start to understand the following few facts. Its a very small country, smaller than just Southern California, while having a population of about 50 million people. Lets put a bit more in perspective, imagine that 1/6th of the US population would live in an area the size of Los Angeles + San Diego.
+Moving right on. After a few visits to Korea you start to understand the following few facts. Its a very small country, smaller than just Southern California, while having a population of about 50 million people. Let's put a bit more in perspective, imagine that 1/6th of the US population would live in an area the size of Los Angeles + San Diego.
 
 This means that you don't have to go far, just the next town over and you will find a different, local food specialty. Its kinda crazy, every region in the country is known for some sort of specific food. For example, Gyeongju is famous for their breads. Besides the unoriginal name of "Gyeongju bread", these little breads are crazy good. Made from wheat dough with a sweet red bean filling, they are especially delicious right out of the oven.
 
@@ -338,7 +338,7 @@ So instead of sitting around of car at night, twiddling our thumbs or washing th
 
 <a href="/uploads/2016/05/DSC6762.jpg"><img class="aligncenter size-large wp-image-4004" src="/uploads/2016/05/DSC6762-1024x683.jpg" alt="_DSC6762" width="697" height="465" /></a>
 
-Too lazy to cook breakfast in the morning, we didn't even think of buy groceries, we went to the local kimbap crack dealer. Here you can see her meticulously making the "Blue Ice" of korean food. This is also a perfect dish for overlanding, you can store them for a day without a fridge, easily eat them while driving and they are cheap and delicious. Man, i'm going to miss them when we leave Korea.
+Too lazy to cook breakfast in the morning, we didn't even think of buy groceries, we went to the local kimbap crack dealer. Here you can see her meticulously making the "Blue Ice" of korean food. This is also a perfect dish for overlanding, you can store them for a day without a fridge, easily eat them while driving and they are cheap and delicious. Man, I'm going to miss them when we leave Korea.
 
 <a href="/uploads/2016/05/DSC6769.jpg"><img class="aligncenter size-large wp-image-4005" src="/uploads/2016/05/DSC6769-1024x683.jpg" alt="_DSC6769" width="697" height="465" /></a>
 
@@ -348,7 +348,7 @@ Not really important for this post, mostly for other travelers who think of comi
 
 On the way to Gwangju, skipping a much larger town of Daegu, to go see the town where Hyein's dad went to school. Yup, our trip through Korea is mostly visiting friends and place that Hyein holds dear in her memory.
 
-Ever since we got the car, i have been listening for any problems that could have happened while being shipped. For some reason our fridge and computer would erratically turn off. At first i thought it was a battery problem, no worries we can replace it. Still while driving i was going through every possible cause and settled on a loose connection as the highest possibility. Pulled over, opened the hood and instantly saw that the ground cable was not connected.
+Ever since we got the car, I have been listening for any problems that could have happened while being shipped. For some reason our fridge and computer would erratically turn off. At first I thought it was a battery problem, no worries we can replace it. Still while driving I was going through every possible cause and settled on a loose connection as the highest possibility. Pulled over, opened the hood and instantly saw that the ground cable was not connected.
 
 Huuuhhhh, all my house electronics (carputer, fridge, amp, lights) run from a dedicated circuit with a dedicated ground cable returning back to the auxiliary battery. It was completely disconnected, how did it even work at all? Still confusing me to this day. At least the fix was easy :)
 
@@ -358,7 +358,7 @@ Hyein's dad's high school. We went in, took some photos, did our duty.
 
 <a href="/uploads/2016/05/DSC6806.jpg"><img class="aligncenter size-large wp-image-4008" src="/uploads/2016/05/DSC6806-1024x683.jpg" alt="_DSC6806" width="697" height="465" /></a>
 
-You see what i'm talking about? We are like an hour away from the previous town and we already got some new delicacies to fill up on. Okay, lets see here...duck soup...yes, Songjeong Short Ribs...definitely, even if i dont know what Songjeong is. I'm not sure what Hanjeongsik so we will skip that.
+You see what I'm talking about? We are like an hour away from the previous town and we already got some new delicacies to fill up on. Okay, let's see here...duck soup...yes, Songjeong Short Ribs...definitely, even if I don't know what Songjeong is. I'm not sure what Hanjeongsik so we will skip that.
 
 <a href="/uploads/2016/05/DSC6814.jpg"><img class="aligncenter size-large wp-image-4009" src="/uploads/2016/05/DSC6814-1024x683.jpg" alt="_DSC6814" width="697" height="465" /></a>
 
@@ -368,7 +368,7 @@ Not only do the Korean rest stop have a safe place to park your car for the nigh
 
 <a href="/uploads/2016/05/DSC6822.jpg"><img class="aligncenter size-large wp-image-4010" src="/uploads/2016/05/DSC6822-1024x683.jpg" alt="_DSC6822" width="697" height="465" /></a>
 
-Some rest stop even have free showers and sleeping quarters. These are design in mind for the truck drivers, but i'm sure if you are a guy you could spend the night there. I just took a shower.
+Some rest stops even have free showers and sleeping quarters. These are designed with truck drivers in mind, but I'm sure if you are a guy you could spend the night there. I just took a shower.
 
 If you are a girl, then you are SOL, there is nothing for you. I guess even Korea can't be just perfect.
 
@@ -386,7 +386,7 @@ Lesson learned if you are trying to do some illegal shit in Korea don't drive a 
 
 Anyway, back to Jeonju. This place is important to us for two reasons: first, it's Hyein's mom's hometown and second, it has a large traditional Korean village, called Hanok Maul.
 
-Although very touristy in a very Korean way. If you are lucky you can see and participate in a demonstration of making a traditional Korean snack - ddeok. Made by beating a rice flour paste until it becomes sticky with large wooden mallets. Not gonna lie, i had the opportunity to take out some stress, but overlanding in Korea got me all chilled out...plus it was too hot to be swinging a hammer in the sun. These kids look like they got in under control.
+Although very touristy in a very Korean way. If you are lucky you can see and participate in a demonstration of making a traditional Korean snack - ddeok. Made by beating a rice flour paste until it becomes sticky with large wooden mallets. Not gonna lie, I had the opportunity to take out some stress, but overlanding in Korea got me all chilled out...plus it was too hot to be swinging a hammer in the sun. These kids look like they got in under control.
 
 <a href="/uploads/2016/05/DSC6830.jpg"><img class="aligncenter size-large wp-image-4013" src="/uploads/2016/05/DSC6830-1024x683.jpg" alt="_DSC6830" width="697" height="465" /></a>
 
@@ -396,7 +396,7 @@ The ladies in charge of the operation sprinkles some brown powder on the sticky 
 
 So what is a Traditional Korean Village? You are probably thinking, its somewhere off in the country side where goats roam in the front yard and old people sit on the door stoop yelling at the little kids running around everywhere.
 
-That would be just a village...and definitely not in Korea. This is one of the most developed countries...their cell-phone internet is faster than our broadband. And their traditional village is a major tourist attraction, situation right in the middle of a large city. There are two main streets that you walk through, lined on the sides with houses built in traditional style. Not sure, but i'm going to say that these were recently built to only look like traditional houses. This doesn't take away from the quaint feel of an old-school place.
+That would be just a village...and definitely not in Korea. This is one of the most developed countries...their cell-phone internet is faster than our broadband. And their traditional village is a major tourist attraction, situation right in the middle of a large city. There are two main streets that you walk through, lined on the sides with houses built in traditional style. Not sure, but I'm going to say that these were recently built to only look like traditional houses. This doesn't take away from the quaint feel of an old-school place.
 
 <a href="/uploads/2016/05/DSC6855.jpg"><img class="aligncenter size-large wp-image-4016" src="/uploads/2016/05/DSC6855-1024x683.jpg" alt="_DSC6855" width="697" height="465" /></a>
 
@@ -408,11 +408,11 @@ Korea is a very trendy country...once there is a trend the WHOLE country knows a
 
 <a href="/uploads/2016/05/DSC6862.jpg"><img class="aligncenter size-large wp-image-4018" src="/uploads/2016/05/DSC6862-1024x683.jpg" alt="_DSC6862" width="697" height="465" /></a>
 
-The latest food craze is the grilled octopus with spicy red-pepper sauce. Even though i look like i just swallowed a bug...probably didn't sleep well...i actually dont know why i look like shit here...anyway, the octopus is tender, spicy and leaves you craving for more.
+The latest food craze is the grilled octopus with spicy red-pepper sauce. Even though I look like I just swallowed a bug...probably didn't sleep well...I actually don't know why I look like shit here...anyway, the octopus is tender, spicy and leaves you craving for more.
 
-Speaking of trends, the last time i visited Korea was for our wedding in June of 2013. Back then you would see a lot of people wearing glasses without lenses, basically just frames. We aren't talking about sunglasses...these were prescription frames, just without lenses. From young to old, you could spot at least a couple in every subway car. Now, just 3 years later i haven't seen a single person wearing them.
+Speaking of trends, the last time I visited Korea was for our wedding in June of 2013. Back then you would see a lot of people wearing glasses without lenses, basically just frames. We aren't talking about sunglasses...these were prescription frames, just without lenses. From young to old, you could spot at least a couple in every subway car. Now, just 3 years later I haven't seen a single person wearing them.
 
-The latest craze is outdoor clothing. Our parent's home is in the north of Seoul, next to a large hill that people like to climb on the weekend. Like this is a small hike that would take you 2 hours up and down...you could do it in jeans. But everywhere weekend you see hundreds of brightly colored, puffy haired older folks marching past our house and up the hill. They are dressed to the T, everything from shoes to underwear, hat and gloves is specifically design for outdoor hiking. These fabrics are so breathable and dry to fast that i'm afraid some folks just wither away by fluid loss on the way up.
+The latest craze is outdoor clothing. Our parent's home is in the north of Seoul, next to a large hill that people like to climb on the weekend. Like this is a small hike that would take you 2 hours up and down...you could do it in jeans. But everywhere weekend you see hundreds of brightly colored, puffy haired older folks marching past our house and up the hill. They are dressed to the T, everything from shoes to underwear, hat and gloves is specifically design for outdoor hiking. These fabrics are so breathable and dry to fast that I'm afraid some folks just wither away by fluid loss on the way up.
 
 We'll see what it is the next time come back to Seoul.
 
@@ -426,13 +426,13 @@ It really adorable to see someone wearing such a fancy traditional dress and the
 
 <a href="/uploads/2016/05/DSC6877.jpg"><img class="aligncenter size-large wp-image-4021" src="/uploads/2016/05/DSC6877-683x1024.jpg" alt="_DSC6877" width="683" height="1024" /></a>
 
-Oh yeah...to all our church picture loving fans out there...yes, i'm talking to you Julie! Here is one from your motherland. Enjoy...this was just for you.
+Oh yeah...to all our church picture loving fans out there...yes, I'm talking to you Julie! Here is one from your motherland. Enjoy...this was just for you.
 
 <a href="/uploads/2016/05/DSC6882.jpg"><img class="aligncenter size-large wp-image-4022" src="/uploads/2016/05/DSC6882-1024x683.jpg" alt="_DSC6882" width="697" height="465" /></a>
 
-If you dont have your Hanbok with you there are a bunch of places that will rent you one for ~$5usd for an hour. This is not just a girl thing...everyone participates in this willingly. Koreans are very proud of their culture is the younger generations embrace it, make it fun and exciting. Nothing like a bunch of girls in hanboks drinking beer and taking selfies.
+If you don't have your Hanbok with you there are a bunch of places that will rent you one for ~$5usd for an hour. This is not just a girl thing...everyone participates in this willingly. Koreans are very proud of their culture is the younger generations embrace it, make it fun and exciting. Nothing like a bunch of girls in hanboks drinking beer and taking selfies.
 
-We would have loved to participate...the heat...it was too much. I wanted to walk around shirtless...Hyein reminded me that I have gained a bit of weight and dont want to make all white people look bad.
+We would have loved to participate...the heat...it was too much. I wanted to walk around shirtless...Hyein reminded me that I have gained a bit of weight and don't want to make all white people look bad.
 
 <a href="/uploads/2016/05/DSC6884.jpg"><img class="aligncenter size-large wp-image-4023" src="/uploads/2016/05/DSC6884-1024x683.jpg" alt="_DSC6884" width="697" height="465" /></a>
 
@@ -440,7 +440,7 @@ Ah...the school field trip kids finally caught up to us. Same clothes, same hair
 
 <a href="/uploads/2016/05/DSC6902.jpg"><img class="aligncenter size-large wp-image-4024" src="/uploads/2016/05/DSC6902-1024x683.jpg" alt="_DSC6902" width="697" height="465" /></a>
 
-Styling...cruising around. I think its the same girl from the first tricycle photo...look her shoes match, she must have dumped her boyfriend somewhere. The village was a lot of fun, especially for people watching. When i mentioned earlier that it was very touristy, but in a very Korean way, i meant that it was classy. Of course there are shops trying to sell you stuff, but no one is yelling on the streets or grabbing your hand to get into their store, the prices are decent, everything is clean and matches in style.
+Styling...cruising around. I think its the same girl from the first tricycle photo...look her shoes match, she must have dumped her boyfriend somewhere. The village was a lot of fun, especially for people watching. When I mentioned earlier that it was very touristy, but in a very Korean way, I meant that it was classy. Of course there are shops trying to sell you stuff, but no one is yelling on the streets or grabbing your hand to get into their store, the prices are decent, everything is clean and matches in style.
 
 <a href="/uploads/2016/05/DSC6909.jpg"><img class="aligncenter size-large wp-image-4025" src="/uploads/2016/05/DSC6909-1024x683.jpg" alt="_DSC6909" width="697" height="465" /></a>
 
@@ -448,7 +448,7 @@ After Jeonju we are making our way up north towards Seoul. This is the beautiful
 
 <a href="/uploads/2016/05/DSC6921.jpg"><img class="aligncenter size-large wp-image-4026" src="/uploads/2016/05/DSC6921-1024x683.jpg" alt="_DSC6921" width="697" height="465" /></a>
 
-In this case it might have a been a bit of a let down, because its just a statue of Jesus in the woods...but there was a really clean bathroom at the parking lot...so thats something.
+In this case it might have a been a bit of a let down, because its just a statue of Jesus in the woods...but there was a really clean bathroom at the parking lot...so that's something.
 
 <a href="/uploads/2016/05/DSC6927.jpg"><img class="aligncenter size-large wp-image-4027" src="/uploads/2016/05/DSC6927-1024x683.jpg" alt="_DSC6927" width="697" height="465" /></a>
 
@@ -458,9 +458,9 @@ Why are we here? Do we miss UCSD already and just want to take a stroll through 
 
 <a href="/uploads/2016/05/DSC6933.jpg"><img class="aligncenter size-large wp-image-4028" src="/uploads/2016/05/DSC6933-1024x683.jpg" alt="_DSC6933" width="697" height="465" /></a>
 
-Yes and no, gotta drop by and say hi to Simon. He was there on our first "date" with Hyein...i thought it was a date, she thought it was just friends hanging out and brought Simon along. I'm pretty sure she just wasn't sure if i was a trustworthy person and needed his back-up.
+Yes and no, gotta drop by and say hi to Simon. He was there on our first "date" with Hyein...I thought it was a date, she thought it was just friends hanging out and brought Simon along. I'm pretty sure she just wasn't sure if I was a trustworthy person and needed his back-up.
 
-Simon is also doing his Ph.D. in Cognitive Science and thought that i was an okay guy, so the next date Hyein decided to go by herself.
+Simon is also doing his Ph.D. in Cognitive Science and thought that I was an okay guy, so the next date Hyein decided to go by herself.
 
 Thanks Simon!
 
@@ -470,6 +470,6 @@ Historical moment... our Hodori is driving into Seoul. We always knew this momen
 
 <a href="/uploads/2016/05/DSC6947.jpg"><img class="aligncenter size-large wp-image-4030" src="/uploads/2016/05/DSC6947-1024x683.jpg" alt="_DSC6947" width="697" height="465" /></a>
 
-Hodori is bigger than some light-duty work trucks. It draws attention everywhere we go...just how i like it.
+Hodori is bigger than some light-duty work trucks. It draws attention everywhere we go...just how I like it.
 
 Parking, well... parking is a bit complicated.

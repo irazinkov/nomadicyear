@@ -29,7 +29,7 @@ We got lucky and arrived in Thailand during the University's spring break. So Su
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_05965.jpg"><img class="aligncenter wp-image-3563 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_05965-1024x683.jpg" alt="Thailand, Bangkok, airport, passport" width="697" height="465" /></a>
 
-My first reaction was to take a bus, then i was reminded of the prices in Thailand and looked for a flight ticket. Suin pointed us towards a budget airline, Nok Air, and for a $100 we had round-trip tickets from Bangkok to Surat Thani. Only downside is that we chose a 6 am flight and the night before, being responsible adults we tried to go to sleep early.
+My first reaction was to take a bus, then I was reminded of the prices in Thailand and looked for a flight ticket. Suin pointed us towards a budget airline, Nok Air, and for a $100 we had round-trip tickets from Bangkok to Surat Thani. Only downside is that we chose a 6 am flight and the night before, being responsible adults we tried to go to sleep early.
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_05967.jpg"><img class="aligncenter wp-image-3564 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_05967-1024x683.jpg" alt="thailand, surat thani, airport" width="697" height="465" /></a>
 
@@ -37,7 +37,7 @@ That didn't really work out, so with only a couple of hours of sleep we packed i
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_2.jpg"><img class="aligncenter wp-image-3571 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_2-1024x525.jpg" alt="thailand, don sak, surat thani, bus" width="697" height="357" /></a>
 
-There are flights directly to Koh Samui, but that would be boring plus we had to pickup another member of our crew from Don Sak. An hour-long ride from Surat Thani to Don Sak, of which i remember nothing, because we all passed out minutes into the drive.
+There are flights directly to Koh Samui, but that would be boring plus we had to pickup another member of our crew from Don Sak. An hour-long ride from Surat Thani to Don Sak, of which I remember nothing, because we all passed out minutes into the drive.
 
 From Don Sak we will take an hour-long ferry to Koh Samui.
 
@@ -51,7 +51,7 @@ In all the methods of transport we have had the pleasure of enduring on this tri
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_4.jpg"><img class="aligncenter wp-image-3573 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_4-1024x523.jpg" alt="thailand, surat thani, don sak, riding" width="697" height="356" /></a>
 
-Remember that we are still in Thailand, so the black plastic bedliner is scolding hot. But i don't mind, I somehow managed to sneak into a group of 6 girls.
+Remember that we are still in Thailand, so the black plastic bedliner is scolding hot. But I don't mind, I somehow managed to sneak into a group of 6 girls.
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_05970_fish-spa-in-don-sak.jpg"><img class="aligncenter wp-image-3565 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_05970_fish-spa-in-don-sak-1024x683.jpg" alt="thailand, surat thani, don sak, fish spa, dr. fish" width="697" height="465" /></a>
 
@@ -79,9 +79,9 @@ I swear Suin cannot just sit still, unless she is dead tired or passed out, she 
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_05985.jpg"><img class="aligncenter wp-image-3569 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_05985-1024x683.jpg" alt="thailand, surat thani, don sak, fish spa, dr. fish" width="697" height="465" /></a>
 
-I swear I would help them break that liana, but i was tasked by Jiyoung with checking if the hammock would break. Without even realizing, i passed out for an hour and was awake only when everyone was getting into the back of the truck.
+I swear I would help them break that liana, but I was tasked by Jiyoung with checking if the hammock would break. Without even realizing, I passed out for an hour and was awake only when everyone was getting into the back of the truck.
 
-Jiyoung, I'm sorry...but now i can report with confidence that it will support you and its also quite comfy.
+Jiyoung, I'm sorry...but now I can report with confidence that it will support you and its also quite comfy.
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_5.jpg"><img class="aligncenter wp-image-3587 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_5-1024x531.jpg" alt="thailand, surat thani, don sak, fish spa, dr. fish" width="697" height="361" /></a>
 
@@ -101,7 +101,7 @@ Jet lag, lack of sleep and the heat...all add up to passing out at every opportu
 
 But then again ...how can you stay in bed when this is right outside of your hotel room?
 
-We finally made it to our hotel, put our bags in the rooms and ran to the beach. I remember the first thing people used to do when i was a kid, was to try the water temperature.
+We finally made it to our hotel, put our bags in the rooms and ran to the beach. I remember the first thing people used to do when I was a kid, was to try the water temperature.
 
 And now, the young kids just want Snapchat and Instagram it. It was surreal, for the first 15 minutes of the beach at last half of our crew was walking around looking for the best angle for a selfie. I sounds like a mean old man, trust me I'm not. Quite the opposite, I'm jealous of their dedication...I should update my Instagram more often.
 
@@ -133,7 +133,7 @@ Luckily we managed to find a solution, we asked one girl for a cable and Jiyoung
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_06012.jpg"><img class="aligncenter wp-image-3585 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_06012-1024x683.jpg" alt="thailand, koh samui, boat, snorkeling" width="697" height="465" /></a>
 
-Some coffee, snacks and a few jokes and everyone is awake...that is until the Dramamine kicks in. Notice how everyone is wearing a life jacket...i think we were the first ones to put them on. After the "Cuban Experience" of Darien Gap crossing, we take boat and water safety VERY seriously.
+Some coffee, snacks and a few jokes and everyone is awake...that is until the Dramamine kicks in. Notice how everyone is wearing a life jacket...I think we were the first ones to put them on. After the "Cuban Experience" of Darien Gap crossing, we take boat and water safety VERY seriously.
 
 It's also interesting how a traumatic experience like that has shaped our perception of the world. It stands out in our memory so much that everything we see that is even remotely similar, like the river house in Bangkok or the boat here..."Jagi, its like the Guna Yala or the Panama boat ride".
 
@@ -159,11 +159,11 @@ The water is pretty clear...much better than the coastal Pacific water's I'm use
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_10.jpg"><img class="aligncenter wp-image-3574 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_10-1024x515.jpg" alt="thailand, koh samui, snorkeling, diving, fish" width="697" height="351" /></a>
 
-Its been a few years, so i can't say exactly, but i feel like the number and the variety of fish is also a bit smaller. Lets call these black and white striped fish, medium size... then at any given time you could see a few hundred of these swimming around, doing their thing.
+Its been a few years, so I can't say exactly, but I feel like the number and the variety of fish is also a bit smaller. Let's call these black and white striped fish, medium size... then at any given time you could see a few hundred of these swimming around, doing their thing.
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_11.jpg"><img class="aligncenter wp-image-3575 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_11-1024x527.jpg" alt="thailand, koh samui, snorkeling, diving, fish" width="697" height="359" /></a>
 
-Now you see that fish with an orange spot on its side? That is pretty much the largest fish that we saw and at any given time you could see, i dunno maybe 3 or 4 swimming around. We were promised that we would be able to see the Nemo fish...aka Clown fish. But as hard as i looked i couldn't find him. Jokes aside, really wanted to see them in real life.
+Now you see that fish with an orange spot on its side? That is pretty much the largest fish that we saw and at any given time you could see, I dunno maybe 3 or 4 swimming around. We were promised that we would be able to see the Nemo fish...aka Clown fish. But as hard as I looked I couldn't find him. Jokes aside, really wanted to see them in real life.
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_12.jpg"><img class="aligncenter wp-image-3576 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_12-1024x522.jpg" alt="thailand, koh samui, snorkeling, diving, fish" width="697" height="355" /></a>
 
@@ -179,7 +179,7 @@ And just like that its time for lunch. Short ride to the coast, jump off and wal
 
 After lunch, you take a short boat ride to this beautiful island. According to the tour brochure we were supposed to go diving one more time, but for whatever reason they canceled it and told us to hang out here for an hour. We were told that we could go climb a hill and enjoy the view from the top. Full from lunch, tired from snorkeling and extreme heat...no one wanted to go hiking.
 
-I decided to take on for the team and go brave the heat just so that we can ALL enjoy this beautiful picture of Koh Tao together. You see it's not all just fun and games, i really do work hard to make this fun for you guys.
+I decided to take on for the team and go brave the heat just so that we can ALL enjoy this beautiful picture of Koh Tao together. You see it's not all just fun and games, I really do work hard to make this fun for you guys.
 
 Okay...okay, it wasn't that bad...maybe 15 minutes up and 10 minutes down? Plus once you get down you can just run into the water and cool off.
 
@@ -189,7 +189,7 @@ And just like that we were going back. On the ride back we noticed something int
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_06049-1.jpg"><img class="aligncenter wp-image-3616 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_06049-1-1024x683.jpg" alt="thailand, koh samui, dinner, restaurant, seafood" width="697" height="465" /></a>
 
-At night, after showers and a bit of rest, famished from an active day we went out to a local family run restaurant. This is where i can't stress enough, just how important it is to have someone from the area, who can tell you where the REALLY good food is. Thank's to Mo's uncle we were able to find this place.
+At night, after showers and a bit of rest, famished from an active day we went out to a local family run restaurant. This is where I can't stress enough, just how important it is to have someone from the area, who can tell you where the REALLY good food is. Thank's to Mo's uncle we were able to find this place.
 
 The place is no frills you get a table, a chair and shade. Write down what you want on a piece of paper, give it to the lady and wait for 10 minutes.
 
@@ -197,7 +197,7 @@ The place is no frills you get a table, a chair and shade. Write down what you w
 
 &nbsp;
 
-As usual Suin was in charge of ordering and managed to order for a small army. For the first time, i think she finally managed to get it right. Maybe it was that we had 7 people or maybe we were just extremely hungry, but we finished everything without a problem.
+As usual Suin was in charge of ordering and managed to order for a small army. For the first time, I think she finally managed to get it right. Maybe it was that we had 7 people or maybe we were just extremely hungry, but we finished everything without a problem.
 
 After dinner it was free time, Hyein and Pailin went for a massage, Suin went back to the hotel to get better (this whole time she has been sick with a cold) and this gave me, Mo and Mook a chance to go for some last minute presents for Hyein.
 
@@ -209,7 +209,7 @@ I don't have a problem with it...just how can you have such an interesting mix o
 
 Okay, no wooden statues...what else can we get here.
 
-ELEPHANT PANTS. You cannot come to Thailand and leave without them...lets just pick the brightest color and DONE. Now sleepy time.
+ELEPHANT PANTS. You cannot come to Thailand and leave without them...let's just pick the brightest color and DONE. Now sleepy time.
 
 Wait...where are the pants? Just keep reading, she actually has to wear them, right?
 
@@ -219,17 +219,17 @@ Bright and early in the morning, took the ferry back to mainland. This is Mo's t
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_06059-1.jpg"><img class="aligncenter wp-image-3619 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_06059-1-1024x683.jpg" alt="thailand, hot, don sak, surat thani, restaurant, seafood" width="697" height="465" /></a>
 
-This dish is served everywhere in this area of Thailand, but this place stands out. I might have gotten myself in over my head by adding a bit too much red pepper powder. By this point the heat from the sun wasn't helping me much and whatever liquids have remained in my body were exiting faster than i could replenish them.
+This dish is served everywhere in this area of Thailand, but this place stands out. I might have gotten myself in over my head by adding a bit too much red pepper powder. By this point the heat from the sun wasn't helping me much and whatever liquids have remained in my body were exiting faster than I could replenish them.
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_06061-1.jpg"><img class="aligncenter wp-image-3620 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_06061-1-1024x683.jpg" alt="thailand, hot, don sak, surat thani, street food" width="697" height="465" /></a>
 
-But even in this situation Thai's have figured out a solution. Raised in the land of Big Gulp and Starbuck's Trenta cups, i thought nothing would amaze me. I was wrong once again, I should be more humble i think. When you order a cold drink or iced coffee...you get this bag. Okay, so its about half ice, but still its huge. Plus the ice melts in 15 minutes.
+But even in this situation Thai's have figured out a solution. Raised in the land of Big Gulp and Starbuck's Trenta cups, I thought nothing would amaze me. I was wrong once again, I should be more humble I think. When you order a cold drink or iced coffee...you get this bag. Okay, so its about half ice, but still its huge. Plus the ice melts in 15 minutes.
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_06064_ovaltine_cocoa-with-condensed-milk-1.jpg"><img class="aligncenter wp-image-3621 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_06064_ovaltine_cocoa-with-condensed-milk-1-1024x683.jpg" alt="thailand, hot, don sak, surat thani, street food" width="697" height="465" /></a>
 
 Pailin, yes she has a hat with her own name on it, got Ovaltine. I think she has the hat to help her remember it better.
 
-While Hyein and I went for a bucket of ice coffee. One thing i have to point out, is that Thai coffee is delicious. Its strong, its cold, not sour and wakes you right up.
+While Hyein and I went for a bucket of ice coffee. One thing I have to point out, is that Thai coffee is delicious. Its strong, its cold, not sour and wakes you right up.
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_06068-1.jpg"><img class="aligncenter wp-image-3622 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_06068-1-1024x683.jpg" alt="thailand, don sak, surat thani, hotel" width="697" height="465" /></a>
 
@@ -237,7 +237,7 @@ Although done with Koh Samui, we still planned to stay in Surat Thani for a few 
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_06074-1.jpg"><img class="aligncenter wp-image-3623 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_06074-1-1024x683.jpg" alt="thailand, don sak, surat thani, hotel, sunburn" width="697" height="465" /></a>
 
-Remember how i said that i would burn here in minutes without sunscreen, due to my pasty complexion? Turns out even with sunscreen i managed to burn my back. And I WAS applying it every time i went into the water and once every hour when outside. Can you imagine what would have happened to me without it completely?
+Remember how I said that I would burn here in minutes without sunscreen, due to my pasty complexion? Turns out even with sunscreen I managed to burn my back. And I WAS applying it every time I went into the water and once every hour when outside. Can you imagine what would have happened to me without it completely?
 
 We scored some aloe from Mo's farm and proceeded to rub it all over each other. This could have been a normal thing, but the moans and noises, turned it into a hilarious joke for everyone to enjoy.
 
@@ -279,11 +279,11 @@ Apparently, today we are renting a boat and going to look for pink dolphins. Oh 
 
 The point of the tour is to go see the pink dolphins, at least that's what was advertised. When we got on the boat and asked where they are, the captain responded that he is not sure and we will go look. As part of the little boat ride you go near some really beautiful island. Can you guess the name of the island in the photo above?
 
-Its called turtle island...okay, obviously now you can see it. Maybe i'm dumb, but i was told of the name in the morning and only late at night when sitting on our balcony, staring out into the see, it finally hit me.
+Its called turtle island...okay, obviously now you can see it. Maybe I'm dumb, but I was told of the name in the morning and only late at night when sitting on our balcony, staring out into the see, it finally hit me.
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_06172-1.jpg"><img class="aligncenter wp-image-3633 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_06172-1-1024x683.jpg" alt="thailand, don sak, surat thani, boat ride, sea, island" width="697" height="465" /></a>
 
-My best pose of trying to look cool...did i succeed? Or is the towel ruining the image?
+My best pose of trying to look cool...did I succeed? Or is the towel ruining the image?
 
 Btw, that's me staring at the turtle island, still not understanding why it's called that.
 
@@ -299,7 +299,7 @@ Due to its mystical properties, the island has a Buddhist Temple on top of the r
 
 Quickly ran down to the boat, got in and told the captain to get on with in.
 
-I wish i could tell you how majestic and beautiful these dolphins are. But our experience with them was a bit sad. We only saw a single dolphin that was pushing a dead baby dolphin either to the surface or to the bottom. It bummed us all out...we decided to leave them at peace and head back to the hotel.
+I wish I could tell you how majestic and beautiful these dolphins are. But our experience with them was a bit sad. We only saw a single dolphin that was pushing a dead baby dolphin either to the surface or to the bottom. It bummed us all out...we decided to leave them at peace and head back to the hotel.
 
 Was the tour worth it? If the only goal is to go see the dolphin, then absolutely not.  But you get to see really beautiful island, cool pancake rock formations, spend some time out on the water, swim about if you want then it becomes super fun.
 
@@ -323,11 +323,11 @@ With a clean bill of health and a middle headache, we went back to the farm to d
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_06194.jpg"><img class="aligncenter wp-image-3649 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_06194-1024x683.jpg" alt="thailand, don sak, surat thani, farm, horse" width="697" height="465" /></a>
 
-Mo's parents happily provided us with carrots so we can bond with animals. Here i am ...not feeding the poor little pony named Mario.
+Mo's parents happily provided us with carrots so we can bond with animals. Here I am ...not feeding the poor little pony named Mario.
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_06113_cafe.jpg"><img class="aligncenter wp-image-3644 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_06113_cafe-1024x683.jpg" alt="thailand, don sak, surat thani, farm, cat" width="697" height="465" /></a>
 
-Omg and they have the biggest cat EVER, they call it Cafe. So now i have no idea if it's a male or female.
+Omg and they have the biggest cat EVER, they call it Cafe. So now I have no idea if it's a male or female.
 
 Anyway, just look how big and how furry it is. How does it not just die in the Thai summer heat?
 
@@ -335,7 +335,7 @@ Although, in this picture you cannot tell by its face, Cafe really likes to hang
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_18_songkran.jpg"><img class="aligncenter wp-image-3638 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_18_songkran-1024x510.jpg" alt="thailand, don sak, surat thani, songkran, water, festival" width="697" height="347" /></a>
 
-Remember when i told you no one goes out during in the middle of the day?
+Remember when I told you no one goes out during in the middle of the day?
 
 Well, there is one exception - Songkran Festival.
 
@@ -349,7 +349,7 @@ Luckily, for all of us the hotel owner wanted to show her foreign guests what So
 
 On top of that she found large barrel that put in the back of the pickup and filled up with water.
 
-The back of the pickup strongly smelled of old fish...so i asked Suin and she non-nonchalantly told me that they use it to transport fish mostly.
+The back of the pickup strongly smelled of old fish...so I asked Suin and she non-nonchalantly told me that they use it to transport fish mostly.
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_20_songkran.jpg"><img class="aligncenter wp-image-3640 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_20_songkran-1024x513.jpg" alt="thailand, don sak, surat thani, songkran, water, festival" width="697" height="349" /></a>
 
@@ -357,7 +357,7 @@ As you drive through the town, people on the side of the road proceed to douse y
 
 Another tradition is to put powder on people's faces. This is done in the most Thai...the most polite way ever. People run up to you with the powder, bring up their hand to your face and then just stop about 2 inches away. Only when you have had the chance to nod in agreement and close your eyes, they gently smear it on and as much as they can.
 
-I feel like in San Diego, this would devolve into people spraying each other with fire hoses and slapping faces of random people. But wait...i' dreaming, this would not be allowed because of the drought, unless things have changed since the time we left.
+I feel like in San Diego, this would devolve into people spraying each other with fire hoses and slapping faces of random people. But wait...I' dreaming, this would not be allowed because of the drought, unless things have changed since the time we left.
 
 <a href="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_21_songkran.jpg"><img class="aligncenter wp-image-3641 size-large" src="/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_21_songkran-1024x517.jpg" alt="thailand, don sak, surat thani, songkran, water, festival" width="697" height="352" /></a>
 
@@ -369,4 +369,4 @@ Some people, not satisfied with using normal water, mix the water with ice. That
 
 With outside temperatures in the 40C, dunking freezing water on your head and body makes you gasp for air from the shock.
 
-We are still in rural Thailand, tomorrow we go back to Bangkok, where Songkran is celebrated for an extra 2 days. Lets see how it is different.
+We are still in rural Thailand, tomorrow we go back to Bangkok, where Songkran is celebrated for an extra 2 days. Let's see how it is different.

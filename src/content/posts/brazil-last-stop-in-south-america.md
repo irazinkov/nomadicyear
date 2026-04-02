@@ -57,7 +57,7 @@ After being in a country for a while you get to <strong>feel</strong> the value 
 
 <a href="/uploads/2016/04/DSC05305.jpg"><img class="aligncenter size-large wp-image-3175" src="/uploads/2016/04/DSC05305-1024x683.jpg" alt="DSC05305" width="697" height="465" /></a>
 
-Right next to our hostel is Sao Paulo's famous park - Ibirapuero Park. And of course on the way to the park you can hit up a market and try the local meat in dough thingies. I swear, every country we visited had some form of this...here they are called <em>pastella</em>, pronounced <em>pasteja</em>. Obviously we tried them and they are good, but its hard to mess up something that is deep-fried. They were also selling sugar cane and lime juice...that's a first for me and a definite repeat in the future.
+Right next to our hostel is Sao Paulo's famous park - Ibirapuero Park. And of course on the way to the park you can hit up a market and try the local meat in dough thingies. I swear, every country we visited had some form of this...here they are called <em>pastella</em>, pronounced <em>pasteja</em>. Obviously we tried them and they are good, but it's hard to mess up something that is deep-fried. They were also selling sugar cane and lime juice...that's a first for me and a definite repeat in the future.
 
 <a href="/uploads/2016/04/Capture2-2.jpg"><img class="aligncenter size-large wp-image-3176" src="/uploads/2016/04/Capture2-2-1024x573.jpg" alt="Capture2-2" width="697" height="390" /></a>
 
@@ -155,7 +155,7 @@ The local poison of choice is <em>cachaca</em>, pronounced kashasa, is a clear l
 
 <a href="/uploads/2016/04/DSC05342.jpg"><img class="aligncenter size-large wp-image-3198" src="/uploads/2016/04/DSC05342-1024x683.jpg" alt="DSC05342" width="697" height="465" /></a>
 
-Went with passion fruit and strawberry flavors...i regret nothing!
+Went with passion fruit and strawberry flavors...I regret nothing!
 
 <a href="/uploads/2016/04/DSC05338.jpg"><img class="aligncenter size-large wp-image-3199" src="/uploads/2016/04/DSC05338-1024x683.jpg" alt="DSC05338" width="697" height="465" /></a>
 
@@ -171,7 +171,7 @@ Rolled down metal security doors on all the shop, homeless people instead of zom
 
 <a href="/uploads/2016/04/DSC05347.jpg"><img class="aligncenter size-large wp-image-3202" src="/uploads/2016/04/DSC05347-1024x683.jpg" alt="DSC05347" width="697" height="465" /></a>
 
-We didnt enjoy the walk and decide to head to the bus station...oh I forgot to tell you...we are going to a soccer game...YEAH IN BRAAAAAAZIL.
+We didn\x27t enjoy the walk and decide to head to the bus station...oh I forgot to tell you...we are going to a soccer game...YEAH IN BRAAAAAAZIL.
 
 <a href="/uploads/2016/04/Capture2-1.jpg"><img class="aligncenter size-large wp-image-3203" src="/uploads/2016/04/Capture2-1-1024x571.jpg" alt="Capture2-1" width="697" height="389" /></a>
 
@@ -247,15 +247,15 @@ Hyein hanging out with Vladmir, the Santos goalkeeper.
 
 <a href="/uploads/2016/04/DSC05423.jpg"><img class="aligncenter size-large wp-image-3220" src="/uploads/2016/04/DSC05423-1024x683.jpg" alt="DSC05423" width="697" height="465" /></a>
 
-Yup, thats me casually shooting the shit with Caju. No big deal...
+Yup, that\x27s me casually shooting the shit with Caju. No big deal...
 
 <a href="/uploads/2016/04/Capture8.jpg"><img class="aligncenter size-large wp-image-3221" src="/uploads/2016/04/Capture8-1024x558.jpg" alt="Capture8" width="697" height="380" /></a>
 
-We didnt even have markers to get the signatures, managed to get one from a very nice security guy.
+We didn\x27t even have markers to get the signatures, managed to get one from a very nice security guy.
 
 <a href="/uploads/2016/04/Capture7-1.jpg"><img class="aligncenter size-large wp-image-3222" src="/uploads/2016/04/Capture7-1-1024x570.jpg" alt="Capture7" width="697" height="388" /></a>
 
-Got as many signatures as we could. Honestly, didnt know any of the players names, but will look up online.
+Got as many signatures as we could. Honestly, didn\x27t know any of the players names, but will look up online.
 
 <a href="/uploads/2016/04/DSC05413.jpg"><img class="aligncenter size-large wp-image-3223" src="/uploads/2016/04/DSC05413-1024x683.jpg" alt="DSC05413" width="697" height="465" /></a>
 
@@ -289,9 +289,9 @@ Woah, easy there babe. You know, I'm still here, taking this photo.
 
 Didn't want to miss our bus back to Sao Paulo, we had to say good bye to the team and jumped into the taxi. My favorite Sam Smith song, "Stay with me", was blasting from the radio. So CJ, Hyein and I had an impromptu karaoke session...that we decided to film...one of those drunk decision. We had a blast, but watching it in the morning was a bit cringe inducing...so we are just posting the photo...and the video? Hm..we will keep it in a vault for a few years before we could brave showing it to anyone.
 
-Besides hot women, soccer and Jesus Christ on a mountain, what else is Brazil known for? Wait...i thought Jesus was from the middle east? Yeah but they like him here too and put one up on a mountain. I realize that there are many other things that Brazil is famous for, but we are looking for one specific answer - Brazilian BBQ, or Churrascaria as they call them here.
+Besides hot women, soccer and Jesus Christ on a mountain, what else is Brazil known for? Wait...I thought Jesus was from the middle east? Yeah but they like him here too and put one up on a mountain. I realize that there are many other things that Brazil is famous for, but we are looking for one specific answer - Brazilian BBQ, or Churrascaria as they call them here.
 
-We couldn't imagine leaving this beautiful country without trying it out. After a quick consult with out Brazilian friends, Marianne and Augusto, we decided to visit Vento Haragano. I know its on the expensive side, YOLO! Its about $35 per person for ALL YOU CAN IT.
+We couldn't imagine leaving this beautiful country without trying it out. After a quick consult with our Brazilian friends, Marianne and Augusto, we decided to visit Vento Haragano. I know it's on the expensive side, YOLO! It's about $35 per person for ALL YOU CAN EAT.
 
 <img class="aligncenter size-large wp-image-3245" src="/uploads/2016/04/DSC05445-1024x683.jpg" alt="DSC05445" width="697" height="465" />
 
@@ -310,18 +310,18 @@ We paced ourselves, whenever the waiter brought a new piece we would only ask fo
 
 <a href="/uploads/2016/04/DSC05444.jpg"><img class="aligncenter size-large wp-image-3244" src="/uploads/2016/04/DSC05444-1024x683.jpg" alt="DSC05444" width="697" height="465" /></a>
 
-My goal was to not eat anything but meat, that proved harder than i anticipated. Here is the problem, the meats are extremely salty to our taste and you need to drink a lot of water and eat some veggies to balance out the salty/fatty flavors of the meats. After a few plates of the meat i was CRAVING some greens. Luckily they got that...some arugula and we are good to go.
+My goal was to not eat anything but meat, that proved harder than I anticipated. Here is the problem, the meats are extremely salty to our taste and you need to drink a lot of water and eat some veggies to balance out the salty/fatty flavors of the meats. After a few plates of the meat I was CRAVING some greens. Luckily they got that...some arugula and we are good to go.
 
 You are also served with various fillers, like french fries, bread, onion rings...cheese. It was a waste of good food, we didn't touch a single one. Why would you?<a href="/uploads/2016/04/DSC05445.jpg">
 </a>
 
 <a href="/uploads/2016/04/DSC05446.jpg"><img class="aligncenter size-large wp-image-3246" src="/uploads/2016/04/DSC05446-1024x683.jpg" alt="DSC05446" width="697" height="465" /></a>
 
-Lets be honest here for a second, you came here for all the useful travel and life advice, right? So, the meat is amazing, delicious, tender, fatty, rare...everything you want. But for some freaking reason they put sooooo much salt on it, that i was starting to feel unwell.
+Let\x27s be honest here for a second, you came here for all the useful travel and life advice, right? So, the meat is amazing, delicious, tender, fatty, rare...everything you want. But for some freaking reason they put sooooo much salt on it, that I was starting to feel unwell.
 
 <a href="/uploads/2016/04/DSC05450.jpg"><img class="aligncenter size-large wp-image-3247" src="/uploads/2016/04/DSC05450-1024x683.jpg" alt="DSC05450" width="697" height="465" /></a>
 
-Maybe its their way of limiting the amount that we eat...but to me that changes the actual product and i dont know if i would go back again. To combat this situation we started asking for pieces with the cooked outside already removed. The meat is very rare and thank god not salty.
+Maybe it's their way of limiting the amount that we eat...but to me that changes the actual product and I don\x27t know if I would go back again. To combat this situation we started asking for pieces with the cooked outside already removed. The meat is very rare and thank god not salty.
 
 <a href="/uploads/2016/04/DSC05454.jpg"><img class="aligncenter size-large wp-image-3248" src="/uploads/2016/04/DSC05454-1024x683.jpg" alt="DSC05454" width="697" height="465" /></a>
 
@@ -329,15 +329,15 @@ Went inside the kitchen to check out where the magic happens. I figured this out
 
 <a href="/uploads/2016/04/DSC05460.jpg"><img class="aligncenter size-large wp-image-3249" src="/uploads/2016/04/DSC05460-1024x683.jpg" alt="DSC05460" width="697" height="465" /></a>
 
-I kid about the bucket, i honestly loved the place, just sad that i couldn't enjoy it even more.
+I kid about the bucket, I honestly loved the place, just sad that I couldn't enjoy it even more.
 
 <a href="/uploads/2016/04/DSC05468.jpg"><img class="aligncenter size-large wp-image-3250" src="/uploads/2016/04/DSC05468-1024x683.jpg" alt="DSC05468" width="697" height="465" /></a>
 
-We used the menu card to mark the things we have eaten and our simple review. The most common thing was - "soft" after a while i had to re-evaluate my threshold for what is soft. Most of the steaks we have ever eaten at home would be considered very hard by these standards. No. 21 - the "hump" was out of this world. It was the first time tried it and you honestly didn't have to use your teeth. When i'm old and dont have teeth anymore...all i will be buying is the "hump". Press it against the roof of your mouth with the tongue and it just disappears. It doesn't melt...it just vanishes, leaving only the sweet, smoky taste behind.
+We used the menu card to mark the things we have eaten and our simple review. The most common thing was - "soft" after a while I had to re-evaluate my threshold for what is soft. Most of the steaks we have ever eaten at home would be considered very hard by these standards. No. 21 - the "hump" was out of this world. It was the first time I tried it and you honestly didn't have to use your teeth. When I'm old and don\x27t have teeth anymore...all I will be buying is the "hump". Press it against the roof of your mouth with the tongue and it just disappears. It doesn't melt...it just vanishes, leaving only the sweet, smoky taste behind.
 
 <a href="/uploads/2016/04/DSC05470.jpg"><img class="aligncenter size-large wp-image-3251" src="/uploads/2016/04/DSC05470-1024x683.jpg" alt="DSC05470" width="697" height="465" /></a>
 
-Outside the establishment, the restaurant showcases another one of our favorites of the night - beef ribs. They sure know how to do the right! Tender, fatty, delicious meat that barely hangs on the bone. Full of delicious food and disappointed that i could not eat more, we headed back to the hostel.
+Outside the establishment, the restaurant showcases another one of our favorites of the night - beef ribs. They sure know how to do it right! Tender, fatty, delicious meat that barely hangs on the bone. Full of delicious food and disappointed that I could not eat more, we headed back to the hostel.
 
 <a href="/uploads/2016/04/DSC05616.jpg"><img class="aligncenter size-large wp-image-3252" src="/uploads/2016/04/DSC05616-1024x683.jpg" alt="DSC05616" width="697" height="465" /></a>
 
@@ -345,11 +345,11 @@ Tonight is our last night in Brazil and in South America. Sao Paulo decided that
 
 In a few days, we will be on the other side of the world and this part of the trip will seem like a dream. Almost to the day, 5 months were spent on the road. We started out without any Spanish and learned whatever we needed along the way, we learned to appreciate the hospitality of our old friends and new friends we made along the way. We were scared when we started, but the beautiful people of the Americas made us feel at home everywhere we went, except maybe Bolivia...they need to learn how to smile once in a while. We learned a lot about each other and how to be together...yes, just a simple thing of being together...how to enjoy each other's company, what we love to do together, what keeps us together. Learned things not to do to each other. A married couple we met along the way has been together for over 30 years, raised 3 sons...the wife told me: "newlyweds dream of going around the world for their honeymoon, but that maybe the end of their relationship". 30 years together and still it can be difficult. In Japan there is even a term for this "Narita Divorce", when newlyweds come back from the honeymoon, get their bags in Narita Airport and go their separate ways forever.
 
-Thank god I met a partner who is actual willing to be with me, work with me when i'm being difficult. And trust me this trip, I have been difficult once or twice.
+Thank god I met a partner who is actually willing to be with me, work with me when I'm being difficult. And trust me this trip, I have been difficult once or twice.
 
 "Hyein, thank you!"
 
-okay...okay, enough with the tearjerkers...whats up next, ivan?
+okay...okay, enough with the tearjerkers...what\x27s up next, ivan?
 
 We are shipping the car to Korea and while it is sailing, we are going to Singapore for 4 days then onto Thailand for 3 weeks to hangout with Hyein's cousin, who lives in Bangkok.
 

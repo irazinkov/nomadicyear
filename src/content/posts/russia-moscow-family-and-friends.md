@@ -3,8 +3,8 @@ title: "Russia - Moscow - Family and Friends"
 slug: "russia-moscow-family-and-friends"
 pubDate: "2016-10-30T08:26:00Z"
 updatedDate: "2024-12-04T20:01:39Z"
-description: "Finally, we are here - Moscow. Actually its my great-grandma's summer home just outside the city...but after coming this far...this is Moscow to us. All my cousins decided to surprise us by showing up..."
-excerpt: "Finally, we are here - Moscow. Actually its my great-grandma's summer home just outside the city...but after coming this far...this is Moscow to us. All my cousins decided to surprise us by showing up..."
+description: "Finally, we are here - Moscow. Actually it's my great-grandma's summer home just outside the city...but after coming this far...this is Moscow to us. All my cousins decided to surprise us by showing up..."
+excerpt: "Finally, we are here - Moscow. Actually it's my great-grandma's summer home just outside the city...but after coming this far...this is Moscow to us. All my cousins decided to surprise us by showing up..."
 heroImage: "/uploads/2016/10/moscow_slider-1.jpg"
 heroImageAlt: "moscow_slider"
 country: "russia"
@@ -22,21 +22,21 @@ status: "publish"
 draft: false
 ---
 <div id="google_translate_element"> </div>
-Finally, we are here - Moscow. Actually its my great-grandma's summer home just outside the city...but after coming this far...this is Moscow to us.
+Finally, we are here - Moscow. Actually it's my great-grandma's summer home just outside the city...but after coming this far...this is Moscow to us.
 
 All my cousins decided to surprise us by showing up at the house and welcoming the world wanderers with a great company.
 
 <a href="/uploads/2016/10/DSC3331.jpg"><img class="aligncenter size-large wp-image-6414" src="/uploads/2016/10/DSC3331-1024x683.jpg" alt="_dsc3331" width="697" height="465" /></a>
 
-Quickly lets go through my family from left to right: Sasha my little niece, Hyein, Anton (4th? cousin), Daniel (4th cousin and Anton's borther), Katya (2nd cousin and Sasha's mom), Misha (2nd cousin and Katya's brother), Natasha (Misha's wife), Maxim (my 3rd cousin, we visited his parents in Kazan) and Olya (my grand-aunt).
+Quickly let's go through my family from left to right: Sasha my little niece, Hyein, Anton (4th? cousin), Daniel (4th cousin and Anton's borther), Katya (2nd cousin and Sasha's mom), Misha (2nd cousin and Katya's brother), Natasha (Misha's wife), Maxim (my 3rd cousin, we visited his parents in Kazan) and Olya (my grand-aunt).
 
 <a href="/uploads/2016/10/DSC3335.jpg"><img class="aligncenter size-large wp-image-6415" src="/uploads/2016/10/DSC3335-1024x683.jpg" alt="_dsc3335" width="697" height="465" /></a>
 
 Ah...the grandma decided that they wanted to be in with the cool kids: my grandma (very left) and her sister Natasha (to my left) .
 
-When starting the trip i thought about the moment of finally coming to Moscow, i didn't know how that day will go. But i always hoped that it would be possible to arrive and meet my whole family...all at once, and have a great party! I didn't even have to do anything...they organized it all by themselves. It was the best present that they could have given me. Seeing them after such a long trip was truly a teary-eyed moment. The last time we got together like this was at our great-grandmother's 100th birthday. It felt great to be again together.
+When starting the trip I thought about the moment of finally coming to Moscow, I didn't know how that day will go. But I always hoped that it would be possible to arrive and meet my whole family...all at once, and have a great party! I didn't even have to do anything...they organized it all by themselves. It was the best present that they could have given me. Seeing them after such a long trip was truly a teary-eyed moment. The last time we got together like this was at our great-grandmother's 100th birthday. It felt great to be again together.
 
-Thank you so much for coming out, i know that some of you (ahem, ahem Maxim) had to travel almost as long as we did to get here!
+Thank you so much for coming out, I know that some of you (ahem, ahem Maxim) had to travel almost as long as we did to get here!
 
 <a href="/uploads/2016/10/DSC3338.jpg"><img class="aligncenter size-large wp-image-6416" src="/uploads/2016/10/DSC3338-1024x683.jpg" alt="_dsc3338" width="697" height="465" /></a>
 
@@ -44,11 +44,11 @@ The night couldn't stop us from looking at the car, under the dim light of headl
 
 <a href="/uploads/2016/10/DSC3343.jpg"><img class="aligncenter size-large wp-image-6417" src="/uploads/2016/10/DSC3343-1024x683.jpg" alt="_dsc3343" width="697" height="465" /></a>
 
-Did i tell you that this summer my grandma fell down and broke her hip bone? Yeah, luckily it was a very clean break that required only a few days of bed rest in the hospital. No...lucky not for her, but for the hospital, i'm not sure if they could have dealt with her anger if they told her that she needs to be in bed for a few months. So when in the morning we opened up the tent to show to everyone. grandma demanded that she also goes up the ladder to check it out. Everyone around screamed their objections...remember determination like hers is rarely seen in people of our generation. She did agree on the condition that we would be there on both sides of the ladder.....just in case.
+Did I tell you that this summer my grandma fell down and broke her hip bone? Yeah, luckily it was a very clean break that required only a few days of bed rest in the hospital. No...lucky not for her, but for the hospital, I'm not sure if they could have dealt with her anger if they told her that she needs to be in bed for a few months. So when in the morning we opened up the tent to show to everyone. grandma demanded that she also goes up the ladder to check it out. Everyone around screamed their objections...remember determination like hers is rarely seen in people of our generation. She did agree on the condition that we would be there on both sides of the ladder.....just in case.
 
 <a href="/uploads/2016/10/DSC3350.jpg"><img class="aligncenter size-large wp-image-6418" src="/uploads/2016/10/DSC3350-1024x683.jpg" alt="_dsc3350" width="697" height="465" /></a>
 
-Moscow, my birthplace. This wasn't just another city on our tour, this is the place that i visited only once after leaving Russia at the age of 14. Because of the military service i couldn't go back for so many years, so all the memories and feelings of nostalgia have gone unchecked for 15 years until i could go back and see it again in 2014. Coming here again just two years later felt like a dream...am i allowed? Can i go back so soon? You mean, i dont have to wait another 15 years?
+Moscow, my birthplace. This wasn't just another city on our tour, this is the place that I visited only once after leaving Russia at the age of 14. Because of the military service I couldn't go back for so many years, so all the memories and feelings of nostalgia have gone unchecked for 15 years until I could go back and see it again in 2014. Coming here again just two years later felt like a dream...am I allowed? Can I go back so soon? You mean, I don't have to wait another 15 years?
 
 <a href="/uploads/2016/10/parking.jpg"><img class="aligncenter wp-image-6430" src="/uploads/2016/10/parking.jpg" alt="parking" width="697" height="523" /></a>
 
@@ -56,7 +56,7 @@ As you can probably imagine, you can't just roll up to the Red Square, park your
 
 <a href="/uploads/2016/10/DSC3361.jpg"><img class="aligncenter size-large wp-image-6420" src="/uploads/2016/10/DSC3361-1024x683.jpg" alt="_dsc3361" width="697" height="465" /></a>
 
-So what do you do on your first day in Moscow? Go to the Red Square and meet up with old friends. To be honest, even though i was born here, i very much feel like a tourist visit the Red Square. In your childhood you are busy with school, homework, friends....and since this is YOUR city you dont really feel like going to the most famous places, there will always be time to go there, until there won't be.
+So what do you do on your first day in Moscow? Go to the Red Square and meet up with old friends. To be honest, even though I was born here, I very much feel like a tourist visit the Red Square. In your childhood you are busy with school, homework, friends....and since this is YOUR city you don't really feel like going to the most famous places, there will always be time to go there, until there won't be.
 
 <a href="/uploads/2016/10/DSC3368.jpg"><img class="aligncenter size-large wp-image-6364" src="/uploads/2016/10/DSC3368-1024x683.jpg" alt="_dsc3368" width="697" height="465" /></a>
 
@@ -86,7 +86,7 @@ Later the plans were put on permanent hold and the hole was turned into a huge o
 
 <a href="/uploads/2016/10/DSC3420.jpg"><img class="aligncenter size-large wp-image-6372" src="/uploads/2016/10/DSC3420-1024x683.jpg" alt="_dsc3420" width="697" height="465" /></a>
 
-In the 90's the Cathedral was restored, i guess restored is not even the word, it was built again from scratch to look as much as the original as possible. Although this will not erase the dark history the church has gone through during the soviet regime, but its still better than nothing.
+In the 90's the Cathedral was restored, I guess restored is not even the word, it was built again from scratch to look as much as the original as possible. Although this will not erase the dark history the church has gone through during the soviet regime, but it's still better than nothing.
 
 <a href="/uploads/2016/10/DSC3428.jpg"><img class="aligncenter size-large wp-image-6373" src="/uploads/2016/10/DSC3428-1024x683.jpg" alt="_dsc3428" width="697" height="465" /></a>
 
@@ -97,6 +97,6 @@ Kremlin in the background, two good-looking Russian studs, grey gloomy skies ...
 A bit more fooling around on the bridge. If the weather is good enough, and we were lucky to have a couple of days of warmth, then you can spend a whole weekend walking around in the center of Moscow. From Arbat (walking street), down to Kremlin, Red Square then onto Tsum and Manegnaya Plaza a very nice way to spend the day. The streets are clean and the pavement is perfect, there are cross walks everywhere. But when the weather turns on you...this could be a trek "beyond the wall".
 <a href="/uploads/2016/10/DSC3449.jpg"><img class="aligncenter size-large wp-image-6375" src="/uploads/2016/10/DSC3449-1024x683.jpg" alt="_dsc3449" width="697" height="465" /></a>
 
-Another iconic structure is the Stalin Skyscraper, there is a total of 7 of them all around Moscow. According to the wiki they are called "Seven Sisters", i trust wiki on this one because it also mentions that no one from the local populace knows or uses this name...damn right. This one is called the Kudrinskaya Square building and was design to house the cultural elite of the state rather than the despots at the top.
+Another iconic structure is the Stalin Skyscraper, there is a total of 7 of them all around Moscow. According to the wiki they are called "Seven Sisters", I trust wiki on this one because it also mentions that no one from the local populace knows or uses this name...damn right. This one is called the Kudrinskaya Square building and was design to house the cultural elite of the state rather than the despots at the top.
 
-The largest of these so called "sisters" is the main building on Moscow State Univeristy, a place that i would see everyday on my way to and from school. It looks very similar to Kudrinskaya one, except bigger....way bigger.
+The largest of these so called "sisters" is the main building on Moscow State Univeristy, a place that I would see everyday on my way to and from school. It looks very similar to Kudrinskaya one, except bigger....way bigger.

@@ -3,8 +3,8 @@ title: "How I Met Your Monkey! - Nicaragua, Costa Rica"
 slug: "how-i-met-your-monkey-nicaragua-costa-rica"
 pubDate: "2015-12-17T03:20:38Z"
 updatedDate: "2016-09-18T12:38:48Z"
-description: "Nicaragua Where should we start for this post? Hm, i think the welcome sign to Nicaragua is a good start. Although, when we were there we felt anything BUT welcome. So after spending an hour in a line..."
-excerpt: "Nicaragua Where should we start for this post? Hm, i think the welcome sign to Nicaragua is a good start. Although, when we were there we felt anything BUT welcome. So after spending an hour in a line..."
+description: "Nicaragua Where should we start for this post? Hm, I think the welcome sign to Nicaragua is a good start. Although, when we were there we felt anything BUT welcome. So after spending an hour in a line..."
+excerpt: "Nicaragua Where should we start for this post? Hm, I think the welcome sign to Nicaragua is a good start. Although, when we were there we felt anything BUT welcome. So after spending an hour in a line..."
 heroImage: "/uploads/2015/12/costa-rica-slider.jpg"
 heroImageAlt: "costa rica - slider"
 country: "costa-rica"
@@ -25,7 +25,7 @@ status: "publish"
 draft: false
 ---
 <h2>Nicaragua</h2>
-Where should we start for this post? Hm, i think the welcome sign to Nicaragua is a good start. Although, when we were there we felt anything BUT welcome.
+Where should we start for this post? Hm, I think the welcome sign to Nicaragua is a good start. Although, when we were there we felt anything BUT welcome.
 
 So after spending an hour in a line to get our exit stamp from Honduras, we were happy to get to the Nicaraguan side of the border, hoping that things would be better, more organized here.
 
@@ -33,16 +33,16 @@ Why did we think that? Because we thought it could not get any worse.
 
 We were wrong. The process of crossing the border is straightforward - 1) get your passports stamped then 2) import the car. DONE, right?
 
-The guy stamping our passports, i thought was illiterate, no really...he could barely write and re-did our forms at least 5 times each. Then the lady importing our car messed up our license plate, instead of 5UIZ559, she wrote SUIZ559. And we had to wait another 40 minutes for her to redo it.
+The guy stamping our passports, I thought was illiterate, no really...he could barely write and re-did our forms at least 5 times each. Then the lady importing our car messed up our license plate, instead of 5UIZ559, she wrote SUIZ559. And we had to wait another 40 minutes for her to redo it.
 
-Oh and did i tell you, i had beginnings of a cold and Hyein was recovering from Chikungunya? yeah...that border crossing sucked.
+Oh and did I tell you, I had beginnings of a cold and Hyein was recovering from Chikungunya? yeah...that border crossing sucked.
 
-But i digress - Welcome to Nicaragua!
+But I digress - Welcome to Nicaragua!
 <a href="/uploads/2015/12/DSC01803.jpg" rel="attachment wp-att-772"><img class="aligncenter size-full wp-image-772" src="/uploads/2015/12/DSC01803.jpg" alt="DSC01803" width="800" height="533" /></a>
 
 The ABSOLUTE FIRST thing you notice upon entering just how clean is the country. It looks like the asphalt roads were washed and then cleaned by hand. The side of the roads were picked clean of any garbage and the grass was gelled and brushed like 90's hair.
 
-Oh, and also. NO MORE GUNS. It seems as though we entered a different realm, where people dont kill each other and dont need guns...i wish such a place really existed. But seriously, we did not see a single gun in our whole time in Nica (that's what people affectionately call Nicaragua).
+Oh, and also. NO MORE GUNS. It seems as though we entered a different realm, where people don't kill each other and don't need guns...I wish such a place really existed. But seriously, we did not see a single gun in our whole time in Nica (that's what people affectionately call Nicaragua).
 
 Our first stop was close to the border in Somoto Canyon. We parked on a large grassy area of a farm, haggled with the owner a bit about the price and set up camp.
 
@@ -62,7 +62,7 @@ Thatched roofs, palms, warm water, nice weather...what more can you ask of life?
 
 <a href="/uploads/2015/12/DSC01837.jpg" rel="attachment wp-att-777"><img class="aligncenter size-full wp-image-777" src="/uploads/2015/12/DSC01837.jpg" alt="DSC01837" width="800" height="533" /></a>
 
-OMG this place is awesome it even has kayaks and paddles boards you can use for free??? NICE!!!
+OMG this place is awesome it even has kayaks and paddle boards you can use for free??? NICE!!!
 
 <a href="/uploads/2015/12/DSC01838.jpg" rel="attachment wp-att-778"><img class="aligncenter size-full wp-image-778" src="/uploads/2015/12/DSC01838.jpg" alt="DSC01838" width="800" height="533" /></a>
 
@@ -70,11 +70,11 @@ Dinner with a view.
 
 <a href="/uploads/2015/12/DSC01852.jpg" rel="attachment wp-att-779"><img class="aligncenter size-full wp-image-779" src="/uploads/2015/12/DSC01852.jpg" alt="DSC01852" width="800" height="533" /></a>
 
-Seal of approval for this place. If you haven't realized by now, i sound a bit over the top...a bit even bitter in my description.
+Seal of approval for this place. If you haven't realized by now, I sound a bit over the top...a bit even bitter in my description.
 
 That's because we barely got to truly enjoy this place and everything it has to offer.
 
-Remember that cold that i mentioned earlier? Well, it got pretty bad...fever and all. And Hyein's chikungunya had more surprises in store.
+Remember that cold that I mentioned earlier? Well, it got pretty bad...fever and all. And Hyein's chikungunya had more surprises in store.
 
 <a href="/uploads/2015/12/DSC01858.jpg" rel="attachment wp-att-780"><img class="aligncenter size-full wp-image-780" src="/uploads/2015/12/DSC01858.jpg" alt="DSC01858" width="800" height="533" /></a>
 
@@ -92,11 +92,11 @@ Our breakfast.
 
 <a href="/uploads/2015/12/DSC01866.jpg" rel="attachment wp-att-785"><img class="aligncenter size-full wp-image-785" src="/uploads/2015/12/DSC01866.jpg" alt="DSC01866" width="800" height="533" /></a>
 
-During each and every one of our meals, we would were surrounded by local animals...some of them were cuter than the others.
+During each and every one of our meals, we were surrounded by local animals...some of them were cuter than the others.
 
 <a href="/uploads/2015/12/DSC01872.jpg" rel="attachment wp-att-786"><img class="aligncenter size-full wp-image-786" src="/uploads/2015/12/DSC01872.jpg" alt="DSC01872" width="800" height="533" /></a>
 
-Mom, Polya and Andrei, doesn't he look like Tegresha's latin cousin? Or is it his brother that is in hiding from the law in central america?
+Mom, Polya and Andrei, doesn't he look like Tegresha's latin cousin? Or is it his brother that is in hiding from the law in Central America?
 
 After a couple of days of nothing but sleeping in our rooms and eating food, our respective diseases were not getting much better.
 
@@ -114,7 +114,7 @@ Well here is our "address" for the hospital that we got from the hostel's recept
 
 Also...why couldn't she draw it in the center of the paper?
 
-We were told that the hospital is free for anyone...wait WHAT? "ummmm, like even tourists?" ..."yeah, like totally free". Wow, okay lets go.
+We were told that the hospital is free for anyone...wait WHAT? "ummmm, like even tourists?" ..."yeah, like totally free". Wow, okay let's go.
 
 We waited in line to be examined in a large common room. We tried to explain our situations as best as we could. The doctor told me I have a cold and prescribed some antihistamines and ibuprofen. And for our dear Hyein she confirmed that, indeed, she does have Chikungunya. Remember, that we were self-diagnosing this up until this point. Hyein also got prescribed ibuprofen for pain. And both of us had our blood work done.
 
@@ -126,7 +126,7 @@ If you are worried, don't be, our blood work came back normal, phewww.
 
 Another cool thing about Nicaragua is that they have Russian cars.
 
-Trust me, i was just as surprised to see them in Nicaragua as you were surprised to find out that Russia even makes their own cars.
+Trust me, I was just as surprised to see them in Nicaragua as you were surprised to find out that Russia even makes their own cars.
 
 <a href="/uploads/2015/12/DSC01883.jpg" rel="attachment wp-att-793"><img class="aligncenter size-full wp-image-793" src="/uploads/2015/12/DSC01883.jpg" alt="DSC01883" width="800" height="533" /></a>
 
@@ -142,9 +142,9 @@ Full body shot...oh yeah!
 
 <a href="/uploads/2015/12/DSC01885.jpg" rel="attachment wp-att-843"><img class="aligncenter size-full wp-image-843" src="/uploads/2015/12/DSC01885.jpg" alt="DSC01885" width="800" height="533" /></a>
 
-I know you are dying with questions, like "what is it" ... "how much is it and where can i get one?" So here it is - this is the LADA 2107 or colloquially referred to as just "semerka" i.e. "seven".
+I know you are dying with questions, like "what is it" ... "how much is it and where can I get one?" So here it is - this is the LADA 2107 or colloquially referred to as just "semerka" i.e. "seven".
 
-It has 57 hp, or something like that. Made from solid steel...er, thats good for the safety. Of course, this thing doesn't need airbags cuz its made like a tank.
+It has 57 hp, or something like that. Made from solid steel...er, that's good for the safety. Of course, this thing doesn't need airbags cuz it's made like a tank.
 
 Anyway...enough about old soviet relics, back to our story.
 
@@ -153,7 +153,7 @@ So after 6 days of laying in bed and nursing our various diseases on Day 7 we fi
 Honestly, it sucked being sick in such an awesome place. If you guys think that our trip is just all fun and games - well, it is, but not always.
 
 It also sucked that we only saw a bit of Nicaragua, before having to move on. Remember, we have to be at the End of the World (i.e. Ushuaia, Argentina) before the penguins move back in.
-<p style="padding-left: 30px;"><em>Side note: Oooh, i just thought of this. How come Hyein didn't get my cold and i didn't get her chikungunya? If you are wondering, it is possible for a mosquito to bite an infected person (Hyein) and transfer it to another person (me). But we didn't cross-pollinate our viruses...I dont know, seems oddly unlikely...but i'll take it. Can you imagine being sick with both diseases at the same time? Screw that. </em></p>
+<p style="padding-left: 30px;"><em>Side note: Oooh, I just thought of this. How come Hyein didn't get my cold and I didn't get her chikungunya? If you are wondering, it is possible for a mosquito to bite an infected person (Hyein) and transfer it to another person (me). But we didn't cross-pollinate our viruses...I don't know, seems oddly unlikely...but I'll take it. Can you imagine being sick with both diseases at the same time? Screw that. </em></p>
 <a href="/uploads/2015/12/DSC01890-1.jpg" rel="attachment wp-att-867"><img class="aligncenter size-full wp-image-867" src="/uploads/2015/12/DSC01890-1.jpg" alt="DSC01890" width="800" height="533" /></a>
 
 Our fearless driver for the day is...Hyein. I still felt a bit sick and wanted to relax in the passenger seat.
@@ -174,7 +174,7 @@ It is interesting to see how quickly things change from one country to the next.
 At the border crossing into Costa Rica the immigration officer sat in an air conditioned room and used a computer to scan our passports.
 
 The car import steps were straight forward and fast and most importantly...inside air conditioned rooms. The whole process took about an hour, one of our fastest.
-<p style="padding-left: 30px;"><em>Side note: we saw a lot of Cubans sleeping/waiting at the border to Nicaragua. Apparently, they are all trying to get North to United States, where if they manage to get in, can stay legally. Nicaragua for some reason is not letting them pass through their country. So they just sit and wait by the hundreds at the border. Sleeping on cardboard boxes and playing checkers on the street. And i thought we had it rough...</em></p>
+<p style="padding-left: 30px;"><em>Side note: we saw a lot of Cubans sleeping/waiting at the border to Nicaragua. Apparently, they are all trying to get North to United States, where if they manage to get in, can stay legally. Nicaragua for some reason is not letting them pass through their country. So they just sit and wait by the hundreds at the border. Sleeping on cardboard boxes and playing checkers on the street. And I thought we had it rough...</em></p>
 We drove for another 30 minutes and stopped at a small finca (i.e. farm) with various animals.
 
 First thing we were advised NOT to do is to go into the river...why? Cuz there is a big...okay, medium sized, crocodile just chilling there. The host said that there are usually two of them.
@@ -183,7 +183,7 @@ Since we couldn't see the other one, we stayed away from the water's edge :)
 
 <a href="/uploads/2015/12/DSC01896.jpg" rel="attachment wp-att-831"><img class="aligncenter size-full wp-image-831" src="/uploads/2015/12/DSC01896.jpg" alt="DSC01896" width="800" height="533" /></a>
 
-Okay, crocs are big, dangerous and cool...but you cant really get close to them or even pet them.
+Okay, crocs are big, dangerous and cool...but you can't really get close to them or even pet them.
 
 You are forced to just take photos from a distance...kinda lame.
 
@@ -221,7 +221,7 @@ The largest member of the group, hanging by the tail and one of the arms.
 
 <a href="/uploads/2015/12/DSC01919.jpg" rel="attachment wp-att-798"><img class="aligncenter size-full wp-image-798" src="/uploads/2015/12/DSC01919.jpg" alt="DSC01919" width="800" height="533" /></a>
 
-I was trying to make my famous monkey noises. But i dont think they understood my American accent :(
+I was trying to make my famous monkey noises. But I don't think they understood my American accent :(
 
 <a href="/uploads/2015/12/DSC01923.jpg" rel="attachment wp-att-800"><img class="aligncenter size-full wp-image-800" src="/uploads/2015/12/DSC01923.jpg" alt="DSC01923" width="800" height="533" /></a>
 
@@ -237,7 +237,7 @@ But DAMN, he is pretty and colorful.
 
 <a href="/uploads/2015/12/DSC01926.jpg" rel="attachment wp-att-802"><img class="aligncenter size-full wp-image-802" src="/uploads/2015/12/DSC01926.jpg" alt="DSC01926" width="800" height="533" /></a>
 
-OH JES, its the baby sloth again!
+OH JES, it's the baby sloth again!
 
 <a href="/uploads/2015/12/DSC01929.jpg" rel="attachment wp-att-804"><img class="aligncenter size-full wp-image-804" src="/uploads/2015/12/DSC01929.jpg" alt="DSC01929" width="800" height="533" /></a>
 
@@ -245,7 +245,7 @@ I think he knows that he is cute and quite enjoying himself in the morning sun.
 
 <a href="/uploads/2015/12/DSC01930.jpg" rel="attachment wp-att-805"><img class="aligncenter size-full wp-image-805" src="/uploads/2015/12/DSC01930.jpg" alt="DSC01930" width="800" height="533" /></a>
 
-Two cuties in one photo...sadly, i'm not talking about myself. Hyein, are you poking the sloth?
+Two cuties in one photo...sadly, I'm not talking about myself. Hyein, are you poking the sloth?
 
 <a href="/uploads/2015/12/DSC01935.jpg" rel="attachment wp-att-808"><img class="aligncenter size-full wp-image-808" src="/uploads/2015/12/DSC01935.jpg" alt="DSC01935" width="800" height="533" /></a>
 
@@ -257,13 +257,13 @@ For being so damn cute we gave him a flower, which he proceeded to munch on inst
 
 <a href="/uploads/2015/12/DSC01938.jpg" rel="attachment wp-att-810"><img class="aligncenter size-full wp-image-810" src="/uploads/2015/12/DSC01938.jpg" alt="DSC01938" width="800" height="533" /></a>
 
-Less exotic, but an animal nonetheless,  i give you - turkey. Hyein confessed that she has never seen one alive and didn't know they made those funny "gobble, gobble" sounds.
+Less exotic, but an animal nonetheless,  I give you - turkey. Hyein confessed that she has never seen one alive and didn't know they made those funny "gobble, gobble" sounds.
 
 Well, now you know, dear wife where those delicious drums come from.
 
 After the hot and humid jungle we wanted to explore the mountain region of Costa Rica and take in the beautiful landscape.
 
-Omg, who am i kidding...i just read on some blog that the town of Monteverde has some of the worlds best coffee. Thats enough reason for me to go pretty much anywhere.
+Omg, who am I kidding...I just read on some blog that the town of Monteverde has some of the world's best coffee. That's enough reason for me to go pretty much anywhere.
 
 The last 20 miles into town were unpaved, but provided some of the most amazing views of the trip.
 
@@ -299,15 +299,15 @@ And as usual, the other side is filled up with some dudes' head shots. I'd rathe
 
 Finally, where is that world renowned coffee...?
 
-Okay, i have to admit that the coffee was really good...but not the best cup of coffee in my life...at least i dont think so.
+Okay, I have to admit that the coffee was really good...but not the best cup of coffee in my life...at least I don't think so.
 
 Was it worth driving to this town? For the coffee alone - NO. But to enjoy the cool mountain air and nice views, then a resounding YES!
 
-At night we decided to do some cooking in the hostel we were staying. Okay thats a lie, since we splurged on a hotel room, we felt bad spending more money on dinner and decided to just cook.
+At night we decided to do some cooking in the hostel we were staying. Okay that's a lie, since we splurged on a hotel room, we felt bad spending more money on dinner and decided to just cook.
 
 <a href="/uploads/2015/12/DSC01958.jpg" rel="attachment wp-att-870"><img class="aligncenter size-full wp-image-870" src="/uploads/2015/12/DSC01958.jpg" alt="DSC01958" width="800" height="533" /></a>
 
-The local grocery store had terrible, rotten veggies and some old korean drama playing in the background. So, the store gets -100 points for shitty produce and +5 points for the k-drama. Overall score...dont go there.
+The local grocery store had terrible, rotten veggies and some old korean drama playing in the background. So, the store gets -100 points for shitty produce and +5 points for the k-drama. Overall score...don't go there.
 
 Cooking before you had some wine:
 
@@ -329,7 +329,7 @@ Another example of local wildlife:
 
 <a href="/uploads/2015/12/DSC01969.jpg" rel="attachment wp-att-814"><img class="aligncenter size-full wp-image-814" src="/uploads/2015/12/DSC01969.jpg" alt="DSC01969" width="800" height="533" /></a>
 
-Doesn't he look majestic? Also, the largest cat i have ever seen. There are many dogs in the world smaller than this guy. It can destroy a chihuahua, easily.
+Doesn't he look majestic? Also, the largest cat I have ever seen. There are many dogs in the world smaller than this guy. It can destroy a chihuahua, easily.
 
 <a href="/uploads/2015/12/DSC01973.jpg" rel="attachment wp-att-815"><img class="aligncenter size-full wp-image-815" src="/uploads/2015/12/DSC01973.jpg" alt="DSC01973" width="800" height="533" /></a>
 
@@ -343,7 +343,7 @@ Somehow this made me feel like a real adventurer. I know it is silly, but you al
 
 <a href="/uploads/2015/12/DSC01978.jpg" rel="attachment wp-att-819"><img class="aligncenter size-full wp-image-819" src="/uploads/2015/12/DSC01978.jpg" alt="DSC01978" width="800" height="533" /></a>
 
-You can see our little Hodori (remember? thats what we are calling our car), patiently waiting his turn to cross the rockfall.
+You can see our little Hodori (remember? that's what we are calling our car), patiently waiting his turn to cross the rockfall.
 
 <a href="/uploads/2015/12/DSC01979.jpg" rel="attachment wp-att-820"><img class="aligncenter size-full wp-image-820" src="/uploads/2015/12/DSC01979.jpg" alt="DSC01979" width="800" height="533" /></a>
 
@@ -363,13 +363,13 @@ Stopped for the night just south of a little town called Uvita. The campground w
 
 <a href="/uploads/2015/12/DSC01986.jpg" rel="attachment wp-att-825"><img class="aligncenter size-full wp-image-825" src="/uploads/2015/12/DSC01986.jpg" alt="DSC01986" width="800" height="533" /></a>
 
-Turns out are Emilie and Alex are French...but they live in Switzerland. By this point I KNOW i have met more Swiss or people living in Switzerland than every in my life.
+Turns out Emilie and Alex are French...but they live in Switzerland. By this point I KNOW I have met more Swiss or people living in Switzerland than ever in my life.
 
 <a href="/uploads/2015/12/DSC01988.jpg" rel="attachment wp-att-826"><img class="aligncenter size-full wp-image-826" src="/uploads/2015/12/DSC01988.jpg" alt="DSC01988" width="800" height="533" /></a>
 
 <a href="/uploads/2015/12/DSC01989.jpg" rel="attachment wp-att-827"><img class="aligncenter size-full wp-image-827" src="/uploads/2015/12/DSC01989.jpg" alt="DSC01989" width="800" height="533" /></a>
 
-Obligatory selfie. Next day Hyein had to drive...because i didnt feel 100% :)
+Obligatory selfie. Next day Hyein had to drive...because I didn't feel 100% :)
 
 Here is my quick opinion on Costa Rica:
 <ol>
