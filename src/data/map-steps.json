@@ -1,0 +1,112 @@
+[
+  {
+    "mapOrder": 1,
+    "slug": "korea-car-shipping-guide",
+    "title": "Korea - Car Shipping Guide",
+    "mapTitle": "Busan Ferry Terminal",
+    "lat": 35.118514,
+    "lng": 129.049924,
+    "transport": "boat",
+    "url": "/blog/korea-car-shipping-guide/",
+    "heroImage": "/uploads/2016/06/korea_car_shipping.jpg"
+  },
+  {
+    "mapOrder": 2,
+    "slug": "the-warm-siberian-welcome-russia",
+    "title": "Russia - The Warm Siberian Welcome",
+    "mapTitle": "Trans-Siberian Memorial Stop",
+    "lat": 54.063263,
+    "lng": 121.40383,
+    "transport": "drive",
+    "url": "/blog/the-warm-siberian-welcome-russia/",
+    "heroImage": "/uploads/2016/06/the_warm_siberian_welcome-1.jpg"
+  },
+  {
+    "mapOrder": 3,
+    "slug": "mongolia-gobi-yourself",
+    "title": "Mongolia - Gobi Yourself",
+    "mapTitle": "Khongoryn Els",
+    "lat": 43.795247,
+    "lng": 102.18479,
+    "transport": "drive",
+    "url": "/blog/mongolia-gobi-yourself/",
+    "heroImage": "/uploads/2016/07/mongolia-gobi.jpg"
+  },
+  {
+    "mapOrder": 4,
+    "slug": "kazakhstan-window-to-the-galaxy",
+    "title": "Kazakhstan - Window to the Galaxy",
+    "mapTitle": "Almaty Spring Stop",
+    "lat": 43.113374,
+    "lng": 76.913855,
+    "transport": "drive",
+    "url": "/blog/kazakhstan-window-to-the-galaxy/",
+    "heroImage": "/uploads/2016/08/kazakhstan_sharyn_canyon.jpg"
+  },
+  {
+    "mapOrder": 5,
+    "slug": "kyrgyzstan-issykul-lake",
+    "title": "Kyrgyzstan - Issykul Lake",
+    "mapTitle": "Djety-Oguz, Issykul",
+    "lat": 42.331874,
+    "lng": 78.237582,
+    "transport": "drive",
+    "url": "/blog/kyrgyzstan-issykul-lake/",
+    "heroImage": "/uploads/2016/08/kyrgyzstan_issykul-1.jpg"
+  },
+  {
+    "mapOrder": 6,
+    "slug": "kyrgyzstan-pamir-the-roof-of-the-world",
+    "title": "Kyrgyzstan - Pamir, the Roof of the World",
+    "mapTitle": "Sary-Tash",
+    "lat": 39.730445,
+    "lng": 73.245937,
+    "transport": "drive",
+    "url": "/blog/kyrgyzstan-pamir-the-roof-of-the-world/",
+    "heroImage": "/uploads/2016/09/pamir_slider-1.jpg"
+  },
+  {
+    "mapOrder": 7,
+    "slug": "russia-nizhniy-novgorod-and-vladimir",
+    "title": "Russia - Nizhniy Novgorod and Vladimir",
+    "mapTitle": "Nizhniy Novgorod",
+    "lat": 56.326944,
+    "lng": 44.0075,
+    "transport": "drive",
+    "url": "/blog/russia-nizhniy-novgorod-and-vladimir/",
+    "heroImage": null
+  },
+  {
+    "mapOrder": 8,
+    "slug": "china-the-great-wall",
+    "title": "China - The Great Wall",
+    "mapTitle": "Beijing Summer Palace",
+    "lat": 39.99018,
+    "lng": 116.265864,
+    "transport": "drive",
+    "url": "/blog/china-the-great-wall/",
+    "heroImage": "/uploads/2016/12/china_greatwall_slider-1.jpg"
+  },
+  {
+    "mapOrder": 9,
+    "slug": "india-stuck-in-mumbai-with-no-money",
+    "title": "India - Stuck in Mumbai with no money",
+    "mapTitle": "Mumbai",
+    "lat": 18.936134,
+    "lng": 72.837918,
+    "transport": "flight",
+    "url": "/blog/india-stuck-in-mumbai-with-no-money/",
+    "heroImage": "/uploads/2017/01/mumbai_slider-1.jpg"
+  },
+  {
+    "mapOrder": 10,
+    "slug": "india-jaisalmer-the-golden-city-of-rajasthan-and-camels",
+    "title": "India - Jaisalmer - The Golden City of Rajasthan and Camels",
+    "mapTitle": "Jaisalmer",
+    "lat": 26.913,
+    "lng": 70.915,
+    "transport": "drive",
+    "url": "/blog/india-jaisalmer-the-golden-city-of-rajasthan-and-camels/",
+    "heroImage": "/uploads/2017/02/jaisalmer_slider.jpg"
+  }
+]

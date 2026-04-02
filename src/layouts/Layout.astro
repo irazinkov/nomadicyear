@@ -8,32 +8,53 @@ interface Props {
   title: string;
   description: string;
   noindex?: boolean;
+  bodyClass?: string;
 }
 
-const { title, description, noindex = false } = Astro.props;
+const { title, description, noindex = false, bodyClass = "" } = Astro.props;
 const pathname = Astro.url.pathname.replace(/\/+$/, "") || "/";
-const navLinks = [
+const menuLinks = [
+  { href: "/blog", label: "Blog" },
+  { href: "/map", label: "Route" },
   {
     href: "https://m.blog.naver.com/nomadicyear",
     label: "Our Korean Blog",
   },
+  { href: "/destinations", label: "Destinations" },
   { href: "/video", label: "Video" },
   { href: "/image-gallery", label: "Image Gallery" },
-  { href: "/map", label: "Route" },
   { href: "/preparation", label: "Preparation" },
   { href: "/travel-tips", label: "Travel Tips" },
-  { href: "/sponsors-and-credits", label: "People Who Helped" },
+  { href: "/sponsors-and-credits", label: "People Who Helped Us" },
   { href: "/about", label: "About Us" },
 ];
+const currentMobileSelection =
+  menuLinks.find((link) => {
+    const isExternal = /^https?:\/\//i.test(link.href);
+    if (isExternal) return false;
+    const normalizedHref = link.href.replace(/\/+$/, "") || "/";
+    return pathname === normalizedHref || pathname.startsWith(`${normalizedHref}/`);
+  })?.label ??
+  (pathname === "/"
+    ? "Home"
+    : pathname.startsWith("/category/") ||
+        pathname.startsWith("/country/") ||
+        pathname.startsWith("/tag/")
+      ? "Blog"
+      : "Menu");
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
     <BaseHead title={title} description={description} noindex={noindex} />
+    <slot name="head" />
   </head>
   <body
-    class="min-h-screen bg-gray-50 text-gray-900 dark:bg-slate-900 dark:text-gray-100"
+    class:list={[
+      "min-h-screen bg-gray-50 text-gray-900 dark:bg-slate-900 dark:text-gray-100",
+      bodyClass,
+    ]}
   >
     <div
       class="mx-auto flex min-h-screen max-w-3xl flex-col px-4 sm:px-6 lg:max-w-[80vw] lg:px-8"
@@ -47,27 +68,65 @@ const navLinks = [
             {SITE_TITLE}
           </a>
           <div class="flex items-center gap-2 text-sm">
-            <a
-              href="/blog/"
-              class="rounded px-2 py-1 text-gray-700 transition hover:text-gray-900 dark:text-gray-300 dark:hover:text-white"
-            >
-              Blog
-            </a>
-            <a
-              href="/destinations/"
-              class="rounded px-2 py-1 text-gray-700 transition hover:text-gray-900 dark:text-gray-300 dark:hover:text-white"
-            >
-              Destinations
-            </a>
+            <details class="ny-mobile-menu sm:hidden">
+              <summary class="ny-mobile-menu__summary flex cursor-pointer list-none items-center justify-between gap-2 rounded-md border border-gray-200 bg-white px-2.5 py-1.5 text-[0.72rem] font-semibold tracking-wide text-gray-700 dark:border-gray-700 dark:bg-slate-900 dark:text-gray-200 [&::-webkit-details-marker]:hidden">
+                <span class="ny-mobile-menu__label">{currentMobileSelection}</span>
+                <span class="ny-mobile-menu__icon flex flex-col gap-1" aria-hidden="true">
+                  <span class="ny-mobile-menu__line ny-mobile-menu__line--top block h-0.5 w-4 rounded bg-current"></span>
+                  <span class="ny-mobile-menu__line ny-mobile-menu__line--middle block h-0.5 w-4 rounded bg-current"></span>
+                  <span class="ny-mobile-menu__line ny-mobile-menu__line--bottom block h-0.5 w-4 rounded bg-current"></span>
+                </span>
+              </summary>
+              <button
+                type="button"
+                class="ny-mobile-menu__backdrop"
+                aria-label="Close navigation menu"
+              ></button>
+              <nav
+                class="ny-mobile-menu__panel mt-2 rounded-md border border-gray-200 bg-white p-1 shadow-sm dark:border-gray-700 dark:bg-slate-950"
+                aria-label="Mobile site menu"
+              >
+                <ul class="grid gap-0.5 text-xs font-semibold uppercase tracking-wide">
+                  {
+                    menuLinks.map((link) => {
+                      const isExternal = /^https?:\/\//i.test(link.href);
+                      const normalizedHref = isExternal
+                        ? link.href
+                        : link.href.replace(/\/+$/, "") || "/";
+                      const isActive = !isExternal && (pathname === normalizedHref || pathname.startsWith(`${normalizedHref}/`));
+                      return (
+                        <li>
+                          <a
+                            href={
+                              isExternal ? normalizedHref : `${normalizedHref}/`
+                            }
+                            target={isExternal ? "_blank" : undefined}
+                            rel={isExternal ? "noopener noreferrer" : undefined}
+                            class:list={[
+                              "block rounded px-2.5 py-2 transition",
+                              isActive
+                                ? "bg-teal-50 text-teal-800 dark:bg-teal-950/40 dark:text-teal-300"
+                                : "text-gray-700 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-slate-800 dark:hover:text-white",
+                            ]}
+                          >
+                            {link.label}
+                          </a>
+                        </li>
+                      );
+                    })
+                  }
+                </ul>
+              </nav>
+            </details>
             <ThemeToggle />
           </div>
         </div>
-        <nav class="overflow-x-auto pb-1">
+        <nav class="hidden overflow-x-auto pb-1 sm:block" aria-label="Site menu">
           <div
             class="flex min-w-max items-center gap-1 text-xs font-semibold uppercase tracking-wide sm:gap-3 sm:text-sm"
           >
             {
-              navLinks.map((link) => {
+              menuLinks.map((link) => {
                 const isExternal = /^https?:\/\//i.test(link.href);
                 const normalizedHref = isExternal
                   ? link.href
@@ -107,5 +166,124 @@ const navLinks = [
       </footer>
     </div>
     <ImageLightbox />
+    <script is:inline>
+      (() => {
+        const menus = Array.from(document.querySelectorAll(".ny-mobile-menu"));
+        if (menus.length === 0) return;
+
+        const closeMenu = (menu) => {
+          menu.removeAttribute("open");
+        };
+
+        menus.forEach((menu) => {
+          const backdrop = menu.querySelector(".ny-mobile-menu__backdrop");
+          if (backdrop) {
+            backdrop.addEventListener("click", () => closeMenu(menu));
+          }
+
+          const navLinks = Array.from(menu.querySelectorAll(".ny-mobile-menu__panel a"));
+          navLinks.forEach((link) => {
+            link.addEventListener("click", () => closeMenu(menu));
+          });
+        });
+
+        document.addEventListener("keydown", (event) => {
+          if (event.key !== "Escape") return;
+          menus.forEach((menu) => closeMenu(menu));
+        });
+      })();
+    </script>
+    <style>
+      .ny-mobile-menu {
+        position: relative;
+        z-index: 50;
+        --ny-mobile-trigger-width: clamp(9.25rem, 40vw, 11.5rem);
+        --ny-mobile-panel-width: min(19.5rem, calc(100vw - 1rem));
+      }
+
+      .ny-mobile-menu__summary {
+        user-select: none;
+        width: var(--ny-mobile-trigger-width);
+      }
+
+      .ny-mobile-menu__label {
+        min-width: 0;
+        flex: 1;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        text-align: left;
+      }
+
+      .ny-mobile-menu__icon {
+        flex-shrink: 0;
+      }
+
+      .ny-mobile-menu__summary:focus-visible {
+        outline: 2px solid rgb(20 184 166 / 0.65);
+        outline-offset: 2px;
+      }
+
+      .ny-mobile-menu__backdrop {
+        position: fixed;
+        inset: 0;
+        z-index: 40;
+        border: 0;
+        padding: 0;
+        margin: 0;
+        background: rgb(2 6 23 / 0.44);
+        backdrop-filter: blur(2px);
+      }
+
+      .dark .ny-mobile-menu__backdrop {
+        background: rgb(2 6 23 / 0.58);
+      }
+
+      .ny-mobile-menu__panel {
+        position: absolute;
+        right: 0;
+        width: var(--ny-mobile-panel-width);
+        min-width: var(--ny-mobile-trigger-width);
+        top: calc(100% + 0.35rem);
+        z-index: 60;
+        backdrop-filter: blur(7px);
+        background: rgb(255 255 255 / 0.94);
+        box-shadow: 0 16px 36px rgb(15 23 42 / 0.22);
+        transform-origin: top center;
+        animation: ny-mobile-menu-pop 180ms ease-out;
+      }
+
+      .dark .ny-mobile-menu__panel {
+        background: rgb(2 6 23 / 0.92);
+        box-shadow: 0 18px 40px rgb(2 6 23 / 0.45);
+      }
+
+      .ny-mobile-menu__line {
+        transition: transform 160ms ease, opacity 160ms ease;
+      }
+
+      .ny-mobile-menu[open] .ny-mobile-menu__line--top {
+        transform: translateY(6px) rotate(45deg);
+      }
+
+      .ny-mobile-menu[open] .ny-mobile-menu__line--middle {
+        opacity: 0;
+      }
+
+      .ny-mobile-menu[open] .ny-mobile-menu__line--bottom {
+        transform: translateY(-6px) rotate(-45deg);
+      }
+
+      @keyframes ny-mobile-menu-pop {
+        from {
+          opacity: 0;
+          transform: translateY(-4px) scale(0.98);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0) scale(1);
+        }
+      }
+    </style>
   </body>
 </html>
