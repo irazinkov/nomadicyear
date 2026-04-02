@@ -14,6 +14,41 @@ tags:
   - "baja"
   - "ferry"
   - "mexico"
+lat: 24.09778
+lng: -110.38737
+mapTitle: "La Paz Ferry Departure"
+transport: "drive"
+routeWaypoints:
+  - label: "La Paz Ferry Departure"
+    lat: 24.09778
+    lng: -110.38737
+    transport: "boat"
+    image: "/uploads/2015/11/DSC00857.jpg"
+    imageAlt: "Boarding ferry from Baja"
+  - label: "Mazatlan Ferry Arrival"
+    lat: 23.216957
+    lng: -106.416466
+    transport: "drive"
+    image: "/uploads/2015/11/DSC00901.jpg"
+    imageAlt: "Mazatlan cathedral"
+  - label: "Tepic Overnight Stop"
+    lat: 21.504166
+    lng: -104.895756
+    transport: "drive"
+    image: "/uploads/2015/11/DSC00928.jpg"
+    imageAlt: "Tepic RV park"
+  - label: "Guadalajara Market"
+    lat: 20.676722
+    lng: -103.347653
+    transport: "drive"
+    image: "/uploads/2015/11/DSC00986.jpg"
+    imageAlt: "Guadalajara market"
+  - label: "Mexico City Arrival"
+    lat: 19.432608
+    lng: -99.133209
+    transport: "drive"
+    image: "/uploads/2015/12/mexico-1-slider.jpg"
+    imageAlt: "Mexico City skyline"
 legacyUrl: "http://nomadicyear.com/2015/11/mainland-mexico/"
 status: "publish"
 draft: false
@@ -39,7 +74,7 @@ Saying good bye to Baja! Thank you for the good times, we will back again to exp
 
 &nbsp;
 
-Unlike Baja, with its cacti and dessert feel, Mazatlan is a much more tropical place. The air is warm and humid, the ocean feels like its 85F... i didnt have a thermometer with me.  We parked the car in a campsite right on the beach. Lucky for us, it was the first day that the campground opened, so there was barely anyone there.  After a quick lunch we went to explore the central part.
+Unlike Baja, with its cacti and desert feel, Mazatlan is a much more tropical place. The air is warm and humid, the ocean feels like it's 85F... I didn't have a thermometer with me.  We parked the car in a campsite right on the beach. Lucky for us, it was the first day that the campground opened, so there was barely anyone there.  After a quick lunch we went to explore the central part.
 
 &nbsp;
 
@@ -47,7 +82,7 @@ Unlike Baja, with its cacti and dessert feel, Mazatlan is a much more tropical p
 
 &nbsp;
 
-If not for the palm trees, this could be a view from somewhere in Spain. I'm starting to realize now that you can't have a Mexican town without some sort of cathedral in its center. The image above is a stock photo of a cathedral....or its the Mazatlan one? I dont know and its not important.
+If not for the palm trees, this could be a view from somewhere in Spain. I'm starting to realize now that you can't have a Mexican town without some sort of cathedral in its center. The image above is a stock photo of a cathedral....or it's the Mazatlan one? I don't know and it's not important.
 
 BUT, you know what is important? Something that you probably didn't know?
 
@@ -61,7 +96,7 @@ Mexico has amazing pastries...I mean there are pastry shops everywhere and they 
 
 For $3 you can get like 6 or 7 different pastries, that were made this morning or just out of the oven.
 
-They also make cakes. Wish i could have my wedding again :)
+They also make cakes. Wish I could have my wedding again :)
 
 &nbsp;
 
@@ -79,7 +114,7 @@ Walking around the center and beach areas, you got the feeling that the whole ci
 
 Next on our map was Guadalajara, but we couldn't get there in a day so we had to stop in a town called Tepic for the nigh
 
-Okay, the town itself is nothing to write home about, so i won't. It does sit in a really pretty area, in the middle of green hills and old volcanoes. In the morning the the clouds, like steam in the shower rise up along the slope of green jungle.
+Okay, the town itself is nothing to write home about, so I won't. It does sit in a really pretty area, in the middle of green hills and old volcanoes. In the morning the the clouds, like steam in the shower rise up along the slope of green jungle.
 
 We stayed in an RV park in the center of the city and were the only people there. The host was a bit surprised to see us, but offered a great welcome with fruits from the property.
 
@@ -91,25 +126,25 @@ Also, they had WiFi that covered the whole lot and was crazy fast. We spent the 
 
 
 
-The internets told us that Tepic has some ruins, called Jujua. We tried to go and see them, mostly because we were already in the town. Sadly, we can report that the ruins are there and they are closed....for renovations. I mean conservation i understand, but who the hell renovates ruins?
+The internets told us that Tepic has some ruins, called Jujua. We tried to go and see them, mostly because we were already in the town. Sadly, we can report that the ruins are there and they are closed....for renovations. I mean conservation I understand, but who the hell renovates ruins?
 
 <a href="/uploads/2015/11/DSC00960.jpg"><img class="aligncenter size-full wp-image-321" src="/uploads/2015/11/DSC00960.jpg" alt="DSC00960" width="800" height="533" /></a>
 
 &nbsp;
 
-Screw this, lets go to Guadalajara!
+Screw this, let's go to Guadalajara!
 
 Boom...you are here. And unlike us, you didn't need to spend hours driving and another couple of hours of people in Guadalajara trying to nonchalantly kill you with their driving.
 
 <a href="/uploads/2015/11/DSC00981.jpg"><img class="aligncenter size-full wp-image-322" src="/uploads/2015/11/DSC00981.jpg" alt="DSC00981" width="800" height="533" /></a>
 
-Shit....did i mix up the photos with Mazatlan? Anyway, here is another cathedral...most likely from Guadlajara, but who knows.
+Shit....did I mix up the photos with Mazatlan? Anyway, here is another cathedral...most likely from Guadlajara, but who knows.
 
 The important thing you need to know about Guadalajara is that it has the largest indoor market in Central America...maybe even the entire the planet!
 
 <a href="/uploads/2015/11/DSC00986.jpg"><img class="aligncenter size-full wp-image-323" src="/uploads/2015/11/DSC00986.jpg" alt="DSC00986" width="800" height="533" /></a>
 
-It looks like a danky building from the outside, but dont be afraid to walk in. Inside there are 3 levels, but we only care about the second level. That's where all the local foods are at!
+It looks like a danky building from the outside, but don't be afraid to walk in. Inside there are 3 levels, but we only care about the second level. That's where all the local foods are at!
 
 Prepare, we are going to switch from a travel blog to a hipster's foodie blog for a minute. Its worth it.
 

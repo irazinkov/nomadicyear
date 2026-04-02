@@ -1,6 +1,204 @@
 [
   {
     "mapOrder": 1,
+    "slug": "the-couple-that-poops-together-stays-together",
+    "title": "The couple that poops together, stays together",
+    "mapTitle": "La Jolla, CA",
+    "lat": 32.875145,
+    "lng": -117.224523,
+    "transport": "drive",
+    "url": "/blog/the-couple-that-poops-together-stays-together/",
+    "heroImage": "/uploads/2015/11/DSC00738.jpg"
+  },
+  {
+    "mapOrder": 2,
+    "slug": "the-couple-that-poops-together-stays-together",
+    "title": "The couple that poops together, stays together",
+    "mapTitle": "Ensenada First Camp (Centro Recretivo Mi Refugio)",
+    "lat": 31.698264,
+    "lng": -116.6354,
+    "transport": "drive",
+    "url": "/blog/the-couple-that-poops-together-stays-together/",
+    "heroImage": "/uploads/2015/11/DSC00738.jpg"
+  },
+  {
+    "mapOrder": 3,
+    "slug": "the-couple-that-poops-together-stays-together",
+    "title": "The couple that poops together, stays together",
+    "mapTitle": "Catavina Boulder Fields",
+    "lat": 29.7248,
+    "lng": -114.7276,
+    "transport": "drive",
+    "url": "/blog/the-couple-that-poops-together-stays-together/",
+    "heroImage": "/uploads/2015/11/DSC00755.jpg"
+  },
+  {
+    "mapOrder": 4,
+    "slug": "the-couple-that-poops-together-stays-together",
+    "title": "The couple that poops together, stays together",
+    "mapTitle": "Wild Beach (Ejido Villa Jesus Maria)",
+    "lat": 29.134464,
+    "lng": -114.713979,
+    "transport": "drive",
+    "url": "/blog/the-couple-that-poops-together-stays-together/",
+    "heroImage": "/uploads/2015/11/DSC00738.jpg"
+  },
+  {
+    "mapOrder": 5,
+    "slug": "the-couple-that-poops-together-stays-together",
+    "title": "The couple that poops together, stays together",
+    "mapTitle": "Bahia de los Angeles",
+    "lat": 28.949685,
+    "lng": -113.559289,
+    "transport": "drive",
+    "url": "/blog/the-couple-that-poops-together-stays-together/",
+    "heroImage": "/uploads/2015/11/DSC00738.jpg"
+  },
+  {
+    "mapOrder": 6,
+    "slug": "the-couple-that-poops-together-stays-together",
+    "title": "The couple that poops together, stays together",
+    "mapTitle": "La Paz (Campestre Maranatha)",
+    "lat": 24.09778,
+    "lng": -110.38737,
+    "transport": "drive",
+    "url": "/blog/the-couple-that-poops-together-stays-together/",
+    "heroImage": "/uploads/2015/11/DSC00738.jpg"
+  },
+  {
+    "mapOrder": 7,
+    "slug": "mainland-mexico",
+    "title": "Escape from Sinaloa",
+    "mapTitle": "La Paz Ferry Departure",
+    "lat": 24.09778,
+    "lng": -110.38737,
+    "transport": "boat",
+    "url": "/blog/mainland-mexico/",
+    "heroImage": "/uploads/2015/11/DSC00857.jpg"
+  },
+  {
+    "mapOrder": 8,
+    "slug": "mainland-mexico",
+    "title": "Escape from Sinaloa",
+    "mapTitle": "Mazatlan Ferry Arrival",
+    "lat": 23.216957,
+    "lng": -106.416466,
+    "transport": "drive",
+    "url": "/blog/mainland-mexico/",
+    "heroImage": "/uploads/2015/11/DSC00901.jpg"
+  },
+  {
+    "mapOrder": 9,
+    "slug": "mainland-mexico",
+    "title": "Escape from Sinaloa",
+    "mapTitle": "Tepic Overnight Stop",
+    "lat": 21.504166,
+    "lng": -104.895756,
+    "transport": "drive",
+    "url": "/blog/mainland-mexico/",
+    "heroImage": "/uploads/2015/11/DSC00928.jpg"
+  },
+  {
+    "mapOrder": 10,
+    "slug": "mainland-mexico",
+    "title": "Escape from Sinaloa",
+    "mapTitle": "Guadalajara Market",
+    "lat": 20.676722,
+    "lng": -103.347653,
+    "transport": "drive",
+    "url": "/blog/mainland-mexico/",
+    "heroImage": "/uploads/2015/11/DSC00986.jpg"
+  },
+  {
+    "mapOrder": 11,
+    "slug": "mainland-mexico",
+    "title": "Escape from Sinaloa",
+    "mapTitle": "Mexico City Arrival",
+    "lat": 19.432608,
+    "lng": -99.133209,
+    "transport": "drive",
+    "url": "/blog/mainland-mexico/",
+    "heroImage": "/uploads/2015/12/mexico-1-slider.jpg"
+  },
+  {
+    "slug": "food-and-the-city-mexican-style",
+    "title": "Food and the city (Mexican style)",
+    "mapTitle": "Mexico City - Bellas Artes",
+    "lat": 19.4352,
+    "lng": -99.1412,
+    "transport": "drive",
+    "url": "/blog/food-and-the-city-mexican-style/",
+    "heroImage": "/uploads/2015/11/DSC01050.jpg",
+    "mapOrder": 12
+  },
+  {
+    "slug": "food-and-the-city-mexican-style",
+    "title": "Food and the city (Mexican style)",
+    "mapTitle": "Coyoacan - Frida Kahlo Area",
+    "lat": 19.3553,
+    "lng": -99.1628,
+    "transport": "drive",
+    "url": "/blog/food-and-the-city-mexican-style/",
+    "heroImage": "/uploads/2015/11/DSC01107.jpg",
+    "mapOrder": 13
+  },
+  {
+    "slug": "food-and-the-city-mexican-style",
+    "title": "Food and the city (Mexican style)",
+    "mapTitle": "Teotihuacan Pyramids",
+    "lat": 19.6925,
+    "lng": -98.8438,
+    "transport": "drive",
+    "url": "/blog/food-and-the-city-mexican-style/",
+    "heroImage": "/uploads/2015/12/teotihuacan-slider.jpg",
+    "mapOrder": 14
+  },
+  {
+    "slug": "food-and-the-city-mexican-style",
+    "title": "Food and the city (Mexican style)",
+    "mapTitle": "Oaxaca Centro",
+    "lat": 17.0606,
+    "lng": -96.7253,
+    "transport": "drive",
+    "url": "/blog/food-and-the-city-mexican-style/",
+    "heroImage": "/uploads/2015/11/DSC01240.jpg",
+    "mapOrder": 15
+  },
+  {
+    "slug": "water-activities",
+    "title": "Maybe it's time to take our clothes off?",
+    "mapTitle": "Balneario Stop (Tuxtla Area)",
+    "lat": 16.755867,
+    "lng": -93.142146,
+    "transport": "drive",
+    "url": "/blog/water-activities/",
+    "heroImage": "/uploads/2015/11/DSC01318.jpg",
+    "mapOrder": 16
+  },
+  {
+    "slug": "water-activities",
+    "title": "Maybe it's time to take our clothes off?",
+    "mapTitle": "San Cristobal de las Casas",
+    "lat": 16.730804,
+    "lng": -92.637034,
+    "transport": "drive",
+    "url": "/blog/water-activities/",
+    "heroImage": "/uploads/2015/11/DSC01358.jpg",
+    "mapOrder": 17
+  },
+  {
+    "slug": "water-activities",
+    "title": "Maybe it's time to take our clothes off?",
+    "mapTitle": "Lagos de Colon Camp",
+    "lat": 15.82631,
+    "lng": -91.89683,
+    "transport": "drive",
+    "url": "/blog/water-activities/",
+    "heroImage": "/uploads/2015/11/lagos-de-colon1.jpg",
+    "mapOrder": 18
+  },
+  {
+    "mapOrder": 19,
     "slug": "korea-car-shipping-guide",
     "title": "Korea - Car Shipping Guide",
     "mapTitle": "Busan Ferry Terminal",
@@ -11,7 +209,7 @@
     "heroImage": "/uploads/2016/06/korea_car_shipping.jpg"
   },
   {
-    "mapOrder": 2,
+    "mapOrder": 20,
     "slug": "the-warm-siberian-welcome-russia",
     "title": "Russia - The Warm Siberian Welcome",
     "mapTitle": "Trans-Siberian Memorial Stop",
@@ -22,7 +220,7 @@
     "heroImage": "/uploads/2016/06/the_warm_siberian_welcome-1.jpg"
   },
   {
-    "mapOrder": 3,
+    "mapOrder": 21,
     "slug": "mongolia-gobi-yourself",
     "title": "Mongolia - Gobi Yourself",
     "mapTitle": "Khongoryn Els",
@@ -33,7 +231,7 @@
     "heroImage": "/uploads/2016/07/mongolia-gobi.jpg"
   },
   {
-    "mapOrder": 4,
+    "mapOrder": 22,
     "slug": "kazakhstan-window-to-the-galaxy",
     "title": "Kazakhstan - Window to the Galaxy",
     "mapTitle": "Almaty Spring Stop",
@@ -44,7 +242,7 @@
     "heroImage": "/uploads/2016/08/kazakhstan_sharyn_canyon.jpg"
   },
   {
-    "mapOrder": 5,
+    "mapOrder": 23,
     "slug": "kyrgyzstan-issykul-lake",
     "title": "Kyrgyzstan - Issykul Lake",
     "mapTitle": "Djety-Oguz, Issykul",
@@ -55,7 +253,7 @@
     "heroImage": "/uploads/2016/08/kyrgyzstan_issykul-1.jpg"
   },
   {
-    "mapOrder": 6,
+    "mapOrder": 24,
     "slug": "kyrgyzstan-pamir-the-roof-of-the-world",
     "title": "Kyrgyzstan - Pamir, the Roof of the World",
     "mapTitle": "Sary-Tash",
@@ -66,18 +264,7 @@
     "heroImage": "/uploads/2016/09/pamir_slider-1.jpg"
   },
   {
-    "mapOrder": 7,
-    "slug": "russia-nizhniy-novgorod-and-vladimir",
-    "title": "Russia - Nizhniy Novgorod and Vladimir",
-    "mapTitle": "Nizhniy Novgorod",
-    "lat": 56.326944,
-    "lng": 44.0075,
-    "transport": "drive",
-    "url": "/blog/russia-nizhniy-novgorod-and-vladimir/",
-    "heroImage": null
-  },
-  {
-    "mapOrder": 8,
+    "mapOrder": 25,
     "slug": "china-the-great-wall",
     "title": "China - The Great Wall",
     "mapTitle": "Beijing Summer Palace",
@@ -88,7 +275,7 @@
     "heroImage": "/uploads/2016/12/china_greatwall_slider-1.jpg"
   },
   {
-    "mapOrder": 9,
+    "mapOrder": 26,
     "slug": "india-stuck-in-mumbai-with-no-money",
     "title": "India - Stuck in Mumbai with no money",
     "mapTitle": "Mumbai",
@@ -99,7 +286,7 @@
     "heroImage": "/uploads/2017/01/mumbai_slider-1.jpg"
   },
   {
-    "mapOrder": 10,
+    "mapOrder": 27,
     "slug": "india-jaisalmer-the-golden-city-of-rajasthan-and-camels",
     "title": "India - Jaisalmer - The Golden City of Rajasthan and Camels",
     "mapTitle": "Jaisalmer",

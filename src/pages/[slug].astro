@@ -1,11 +1,13 @@
 ---
 import { type CollectionEntry, getCollection } from "astro:content";
+import { existsSync } from "node:fs";
+import { join } from "node:path";
 import Layout from "../layouts/Layout.astro";
 import { rewriteResponsiveUploadImgTags } from "../plugins/rehype-responsive-uploads.mjs";
 
 export async function getStaticPaths() {
   const pages = (await getCollection("pages")).filter(
-    (page) => !page.data.draft,
+    (page) => !page.data.draft && (page.data.slug ?? page.id) !== "map",
   );
   return pages.map((page) => ({
     params: { slug: page.data.slug ?? page.id },
@@ -18,34 +20,273 @@ type Props = CollectionEntry<"pages">;
 const page: Props = Astro.props;
 const pageSlug = page.data.slug ?? page.id;
 const isVideoPage = pageSlug === "video";
+const isImageGalleryPage = pageSlug === "image-gallery";
 const isPreparationPage = pageSlug === "preparation";
 const isTravelTipsPage = pageSlug === "travel-tips";
 const isPeopleWhoHelpedPage = pageSlug === "sponsors-and-credits";
 const isCustomHeroPage =
   isPreparationPage || isTravelTipsPage || isPeopleWhoHelpedPage;
 const contentHtml = rewriteResponsiveUploadImgTags(page.rendered?.html ?? "");
+
+type GalleryItem = {
+  src: string;
+  alt: string;
+  sourceTitle: string;
+  sourceUrl: string;
+  shape: "standard" | "tall" | "wide" | "square";
+  feature: boolean;
+};
+
+const imageExtensionPattern = /\.(avif|webp|jpe?g|png|gif|bmp|svg)$/i;
+const publicRoot = join(process.cwd(), "public");
+
+function normalizeLocalUploadPath(rawPath: string) {
+  let normalized = rawPath.trim();
+  if (!normalized) return "";
+
+  if (normalized.startsWith("https://nomadicyear.com/")) {
+    normalized = normalized.replace("https://nomadicyear.com", "");
+  } else if (normalized.startsWith("http://nomadicyear.com/")) {
+    normalized = normalized.replace("http://nomadicyear.com", "");
+  }
+
+  normalized = normalized.split("?")[0]?.split("#")[0] ?? normalized;
+  if (!normalized.startsWith("/")) normalized = `/${normalized}`;
+  normalized = normalized.replace(/\/+/g, "/");
+  if (!normalized.startsWith("/uploads/")) return "";
+  if (!imageExtensionPattern.test(normalized)) return "";
+  return normalized;
+}
+
+function toBestImageVariant(path: string) {
+  const cleanPath = normalizeLocalUploadPath(path);
+  if (!cleanPath) return "";
+
+  const relativePath = cleanPath.replace(/^\/+/, "");
+  if (existsSync(join(publicRoot, relativePath))) return cleanPath;
+
+  const originalCandidate = cleanPath.replace(
+    /-\d{2,5}x\d{2,5}(?=\.[a-z0-9]+$)/i,
+    "",
+  );
+
+  if (originalCandidate !== cleanPath) {
+    const originalRelativePath = originalCandidate.replace(/^\/+/, "");
+    if (existsSync(join(publicRoot, originalRelativePath))) {
+      return originalCandidate;
+    }
+  }
+
+  return cleanPath;
+}
+
+function hashString(value: string) {
+  let hash = 0;
+  for (let index = 0; index < value.length; index += 1) {
+    hash = (hash << 5) - hash + value.charCodeAt(index);
+    hash |= 0;
+  }
+  return Math.abs(hash);
+}
+
+function pickShape(value: string): GalleryItem["shape"] {
+  const hash = hashString(value);
+  if (hash % 13 === 0) return "tall";
+  if (hash % 11 === 0) return "square";
+  if (hash % 5 === 0) return "wide";
+  return "standard";
+}
+
+function extractImageRefsFromMarkdown(
+  body: string,
+): Array<{ src: string; alt: string }> {
+  const refs: Array<{ src: string; alt: string }> = [];
+  const markdownImagePattern =
+    /!\[([^\]]*)\]\(([^)\s]+)(?:\s+(?:"[^"]*"|'[^']*'))?\)/g;
+  const htmlImagePattern = /<img\b[^>]*>/gi;
+
+  for (const match of body.matchAll(markdownImagePattern)) {
+    const alt = match[1]?.trim() ?? "";
+    const src = match[2]?.trim() ?? "";
+    refs.push({ src, alt });
+  }
+
+  for (const match of body.matchAll(htmlImagePattern)) {
+    const tag = match[0] ?? "";
+    const src = tag.match(/\bsrc=(["'])(.*?)\1/i)?.[2]?.trim() ?? "";
+    const alt = tag.match(/\balt=(["'])(.*?)\1/i)?.[2]?.trim() ?? "";
+    if (!src) continue;
+    refs.push({ src, alt });
+  }
+
+  return refs;
+}
+
+const imageWallItems: GalleryItem[] = [];
+
+if (isImageGalleryPage) {
+  const posts = (await getCollection("posts")).filter((entry) => !entry.data.draft);
+  const pages = (await getCollection("pages")).filter(
+    (entry) => !entry.data.draft && (entry.data.slug ?? entry.id) !== "image-gallery",
+  );
+  const seen = new Set<string>();
+
+  const registerImage = ({
+    sourceTitle,
+    sourceUrl,
+    src,
+    alt,
+  }: {
+    sourceTitle: string;
+    sourceUrl: string;
+    src: string;
+    alt: string;
+  }) => {
+    const normalized = toBestImageVariant(src);
+    if (!normalized) return;
+    if (seen.has(normalized)) return;
+    seen.add(normalized);
+
+    imageWallItems.push({
+      src: normalized,
+      alt: alt || sourceTitle,
+      sourceTitle,
+      sourceUrl,
+      shape: pickShape(normalized),
+      feature: false,
+    });
+  };
+
+  const sortedPosts = [...posts].sort(
+    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+  );
+
+  for (const post of sortedPosts) {
+    const postSlug = post.data.slug ?? post.id;
+    const sourceTitle = post.data.title;
+    const sourceUrl = `/blog/${postSlug}/`;
+
+    if (post.data.heroImage) {
+      registerImage({
+        sourceTitle,
+        sourceUrl,
+        src: post.data.heroImage,
+        alt: post.data.heroImageAlt ?? sourceTitle,
+      });
+    }
+
+    const refs = extractImageRefsFromMarkdown(post.body ?? "");
+    for (const ref of refs) {
+      registerImage({
+        sourceTitle,
+        sourceUrl,
+        src: ref.src,
+        alt: ref.alt,
+      });
+    }
+  }
+
+  for (const legacyPage of pages) {
+    const pageLocalSlug = legacyPage.data.slug ?? legacyPage.id;
+    const sourceTitle = legacyPage.data.title;
+    const sourceUrl = `/${pageLocalSlug}/`;
+
+    const refs = extractImageRefsFromMarkdown(legacyPage.body ?? "");
+    for (const ref of refs) {
+      registerImage({
+        sourceTitle,
+        sourceUrl,
+        src: ref.src,
+        alt: ref.alt,
+      });
+    }
+  }
+
+  // Shuffle the wall so each load starts with mixed photos across the archive.
+  for (let index = imageWallItems.length - 1; index > 0; index -= 1) {
+    const swapIndex = Math.floor(Math.random() * (index + 1));
+    const current = imageWallItems[index];
+    imageWallItems[index] = imageWallItems[swapIndex] as GalleryItem;
+    imageWallItems[swapIndex] = current as GalleryItem;
+  }
+
+  for (let index = 0; index < imageWallItems.length; index += 1) {
+    const item = imageWallItems[index];
+    if (!item) continue;
+    if (index !== 0 && index % 24 === 0 && item.shape !== "tall") {
+      item.feature = true;
+      item.shape = "wide";
+    }
+  }
+}
 ---
 
 <Layout title={page.data.title} description={page.data.description}>
   <article
     class:list={[
-      isPeopleWhoHelpedPage
+      isImageGalleryPage
+        ? "mx-auto max-w-none ny-image-wall-page"
+        : isPeopleWhoHelpedPage
         ? "mx-auto max-w-3xl ny-credits-page"
         : isPreparationPage || isTravelTipsPage
         ? "mx-auto max-w-none ny-preparation-page"
         : "prose prose-lg mx-auto max-w-none prose-img:rounded-xl prose-img:shadow-md dark:prose-invert",
-      isVideoPage && "ny-video-gallery",
+      isVideoPage && !isImageGalleryPage && "ny-video-gallery",
     ]}
     data-lightbox-root
     data-video-gallery={isVideoPage ? "true" : undefined}
   >
-    <h1 class:list={[isCustomHeroPage && "sr-only"]}>{page.data.title}</h1>
-    <Fragment set:html={contentHtml} />
+    {
+      isImageGalleryPage ? (
+        <>
+          <header class="ny-prep-hero ny-image-wall-hero">
+            <p class="ny-prep-hero__kicker">Photo Archive</p>
+            <h1>{page.data.title}</h1>
+            <p>
+              A living travel wall from the entire site. Scroll forever, click
+              any frame to open full resolution, and jump straight into the
+              story behind each shot.
+            </p>
+          </header>
+
+          <section class="ny-image-wall-section">
+            <div id="ny-image-wall" class="ny-image-wall-grid">
+              {imageWallItems.map((item, index) => (
+                <figure
+                  class="ny-image-wall-item"
+                  data-feature={item.feature ? "true" : "false"}
+                  data-shape={item.shape}
+                >
+                  <a
+                    href={item.sourceUrl}
+                    class="ny-image-wall-link"
+                    aria-label={`Open blog post: ${item.sourceTitle}`}
+                  >
+                    <img
+                      src={item.src}
+                      alt={item.alt}
+                      class="ny-image-wall-media"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </a>
+                </figure>
+              ))}
+            </div>
+          </section>
+        </>
+      ) : (
+        <>
+          <h1 class:list={[isCustomHeroPage && "sr-only"]}>{page.data.title}</h1>
+          <Fragment set:html={contentHtml} />
+        </>
+      )
+    }
   </article>
 </Layout>
 
 {
-  isVideoPage && (
+  isVideoPage && !isImageGalleryPage && (
     <script is:inline>
       {`(() => {
   if (typeof window === "undefined") return;

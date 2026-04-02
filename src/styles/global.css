@@ -553,4 +553,100 @@
     padding: 0 0.25rem;
     margin-right: auto;
   }
+
+  .ny-image-wall-page {
+    margin-inline: auto;
+    max-width: 78rem;
+    padding-block: 0.25rem 2rem;
+  }
+
+  .ny-image-wall-hero h1 {
+    margin: 0;
+    font-size: clamp(1.65rem, 3vw, 2.25rem);
+    line-height: 1.12;
+    letter-spacing: -0.015em;
+  }
+
+  .ny-image-wall-section {
+    margin-top: 1.4rem;
+  }
+
+  .ny-image-wall-grid {
+    column-count: 1;
+    column-gap: 1rem;
+  }
+
+  @media (min-width: 640px) {
+    .ny-image-wall-grid {
+      column-count: 2;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .ny-image-wall-grid {
+      column-count: 3;
+      column-gap: 1.1rem;
+    }
+  }
+
+  @media (min-width: 1440px) {
+    .ny-image-wall-grid {
+      column-count: 4;
+    }
+  }
+
+  .ny-image-wall-item {
+    break-inside: avoid;
+    margin: 0 0 1rem;
+    border: 1px solid rgb(148 163 184 / 0.24);
+    border-radius: 0.9rem;
+    background: linear-gradient(180deg, rgb(255 255 255), rgb(248 250 252));
+    box-shadow: 0 10px 24px rgb(15 23 42 / 0.08);
+    overflow: hidden;
+  }
+
+  .dark .ny-image-wall-item {
+    border-color: rgb(71 85 105 / 0.46);
+    background: linear-gradient(180deg, rgb(15 23 42 / 0.95), rgb(15 23 42 / 0.8));
+    box-shadow: 0 14px 28px rgb(2 6 23 / 0.28);
+  }
+
+  .ny-image-wall-item[data-feature="true"] {
+    column-span: all;
+    margin-block: 0.8rem 1.2rem;
+  }
+
+  .ny-image-wall-link {
+    display: block;
+    overflow: hidden;
+  }
+
+  .ny-image-wall-media {
+    width: 100%;
+    display: block;
+    object-fit: cover;
+    aspect-ratio: 4 / 3;
+    transition: transform 260ms ease;
+  }
+
+  .ny-image-wall-item:hover .ny-image-wall-media {
+    transform: scale(1.03);
+  }
+
+  .ny-image-wall-item[data-shape="tall"] .ny-image-wall-media {
+    aspect-ratio: 3 / 4;
+  }
+
+  .ny-image-wall-item[data-shape="square"] .ny-image-wall-media {
+    aspect-ratio: 1;
+  }
+
+  .ny-image-wall-item[data-shape="wide"] .ny-image-wall-media {
+    aspect-ratio: 16 / 10;
+  }
+
+  .ny-image-wall-item[data-feature="true"] .ny-image-wall-media {
+    aspect-ratio: 21 / 9;
+  }
+
 }

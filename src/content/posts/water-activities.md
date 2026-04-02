@@ -16,13 +16,36 @@ tags:
   - "mexico"
   - "san-cristobal-de-las-casas"
   - "stove"
+lat: 16.755867
+lng: -93.142146
+mapTitle: "Balneario Stop (Tuxtla Area)"
+transport: "drive"
+routeWaypoints:
+  - label: "Balneario Stop (Tuxtla Area)"
+    lat: 16.755867
+    lng: -93.142146
+    transport: "drive"
+    image: "/uploads/2015/11/snorkeling7.jpg"
+    imageAlt: "Balneario natural swimming pool stop"
+  - label: "San Cristobal de las Casas"
+    lat: 16.730804
+    lng: -92.637034
+    transport: "drive"
+    image: "/uploads/2015/11/DSC01358.jpg"
+    imageAlt: "San Cristobal cathedral"
+  - label: "Lagos de Colon Camp"
+    lat: 15.82631
+    lng: -91.89683
+    transport: "drive"
+    image: "/uploads/2015/11/lagos-de-colon1.jpg"
+    imageAlt: "Lagos de Colon swimming area"
 legacyUrl: "http://nomadicyear.com/2015/11/water-activities/"
 status: "publish"
 draft: false
 ---
 Leaving Oaxaca with it's delicious food and grasshoppers, we continued our drive South. The landscape changes here, there are more mountains and less roads. So a 120 mile drive took 5 hours and Hyein slept for 4 of those hours.
 
-Anyway, i digress. We stopped for the night in a <em>Balneario</em>, a natural swimming pool where people hang out.<a href="/uploads/2015/11/DSC01318.jpg"><img class="aligncenter size-full wp-image-383" src="/uploads/2015/11/DSC01318.jpg" alt="DSC01318" width="800" height="533" /></a>The water is just right for the temperature outside. It will refresh and cool you down.
+Anyway, I digress. We stopped for the night in a <em>Balneario</em>, a natural swimming pool where people hang out.<a href="/uploads/2015/11/DSC01318.jpg"><img class="aligncenter size-full wp-image-383" src="/uploads/2015/11/DSC01318.jpg" alt="DSC01318" width="800" height="533" /></a>The water is just right for the temperature outside. It will refresh and cool you down.
 
 We got there early enough to enjoy the clear water and get out our snorkeling gear.
 
@@ -38,7 +61,7 @@ Hyein practicing her diving skills, I think she is doing well.
 
 Taking a proper shower is hard when you are living out of your car. So you try to wash the best you can anywhere possible.
 
-We asked the attendant and he said that we can use soap and shampoo if we do it at the outlet of the pool. Later, some local ladies came by and mentioned that we are not supposed to do it there. Ooops, i guess i need to learn Spanish :)
+We asked the attendant and he said that we can use soap and shampoo if we do it at the outlet of the pool. Later, some local ladies came by and mentioned that we are not supposed to do it there. Ooops, I guess I need to learn Spanish :)
 
 <a href="/uploads/2015/11/DSC01342.jpg"><img class="aligncenter size-full wp-image-386" src="/uploads/2015/11/DSC01342.jpg" alt="DSC01342" width="800" height="533" /></a>
 
@@ -52,7 +75,7 @@ Ever since we started we have been having issues with our Coleman 424 stove. It 
 
 <a href="/uploads/2015/11/DSC01356.jpg"><img class="aligncenter size-full wp-image-409" src="/uploads/2015/11/DSC01356.jpg" alt="DSC01356" width="800" height="533" /></a>Well, not really!<a href="/uploads/2015/11/DSC01357.jpg"><img class="aligncenter size-full wp-image-410" src="/uploads/2015/11/DSC01357.jpg" alt="DSC01357" width="800" height="533" /></a>
 
-A can of brake cleaner later and the spring is still inside. Hyein said that she has never seen me so mad in my life... i thought i handled the situation perfectly well!
+A can of brake cleaner later and the spring is still inside. Hyein said that she has never seen me so mad in my life... I thought I handled the situation perfectly well!
 
 Alright, screw the generator we will buy a new camping stove. 4 different stores later and no one has a camping stove. Decided to get out of this town and drive to our next spot.
 
@@ -139,15 +162,15 @@ The Guatemala border is only 150 miles away, but we didn't feel like crossing it
 
 <a href="/uploads/2015/11/DSC01448-Copy.jpg"><img class="aligncenter size-full wp-image-468" src="/uploads/2015/11/DSC01448-Copy.jpg" alt="DSC01448 - Copy" width="800" height="533" /></a>
 
-At the camp spot. Kids are the first to come over and talk to you. We feel that it is easier to talk to kids, they are very curious about you. They don't get annoyed if you dont understand them. And are not afraid to communicate in any way possible. In a foreign country kids are you allies.
+At the camp spot. Kids are the first to come over and talk to you. We feel that it is easier to talk to kids, they are very curious about you. They don't get annoyed if you don\x27t understand them. And are not afraid to communicate in any way possible. In a foreign country kids are your allies.
 
 <a href="/uploads/2015/11/DSC01445.jpg"><img class="aligncenter size-full wp-image-465" src="/uploads/2015/11/DSC01445.jpg" alt="DSC01445" width="800" height="533" /></a>
 
-Remember that stupid stove? We are screwed without it. So i remembered that you could heat shock the generator to break apart the carbon build up and get the spring out. The kids directed me to the nearest fire....which in Mexico is only 50 feet from anywhere you are.
+Remember that stupid stove? We are screwed without it. So I remembered that you could heat shock the generator to break apart the carbon build up and get the spring out. The kids directed me to the nearest fire....which in Mexico is only 50 feet from anywhere you are.
 
 <a href="/uploads/2015/11/DSC01446.jpg"><img class="aligncenter size-full wp-image-466" src="/uploads/2015/11/DSC01446.jpg" alt="DSC01446" width="800" height="533" /></a>
 
-IT WORKED!!! Got the spring out, cleaned it and the stove back to working. Hopefully, we can limp along until Honduras, where we should be receiving replacement generators. Thank you, Mom. From now on i'm putting a little bit of injector cleaner with each tank of gas. I really, really, really hope that this will solve the clogging issue. Time will tell.
+IT WORKED!!! Got the spring out, cleaned it and the stove back to working. Hopefully, we can limp along until Honduras, where we should be receiving replacement generators. Thank you, Mom. From now on I'm putting a little bit of injector cleaner with each tank of gas. I really, really, really hope that this will solve the clogging issue. Time will tell.
 
 <a href="/uploads/2015/11/DSC01463.jpg"><img class="aligncenter size-full wp-image-478" src="/uploads/2015/11/DSC01463.jpg" alt="DSC01463" width="800" height="533" /></a>
 

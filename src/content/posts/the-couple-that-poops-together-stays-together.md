@@ -15,6 +15,43 @@ tags:
   - "car-troubles"
   - "mexico"
   - "stomach-troubles"
+lat: 32.875145
+lng: -117.224523
+mapTitle: "La Jolla, CA"
+transport: "drive"
+routeWaypoints:
+  - label: "La Jolla, CA"
+    lat: 32.875145
+    lng: -117.224523
+    transport: "drive"
+  - label: "Ensenada First Camp (Centro Recretivo Mi Refugio)"
+    lat: 31.698264
+    lng: -116.6354
+    transport: "drive"
+    image: "/uploads/2015/10/DSC00734.jpg"
+    imageAlt: "Car camping day 1"
+  - label: "Catavina Boulder Fields"
+    lat: 29.7248
+    lng: -114.7276
+    transport: "drive"
+    image: "/uploads/2015/11/DSC00755.jpg"
+    imageAlt: "Catavina boulder fields"
+  - label: "Wild Beach"
+    lat: 29.134464
+    lng: -114.713979
+    transport: "drive"
+  - label: "Bahia de los Angeles"
+    lat: 28.949685
+    lng: -113.559289
+    transport: "drive"
+    image: "/uploads/2015/11/20151030_145757.jpg"
+    imageAlt: "Sand flea beach"
+  - label: "La Paz (Campestre Maranatha)"
+    lat: 24.09778
+    lng: -110.38737
+    transport: "drive"
+    image: "/uploads/2015/11/DSC00821.jpg"
+    imageAlt: "Sand flea beach"
 legacyUrl: "http://nomadicyear.com/2015/11/the-couple-that-poops-together-stays-together/"
 status: "publish"
 draft: false
@@ -47,7 +84,7 @@ Relaxing, having fun and stalking on some people with binoculars! View from the 
 
 For the second day we need to drive all the way down to Baja Sur. Looking at the map, I thought: "this is going to be easy."
 
-What i forgot is that all the roads are one lane, so in the mountains you are a frequently stuck behind a truck going 20 mph and no way to pass.
+What I forgot is that all the roads are one lane, so in the mountains you are a frequently stuck behind a truck going 20 mph and no way to pass.
 
 Still we made our way south. Photo from Catavina Boulder fields.
 
@@ -69,7 +106,7 @@ We probably should have had our first offroading experience during the day, but 
 
 On the way back to town the next day as we were driving on the washboard of a road, with everything rattling inside the car and our stomachs, the "check engine" light came on.
 
-"Shit!", i thought to myself but did not say anything out loud in fear of scaring Hyein.
+"Shit!", I thought to myself but did not say anything out loud in fear of scaring Hyein.
 
 "Okay, just make it back to town...then we can deal with it". But as we drove the car seemed to be doing just fine, unlike my nerves.
 
@@ -85,7 +122,7 @@ The car drives fine and this village is to small to make repairs. We have to mov
 
 &nbsp;
 
-As we continued driving Hodori (apparently thats what we are calling our Land Cruiser), was driving just fine. So we tried to put the worries about the knock sensor out of our heads and enjoy the beauty around us.
+As we continued driving Hodori (apparently that\x27s what we are calling our Land Cruiser), was driving just fine. So we tried to put the worries about the knock sensor out of our heads and enjoy the beauty around us.
 
 
 
@@ -103,23 +140,23 @@ Some bullshit little fuckers got in and kept biting us all night, not too itchy,
 
 At 4 am in a haze of sleep I was notified by Hyein that she urgently needs to use the restroom. Knowing my wife, this is not that unusual. But she did run to the bathroom kinda quickly?!
 
-As i tried to fall back asleep, i was awake again and again by the opening of the car door. Poor Hyein had a stomach bug and instead of climbing back up into the tent, decided to wait it out between bathroom trips in the car to escape the ever present little biting sons of b*tches.
+As I tried to fall back asleep, I was awake again and again by the opening of the car door. Poor Hyein had a stomach bug and instead of climbing back up into the tent, decided to wait it out between bathroom trips in the car to escape the ever present little biting sons of b*tches.
 
 Morning was a mad rush as I packed up the car to drive to La Paz as fast as possible. We made a decision that if she gets worse, we need to be close to a bigger town. So, La Paz it was.
 
-Oh....and the title..i hope its self explanatory :)
+Oh....and the title..I hope it's self explanatory :)
 
 &nbsp;
 
-As Hyein was recovering and we are waiting for the ferry, I finally had some time to look into the knock sensor issue. Read the factory service manual (btw bought it last minute, thinking that i will never use it)...boy was i wrong and only on day 4! Found the location of the sensor. Apparently this SOB is located under the air intake manifold.
+As Hyein was recovering and we are waiting for the ferry, I finally had some time to look into the knock sensor issue. Read the factory service manual (btw bought it last minute, thinking that I will never use it)...boy was I wrong and only on day 4! Found the location of the sensor. Apparently this SOB is located under the air intake manifold.
 
-"lets see if i can find it....okay, there it is....okay i see the problem - the wire is broken...must have broken on the dirt road".
+"let\x27s see if I can find it....okay, there it is....okay I see the problem - the wire is broken...must have broken on the dirt road".
 
-"great i know how to fix this problem, but how the hell do i get to it?  - BY TAKING HALF THE ENGINE OUT". DAMN!
+"great I know how to fix this problem, but how the hell do I get to it?  - BY TAKING HALF THE ENGINE OUT". DAMN!
 
 
 
-6 hours later and everything is back where it is supposed to be....i think?
+6 hours later and everything is back where it is supposed to be....I think?
 
 &nbsp;
 

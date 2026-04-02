@@ -1,6 +1,9 @@
 ---
+import { readFileSync } from "node:fs";
+import path from "node:path";
+import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
-import mapStepsRaw from "../data/map-steps.json";
+import { getPostSlug } from "../utils/posts";
 
 interface MapStep {
   mapOrder: number;
@@ -12,11 +15,86 @@ interface MapStep {
   transport: "drive" | "boat" | "flight";
   url: string;
   heroImage: string | null;
+  heroImageAlt: string | null;
 }
 
-const mapSteps = (mapStepsRaw as MapStep[]).slice().sort((a, b) => {
-  return a.mapOrder - b.mapOrder;
+const postEntries = (await getCollection("posts")).filter((entry) => {
+  return !entry.data.draft && entry.data.status !== "draft";
 });
+
+const rawMapSteps = postEntries.flatMap((entry) => {
+  const data = entry.data;
+  const baseDate = new Date(data.pubDate).getTime();
+  const sourceDate = Number.isFinite(baseDate) ? baseDate : 0;
+  const resolvedSlug = getPostSlug(entry);
+  const baseStep = {
+    slug: resolvedSlug,
+    title: data.title,
+    url: `/blog/${resolvedSlug}/`,
+    heroImage: data.heroImage ?? null,
+    heroImageAlt: data.heroImageAlt ?? null,
+  };
+
+  if (Array.isArray(data.routeWaypoints) && data.routeWaypoints.length > 0) {
+    return data.routeWaypoints.map((waypoint, waypointIndex) => ({
+      ...baseStep,
+      mapTitle: waypoint.label || data.mapTitle || data.title,
+      lat: waypoint.lat,
+      lng: waypoint.lng,
+      transport: waypoint.transport || data.transport || "drive",
+      heroImage: waypoint.image || baseStep.heroImage,
+      heroImageAlt: waypoint.imageAlt || baseStep.heroImageAlt,
+      sourceDate,
+      sourceWaypointIndex: waypointIndex,
+    }));
+  }
+
+  if (typeof data.lat === "number" && typeof data.lng === "number") {
+    return [
+      {
+        ...baseStep,
+        mapTitle: data.mapTitle || data.title,
+        lat: data.lat,
+        lng: data.lng,
+        transport: data.transport || "drive",
+        sourceDate,
+        sourceWaypointIndex: 0,
+      },
+    ];
+  }
+
+  return [];
+});
+
+const mapSteps: MapStep[] = rawMapSteps
+  .slice()
+  .sort((a, b) => {
+    if (a.sourceDate !== b.sourceDate) {
+      return a.sourceDate - b.sourceDate;
+    }
+    if (a.sourceWaypointIndex !== b.sourceWaypointIndex) {
+      return a.sourceWaypointIndex - b.sourceWaypointIndex;
+    }
+    return a.slug.localeCompare(b.slug);
+  })
+  .map(({ sourceDate: _sourceDate, sourceWaypointIndex: _sourceWaypointIndex, ...step }, index) => ({
+    ...step,
+    mapOrder: index + 1,
+  }));
+let routeGeoJson: Record<string, unknown> | null = null;
+try {
+  const routePath = path.join(process.cwd(), "src", "data", "route.geojson");
+  routeGeoJson = JSON.parse(readFileSync(routePath, "utf8"));
+} catch {
+  routeGeoJson = null;
+}
+let routeTraceGeoJson: Record<string, unknown> | null = null;
+try {
+  const tracePath = path.join(process.cwd(), "src", "data", "route-trace.geojson");
+  routeTraceGeoJson = JSON.parse(readFileSync(tracePath, "utf8"));
+} catch {
+  routeTraceGeoJson = null;
+}
 const mapboxToken = (import.meta.env.PUBLIC_MAPBOX_TOKEN ?? "").trim();
 const hasMapboxToken = mapboxToken.length > 0;
 const mobileMenuLinks = [
@@ -154,7 +232,7 @@ const mobileMenuLinks = [
     </div>
   </section>
 
-  <script define:vars={{ mapSteps }}>
+  <script define:vars={{ mapSteps, routeGeoJson, routeTraceGeoJson }}>
     (() => {
       const page = document.querySelector(".ny-route-page");
       const mapNode = document.getElementById("ny-route-map");
@@ -162,7 +240,31 @@ const mobileMenuLinks = [
 
       const token = page.dataset.mapboxToken || "";
       const steps = Array.isArray(mapSteps) ? mapSteps : [];
-      const routeData = {
+      const traceData = routeTraceGeoJson &&
+        routeTraceGeoJson.type === "FeatureCollection" &&
+        Array.isArray(routeTraceGeoJson.features) &&
+        routeTraceGeoJson.features.length > 0
+        ? routeTraceGeoJson
+        : null;
+      const ROUTE_MATCH_MAX_ANCHOR_DISTANCE_KM = 220;
+      const toRadiansForRoute = (value) => (value * Math.PI) / 180;
+      const haversineKmForRoute = (fromLng, fromLat, toLng, toLat) => {
+        const earthRadiusKm = 6371;
+        const dLat = toRadiansForRoute(toLat - fromLat);
+        const dLng = toRadiansForRoute(toLng - fromLng);
+        const lat1 = toRadiansForRoute(fromLat);
+        const lat2 = toRadiansForRoute(toLat);
+        const sinLat = Math.sin(dLat / 2);
+        const sinLng = Math.sin(dLng / 2);
+        const a =
+          sinLat * sinLat +
+          Math.cos(lat1) * Math.cos(lat2) * sinLng * sinLng;
+        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+        return earthRadiusKm * c;
+      };
+      const roundCoordinateForRoute = (value) => Number(value.toFixed(6));
+
+      const buildStraightRouteData = () => ({
         type: "FeatureCollection",
         features: steps
           .map((step, index) => {
@@ -175,6 +277,7 @@ const mobileMenuLinks = [
                 from: step.mapTitle || step.title,
                 to: nextStep.mapTitle || nextStep.title,
                 transport: step.transport || "drive",
+                source: "fallback-straight",
               },
               geometry: {
                 type: "LineString",
@@ -186,7 +289,176 @@ const mobileMenuLinks = [
             };
           })
           .filter(Boolean),
+      });
+
+      const buildTraceCoordinatePool = () => {
+        if (!traceData || !Array.isArray(traceData.features)) return [];
+        return traceData.features.flatMap((feature) => {
+          const geometry = feature?.geometry;
+          if (!geometry) return [];
+          if (geometry.type === "LineString") {
+            return Array.isArray(geometry.coordinates) ? geometry.coordinates : [];
+          }
+          if (geometry.type === "MultiLineString") {
+            return Array.isArray(geometry.coordinates)
+              ? geometry.coordinates.flat()
+              : [];
+          }
+          return [];
+        }).filter((coordinate) => {
+          return Array.isArray(coordinate) &&
+            Number.isFinite(coordinate[0]) &&
+            Number.isFinite(coordinate[1]);
+        });
       };
+
+      const findNearestTraceIndex = (
+        traceCoordinates,
+        targetLng,
+        targetLat,
+        startIndex = 0,
+      ) => {
+        let bestIndex = -1;
+        let bestDistance = Number.POSITIVE_INFINITY;
+        for (let index = Math.max(0, startIndex); index < traceCoordinates.length; index += 1) {
+          const coordinate = traceCoordinates[index];
+          const distance = haversineKmForRoute(
+            targetLng,
+            targetLat,
+            coordinate[0],
+            coordinate[1],
+          );
+          if (distance < bestDistance) {
+            bestDistance = distance;
+            bestIndex = index;
+            if (bestDistance <= 0.05) break;
+          }
+        }
+        return { index: bestIndex, distanceKm: bestDistance };
+      };
+
+      const buildTraceMatchedRouteData = () => {
+        const traceCoordinates = buildTraceCoordinatePool();
+        if (traceCoordinates.length < 2) return null;
+
+        const features = [];
+        let searchStart = 0;
+
+        for (let index = 0; index < steps.length - 1; index += 1) {
+          const step = steps[index];
+          const nextStep = steps[index + 1];
+          const transport = step.transport || "drive";
+
+          const straightCoordinates = [
+            [step.lng, step.lat],
+            [nextStep.lng, nextStep.lat],
+          ];
+
+          if (transport !== "drive") {
+            features.push({
+              type: "Feature",
+              properties: {
+                segment: index + 1,
+                from: step.mapTitle || step.title,
+                to: nextStep.mapTitle || nextStep.title,
+                transport,
+                source: "fallback-straight",
+              },
+              geometry: {
+                type: "LineString",
+                coordinates: straightCoordinates,
+              },
+            });
+            continue;
+          }
+
+          const startAnchor = findNearestTraceIndex(
+            traceCoordinates,
+            step.lng,
+            step.lat,
+            searchStart,
+          );
+          const endAnchor = findNearestTraceIndex(
+            traceCoordinates,
+            nextStep.lng,
+            nextStep.lat,
+            Math.max(searchStart, startAnchor.index),
+          );
+
+          const canUseTrace = startAnchor.index >= 0 &&
+            endAnchor.index >= 0 &&
+            endAnchor.index > startAnchor.index &&
+            startAnchor.distanceKm <= ROUTE_MATCH_MAX_ANCHOR_DISTANCE_KM &&
+            endAnchor.distanceKm <= ROUTE_MATCH_MAX_ANCHOR_DISTANCE_KM;
+
+          if (!canUseTrace) {
+            features.push({
+              type: "Feature",
+              properties: {
+                segment: index + 1,
+                from: step.mapTitle || step.title,
+                to: nextStep.mapTitle || nextStep.title,
+                transport,
+                source: "fallback-straight",
+              },
+              geometry: {
+                type: "LineString",
+                coordinates: straightCoordinates,
+              },
+            });
+            continue;
+          }
+
+          const matchedCoordinates = traceCoordinates
+            .slice(startAnchor.index, endAnchor.index + 1)
+            .map((coordinate) => [
+              roundCoordinateForRoute(coordinate[0]),
+              roundCoordinateForRoute(coordinate[1]),
+            ]);
+
+          matchedCoordinates[0] = [
+            roundCoordinateForRoute(step.lng),
+            roundCoordinateForRoute(step.lat),
+          ];
+          matchedCoordinates[matchedCoordinates.length - 1] = [
+            roundCoordinateForRoute(nextStep.lng),
+            roundCoordinateForRoute(nextStep.lat),
+          ];
+
+          features.push({
+            type: "Feature",
+            properties: {
+              segment: index + 1,
+              from: step.mapTitle || step.title,
+              to: nextStep.mapTitle || nextStep.title,
+              transport,
+              source: "trace-matched",
+              anchorStartDistanceKm: Number(startAnchor.distanceKm.toFixed(2)),
+              anchorEndDistanceKm: Number(endAnchor.distanceKm.toFixed(2)),
+            },
+            geometry: {
+              type: "LineString",
+              coordinates: matchedCoordinates,
+            },
+          });
+
+          searchStart = endAnchor.index;
+        }
+
+        return {
+          type: "FeatureCollection",
+          features,
+        };
+      };
+
+      const fallbackRouteData = buildTraceMatchedRouteData() || buildStraightRouteData();
+      const routeData = routeGeoJson &&
+        routeGeoJson.type === "FeatureCollection" &&
+        Array.isArray(routeGeoJson.features) &&
+        routeGeoJson.features.length > 0 &&
+        routeGeoJson.features.length === Math.max(0, steps.length - 1)
+        ? routeGeoJson
+        : fallbackRouteData;
       const stepButtons = Array.from(document.querySelectorAll("[data-route-step]"));
       const isCoarsePointer = window.matchMedia("(pointer: coarse)").matches;
       const prefersReducedMotion = window.matchMedia(
@@ -356,7 +628,8 @@ const mobileMenuLinks = [
 
           const mediaImage = document.createElement("img");
           mediaImage.src = step.heroImage;
-          mediaImage.alt = `${step.mapTitle || step.title} cover image`;
+          mediaImage.alt =
+            step.heroImageAlt || `${step.mapTitle || step.title} cover image`;
           mediaImage.loading = "lazy";
           mediaImage.decoding = "async";
           media.appendChild(mediaImage);
@@ -479,10 +752,43 @@ const mobileMenuLinks = [
           type: "geojson",
           data: routeData,
         });
+        if (traceData) {
+          map.addSource("ny-route-trace-source", {
+            type: "geojson",
+            data: traceData,
+          });
+        }
         map.addSource("ny-route-points-source", {
           type: "geojson",
           data: stepPointData,
         });
+
+        if (traceData) {
+          map.addLayer({
+            id: "ny-route-line-trace",
+            type: "line",
+            source: "ny-route-trace-source",
+            layout: {
+              "line-cap": "round",
+              "line-join": "round",
+            },
+            paint: {
+              "line-color": "#0ea5e9",
+              "line-width": [
+                "interpolate",
+                ["linear"],
+                ["zoom"],
+                1,
+                1.4,
+                3,
+                2.2,
+                6,
+                3,
+              ],
+              "line-opacity": 0.62,
+            },
+          });
+        }
 
         map.addLayer({
           id: "ny-route-line-main",
