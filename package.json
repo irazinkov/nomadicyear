@@ -29,7 +29,8 @@
     "phase4:measure:skip-build": "node scripts/phase4/measure-build-metrics.mjs --skip-build",
     "phase5:redirects": "node scripts/phase5/generate-cloudflare-redirects.mjs",
     "phase5:audit": "node scripts/phase5/run-phase5-audit.mjs",
-    "phase5:audit:strict": "node scripts/phase5/run-phase5-audit.mjs --fail-on-critical"
+    "phase5:audit:strict": "node scripts/phase5/run-phase5-audit.mjs --fail-on-critical",
+    "map:build-route": "node scripts/map/build-route-geojson.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.2",

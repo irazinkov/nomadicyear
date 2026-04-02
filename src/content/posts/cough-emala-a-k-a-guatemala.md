@@ -15,6 +15,41 @@ tags:
   - "atitlan"
   - "guatemala"
   - "volcano"
+lat: 15.643188
+lng: -91.985415
+mapTitle: "La Mesilla Border Crossing"
+transport: "drive"
+routeWaypoints:
+  - label: "La Mesilla Border Crossing"
+    lat: 15.643188
+    lng: -91.985415
+    transport: "drive"
+    image: "/uploads/2015/11/DSC01466.jpg"
+    imageAlt: "Guatemala border crossing gate"
+  - label: "Quetzaltenango (Xela)"
+    lat: 14.8347
+    lng: -91.518
+    transport: "drive"
+    image: "/uploads/2015/11/DSC01499.jpg"
+    imageAlt: "Road into Quetzaltenango"
+  - label: "Fuentes Georginas Hot Springs"
+    lat: 14.7417
+    lng: -91.4929
+    transport: "drive"
+    image: "/uploads/2015/11/DSC01546.jpg"
+    imageAlt: "Fuentes Georginas hot springs"
+  - label: "Lake Atitlan Camp"
+    lat: 14.7414
+    lng: -91.1594
+    transport: "drive"
+    image: "/uploads/2015/11/DSC01598.jpg"
+    imageAlt: "Lake Atitlan campsite view"
+  - label: "Antigua Guatemala"
+    lat: 14.5597
+    lng: -90.7347
+    transport: "drive"
+    image: "/uploads/2015/11/DSC01610.jpg"
+    imageAlt: "Antigua central square"
 legacyUrl: "http://nomadicyear.com/2015/11/cough-emala-a-k-a-guatemala/"
 status: "publish"
 draft: false

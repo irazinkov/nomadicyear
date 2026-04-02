@@ -198,7 +198,392 @@
     "mapOrder": 18
   },
   {
-    "mapOrder": 19,
+    "slug": "cough-emala-a-k-a-guatemala",
+    "title": "Cough-emala a.k.a. Guatemala",
+    "mapTitle": "La Mesilla Border Crossing",
+    "lat": 15.643188,
+    "lng": -91.985415,
+    "transport": "drive",
+    "url": "/blog/cough-emala-a-k-a-guatemala/",
+    "heroImage": "/uploads/2015/11/DSC01466.jpg",
+    "mapOrder": 19
+  },
+  {
+    "slug": "cough-emala-a-k-a-guatemala",
+    "title": "Cough-emala a.k.a. Guatemala",
+    "mapTitle": "Quetzaltenango (Xela)",
+    "lat": 14.8347,
+    "lng": -91.518,
+    "transport": "drive",
+    "url": "/blog/cough-emala-a-k-a-guatemala/",
+    "heroImage": "/uploads/2015/11/DSC01470.jpg",
+    "mapOrder": 20
+  },
+  {
+    "slug": "cough-emala-a-k-a-guatemala",
+    "title": "Cough-emala a.k.a. Guatemala",
+    "mapTitle": "Fuentes Georginas Hot Springs",
+    "lat": 14.7417,
+    "lng": -91.4929,
+    "transport": "drive",
+    "url": "/blog/cough-emala-a-k-a-guatemala/",
+    "heroImage": "/uploads/2015/11/DSC01546.jpg",
+    "mapOrder": 21
+  },
+  {
+    "slug": "cough-emala-a-k-a-guatemala",
+    "title": "Cough-emala a.k.a. Guatemala",
+    "mapTitle": "Lake Atitlan Camp",
+    "lat": 14.7414,
+    "lng": -91.1594,
+    "transport": "drive",
+    "url": "/blog/cough-emala-a-k-a-guatemala/",
+    "heroImage": "/uploads/2015/11/DSC01598.jpg",
+    "mapOrder": 22
+  },
+  {
+    "slug": "cough-emala-a-k-a-guatemala",
+    "title": "Cough-emala a.k.a. Guatemala",
+    "mapTitle": "Antigua Guatemala",
+    "lat": 14.5597,
+    "lng": -90.7347,
+    "transport": "drive",
+    "url": "/blog/cough-emala-a-k-a-guatemala/",
+    "heroImage": "/uploads/2015/11/DSC01610.jpg",
+    "mapOrder": 23
+  },
+  {
+    "slug": "566",
+    "title": "Honduras - Murdered with kindness",
+    "mapTitle": "Quirigua Archaeological Site",
+    "lat": 15.2679,
+    "lng": -89.0394,
+    "transport": "drive",
+    "url": "/blog/566/",
+    "heroImage": "/uploads/2015/12/DSC01654.jpg",
+    "mapOrder": 24
+  },
+  {
+    "slug": "566",
+    "title": "Honduras - Murdered with kindness",
+    "mapTitle": "Corinto Border Crossing",
+    "lat": 15.1049,
+    "lng": -88.7816,
+    "transport": "drive",
+    "url": "/blog/566/",
+    "heroImage": "/uploads/2015/12/DSC01653.jpg",
+    "mapOrder": 25
+  },
+  {
+    "slug": "566",
+    "title": "Honduras - Murdered with kindness",
+    "mapTitle": "D&D Brewery (Lake Yojoa)",
+    "lat": 14.9493,
+    "lng": -87.9486,
+    "transport": "drive",
+    "url": "/blog/566/",
+    "heroImage": "/uploads/2015/12/DSC01662.jpg",
+    "mapOrder": 26
+  },
+  {
+    "slug": "566",
+    "title": "Honduras - Murdered with kindness",
+    "mapTitle": "Tegucigalpa Host Stay",
+    "lat": 14.0723,
+    "lng": -87.1921,
+    "transport": "drive",
+    "url": "/blog/566/",
+    "heroImage": "/uploads/2015/12/DSC01680.jpg",
+    "mapOrder": 27
+  },
+  {
+    "slug": "566",
+    "title": "Honduras - Murdered with kindness",
+    "mapTitle": "San Salvador Coffee Stop",
+    "lat": 13.6929,
+    "lng": -89.2182,
+    "transport": "drive",
+    "url": "/blog/566/",
+    "heroImage": "/uploads/2015/12/DSC01722.jpg",
+    "mapOrder": 28
+  },
+  {
+    "slug": "566",
+    "title": "Honduras - Murdered with kindness",
+    "mapTitle": "La Libertad Fish Market",
+    "lat": 13.4886,
+    "lng": -89.3228,
+    "transport": "drive",
+    "url": "/blog/566/",
+    "heroImage": "/uploads/2015/12/DSC01729.jpg",
+    "mapOrder": 29
+  },
+  {
+    "slug": "566",
+    "title": "Honduras - Murdered with kindness",
+    "mapTitle": "El Boqueron Volcano",
+    "lat": 13.7357,
+    "lng": -89.2894,
+    "transport": "drive",
+    "url": "/blog/566/",
+    "heroImage": "/uploads/2015/12/DSC01778.jpg",
+    "mapOrder": 30
+  },
+  {
+    "slug": "566",
+    "title": "Honduras - Murdered with kindness",
+    "mapTitle": "Tegucigalpa Return",
+    "lat": 14.0723,
+    "lng": -87.1921,
+    "transport": "drive",
+    "url": "/blog/566/",
+    "heroImage": "/uploads/2015/12/DSC01701.jpg",
+    "mapOrder": 31
+  },
+  {
+    "slug": "how-i-met-your-monkey-nicaragua-costa-rica",
+    "title": "How I Met Your Monkey! - Nicaragua, Costa Rica",
+    "mapTitle": "Las Manos Border Crossing (Nicaragua)",
+    "lat": 13.1736,
+    "lng": -86.7422,
+    "transport": "drive",
+    "url": "/blog/how-i-met-your-monkey-nicaragua-costa-rica/",
+    "heroImage": "/uploads/2015/12/DSC01803.jpg",
+    "mapOrder": 32
+  },
+  {
+    "slug": "how-i-met-your-monkey-nicaragua-costa-rica",
+    "title": "How I Met Your Monkey! - Nicaragua, Costa Rica",
+    "mapTitle": "Somoto Canyon Camp",
+    "lat": 13.4816,
+    "lng": -86.5826,
+    "transport": "drive",
+    "url": "/blog/how-i-met-your-monkey-nicaragua-costa-rica/",
+    "heroImage": "/uploads/2015/12/DSC01805.jpg",
+    "mapOrder": 33
+  },
+  {
+    "slug": "how-i-met-your-monkey-nicaragua-costa-rica",
+    "title": "How I Met Your Monkey! - Nicaragua, Costa Rica",
+    "mapTitle": "Laguna de Apoyo",
+    "lat": 11.9246,
+    "lng": -86.0449,
+    "transport": "drive",
+    "url": "/blog/how-i-met-your-monkey-nicaragua-costa-rica/",
+    "heroImage": "/uploads/2015/12/DSC01835.jpg",
+    "mapOrder": 34
+  },
+  {
+    "slug": "how-i-met-your-monkey-nicaragua-costa-rica",
+    "title": "How I Met Your Monkey! - Nicaragua, Costa Rica",
+    "mapTitle": "Lake Nicaragua Wind Farm",
+    "lat": 11.4574,
+    "lng": -85.8433,
+    "transport": "drive",
+    "url": "/blog/how-i-met-your-monkey-nicaragua-costa-rica/",
+    "heroImage": "/uploads/2015/12/DSC01894.jpg",
+    "mapOrder": 35
+  },
+  {
+    "slug": "how-i-met-your-monkey-nicaragua-costa-rica",
+    "title": "How I Met Your Monkey! - Nicaragua, Costa Rica",
+    "mapTitle": "Penas Blancas Border Crossing (Costa Rica)",
+    "lat": 11.2078,
+    "lng": -85.6224,
+    "transport": "drive",
+    "url": "/blog/how-i-met-your-monkey-nicaragua-costa-rica/",
+    "heroImage": "/uploads/2015/12/DSC01896.jpg",
+    "mapOrder": 36
+  },
+  {
+    "slug": "how-i-met-your-monkey-nicaragua-costa-rica",
+    "title": "How I Met Your Monkey! - Nicaragua, Costa Rica",
+    "mapTitle": "Wildlife Finca (North Costa Rica)",
+    "lat": 10.7668,
+    "lng": -85.345,
+    "transport": "drive",
+    "url": "/blog/how-i-met-your-monkey-nicaragua-costa-rica/",
+    "heroImage": "/uploads/2015/12/DSC01902.jpg",
+    "mapOrder": 37
+  },
+  {
+    "slug": "how-i-met-your-monkey-nicaragua-costa-rica",
+    "title": "How I Met Your Monkey! - Nicaragua, Costa Rica",
+    "mapTitle": "Monteverde",
+    "lat": 10.3009,
+    "lng": -84.8146,
+    "transport": "drive",
+    "url": "/blog/how-i-met-your-monkey-nicaragua-costa-rica/",
+    "heroImage": "/uploads/2015/12/DSC01943.jpg",
+    "mapOrder": 38
+  },
+  {
+    "slug": "how-i-met-your-monkey-nicaragua-costa-rica",
+    "title": "How I Met Your Monkey! - Nicaragua, Costa Rica",
+    "mapTitle": "Uvita Pacific Camp",
+    "lat": 9.1609,
+    "lng": -83.735,
+    "transport": "drive",
+    "url": "/blog/how-i-met-your-monkey-nicaragua-costa-rica/",
+    "heroImage": "/uploads/2015/12/DSC01986.jpg",
+    "mapOrder": 39
+  },
+  {
+    "slug": "gate-to-south-america-panama",
+    "title": "Gate to South America - Panama",
+    "mapTitle": "Paso Canoas Border Crossing (Panama)",
+    "lat": 8.5386,
+    "lng": -82.8389,
+    "transport": "drive",
+    "url": "/blog/gate-to-south-america-panama/",
+    "heroImage": "/uploads/2015/12/DSC01995.jpg",
+    "mapOrder": 40
+  },
+  {
+    "slug": "gate-to-south-america-panama",
+    "title": "Gate to South America - Panama",
+    "mapTitle": "Las Lajas Pacific Camp",
+    "lat": 8.1687,
+    "lng": -81.8809,
+    "transport": "drive",
+    "url": "/blog/gate-to-south-america-panama/",
+    "heroImage": "/uploads/2015/12/DSC02002-Copy.jpg",
+    "mapOrder": 41
+  },
+  {
+    "slug": "gate-to-south-america-panama",
+    "title": "Gate to South America - Panama",
+    "mapTitle": "Santa Clara Beach Camp",
+    "lat": 8.3749,
+    "lng": -80.1244,
+    "transport": "drive",
+    "url": "/blog/gate-to-south-america-panama/",
+    "heroImage": "/uploads/2015/12/DSC02013.jpg",
+    "mapOrder": 42
+  },
+  {
+    "slug": "gate-to-south-america-panama",
+    "title": "Gate to South America - Panama",
+    "mapTitle": "Panama City Shipping Prep",
+    "lat": 8.9824,
+    "lng": -79.5199,
+    "transport": "drive",
+    "url": "/blog/gate-to-south-america-panama/",
+    "heroImage": "/uploads/2015/12/DSC02073.jpg",
+    "mapOrder": 43
+  },
+  {
+    "slug": "gate-to-south-america-panama",
+    "title": "Gate to South America - Panama",
+    "mapTitle": "Colon Port Hotel",
+    "lat": 9.3592,
+    "lng": -79.9006,
+    "transport": "drive",
+    "url": "/blog/gate-to-south-america-panama/",
+    "heroImage": "/uploads/2015/12/DSC02136.jpg",
+    "mapOrder": 44
+  },
+  {
+    "slug": "gate-to-south-america-panama",
+    "title": "Gate to South America - Panama",
+    "mapTitle": "Gatun Locks (Panama Canal)",
+    "lat": 9.2717,
+    "lng": -79.9191,
+    "transport": "drive",
+    "url": "/blog/gate-to-south-america-panama/",
+    "heroImage": "/uploads/2015/12/DSC02101.jpg",
+    "mapOrder": 45
+  },
+  {
+    "slug": "cuban-experience-crossing-the-darien-gap",
+    "title": "Cuban Experience - Crossing the Darien Gap",
+    "mapTitle": "Colon Container Yard",
+    "lat": 9.3549,
+    "lng": -79.8998,
+    "transport": "drive",
+    "url": "/blog/cuban-experience-crossing-the-darien-gap/",
+    "heroImage": "/uploads/2015/12/DSC02158.jpg",
+    "mapOrder": 46
+  },
+  {
+    "slug": "cuban-experience-crossing-the-darien-gap",
+    "title": "Cuban Experience - Crossing the Darien Gap",
+    "mapTitle": "Panama City Overnight",
+    "lat": 8.9824,
+    "lng": -79.5199,
+    "transport": "drive",
+    "url": "/blog/cuban-experience-crossing-the-darien-gap/",
+    "heroImage": "/uploads/2015/12/DSC02211.jpg",
+    "mapOrder": 47
+  },
+  {
+    "slug": "cuban-experience-crossing-the-darien-gap",
+    "title": "Cuban Experience - Crossing the Darien Gap",
+    "mapTitle": "Carti Port (Guna Yala)",
+    "lat": 9.4547,
+    "lng": -78.9497,
+    "transport": "boat",
+    "url": "/blog/cuban-experience-crossing-the-darien-gap/",
+    "heroImage": "/uploads/2015/12/DSC02281.jpg",
+    "mapOrder": 48
+  },
+  {
+    "slug": "cuban-experience-crossing-the-darien-gap",
+    "title": "Cuban Experience - Crossing the Darien Gap",
+    "mapTitle": "Carti Island Overnight",
+    "lat": 9.474536,
+    "lng": -78.96244,
+    "transport": "boat",
+    "url": "/blog/cuban-experience-crossing-the-darien-gap/",
+    "heroImage": "/uploads/2015/12/DSC02315.jpg",
+    "mapOrder": 49
+  },
+  {
+    "slug": "cuban-experience-crossing-the-darien-gap",
+    "title": "Cuban Experience - Crossing the Darien Gap",
+    "mapTitle": "Puerto Obaldia Exit",
+    "lat": 8.6659,
+    "lng": -77.4184,
+    "transport": "boat",
+    "url": "/blog/cuban-experience-crossing-the-darien-gap/",
+    "heroImage": "/uploads/2015/12/DSC02325.jpg",
+    "mapOrder": 50
+  },
+  {
+    "slug": "cuban-experience-crossing-the-darien-gap",
+    "title": "Cuban Experience - Crossing the Darien Gap",
+    "mapTitle": "Capurgana Entry (Colombia)",
+    "lat": 8.6346,
+    "lng": -77.3507,
+    "transport": "boat",
+    "url": "/blog/cuban-experience-crossing-the-darien-gap/",
+    "heroImage": "/uploads/2015/12/DSC02331.jpg",
+    "mapOrder": 51
+  },
+  {
+    "slug": "cuban-experience-crossing-the-darien-gap",
+    "title": "Cuban Experience - Crossing the Darien Gap",
+    "mapTitle": "Necocli Mainland Arrival",
+    "lat": 8.4266,
+    "lng": -76.7894,
+    "transport": "drive",
+    "url": "/blog/cuban-experience-crossing-the-darien-gap/",
+    "heroImage": "/uploads/2015/12/DSC02329.jpg",
+    "mapOrder": 52
+  },
+  {
+    "slug": "cuban-experience-crossing-the-darien-gap",
+    "title": "Cuban Experience - Crossing the Darien Gap",
+    "mapTitle": "Cartagena Reunion Point",
+    "lat": 10.3997,
+    "lng": -75.5144,
+    "transport": "drive",
+    "url": "/blog/cuban-experience-crossing-the-darien-gap/",
+    "heroImage": "/uploads/2015/12/DSC02345.jpg",
+    "mapOrder": 53
+  },
+  {
+    "mapOrder": 54,
     "slug": "korea-car-shipping-guide",
     "title": "Korea - Car Shipping Guide",
     "mapTitle": "Busan Ferry Terminal",
@@ -209,7 +594,7 @@
     "heroImage": "/uploads/2016/06/korea_car_shipping.jpg"
   },
   {
-    "mapOrder": 20,
+    "mapOrder": 55,
     "slug": "the-warm-siberian-welcome-russia",
     "title": "Russia - The Warm Siberian Welcome",
     "mapTitle": "Trans-Siberian Memorial Stop",
@@ -220,7 +605,7 @@
     "heroImage": "/uploads/2016/06/the_warm_siberian_welcome-1.jpg"
   },
   {
-    "mapOrder": 21,
+    "mapOrder": 56,
     "slug": "mongolia-gobi-yourself",
     "title": "Mongolia - Gobi Yourself",
     "mapTitle": "Khongoryn Els",
@@ -231,7 +616,7 @@
     "heroImage": "/uploads/2016/07/mongolia-gobi.jpg"
   },
   {
-    "mapOrder": 22,
+    "mapOrder": 57,
     "slug": "kazakhstan-window-to-the-galaxy",
     "title": "Kazakhstan - Window to the Galaxy",
     "mapTitle": "Almaty Spring Stop",
@@ -242,7 +627,7 @@
     "heroImage": "/uploads/2016/08/kazakhstan_sharyn_canyon.jpg"
   },
   {
-    "mapOrder": 23,
+    "mapOrder": 58,
     "slug": "kyrgyzstan-issykul-lake",
     "title": "Kyrgyzstan - Issykul Lake",
     "mapTitle": "Djety-Oguz, Issykul",
@@ -253,7 +638,7 @@
     "heroImage": "/uploads/2016/08/kyrgyzstan_issykul-1.jpg"
   },
   {
-    "mapOrder": 24,
+    "mapOrder": 59,
     "slug": "kyrgyzstan-pamir-the-roof-of-the-world",
     "title": "Kyrgyzstan - Pamir, the Roof of the World",
     "mapTitle": "Sary-Tash",
@@ -264,7 +649,7 @@
     "heroImage": "/uploads/2016/09/pamir_slider-1.jpg"
   },
   {
-    "mapOrder": 25,
+    "mapOrder": 60,
     "slug": "china-the-great-wall",
     "title": "China - The Great Wall",
     "mapTitle": "Beijing Summer Palace",
@@ -275,7 +660,7 @@
     "heroImage": "/uploads/2016/12/china_greatwall_slider-1.jpg"
   },
   {
-    "mapOrder": 26,
+    "mapOrder": 61,
     "slug": "india-stuck-in-mumbai-with-no-money",
     "title": "India - Stuck in Mumbai with no money",
     "mapTitle": "Mumbai",
@@ -286,7 +671,7 @@
     "heroImage": "/uploads/2017/01/mumbai_slider-1.jpg"
   },
   {
-    "mapOrder": 27,
+    "mapOrder": 62,
     "slug": "india-jaisalmer-the-golden-city-of-rajasthan-and-camels",
     "title": "India - Jaisalmer - The Golden City of Rajasthan and Camels",
     "mapTitle": "Jaisalmer",

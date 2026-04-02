@@ -122,7 +122,7 @@ The car drives fine and this village is to small to make repairs. We have to mov
 
 &nbsp;
 
-As we continued driving Hodori (apparently that\x27s what we are calling our Land Cruiser), was driving just fine. So we tried to put the worries about the knock sensor out of our heads and enjoy the beauty around us.
+As we continued driving Hodori (apparently that's what we are calling our Land Cruiser), was driving just fine. So we tried to put the worries about the knock sensor out of our heads and enjoy the beauty around us.
 
 
 
@@ -150,7 +150,7 @@ Oh....and the title..I hope it's self explanatory :)
 
 As Hyein was recovering and we are waiting for the ferry, I finally had some time to look into the knock sensor issue. Read the factory service manual (btw bought it last minute, thinking that I will never use it)...boy was I wrong and only on day 4! Found the location of the sensor. Apparently this SOB is located under the air intake manifold.
 
-"let\x27s see if I can find it....okay, there it is....okay I see the problem - the wire is broken...must have broken on the dirt road".
+"let's see if I can find it....okay, there it is....okay I see the problem - the wire is broken...must have broken on the dirt road".
 
 "great I know how to fix this problem, but how the hell do I get to it?  - BY TAKING HALF THE ENGINE OUT". DAMN!
 

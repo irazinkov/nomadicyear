@@ -16,6 +16,47 @@ tags:
   - "gatun-locks"
   - "panama"
   - "panama-canal"
+lat: 8.5386
+lng: -82.8389
+mapTitle: "Paso Canoas Border Crossing (Panama)"
+transport: "drive"
+routeWaypoints:
+  - label: "Paso Canoas Border Crossing (Panama)"
+    lat: 8.5386
+    lng: -82.8389
+    transport: "drive"
+    image: "/uploads/2015/12/DSC01995.jpg"
+    imageAlt: "Border crossing into Panama"
+  - label: "Las Lajas Pacific Camp"
+    lat: 8.1687
+    lng: -81.8809
+    transport: "drive"
+    image: "/uploads/2015/12/DSC02002-Copy.jpg"
+    imageAlt: "Pacific beach sunset camp in Panama"
+  - label: "Santa Clara Beach Camp"
+    lat: 8.3749
+    lng: -80.1244
+    transport: "drive"
+    image: "/uploads/2015/12/DSC02013.jpg"
+    imageAlt: "Beachside camp with cleaner water"
+  - label: "Panama City Shipping Prep"
+    lat: 8.9824
+    lng: -79.5199
+    transport: "drive"
+    image: "/uploads/2015/12/DSC02073.jpg"
+    imageAlt: "Police inspection before shipping"
+  - label: "Colon Port Hotel"
+    lat: 9.3592
+    lng: -79.9006
+    transport: "drive"
+    image: "/uploads/2015/12/DSC02136.jpg"
+    imageAlt: "Colon city stop before shipping"
+  - label: "Gatun Locks (Panama Canal)"
+    lat: 9.2717
+    lng: -79.9191
+    transport: "drive"
+    image: "/uploads/2015/12/DSC02101.jpg"
+    imageAlt: "Panama Canal Gatun Locks viewpoint"
 legacyUrl: "http://nomadicyear.com/2016/01/gate-to-south-america-panama/"
 status: "publish"
 draft: false

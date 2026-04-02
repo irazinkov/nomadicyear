@@ -18,6 +18,59 @@ tags:
   - "guna-yala"
   - "panama"
   - "san-blas"
+lat: 9.3549
+lng: -79.8998
+mapTitle: "Colon Container Yard"
+transport: "drive"
+routeWaypoints:
+  - label: "Colon Container Yard"
+    lat: 9.3549
+    lng: -79.8998
+    transport: "drive"
+    image: "/uploads/2015/12/DSC02158.jpg"
+    imageAlt: "Container loading area in Colon"
+  - label: "Panama City Overnight"
+    lat: 8.9824
+    lng: -79.5199
+    transport: "drive"
+    image: "/uploads/2015/12/DSC02211.jpg"
+    imageAlt: "Panama City waterfront at night"
+  - label: "Carti Port (Guna Yala)"
+    lat: 9.4547
+    lng: -78.9497
+    transport: "boat"
+    image: "/uploads/2015/12/DSC02281.jpg"
+    imageAlt: "4x4 lineup near Carti port"
+  - label: "Carti Island Overnight"
+    lat: 9.474536
+    lng: -78.96244
+    transport: "boat"
+    image: "/uploads/2015/12/DSC02315.jpg"
+    imageAlt: "Basic overnight stay on Guna island"
+  - label: "Puerto Obaldia Exit"
+    lat: 8.6659
+    lng: -77.4184
+    transport: "boat"
+    image: "/uploads/2015/12/DSC02325.jpg"
+    imageAlt: "Lodging stop in Puerto Obaldia"
+  - label: "Capurgana Entry (Colombia)"
+    lat: 8.6346
+    lng: -77.3507
+    transport: "boat"
+    image: "/uploads/2015/12/DSC02331.jpg"
+    imageAlt: "Saying goodbye to Panama"
+  - label: "Necocli Mainland Arrival"
+    lat: 8.4266
+    lng: -76.7894
+    transport: "drive"
+    image: "/uploads/2015/12/DSC02329.jpg"
+    imageAlt: "Arrival on Colombia mainland"
+  - label: "Cartagena Reunion Point"
+    lat: 10.3997
+    lng: -75.5144
+    transport: "drive"
+    image: "/uploads/2015/12/DSC02345.jpg"
+    imageAlt: "Meal stop before bus to Cartagena"
 legacyUrl: "http://nomadicyear.com/2016/01/cuban-experience-crossing-the-darien-gap/"
 status: "publish"
 draft: false

@@ -20,6 +20,59 @@ tags:
   - "monkeys"
   - "nicaragua"
   - "sloth"
+lat: 13.1736
+lng: -86.7422
+mapTitle: "Las Manos Border Crossing (Nicaragua)"
+transport: "drive"
+routeWaypoints:
+  - label: "Las Manos Border Crossing (Nicaragua)"
+    lat: 13.1736
+    lng: -86.7422
+    transport: "drive"
+    image: "/uploads/2015/12/DSC01803.jpg"
+    imageAlt: "Entering Nicaragua at the border"
+  - label: "Somoto Canyon Camp"
+    lat: 13.4816
+    lng: -86.5826
+    transport: "drive"
+    image: "/uploads/2015/12/DSC01805.jpg"
+    imageAlt: "Camp near Somoto Canyon"
+  - label: "Laguna de Apoyo"
+    lat: 11.9246
+    lng: -86.0449
+    transport: "drive"
+    image: "/uploads/2015/12/DSC01835.jpg"
+    imageAlt: "Laguna de Apoyo crater lake"
+  - label: "Lake Nicaragua Wind Farm"
+    lat: 11.4574
+    lng: -85.8433
+    transport: "drive"
+    image: "/uploads/2015/12/DSC01894.jpg"
+    imageAlt: "Wind turbines near Lake Nicaragua"
+  - label: "Penas Blancas Border Crossing (Costa Rica)"
+    lat: 11.2078
+    lng: -85.6224
+    transport: "drive"
+    image: "/uploads/2015/12/DSC01896.jpg"
+    imageAlt: "Crossing into Costa Rica"
+  - label: "Wildlife Finca (North Costa Rica)"
+    lat: 10.7668
+    lng: -85.345
+    transport: "drive"
+    image: "/uploads/2015/12/DSC01902.jpg"
+    imageAlt: "Sloth sighting at Costa Rica finca"
+  - label: "Monteverde"
+    lat: 10.3009
+    lng: -84.8146
+    transport: "drive"
+    image: "/uploads/2015/12/DSC01943.jpg"
+    imageAlt: "Mountain road toward Monteverde"
+  - label: "Uvita Pacific Camp"
+    lat: 9.1609
+    lng: -83.735
+    transport: "drive"
+    image: "/uploads/2015/12/DSC01986.jpg"
+    imageAlt: "Camp near Uvita on the Pacific coast"
 legacyUrl: "http://nomadicyear.com/2015/12/how-i-met-your-monkey-nicaragua-costa-rica/"
 status: "publish"
 draft: false

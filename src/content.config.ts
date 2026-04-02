@@ -18,6 +18,25 @@ const postSchema = () =>
     country: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
+    lat: z.number().min(-90).max(90).optional(),
+    lng: z.number().min(-180).max(180).optional(),
+    mapOrder: z.number().int().positive().optional(),
+    mapTitle: z.string().optional(),
+    transport: z.enum(["drive", "boat", "flight"]).optional(),
+    routeWaypoints: z
+      .array(
+        z.object({
+          label: z.string(),
+          lat: z.number().min(-90).max(90),
+          lng: z.number().min(-180).max(180),
+          transport: z.enum(["drive", "boat", "flight"]).optional(),
+          image: z.string().optional(),
+          imageAlt: z.string().optional(),
+          note: z.string().optional(),
+          date: z.string().optional(),
+        }),
+      )
+      .optional(),
     legacyUrl: z.string().optional(),
     status: z.enum(["publish", "draft"]).default("publish"),
     draft: z.boolean().default(false),
