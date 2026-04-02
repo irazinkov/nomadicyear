@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Document><name>2016-11-04T05:23:11Z</name>
+<Placemark>
+<gx:Track>
+
+<when>2016-11-04T05:23:11Z</when>
+<gx:coord>116.41149573 39.91636565 24.0</gx:coord>
+
+<when>2016-11-04T05:28:21Z</when>
+<gx:coord>116.41491368 39.91696633 47.0</gx:coord>
+
+<when>2016-11-04T05:33:23Z</when>
+<gx:coord>116.41913967 39.91715819 33.0</gx:coord>
+
+<when>2016-11-04T05:40:49Z</when>
+<gx:coord>116.41870323 39.91685144 45.0</gx:coord>
+
+<when>2016-11-04T06:43:09Z</when>
+<gx:coord>116.42027919 39.91810705 59.0</gx:coord>
+
+<when>2016-11-04T06:50:19Z</when>
+<gx:coord>116.41450722 39.91756081 62.0</gx:coord>
+
+<when>2016-11-04T06:55:28Z</when>
+<gx:coord>116.41171046 39.91821712 23.0</gx:coord>
+
+<when>2016-11-04T07:48:42Z</when>
+<gx:coord>116.411122 39.92262956 39.0</gx:coord>
+
+<when>2016-11-04T08:15:35Z</when>
+<gx:coord>116.3937992 39.89979399 25.0</gx:coord>
+
+<when>2016-11-04T08:20:44Z</when>
+<gx:coord>116.39378068 39.90123171 43.0</gx:coord>
+
+<when>2016-11-04T08:26:58Z</when>
+<gx:coord>116.39171311 39.90247778 50.0</gx:coord>
+
+<when>2016-11-04T08:35:19Z</when>
+<gx:coord>116.39094337 39.90548657 40.0</gx:coord>
+
+<when>2016-11-04T08:42:04Z</when>
+<gx:coord>116.39079561 39.90574093 44.0</gx:coord>
+
+<when>2016-11-04T08:49:11Z</when>
+<gx:coord>116.38948142 39.90643072 49.0</gx:coord>
+
+<when>2016-11-04T09:05:34Z</when>
+<gx:coord>116.38911841 39.90760759 45.0</gx:coord>
+
+<when>2016-11-04T09:11:08Z</when>
+<gx:coord>116.38910005 39.90639073 12.0</gx:coord>
+
+<when>2016-11-04T09:18:50Z</when>
+<gx:coord>116.38924439 39.90572979 64.0</gx:coord>
+
+<when>2016-11-04T09:27:23Z</when>
+<gx:coord>116.38951527 39.90041109 63.0</gx:coord>
+
+<when>2016-11-04T09:35:21Z</when>
+<gx:coord>116.38947269 39.89806182 60.0</gx:coord>
+
+<when>2016-11-04T10:01:57Z</when>
+<gx:coord>116.41174082 39.91581047 151.0</gx:coord>
+
+<when>2016-11-04T10:17:16Z</when>
+<gx:coord>116.41164486 39.91737836 116.0</gx:coord>
+</gx:Track>
+</Placemark></Document></kml>

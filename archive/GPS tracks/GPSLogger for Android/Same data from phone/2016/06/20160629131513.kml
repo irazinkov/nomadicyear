@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Document><name>2016-06-29T03:15:53Z</name>
+<Placemark>
+<gx:Track>
+
+<when>2016-06-29T03:15:53Z</when>
+<gx:coord>106.19287992 51.93469985 438.0</gx:coord>
+
+<when>2016-06-29T03:20:55Z</when>
+<gx:coord>106.19285028 51.93474449 432.0</gx:coord>
+
+<when>2016-06-29T03:25:57Z</when>
+<gx:coord>106.20854644 51.93453743 432.0</gx:coord>
+
+<when>2016-06-29T03:30:59Z</when>
+<gx:coord>106.20884023 51.93449352 425.0</gx:coord>
+
+<when>2016-06-29T03:36:08Z</when>
+<gx:coord>106.20881258 51.93447116 419.0</gx:coord>
+
+<when>2016-06-29T03:41:18Z</when>
+<gx:coord>106.20875724 51.93447976 431.0</gx:coord>
+
+<when>2016-06-29T03:46:22Z</when>
+<gx:coord>106.20877792 51.93445487 429.0</gx:coord>
+
+<when>2016-06-29T03:51:25Z</when>
+<gx:coord>106.2088003 51.93442077 429.0</gx:coord>
+
+<when>2016-06-29T03:56:35Z</when>
+<gx:coord>106.24773929 51.94100211 447.0</gx:coord>
+
+<when>2016-06-29T04:01:38Z</when>
+<gx:coord>106.33228477 51.96067363 470.0</gx:coord>
+
+<when>2016-06-29T04:06:44Z</when>
+<gx:coord>106.42437718 51.97233494 414.0</gx:coord>
+
+<when>2016-06-29T04:11:49Z</when>
+<gx:coord>106.48127725 51.98060562 449.0</gx:coord>
+
+<when>2016-06-29T04:16:56Z</when>
+<gx:coord>106.48160824 51.98074181 442.0</gx:coord>
+
+<when>2016-06-29T04:22:06Z</when>
+<gx:coord>106.48162588 51.98074748 441.0</gx:coord>
+
+<when>2016-06-29T04:27:09Z</when>
+<gx:coord>106.48168701 51.98069791 476.0</gx:coord>
+
+<when>2016-06-29T04:32:13Z</when>
+<gx:coord>106.56896855 51.99834904 446.0</gx:coord>
+
+<when>2016-06-29T04:37:23Z</when>
+<gx:coord>106.61786465 52.00890843 456.0</gx:coord>
+
+<when>2016-06-29T04:42:30Z</when>
+<gx:coord>106.61799745 52.00891908 432.0</gx:coord>
+
+<when>2016-06-29T04:47:34Z</when>
+<gx:coord>106.61801059 52.00897051 430.0</gx:coord>
+</gx:Track>
+</Placemark></Document></kml>

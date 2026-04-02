@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Document><name>2016-09-07T06:51:50Z</name>
+<Placemark>
+<gx:Track>
+
+<when>2016-09-07T06:51:50Z</when>
+<gx:coord>44.004808 56.3228321 0.0</gx:coord>
+
+<when>2016-09-07T06:56:53Z</when>
+<gx:coord>44.0048085 56.3228295 0.0</gx:coord>
+
+<when>2016-09-07T07:02:15Z</when>
+<gx:coord>44.0048156 56.3228201 0.0</gx:coord>
+
+<when>2016-09-07T07:07:31Z</when>
+<gx:coord>44.0047881 56.3228056 0.0</gx:coord>
+
+<when>2016-09-07T07:13:04Z</when>
+<gx:coord>44.004809 56.3228275 0.0</gx:coord>
+
+<when>2016-09-07T07:18:55Z</when>
+<gx:coord>44.004833 56.3228264 0.0</gx:coord>
+
+<when>2016-09-07T07:24:03Z</when>
+<gx:coord>44.0047826 56.3227919 0.0</gx:coord>
+
+<when>2016-09-07T07:29:08Z</when>
+<gx:coord>44.0048192 56.3228204 0.0</gx:coord>
+
+<when>2016-09-07T07:34:12Z</when>
+<gx:coord>44.0048366 56.3228291 0.0</gx:coord>
+
+<when>2016-09-07T07:39:15Z</when>
+<gx:coord>44.0048171 56.3228197 0.0</gx:coord>
+
+<when>2016-09-07T07:44:36Z</when>
+<gx:coord>44.0047964 56.3228117 0.0</gx:coord>
+
+<when>2016-09-07T07:49:45Z</when>
+<gx:coord>44.0048094 56.3228325 0.0</gx:coord>
+
+<when>2016-09-07T07:54:56Z</when>
+<gx:coord>44.0047872 56.3228175 0.0</gx:coord>
+
+<when>2016-09-07T08:00:03Z</when>
+<gx:coord>44.0048191 56.3228203 0.0</gx:coord>
+
+<when>2016-09-07T08:05:12Z</when>
+<gx:coord>44.0048065 56.3228317 0.0</gx:coord>
+
+<when>2016-09-07T08:10:41Z</when>
+<gx:coord>44.0047808 56.3228046 0.0</gx:coord>
+
+<when>2016-09-07T08:15:44Z</when>
+<gx:coord>44.0047794 56.3228 0.0</gx:coord>
+
+<when>2016-09-07T08:20:55Z</when>
+<gx:coord>44.0047834 56.3227975 0.0</gx:coord>
+
+<when>2016-09-07T08:26:03Z</when>
+<gx:coord>44.0048078 56.3228393 0.0</gx:coord>
+
+<when>2016-09-07T08:31:06Z</when>
+<gx:coord>44.0048086 56.3227951 0.0</gx:coord>
+
+<when>2016-09-07T08:36:23Z</when>
+<gx:coord>44.004821 56.3227863 0.0</gx:coord>
+
+<when>2016-09-07T08:41:35Z</when>
+<gx:coord>44.0047881 56.3228032 0.0</gx:coord>
+
+<when>2016-09-07T08:48:55Z</when>
+<gx:coord>44.0047719 56.3227989 0.0</gx:coord>
+
+<when>2016-09-07T08:54:05Z</when>
+<gx:coord>44.0047767 56.3227897 0.0</gx:coord>
+
+<when>2016-09-07T09:00:17Z</when>
+<gx:coord>44.004812 56.3228179 0.0</gx:coord>
+
+<when>2016-09-07T09:05:41Z</when>
+<gx:coord>44.004766 56.3227809 0.0</gx:coord>
+
+<when>2016-09-07T09:13:10Z</when>
+<gx:coord>44.0048073 56.3228321 0.0</gx:coord>
+
+<when>2016-09-07T09:18:55Z</when>
+<gx:coord>44.0047844 56.32284 0.0</gx:coord>
+
+<when>2016-09-07T09:23:58Z</when>
+<gx:coord>44.0047783 56.322822 0.0</gx:coord>
+
+<when>2016-09-07T09:29:05Z</when>
+<gx:coord>44.0048051 56.3228225 0.0</gx:coord>
+
+<when>2016-09-07T09:35:41Z</when>
+<gx:coord>44.0048365 56.3228302 0.0</gx:coord>
+
+<when>2016-09-07T09:40:57Z</when>
+<gx:coord>44.0048261 56.3228327 0.0</gx:coord>
+
+<when>2016-09-07T09:46:09Z</when>
+<gx:coord>44.0048373 56.3228297 0.0</gx:coord>
+
+<when>2016-09-07T09:51:22Z</when>
+<gx:coord>44.0048006 56.3228211 0.0</gx:coord>
+
+<when>2016-09-07T09:56:25Z</when>
+<gx:coord>44.0048129 56.3228089 0.0</gx:coord>
+
+<when>2016-09-07T10:02:24Z</when>
+<gx:coord>44.00370828 56.32294675 122.0</gx:coord>
+
+<when>2016-09-07T10:06:45Z</when>
+<gx:coord>43.9996305 56.3214235 0.0</gx:coord>
+
+<when>2016-09-07T10:11:56Z</when>
+<gx:coord>43.9987856 56.3208691 0.0</gx:coord>
+
+<when>2016-09-07T10:17:28Z</when>
+<gx:coord>43.9990631 56.3209047 0.0</gx:coord>
+
+<when>2016-09-07T10:22:39Z</when>
+<gx:coord>43.9989185 56.3209641 0.0</gx:coord>
+
+<when>2016-09-07T10:28:16Z</when>
+<gx:coord>43.9988971 56.3209503 0.0</gx:coord>
+
+<when>2016-09-07T10:33:55Z</when>
+<gx:coord>43.9989334 56.3209456 0.0</gx:coord>
+
+<when>2016-09-07T10:39:51Z</when>
+<gx:coord>43.99700577 56.31896866 177.0</gx:coord>
+
+<when>2016-09-07T10:50:45Z</when>
+<gx:coord>43.9934713 56.3166642 0.0</gx:coord>
+
+<when>2016-09-07T11:04:34Z</when>
+<gx:coord>43.9935715 56.3166945 0.0</gx:coord>
+</gx:Track>
+</Placemark></Document></kml>

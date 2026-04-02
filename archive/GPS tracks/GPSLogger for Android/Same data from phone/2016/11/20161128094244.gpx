@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?><gpx version="1.0" creator="GPSLogger 80 - http://gpslogger.mendhak.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"><time>2016-11-28T04:12:47Z</time><trk><trkseg><trkpt lat="28.5427923" lon="77.2140639"><time>2016-11-28T04:12:47Z</time><src>network</src></trkpt>
+<trkpt lat="28.5429716" lon="77.2140639"><time>2016-11-28T04:18:01Z</time><src>network</src></trkpt>
+<trkpt lat="28.5426941" lon="77.2139741"><time>2016-11-28T04:23:06Z</time><src>network</src></trkpt>
+<trkpt lat="28.5427923" lon="77.2140639"><time>2016-11-28T04:28:09Z</time><src>network</src></trkpt>
+<trkpt lat="28.5428328" lon="77.214019"><time>2016-11-28T04:33:12Z</time><src>network</src></trkpt>
+<trkpt lat="28.5431252" lon="77.2137944"><time>2016-11-28T04:38:06Z</time><src>network</src></trkpt>
+<trkpt lat="28.5458266" lon="77.1969954"><time>2016-11-28T04:43:36Z</time><src>network</src></trkpt>
+<trkpt lat="28.56055165" lon="77.12736843"><ele>182.0</ele><time>2016-11-28T05:05:00Z</time><course>170.1</course><speed>11.0</speed><geoidheight>-38.0</geoidheight><src>gps</src><sat>10</sat><hdop>1.1</hdop><vdop>0.9</vdop><pdop>1.4</pdop></trkpt>
+</trkseg></trk></gpx>

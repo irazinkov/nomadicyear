@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Document><name>2016-11-28T04:12:47Z</name>
+<Placemark>
+<gx:Track>
+
+<when>2016-11-28T04:12:47Z</when>
+<gx:coord>77.2140639 28.5427923 0.0</gx:coord>
+
+<when>2016-11-28T04:18:01Z</when>
+<gx:coord>77.2140639 28.5429716 0.0</gx:coord>
+
+<when>2016-11-28T04:23:06Z</when>
+<gx:coord>77.2139741 28.5426941 0.0</gx:coord>
+
+<when>2016-11-28T04:28:09Z</when>
+<gx:coord>77.2140639 28.5427923 0.0</gx:coord>
+
+<when>2016-11-28T04:33:12Z</when>
+<gx:coord>77.214019 28.5428328 0.0</gx:coord>
+
+<when>2016-11-28T04:38:06Z</when>
+<gx:coord>77.2137944 28.5431252 0.0</gx:coord>
+
+<when>2016-11-28T04:43:36Z</when>
+<gx:coord>77.1969954 28.5458266 0.0</gx:coord>
+
+<when>2016-11-28T05:05:00Z</when>
+<gx:coord>77.12736843 28.56055165 182.0</gx:coord>
+</gx:Track>
+</Placemark></Document></kml>

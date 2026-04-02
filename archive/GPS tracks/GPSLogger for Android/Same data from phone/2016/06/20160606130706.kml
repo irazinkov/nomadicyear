@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Document><name>2016-06-06T04:07:29Z</name>
+<Placemark>
+<gx:Track>
+
+<when>2016-06-06T04:07:29Z</when>
+<gx:coord>131.88380219 43.10955827 27.0</gx:coord>
+
+<when>2016-06-06T04:12:30Z</when>
+<gx:coord>131.88348055 43.1108638 43.0</gx:coord>
+</gx:Track>
+</Placemark></Document></kml>

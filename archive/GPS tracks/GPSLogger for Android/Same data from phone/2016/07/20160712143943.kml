@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Document><name>2016-07-12T04:40:44Z</name>
+<Placemark>
+<gx:Track>
+
+<when>2016-07-12T04:40:44Z</when>
+<gx:coord>100.7190677 46.19171835 1866.0</gx:coord>
+
+<when>2016-07-12T05:06:03Z</when>
+<gx:coord>100.70836886 46.1891679 1837.0</gx:coord>
+
+<when>2016-07-12T05:11:14Z</when>
+<gx:coord>100.71266279 46.19424968 1817.0</gx:coord>
+
+<when>2016-07-12T05:16:23Z</when>
+<gx:coord>100.68939386 46.2142658 1914.0</gx:coord>
+
+<when>2016-07-12T05:25:03Z</when>
+<gx:coord>100.64710827 46.25177593 2002.0</gx:coord>
+
+<when>2016-07-12T05:30:16Z</when>
+<gx:coord>100.66064939 46.26821751 2028.0</gx:coord>
+
+<when>2016-07-12T05:35:29Z</when>
+<gx:coord>100.66779298 46.28366545 2049.0</gx:coord>
+
+<when>2016-07-12T05:41:00Z</when>
+<gx:coord>100.68667946 46.30733235 1981.0</gx:coord>
+
+<when>2016-07-12T05:46:28Z</when>
+<gx:coord>100.71116134 46.29937933 1907.0</gx:coord>
+
+<when>2016-07-12T05:55:02Z</when>
+<gx:coord>100.71518796 46.29678051 1907.0</gx:coord>
+
+<when>2016-07-12T06:00:07Z</when>
+<gx:coord>100.71499731 46.29688778 1888.0</gx:coord>
+
+<when>2016-07-12T06:05:14Z</when>
+<gx:coord>100.71517644 46.29676554 1907.0</gx:coord>
+
+<when>2016-07-12T06:10:27Z</when>
+<gx:coord>100.71512751 46.2967112 1889.0</gx:coord>
+
+<when>2016-07-12T06:15:44Z</when>
+<gx:coord>100.71524052 46.29657879 1910.0</gx:coord>
+
+<when>2016-07-12T06:20:50Z</when>
+<gx:coord>100.71537305 46.29648949 1898.0</gx:coord>
+
+<when>2016-07-12T06:25:55Z</when>
+<gx:coord>100.71513358 46.29674839 1918.0</gx:coord>
+
+<when>2016-07-12T06:32:00Z</when>
+<gx:coord>100.71503478 46.29667753 1881.0</gx:coord>
+
+<when>2016-07-12T06:40:02Z</when>
+<gx:coord>100.71518768 46.29665823 1884.0</gx:coord>
+
+<when>2016-07-12T06:45:08Z</when>
+<gx:coord>100.71530881 46.29675783 1897.0</gx:coord>
+
+<when>2016-07-12T06:50:59Z</when>
+<gx:coord>100.71509278 46.29656456 1887.0</gx:coord>
+
+<when>2016-07-12T06:56:05Z</when>
+<gx:coord>100.71513674 46.29666825 1924.0</gx:coord>
+
+<when>2016-07-12T07:01:28Z</when>
+<gx:coord>100.71508046 46.29676391 1888.0</gx:coord>
+
+<when>2016-07-12T07:10:02Z</when>
+<gx:coord>100.7152366 46.29667337 1933.0</gx:coord>
+
+<when>2016-07-12T07:15:13Z</when>
+<gx:coord>100.71521015 46.29663576 1901.0</gx:coord>
+
+<when>2016-07-12T07:20:43Z</when>
+<gx:coord>100.71530016 46.29674318 1906.0</gx:coord>
+
+<when>2016-07-12T07:25:47Z</when>
+<gx:coord>100.71521855 46.29670281 1950.0</gx:coord>
+
+<when>2016-07-12T07:31:44Z</when>
+<gx:coord>100.71530979 46.29676126 1930.0</gx:coord>
+
+<when>2016-07-12T07:40:03Z</when>
+<gx:coord>100.71542011 46.29670405 1895.0</gx:coord>
+
+<when>2016-07-12T07:45:44Z</when>
+<gx:coord>100.71516415 46.29668205 1919.0</gx:coord>
+
+<when>2016-07-12T07:50:49Z</when>
+<gx:coord>100.71516362 46.29657316 1909.0</gx:coord>
+
+<when>2016-07-12T07:56:04Z</when>
+<gx:coord>100.7153656 46.29675 1908.0</gx:coord>
+
+<when>2016-07-12T08:01:10Z</when>
+<gx:coord>100.71521246 46.29680675 1935.0</gx:coord>
+
+<when>2016-07-12T08:06:17Z</when>
+<gx:coord>100.70233405 46.30112267 1965.0</gx:coord>
+
+<when>2016-07-12T08:11:23Z</when>
+<gx:coord>100.68648293 46.30097778 1936.0</gx:coord>
+
+<when>2016-07-12T08:16:32Z</when>
+<gx:coord>100.66466867 46.28210045 1997.0</gx:coord>
+
+<when>2016-07-12T08:25:06Z</when>
+<gx:coord>100.64746943 46.26176281 2043.0</gx:coord>
+
+<when>2016-07-12T08:32:00Z</when>
+<gx:coord>100.66196372 46.23343236 1964.0</gx:coord>
+
+<when>2016-07-12T08:37:07Z</when>
+<gx:coord>100.68962439 46.21403887 1895.0</gx:coord>
+
+<when>2016-07-12T08:42:19Z</when>
+<gx:coord>100.71235632 46.19676634 1824.0</gx:coord>
+
+<when>2016-07-12T08:47:30Z</when>
+<gx:coord>100.71389399 46.19608052 1838.0</gx:coord>
+
+<when>2016-07-12T09:34:11Z</when>
+<gx:coord>100.71287049 46.19629638 1834.0</gx:coord>
+
+<when>2016-07-12T09:40:36Z</when>
+<gx:coord>100.70840729 46.19921768 1851.0</gx:coord>
+
+<when>2016-07-12T09:45:48Z</when>
+<gx:coord>100.70815802 46.19917137 1833.0</gx:coord>
+
+<when>2016-07-12T09:51:18Z</when>
+<gx:coord>100.70865084 46.19887476 1905.0</gx:coord>
+
+<when>2016-07-12T09:56:29Z</when>
+<gx:coord>100.70853975 46.19912508 1847.0</gx:coord>
+
+<when>2016-07-12T10:13:19Z</when>
+<gx:coord>100.70892595 46.19924444 1823.0</gx:coord>
+
+<when>2016-07-12T10:20:03Z</when>
+<gx:coord>100.71892573 46.19069448 1821.0</gx:coord>
+
+<when>2016-07-12T10:25:59Z</when>
+<gx:coord>100.71879213 46.19542729 1830.0</gx:coord>
+
+<when>2016-07-12T10:31:25Z</when>
+<gx:coord>100.72128941 46.19430583 1816.0</gx:coord>
+
+<when>2016-07-12T10:37:02Z</when>
+<gx:coord>100.72089684 46.19435609 1827.0</gx:coord>
+
+<when>2016-07-12T10:44:51Z</when>
+<gx:coord>100.72122729 46.19436205 1833.0</gx:coord>
+</gx:Track>
+</Placemark></Document></kml>

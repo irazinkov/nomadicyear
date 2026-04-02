@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://furkot.com/" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+  <metadata>
+    <name>BeNeLux Xmas 2016</name>
+    <author>
+      <name>Furkot - road trip planner</name>
+      <email id="trips" domain="furkot.com"></email>
+      <link href="https://trips.furkot.com">
+        <text>Furkot</text>
+      </link>
+    </author>
+  </metadata>
+  <rte>
+    <name>BeNeLux Xmas 2016</name>
+    <rtept lat="52.05122" lon="-0.02403">
+      <time>2016-12-24T09:00:00.000Z</time>
+      <name>Home</name>
+      <cmt>Royston SG8, UK</cmt>
+      <desc>Royston SG8, UK</desc>
+    </rtept>
+    <rtept lat="50.94112" lon="1.86768">
+      <time>2016-12-24T13:26:04.000Z</time>
+      <cmt>Calais, France</cmt>
+      <desc>Calais, France</desc>
+    </rtept>
+    <rtept lat="51.20963" lon="3.22906">
+      <time>2016-12-24T15:45:24.000Z</time>
+      <name>Charlie Rockets Youth Hostel</name>
+      <cmt>Hoogstraat 19 8000 Bruges, Belgium</cmt>
+      <desc>Hoogstraat 19 8000 Bruges, Belgium</desc>
+      <sym>Lodging</sym>
+    </rtept>
+    <rtept lat="50.83183" lon="4.35314">
+      <time>2016-12-25T09:15:23.000Z</time>
+      <name>The Pantone Hotel Brussels</name>
+      <cmt>Place Loix 1 1060 Saint-Gilles, Bruxelles, Belgium</cmt>
+      <desc>Place Loix 1 1060 Saint-Gilles, Bruxelles, Belgium</desc>
+      <sym>Lodging</sym>
+    </rtept>
+    <rtept lat="51.22065" lon="4.41101">
+      <time>2016-12-26T08:48:18.000Z</time>
+      <name>Antwerp</name>
+      <cmt>Universiteitsbuurt, 2000 Antwerpen, Belgium</cmt>
+      <desc>Universiteitsbuurt, 2000 Antwerpen, Belgium</desc>
+      <sym>Lodging</sym>
+    </rtept>
+    <rtept lat="52.06938" lon="4.29016">
+      <time>2016-12-27T09:28:06.000Z</time>
+      <name>The Hague</name>
+      <cmt>The Hague, Netherlands</cmt>
+      <desc>The Hague, Netherlands</desc>
+    </rtept>
+    <rtept lat="52.37078" lon="4.96920">
+      <time>2016-12-27T11:19:42.000Z</time>
+      <name>Amsterdam AirBnB</name>
+      <cmt>Leo Hornstraat, 1095 Amsterdam, Noord-Holland, Netherlands</cmt>
+      <desc>Leo Hornstraat, 1095 Amsterdam, Noord-Holland, Netherlands</desc>
+      <sym>Lodging</sym>
+    </rtept>
+    <rtept lat="52.37078" lon="4.96920">
+      <time>2016-12-28T08:00:00.000Z</time>
+      <name>Amsterdam AirBnB</name>
+      <cmt>Leo Hornstraat, 1095 Amsterdam, Noord-Holland, Netherlands</cmt>
+      <desc>Leo Hornstraat, 1095 Amsterdam, Noord-Holland, Netherlands</desc>
+    </rtept>
+    <rtept lat="51.44374" lon="5.47394">
+      <time>2016-12-29T09:16:03.000Z</time>
+      <name>Eindhoven</name>
+      <cmt>Eindhoven, Netherlands</cmt>
+      <desc>Eindhoven, Netherlands</desc>
+    </rtept>
+    <rtept lat="49.61296" lon="6.13811">
+      <time>2016-12-29T13:18:02.000Z</time>
+      <name>Youth Hostel Luxembourg City</name>
+      <cmt>2 Rue du Fort Olisy, Luxembourg City, Luxembourg</cmt>
+      <desc>2 Rue du Fort Olisy, Luxembourg City, Luxembourg</desc>
+      <sym>Lodging</sym>
+    </rtept>
+    <rtept lat="46.99056" lon="3.15857">
+      <time>2016-12-30T14:13:18.000Z</time>
+      <name>Nevers</name>
+      <cmt>58000 Nevers, France</cmt>
+      <desc>58000 Nevers, France</desc>
+      <sym>Lodging</sym>
+    </rtept>
+    <rtept lat="46.99056" lon="3.15857">
+      <time>2016-12-31T08:00:00.000Z</time>
+      <name>Nevers</name>
+      <cmt>58000 Nevers, France</cmt>
+      <desc>58000 Nevers, France</desc>
+    </rtept>
+    <rtept lat="50.46875" lon="1.59077">
+      <time>2017-01-01T14:27:27.000Z</time>
+      <name>chez claudine et pierre</name>
+      <cmt>Merlimont</cmt>
+      <desc>Merlimont</desc>
+      <link href="https://trips.furkot.com/book/bedandbreakfast?id=2036505&amp;brand=france-merlimont-claudineetpierregodvin&amp;lang=en-US"></link>
+      <sym>Lodging</sym>
+    </rtept>
+    <rtept lat="51.48822" lon="0.01725">
+      <time>2017-01-02T11:08:33.000Z</time>
+      <cmt>930 Peartree Way, London SE10 0RS, UK</cmt>
+      <desc>930 Peartree Way, London SE10 0RS, UK</desc>
+    </rtept>
+    <rtept lat="51.56111" lon="0.00113">
+      <time>2017-01-02T11:30:09.000Z</time>
+      <cmt>M25, Upminster RM14, UK</cmt>
+      <desc>M25, Upminster RM14, UK</desc>
+    </rtept>
+    <rtept lat="52.05122" lon="-0.02403">
+      <time>2017-01-02T12:29:10.000Z</time>
+      <name>Home</name>
+      <cmt>Royston SG8, UK</cmt>
+      <desc>Royston SG8, UK</desc>
+    </rtept>
+  </rte>
+</gpx>

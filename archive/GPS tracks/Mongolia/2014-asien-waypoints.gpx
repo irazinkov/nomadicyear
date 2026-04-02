@@ -1,0 +1,4692 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2015-02-08T08:45:45Z</time>
+    <bounds maxlat="56.37871996499598" maxlon="107.78902701102197" minlat="-34.180290699005127" minlon="10.423986911773682" />
+  </metadata>
+
+  <wpt lat="43.346608579158783" lon="78.928104126825929">
+    <ele>1315</ele>
+    <time>2010-06-19T07:55:23Z</time>
+    <name>!JC to NP</name>
+    <cmt>Junction to NP Charyn</cmt>
+    <desc>Junction to NP Charyn</desc>
+    <sym>Flag</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-06-19T07:55:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.326547080650926" lon="78.937382306903601">
+    <ele>0</ele>
+    <time>2014-05-20T09:09:53Z</time>
+    <name>!JC to NP1</name>
+    <sym>Flag</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-20T09:09:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.878202984109521" lon="20.355767011642456">
+    <ele>100.9688</ele>
+    <time>2014-04-08T17:24:29Z</time>
+    <name>01 Dunav Camping Donau Beograd</name>
+    <cmt>Beograd Camping Donau
+Price: 2 x 8,-€/night/person
+Campground: next to the Donau river, clean, quiet 
+Sanitair: clean (we were the only guests), OK
+Electricity: availabe
+Wifi: no
+Price is OK for a quite night (about 7-10Km away from the highway) and with a hot shower. 
+</cmt>
+    <desc>Beograd Camping Donau
+Price: 2 x 8,-€/night/person
+Campground: next to the Donau river, clean, quiet 
+Sanitair: clean (we were the only guests), OK
+Electricity: availabe
+Wifi: no
+Price is OK for a quite night (about 7-10Km away from the highway) and with a hot shower. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-08T17:24:29Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.605285964906216" lon="26.644321968778968">
+    <ele>90.185249999999996</ele>
+    <time>2014-04-10T03:39:55Z</time>
+    <name>02 BC Edrine hills</name>
+    <cmt>First (wild) camp in Turkey not far from the border. Off the highway in the fields in the middle of nowhere. Quite night exept for some far away factory noise in the early morning. 
+</cmt>
+    <desc>First (wild) camp in Turkey not far from the border. Off the highway in the fields in the middle of nowhere. Quite night exept for some far away factory noise in the early morning. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-10T03:39:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.683469962328672" lon="33.570630960166454">
+    <ele>1016.7430000000001</ele>
+    <time>2014-04-10T15:03:50Z</time>
+    <name>03 BC hills Keskin</name>
+    <cmt>Excellent wild camp spot with nice view on hils. Very quite.</cmt>
+    <desc>Excellent wild camp spot with nice view on hils. Very quite.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-10T15:03:50Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.976276027038693" lon="38.737300029024482">
+    <ele>2012.5</ele>
+    <time>2014-04-11T16:04:13Z</time>
+    <name>04 BC Nemrut Daggi</name>
+    <cmt>Nemrut Daggi is meanwhile a World culture heritage. After a very steep car climb we got into the Nemrut park and were positively surprised that we are allowed to stay for the night within the park. The Nemrut is exceptional at sunrise and sunset. It was still (in April) freezing during the night given the altitude of 2.100 meter. Busses come in the morning with tourist to experience the sunrise. 
+</cmt>
+    <desc>Nemrut Daggi is meanwhile a World culture heritage. After a very steep car climb we got into the Nemrut park and were positively surprised that we are allowed to stay for the night within the park. The Nemrut is exceptional at sunrise and sunset. It was still (in April) freezing during the night given the altitude of 2.100 meter. Busses come in the morning with tourist to experience the sunrise. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-11T16:04:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.341106995940208" lon="43.757370030507445">
+    <ele>1943.2529999999999</ele>
+    <time>2014-04-12T14:51:42Z</time>
+    <name>05 BC Among a creek</name>
+    <cmt>Nice quite spot close to the road but behind a small hill among a creek.</cmt>
+    <desc>Nice quite spot close to the road but behind a small hill among a creek.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-12T14:51:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="36.5323989931494" lon="46.183997970074415">
+    <ele>1342.002</ele>
+    <time>2014-04-14T02:37:14Z</time>
+    <name>06 BC Toyota garage</name>
+    <cmt>Wild Camp at the Toyota garage in Bukan.</cmt>
+    <desc>Wild Camp at the Toyota garage in Bukan.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-14T02:37:14Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="34.576222971081734" lon="50.395584963262081">
+    <ele>1485.779</ele>
+    <time>2014-04-15T02:34:04Z</time>
+    <name>07 BC old factory lot</name>
+    <cmt>Wild camp off the highway to Esfahan within an old factory lot protected by a fence (guard). We forgot to take pictures. 
+</cmt>
+    <desc>Wild camp off the highway to Esfahan within an old factory lot protected by a fence (guard). We forgot to take pictures. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-15T02:34:04Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="32.640597028657794" lon="51.715303966775537">
+    <ele>1587.8889999999999</ele>
+    <time>2014-04-15T07:45:52Z</time>
+    <name>08 BC Gabhir Garden Isfahan</name>
+    <cmt>Used by many overlanders. Parking with fence and police surveillance and public toilets. Small growcery stores accross the street which supply bread, water, an others... Initialy the police did not want us to sleep here. After some discussion we were allowed to park and sleep in front of the police caravan on the parking. 
+</cmt>
+    <desc>Used by many overlanders. Parking with fence and police surveillance and public toilets. Small growcery stores accross the street which supply bread, water, an others... Initialy the police did not want us to sleep here. After some discussion we were allowed to park and sleep in front of the police caravan on the parking. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-15T07:45:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.900920979678631" lon="54.369941968470812">
+    <ele>1214.78</ele>
+    <time>2014-04-17T05:50:53Z</time>
+    <name>09 BC Yazd in front of Silkroad Hotel</name>
+    <cmt>Very recommendable wild camp on public parking in front of the Silk Road hotel. This is the most central wild camp place in Yazd with 100 meter walk to public toilets (which have also soap) which are located left on the street 50 meter in front of the scenic mosque. We were allowed to use the wifi of the Silk Road hotel for free. 
+</cmt>
+    <desc>Very recommendable wild camp on public parking in front of the Silk Road hotel. This is the most central wild camp place in Yazd with 100 meter walk to public toilets (which have also soap) which are located left on the street 50 meter in front of the scenic mosque. We were allowed to use the wifi of the Silk Road hotel for free. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-17T05:50:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="33.400444965809584" lon="57.099788021296263">
+    <ele>917.75509999999997</ele>
+    <time>2014-04-17T12:22:23Z</time>
+    <name>10 BC on the way to Tabas</name>
+    <cmt>Wild camp about 300 meter off the road behind a water reservoir. Very quite, no noise of road. 
+
+</cmt>
+    <desc>Wild camp about 300 meter off the road behind a water reservoir. Very quite, no noise of road. 
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-17T12:22:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="35.764630995690823" lon="59.268396003171802">
+    <ele>1662.2750000000001</ele>
+    <time>2014-04-18T08:59:45Z</time>
+    <name>11 BC hills off the way to Mashhad</name>
+    <cmt>Wild camp off the highway to Mashhad. Gravel piste of the road which goes into small hills. Wind free, no noise of highway in the middle of the nature. 
+</cmt>
+    <desc>Wild camp off the highway to Mashhad. Gravel piste of the road which goes into small hills. Wind free, no noise of highway in the middle of the nature. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-18T08:59:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.425352977588773" lon="58.534836983308196">
+    <ele>1767.779</ele>
+    <time>2014-04-19T12:47:42Z</time>
+    <name>12 BC hills on the way to the border</name>
+    <cmt>Wild camp on the way to the border. Very quite, a little cold due to the altitude of 1.700 meter. 
+</cmt>
+    <desc>Wild camp on the way to the border. Very quite, a little cold due to the altitude of 1.700 meter. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-19T12:47:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.251096971333027" lon="58.439625017344952">
+    <ele>127.39149999999999</ele>
+    <time>2014-04-21T02:14:17Z</time>
+    <name>13 BC Dervaza Gas Crater</name>
+    <cmt>Wild camp direct in front of the Dervaza Gas Crater. Unbelievable spot and experiance!!! See pictures. Very recommendable. 
+</cmt>
+    <desc>Wild camp direct in front of the Dervaza Gas Crater. Unbelievable spot and experiance!!! See pictures. Very recommendable. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-21T02:14:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.087664995342493" lon="59.7620780300349">
+    <ele>91.327420000000004</ele>
+    <time>2014-04-21T10:50:10Z</time>
+    <name>14 BC farm fields</name>
+    <cmt>Wild camp of the main road, quite on farmland.</cmt>
+    <desc>Wild camp of the main road, quite on farmland.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-21T10:50:10Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.33080679923296" lon="61.464622020721436">
+    <ele>179.72640000000001</ele>
+    <time>2014-04-23T02:31:57Z</time>
+    <name>15 BC close to highway to Bukhara</name>
+    <cmt>Wild camp off the new highway to Bukhara within the dunes. First we tried the other site of the highway direct at the river. However, military visited us and we needed to leave as the border with Turkmenitan is too close. 
+</cmt>
+    <desc>Wild camp off the new highway to Bukhara within the dunes. First we tried the other site of the highway direct at the river. However, military visited us and we needed to leave as the border with Turkmenitan is too close. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-23T02:31:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.77391698397696" lon="64.419183963909745">
+    <ele>280.72120000000001</ele>
+    <time>2014-04-23T11:49:47Z</time>
+    <name>16 BC parking hotel Asia Bukhara</name>
+    <cmt>Wild camp on the parking of the hotel Asia Bukhara protected by fence and security guard. Clean toilets, water and wifi available. Asked hotel manager if we could stay. Payed parking guard 2000 Sum (~0,65 Euro). Excellent location direct in front of the old town. 
+
+</cmt>
+    <desc>Wild camp on the parking of the hotel Asia Bukhara protected by fence and security guard. Clean toilets, water and wifi available. Asked hotel manager if we could stay. Payed parking guard 2000 Sum (~0,65 Euro). Excellent location direct in front of the old town. 
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-23T11:49:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.656323911622167" lon="66.979286670684814">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>17 BC guesthouse Bahodir Samarquand</name>
+    <cmt>This great place is well known among Uzbekistan budget travelers. You meet here interesting people from all over the world. Also the location can not be better as everything is in walking distance just behind the Registan. We paid for using shower breakfast/dinner and therefore we could sleep in our cars in front of the guesthouse. The guesthouse did do the mandatory registration for us. 
+</cmt>
+    <desc>This great place is well known among Uzbekistan budget travelers. You meet here interesting people from all over the world. Also the location can not be better as everything is in walking distance just behind the Registan. We paid for using shower breakfast/dinner and therefore we could sleep in our cars in front of the guesthouse. The guesthouse did do the mandatory registration for us. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.090140039101243" lon="69.168077018111944">
+    <ele>625.41049999999996</ele>
+    <time>2014-04-26T12:36:24Z</time>
+    <name>18 BC between hils and cheeps</name>
+    <cmt>Quite wild camp after Uzbekistan - Tajikistan border.</cmt>
+    <desc>Quite wild camp after Uzbekistan - Tajikistan border.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-26T12:36:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.064182015135884" lon="68.358802003785968">
+    <ele>2133.701</ele>
+    <time>2014-04-27T06:35:36Z</time>
+    <name>19 BC Iskanderkul</name>
+    <cmt>Wild camp Iskanderkul lake. Continue on gravel road on the right side of the lake. This is a wonderful wild camp area.
+</cmt>
+    <desc>Wild camp Iskanderkul lake. Continue on gravel road on the right side of the lake. This is a wonderful wild camp area.
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-27T06:35:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.745692133903503" lon="69.421491622924805">
+    <ele>733.6902</ele>
+    <time>2014-04-28T10:54:17Z</time>
+    <name>20 BC green hills</name>
+    <cmt>Quite spot wild camp just off the road behind some (green) hills. You believe you are in Scotland with the green gras and the sheeps standing on the hills. 
+</cmt>
+    <desc>Quite spot wild camp just off the road behind some (green) hills. You believe you are in Scotland with the green gras and the sheeps standing on the hills. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-28T10:54:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.45698295161128" lon="70.780234336853027">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>21 BC guesthouse Kalaikhum</name>
+    <cmt>Price: 10,-U$/night/car
+Campground: quiet, we did sleep in our cars 
+Sanitair: shower with warm water and toilet
+Electricity: ?
+Wifi: no
+</cmt>
+    <desc>Price: 10,-U$/night/car
+Campground: quiet, we did sleep in our cars 
+Sanitair: shower with warm water and toilet
+Electricity: ?
+Wifi: no
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.48670700006187" lon="71.56212299130857">
+    <ele>2146.049</ele>
+    <time>2014-04-30T11:02:55Z</time>
+    <name>22 BC guesthouse Pamir Lodge Kohrog</name>
+    <cmt>Pamir Lodge. This is the place where you meet other overlanders and travellers. The garden is a pleasant spot overlooked by a wide open balcony where travellers enjoy their cooking or exhanging experiances. The lodge was established to fund the local jamoat khana. 
+Price: 2 x 6,-U$/night/person
+Campground: clean, quiet, we did sleep in our car 
+Sanitair: OK, shower with warm water and toilet
+Electricity: available
+Wifi: yes (free)
+
+</cmt>
+    <desc>Pamir Lodge. This is the place where you meet other overlanders and travellers. The garden is a pleasant spot overlooked by a wide open balcony where travellers enjoy their cooking or exhanging experiances. The lodge was established to fund the local jamoat khana. 
+Price: 2 x 6,-U$/night/person
+Campground: clean, quiet, we did sleep in our car 
+Sanitair: OK, shower with warm water and toilet
+Electricity: available
+Wifi: yes (free)
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-30T11:02:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="36.727223005145788" lon="71.611382011324167">
+    <ele>2535.8710000000001</ele>
+    <time>2014-05-02T09:34:24Z</time>
+    <name>23 BC guesthouse Hanis Ishkashim</name>
+    <cmt>Guesthouse in Isthashim on the Wakhan valley road. Clean shower and toilet, hot water, wind schielded. 
+Price: 15 Sumoni/night/car
+Campground: quite, we did sleep in our car
+Sanitair: Clean, shower with warm water and toilet
+Electricity: no
+Wifi: no
+
+</cmt>
+    <desc>Guesthouse in Isthashim on the Wakhan valley road. Clean shower and toilet, hot water, wind schielded. 
+Price: 15 Sumoni/night/car
+Campground: quite, we did sleep in our car
+Sanitair: Clean, shower with warm water and toilet
+Electricity: no
+Wifi: no
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-02T09:34:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.037691967561841" lon="72.656940026208758">
+    <ele>2815.2020000000002</ele>
+    <time>2014-05-03T10:17:28Z</time>
+    <name>24 BC homestay</name>
+    <cmt>Guesthouse in on the Wakhan valley road. We did take this place as we wanted to stay protected (after a fense, wall) 
+Price: 5 U$/night/car, the owner wanted first from us 15 U$ (for what?) which we refused to pay
+Campground: after fense
+Sanitair: not existing, toilet with hole in the ground 
+Electricity: no
+Wifi: no
+</cmt>
+    <desc>Guesthouse in on the Wakhan valley road. We did take this place as we wanted to stay protected (after a fense, wall) 
+Price: 5 U$/night/car, the owner wanted first from us 15 U$ (for what?) which we refused to pay
+Campground: after fense
+Sanitair: not existing, toilet with hole in the ground 
+Electricity: no
+Wifi: no
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-03T10:17:28Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.182104974985123" lon="73.986670039594173">
+    <ele>3615.9409999999998</ele>
+    <time>2014-05-04T09:46:48Z</time>
+    <name>25 BC guesthouse Murgab</name>
+    <cmt>Normally the guesthouse opens first in June. We could stay as we don't needed a room. Showers were not working jet. Toilet was OK. It was nice we could cook and eat in the veranda as we had cold wether with showers in the evening. The veranda is warm as long as the sun shines. Beginning of May it gets cold after sunset and we had around freezing temperetaure during the night. 
+Price: 5 U$/night/car
+Campground: 2 cars can take place after the fense next to the house. We did sleep in our car
+Sanitair: we didn't use the shower as the guesthouse was still closed, European style toilet was OK
+Electricity: yes (we didn't use)
+Wifi: no
+</cmt>
+    <desc>Normally the guesthouse opens first in June. We could stay as we don't needed a room. Showers were not working jet. Toilet was OK. It was nice we could cook and eat in the veranda as we had cold wether with showers in the evening. The veranda is warm as long as the sun shines. Beginning of May it gets cold after sunset and we had around freezing temperetaure during the night. 
+Price: 5 U$/night/car
+Campground: 2 cars can take place after the fense next to the house. We did sleep in our car
+Sanitair: we didn't use the shower as the guesthouse was still closed, European style toilet was OK
+Electricity: yes (we didn't use)
+Wifi: no
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-04T09:46:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.305092018097639" lon="73.457228969782591">
+    <ele>1545.0619999999999</ele>
+    <time>2014-05-07T01:28:17Z</time>
+    <name>26 BC next to fuelstation</name>
+    <cmt>We were allowed to wild camp next to the fuelstation. Noisy due to cars getting fuel during the night.</cmt>
+    <desc>We were allowed to wild camp next to the fuelstation. Noisy due to cars getting fuel during the night.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-07T01:28:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.329469382762909" lon="72.940270900726318">
+    <ele>1388.0630000000001</ele>
+    <time>2014-05-08T09:51:03Z</time>
+    <name>27 BC guesthouse Arslanbob</name>
+    <cmt>Very friendly people! 1 Kilometer from town center. Recommendable. Disadvantage was that toilet and shower was not very clean.</cmt>
+    <desc>Very friendly people! 1 Kilometer from town center. Recommendable. Disadvantage was that toilet and shower was not very clean.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-08T09:51:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.527752965688705" lon="72.212051991373301">
+    <ele>1210.069</ele>
+    <time>2014-05-11T01:04:28Z</time>
+    <name>28 BC parking Kerbin Palace in Talas</name>
+    <cmt>Wild camp on the parking lot of the hotel Kerbin Palace (best hotel in town). No cost. Wifi availabe for 200 Sum (2,60 €). 
+Quite and off the street. 
+
+</cmt>
+    <desc>Wild camp on the parking lot of the hotel Kerbin Palace (best hotel in town). No cost. Wifi availabe for 200 Sum (2,60 €). 
+Quite and off the street. 
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-11T01:04:28Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.56591803394258" lon="74.482709979638457">
+    <ele>2111.3240000000001</ele>
+    <time>2014-05-13T02:47:27Z</time>
+    <name>29 BC Ala Archa NP</name>
+    <cmt>Wild camp within the Ala Archa National Park. On the site of the road (parking lot). Not so quite during weekends and summer season. It was freezing during the night given the high altitutde and early season. Ideal start hiking trips from here. 
+
+
+
+
+</cmt>
+    <desc>Wild camp within the Ala Archa National Park. On the site of the road (parking lot). Not so quite during weekends and summer season. It was freezing during the night given the high altitutde and early season. Ideal start hiking trips from here. 
+
+
+
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-13T02:47:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.675778968259692" lon="75.158745003864169">
+    <ele>1298.48</ele>
+    <time>2014-05-14T01:24:41Z</time>
+    <name>30 BC Kegeti Canyon</name>
+    <cmt>Wild camp next to the route, behind hill, next to the river. Quite spot. 
+
+</cmt>
+    <desc>Wild camp next to the route, behind hill, next to the river. Quite spot. 
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-14T01:24:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.429136749356985" lon="76.021566716954112">
+    <ele>0</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>31 BC the Celestial mountains Naryn</name>
+    <cmt>The Celestial mountains Naryn. A good and convenient place to relax a few days and to get everything washed and cleaned. They have shared toilets and hot showers in rather small compartments which are cleaned every day. They serve a better than expected breakfast and dinner at the basement dining room. All in all a good all rounder and good value but lacked the character of the other homestay places we stayed in. 
+Price: 200 Sum (2,60€) /person/night (use of hot shower inlcuded), 200 Sum (2,60 €) /person for breakfast, 350 Sum (4,55€)/person for a good dinner 
+Campground: after fence/wall, we did sleep in our car, up to 5-6 cars can park next to the guesthouse
+Sanitair: European style toilet, hot shower (old but clean) 
+Laundery service: 300 Sumoni (3,90€/machine)
+Electricity: we didn't use
+Wifi: yes (free)
+
+</cmt>
+    <desc>The Celestial mountains Naryn. A good and convenient place to relax a few days and to get everything washed and cleaned. They have shared toilets and hot showers in rather small compartments which are cleaned every day. They serve a better than expected breakfast and dinner at the basement dining room. All in all a good all rounder and good value but lacked the character of the other homestay places we stayed in. 
+Price: 200 Sum (2,60€) /person/night (use of hot shower inlcuded), 200 Sum (2,60 €) /person for breakfast, 350 Sum (4,55€)/person for a good dinner 
+Campground: after fence/wall, we did sleep in our car, up to 5-6 cars can park next to the guesthouse
+Sanitair: European style toilet, hot shower (old but clean) 
+Laundery service: 300 Sumoni (3,90€/machine)
+Electricity: we didn't use
+Wifi: yes (free)
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.794116999953985" lon="77.036236999556422">
+    <ele>2931.297</ele>
+    <time>2014-05-18T10:31:28Z</time>
+    <name>32 BC return (snow and broken bridge)</name>
+    <cmt>Our plan was to pass the mountains to get to Lake Issyk Kul. This route is really remote and not often used due to snow conditions. We needed to return as both snow and a broken bridge made it impossible to continue. However we were very happy to have experienced this fantastic scenery. 
+</cmt>
+    <desc>Our plan was to pass the mountains to get to Lake Issyk Kul. This route is really remote and not often used due to snow conditions. We needed to return as both snow and a broken bridge made it impossible to continue. However we were very happy to have experienced this fantastic scenery. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-18T10:31:28Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.489631148055196" lon="78.391377925872803">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>33 BC guesthouse Karakol</name>
+    <cmt>We met in town a Belgium tour organizer who recommended this guesthouse as a good cost effective place to stay. We could park the car in the patio behind the closed fence and protected from wind. Hot clean showers are available in the sauna area. Breakfast was really great! They don’t serve dinner but a good price/value restaurant owned by a Muslim (no beer) is just around the corner. We can really recommend this place to budget travelers.
+Price: 200 Sum (2,60€) /person/night (use of hot shower inlcuded), 200 Sum (2,60 €) /person for breakfast, 350 Sum (4,55€)/person for a good dinner 
+Campground: after fense/wall, we did sleep in our car, up to 5-6 cars can park next to the guesthouse
+Sanitair: European style toilet, hot shower (old but clean) 
+Laundery service: 300 Sumoni (3,90€/machine)
+Electricity: we didn't use
+Wifi: yes (free)
+
+
+
+</cmt>
+    <desc>We met in town a Belgium tour organizer who recommended this guesthouse as a good cost effective place to stay. We could park the car in the patio behind the closed fence and protected from wind. Hot clean showers are available in the sauna area. Breakfast was really great! They don’t serve dinner but a good price/value restaurant owned by a Muslim (no beer) is just around the corner. We can really recommend this place to budget travelers.
+Price: 200 Sum (2,60€) /person/night (use of hot shower inlcuded), 200 Sum (2,60 €) /person for breakfast, 350 Sum (4,55€)/person for a good dinner 
+Campground: after fense/wall, we did sleep in our car, up to 5-6 cars can park next to the guesthouse
+Sanitair: European style toilet, hot shower (old but clean) 
+Laundery service: 300 Sumoni (3,90€/machine)
+Electricity: we didn't use
+Wifi: yes (free)
+
+
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.544955421239138" lon="79.462502002716064">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>34 BC Shonzy Parking Hotel</name>
+    <cmt>We stayed next to the hotel behind the fence. Very dirty toilets and we did not take a shower given the status of the toilet. Not recommendable. Cost 5U$/person. 
+
+</cmt>
+    <desc>We stayed next to the hotel behind the fence. Very dirty toilets and we did not take a shower given the status of the toilet. Not recommendable. Cost 5U$/person. 
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.922749925404787" lon="78.790233135223389">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>35 BC at the Altyn Emel NP</name>
+    <cmt>Wild camp at one of the ranger station of the Altyn Emil National Park. What an unforgettable place! We had the honor to sleep one cozy night under the protective arms of Eva. Eva is a 700 years old giant tree. Evas “arms” are so unbelievably long – we never saw something like that. 100% recommendable. 
+</cmt>
+    <desc>Wild camp at one of the ranger station of the Altyn Emil National Park. What an unforgettable place! We had the honor to sleep one cozy night under the protective arms of Eva. Eva is a 700 years old giant tree. Evas “arms” are so unbelievably long – we never saw something like that. 100% recommendable. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.22627772577107" lon="76.919222194701433">
+    <ele>976.09690000000001</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>36 BC Almaty at University parking</name>
+    <cmt>Wild camp on the guarded parking lot of the Almaty University. This is a good wild camp within the city. We arrived in the evening (empty parking) and asked the guard if we could park and stay for the night. The first answer was no. Be our guests was their second answer when we informed him that we are Germans travelling the world. 
+
+</cmt>
+    <desc>Wild camp on the guarded parking lot of the Almaty University. This is a good wild camp within the city. We arrived in the evening (empty parking) and asked the guard if we could park and stay for the night. The first answer was no. Be our guests was their second answer when we informed him that we are Germans travelling the world. 
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.106872355565429" lon="80.455498695373535">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>37 BC between road &amp; railway</name>
+    <cmt>Wild camp between road and railway protected by trees. 
+</cmt>
+    <desc>Wild camp between road and railway protected by trees. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.40972095914185" lon="80.248711109161377">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>38 BC parking Police Semey</name>
+    <cmt>Wild camp on parking lot next to the police (training center). This is in the middle of Semey in walking distance to shopping, restaurant, park,… 
+</cmt>
+    <desc>Wild camp on parking lot next to the police (training center). This is in the middle of Semey in walking distance to shopping, restaurant, park,… 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.547848485410213" lon="85.196013450622559">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>39 BC on hotel Parking Biysk</name>
+    <cmt>Recommendable place with good restaurant (dinner 606Rubel, 12,10 Euro for 2 people). 24 hour video surveilance + parking guard. Parking mainly used by truckdrivers, so noisy. Hotel toilets can be used and are very clean. 
+</cmt>
+    <desc>Recommendable place with good restaurant (dinner 606Rubel, 12,10 Euro for 2 people). 24 hour video surveilance + parking guard. Parking mainly used by truckdrivers, so noisy. Hotel toilets can be used and are very clean. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.009642075747252" lon="88.674709796905518">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>40 BC hotel parking Kosh-Agach</name>
+    <cmt>Wild camp on the parking lot of the hotel Pacyn in Kosh-Agach for free. We could fill up our watertank. 
+</cmt>
+    <desc>Wild camp on the parking lot of the hotel Pacyn in Kosh-Agach for free. We could fill up our watertank. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.963906113058329" lon="89.96553897857666">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>41 BC Blue Wolf guesthouse Olgi</name>
+    <cmt>Not recommendable. Promissed hot shower which was not available both in the evening and morning. Breakfast was included and promised for 8 O'clock but not served. In the morning additional payment was requested. This place is for back pakers sleeping in the Ger's but not for cars as only 1 car can park. We could put however our car behind the fence which is exceptional since there were no tourists jet. 
+Price: 10,-U$/night/car
+Campground: nor really quite due to trafic and dogs, we did sleep in our cars 
+Sanitair: shower and toilet
+Electricity: yes
+Wifi: yes (included in price)
+
+
+</cmt>
+    <desc>Not recommendable. Promissed hot shower which was not available both in the evening and morning. Breakfast was included and promised for 8 O'clock but not served. In the morning additional payment was requested. This place is for back pakers sleeping in the Ger's but not for cars as only 1 car can park. We could put however our car behind the fence which is exceptional since there were no tourists jet. 
+Price: 10,-U$/night/car
+Campground: nor really quite due to trafic and dogs, we did sleep in our cars 
+Sanitair: shower and toilet
+Electricity: yes
+Wifi: yes (included in price)
+
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.014415353536606" lon="91.636447906494141">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>42 BC Khovd River</name>
+    <cmt>Excellent wild camp next to the river just outside the city Khovd. Some childern playing over the day at the river side, but quite in the evening. 
+</cmt>
+    <desc>Excellent wild camp next to the river just outside the city Khovd. Some childern playing over the day at the river side, but quite in the evening. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="46.576474299654365" lon="95.17305850982666">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>43 BC direction towards Altay</name>
+    <cmt>Wild camp south route in the middle of nowhere direction to Altay. 
+</cmt>
+    <desc>Wild camp south route in the middle of nowhere direction to Altay. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.496721640229225" lon="97.483019828796387">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>44 C dry river&amp; high altitude</name>
+    <cmt>Wild camp south route. This road is also not often used by locals as we have seen/heard only 1 vehicle. It was cold during the night given the high altitude. 
+</cmt>
+    <desc>Wild camp south route. This road is also not often used by locals as we have seen/heard only 1 vehicle. It was cold during the night given the high altitude. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.13068082742393" lon="100.35083770751953">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>45 BC before Orog lake</name>
+    <cmt>Wild camp soutrh route before Orog lake in the middle of noware (so 100% quite).</cmt>
+    <desc>Wild camp soutrh route before Orog lake in the middle of noware (so 100% quite).</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.018532890826464" lon="101.08290910720825">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>46 BC no route to Bayanlig?</name>
+    <cmt>WC attempt to reach Bayanlig. However the GPS track data was misleading us. We believe that the data was added afterwards and not in sync with the real situation. We initially wanted to reach the Gobi via Bayanlig. We finally decided to wild camp in this quite location in the middle of nowhere and continue the next day in the direction of Dalanzagad. 
+
+</cmt>
+    <desc>WC attempt to reach Bayanlig. However the GPS track data was misleading us. We believe that the data was added afterwards and not in sync with the real situation. We initially wanted to reach the Gobi via Bayanlig. We finally decided to wild camp in this quite location in the middle of nowhere and continue the next day in the direction of Dalanzagad. 
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.593497728928924" lon="102.82638285309076">
+    <ele>0</ele>
+    <time>2014-06-03T07:59:09Z</time>
+    <name>47 BC behind hills with great view</name>
+    <cmt>Wild camp just of the road behind some small hills. Walk up the hill to see the fantastic landscape. 100% quite.</cmt>
+    <desc>Wild camp just of the road behind some small hills. Walk up the hill to see the fantastic landscape. 100% quite.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-03T07:59:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.582380451261997" lon="104.052414894104">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>48 BC touristic ger camp</name>
+    <cmt>Touristic ger camp just before entering Yolyn Alm canyon. Tourists who travel with guide stay here for the night. The guides are a great source to get up to date information on the road conditions. We could stay here for free. 
+</cmt>
+    <desc>Touristic ger camp just before entering Yolyn Alm canyon. Tourists who travel with guide stay here for the night. The guides are a great source to get up to date information on the road conditions. We could stay here for free. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.788100015372038" lon="102.21679997630417">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>49 BC Khongoryn Els</name>
+    <cmt>Wild camp in front of the Kongor Els.  We stayed 2 nights as the scenic view is just amazing beautiful.</cmt>
+    <desc>Wild camp in front of the Kongor Els.  We stayed 2 nights as the scenic view is just amazing beautiful.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.728966694325209" lon="105.27121670544147">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>50 BC east from Dalanzagad</name>
+    <cmt>Wild camp east from Dalanzagad. 100% quite. 
+</cmt>
+    <desc>Wild camp east from Dalanzagad. 100% quite. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.91151667945087" lon="106.98115001432598">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>51 Oasis Camping &amp; guesthouse</name>
+    <cmt>The “Oasis” is the ultimate meeting place for overland travelers in Ulaan Baatar. The traveling public is very mixed. Motorcyclists predominate while we were there. Motorists as we are rather in the minority. The little parking in the back garden has space for maybe 6-7 LandCruiser type cars. Then you stand car to car and it gets challenging to open the doors. However also a biger Unimog can fit. 
+
+The Restaurant is open from till 18:30 and has a good European cuisine; Wiener Schnitzel (!) is on the menu. The Wifi is free and useful. You can relax and work on your laptop the whole day in the restaurant or on the terrace. Also laundry service is available. A disadvantage however is the sanitary facilities that consist of only 1 toilet per gender in each of which a tiny sink are attached. Toilet cleanness can become a big challenge when the guestrooms and gers are fully occupied. There are 8 hot water showers, which are included in the price, if they are not occupied by locals.
+
+We had great weather in UB. However, we heard from other overlanders that Oasis has a real challenge when raining as the garden/parking gets fully flood. 
+
+The cuisine is full day and night self serve for drinks. You take out of the fridge what you want and put it on your personal card. You pay when you leave. 
+
+The kittchen closes at 18:30. We could not order any more when we arrived at 18:50. The next day a motorbike group arrived and could even order until 21:15.</cmt>
+    <desc>The “Oasis” is the ultimate meeting place for overland travelers in Ulaan Baatar. The traveling public is very mixed. Motorcyclists predominate while we were there. Motorists as we are rather in the minority. The little parking in the back garden has space for maybe 6-7 LandCruiser type cars. Then you stand car to car and it gets challenging to open the doors. However also a biger Unimog can fit. 
+
+The Restaurant is open from till 18:30 and has a good European cuisine; Wiener Schnitzel (!) is on the menu. The Wifi is free and useful. You can relax and work on your laptop the whole day in the restaurant or on the terrace. Also laundry service is available. A disadvantage however is the sanitary facilities that consist of only 1 toilet per gender in each of which a tiny sink are attached. Toilet cleanness can become a big challenge when the guestrooms and gers are fully occupied. There are 8 hot water showers, which are included in the price, if they are not occupied by locals.
+
+We had great weather in UB. However, we heard from other overlanders that Oasis has a real challenge when raining as the garden/parking gets fully flood. 
+
+The cuisine is full day and night self serve for drinks. You take out of the fridge what you want and put it on your personal card. You pay when you leave. 
+
+The kittchen closes at 18:30. We could not order any more when we arrived at 18:50. The next day a motorbike group arrived and could even order until 21:15.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.349349977448583" lon="103.68370000272989">
+    <ele>1254.617</ele>
+    <time>2014-06-15T08:30:54Z</time>
+    <name>52 BC Mongol Els</name>
+    <cmt>Fantastic wild camp next to the Mongol Else. Very very quite. The only disterbance was two young guys who asked if they could offer a camel ride (which we we didn't do :-).</cmt>
+    <desc>Fantastic wild camp next to the Mongol Else. Very very quite. The only disterbance was two young guys who asked if they could offer a camel ride (which we we didn't do :-).</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-15T08:30:54Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="46.880866633728147" lon="102.34303336590528">
+    <ele>1644.3430000000001</ele>
+    <time>2014-06-16T07:43:39Z</time>
+    <name>53 BC Orkhon Valley</name>
+    <cmt>Wild camp in the fantastic Orkhon valley on our way to the Orkhon Khurkhree waterfall. 
+</cmt>
+    <desc>Wild camp in the fantastic Orkhon valley on our way to the Orkhon Khurkhree waterfall. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-16T07:43:39Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="46.777450041845441" lon="101.96055002510548">
+    <ele>1825.02</ele>
+    <time>2014-06-17T07:39:40Z</time>
+    <name>54 BC Orkhon Valley Waterfall</name>
+    <cmt>Wild camp Orkhon valley Khurkhree waterfall between the local gers. Walking distance to waterfall.</cmt>
+    <desc>Wild camp Orkhon valley Khurkhree waterfall between the local gers. Walking distance to waterfall.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-17T07:39:40Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.186416676267982" lon="102.7890667039901">
+    <ele>1465.452</ele>
+    <time>2014-06-18T10:17:49Z</time>
+    <name>55 BC Kharakorum</name>
+    <cmt>Stayed 2 nights within the camp. We did not use the sanitair facilities. We had dinner for 7.500 Tenge/P (3,- Euro), a beer 3.500 Tenge/P and breakfast 6.500 Tenge/P. We did not need to pay for the camping. Quite campground. 
+</cmt>
+    <desc>Stayed 2 nights within the camp. We did not use the sanitair facilities. We had dinner for 7.500 Tenge/P (3,- Euro), a beer 3.500 Tenge/P and breakfast 6.500 Tenge/P. We did not need to pay for the camping. Quite campground. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-18T10:17:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.478349981829524" lon="101.45790003240108">
+    <ele>1679.6410000000001</ele>
+    <time>2014-06-21T01:43:01Z</time>
+    <name>56 BC Fairfields Tsetserleg</name>
+    <cmt>Fair fields is a great guesthouse, bakery and café! The café has a really good menu for breakfast, lunch and dinner. Try the giant whopper bugger. The pastry is great as it comes from the own bakery. The whole guesthouse is very clean and well managed. Wifi is once 1.000 Tenge (0,25 Euro). We stayed in front of the guesthouse in our car (free). A nice hot shower is 3.000 Tenge (1,10 Euro). The owner of Fair fields is happy to provide you with his GPS tracks and useful tips for example towards lake Khovskol.</cmt>
+    <desc>Fair fields is a great guesthouse, bakery and café! The café has a really good menu for breakfast, lunch and dinner. Try the giant whopper bugger. The pastry is great as it comes from the own bakery. The whole guesthouse is very clean and well managed. Wifi is once 1.000 Tenge (0,25 Euro). We stayed in front of the guesthouse in our car (free). A nice hot shower is 3.000 Tenge (1,10 Euro). The owner of Fair fields is happy to provide you with his GPS tracks and useful tips for example towards lake Khovskol.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-21T01:43:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.201600015163422" lon="99.851566627621651">
+    <ele>2095.9279999999999</ele>
+    <time>2014-06-21T09:11:28Z</time>
+    <name>57 BC Tsagaan Nuur NP</name>
+    <cmt>Quite wild camp within the Sagaan Nuur national park between the local gers.</cmt>
+    <desc>Quite wild camp within the Sagaan Nuur national park between the local gers.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-21T09:11:28Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.43938329257071" lon="101.27126664854586">
+    <ele>1539.3240000000001</ele>
+    <time>2014-06-22T08:01:00Z</time>
+    <name>58 BC past the deerstones</name>
+    <cmt>After we visted the deerstones we wanted to continue our route but needed to stop due to a heavy thunder storm. Very quite place off the piste. 
+</cmt>
+    <desc>After we visted the deerstones we wanted to continue our route but needed to stop due to a heavy thunder storm. Very quite place off the piste. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-22T08:01:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.767316645011306" lon="100.08199998177588">
+    <ele>1554.9590000000001</ele>
+    <time>2014-06-23T13:14:45Z</time>
+    <name>59 BC after to have past Murun</name>
+    <cmt>Quite place just off the road. 
+
+</cmt>
+    <desc>Quite place just off the road. 
+
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-23T13:14:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.72875002399087" lon="100.24606668390334">
+    <ele>1650.057</ele>
+    <time>2014-06-24T05:28:45Z</time>
+    <name>60 BC Khovsgol NP waterfront</name>
+    <cmt>Wild camp at the border of the Khovskol Lake. It is worth continuing north until you leave the touristic camp place behind. Fantastic spot to relax a few days at the lake.</cmt>
+    <desc>Wild camp at the border of the Khovskol Lake. It is worth continuing north until you leave the touristic camp place behind. Fantastic spot to relax a few days at the lake.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-24T05:28:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.393633296713233" lon="102.71020003594458">
+    <ele>944.72770000000003</ele>
+    <time>2014-06-26T12:29:59Z</time>
+    <name>61 BC Village with Marie V &amp; Daniel</name>
+    <cmt>Wild camp in a small village. Good place to spend the night. 
+</cmt>
+    <desc>Wild camp in a small village. Good place to spend the night. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-26T12:29:59Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.316533366218209" lon="105.01074998639524">
+    <ele>1042</ele>
+    <time>2014-06-27T12:23:16Z</time>
+    <name>62 BC piste on the way to the monastery</name>
+    <cmt>Wild camp on the side of the piste to the monastery. We did not make it to the monastery before the night due to a small technical problem and heavy rain in the late afternoon.</cmt>
+    <desc>Wild camp on the side of the piste to the monastery. We did not make it to the monastery before the night due to a small technical problem and heavy rain in the late afternoon.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-27T12:23:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.476199988275766" lon="105.09119999594986">
+    <ele>1026.809</ele>
+    <time>2014-06-28T03:03:12Z</time>
+    <name>63 BC Amarbayasgalant monastry</name>
+    <cmt>About 100 families from Ulaanbataar visit the Amarbayasgalant monastery and camp here over the weekend. So the monastery ceremony is very crowded on Saturdays by the locals. We were the only tourists attending the ceremony. The fotos were taken on Sunday when everybody was on their way back to UB. 
+</cmt>
+    <desc>About 100 families from Ulaanbataar visit the Amarbayasgalant monastery and camp here over the weekend. So the monastery ceremony is very crowded on Saturdays by the locals. We were the only tourists attending the ceremony. The fotos were taken on Sunday when everybody was on their way back to UB. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-28T03:03:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.786633292213082" lon="107.49368336051702">
+    <ele>498.4905</ele>
+    <time>2014-06-29T13:47:49Z</time>
+    <name>64 BC just before Ulaan Ude (new houses)</name>
+    <cmt>Wild camp on the way to Ulaan Ude within an area where new houses are getting build. Not recommendable for the future as the new houses will be occupied.</cmt>
+    <desc>Wild camp on the way to Ulaan Ude within an area where new houses are getting build. Not recommendable for the future as the new houses will be occupied.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-29T13:47:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.198133297264576" lon="107.34043333679438">
+    <ele>458.84050000000002</ele>
+    <time>2014-06-30T05:02:14Z</time>
+    <name>65 C Lake Baikal</name>
+    <cmt>Camp ground Lake Baikal on the way to Irkutsk. Nice spot but every 30 in fully loaded trains with more than 50 wagons are passing. We paid 200RB (4 Euro) for the camp.</cmt>
+    <desc>Camp ground Lake Baikal on the way to Irkutsk. Nice spot but every 30 in fully loaded trains with more than 50 wagons are passing. We paid 200RB (4 Euro) for the camp.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-30T05:02:14Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.551116649061441" lon="104.02550001628697">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>66 BK Guesthouse Nikitas Olkhon</name>
+    <cmt>Camp on the Nikitas guesthouse parking lot. There are two restaurants for low and medium budget. We enjoyed the breakfast (200RB/person) and dinner (250RB/person) at the medium budget restaurant. Nikitas managed our Russian registration for 400RB (8,-€ for 2 people).
+</cmt>
+    <desc>Camp on the Nikitas guesthouse parking lot. There are two restaurants for low and medium budget. We enjoyed the breakfast (200RB/person) and dinner (250RB/person) at the medium budget restaurant. Nikitas managed our Russian registration for 400RB (8,-€ for 2 people).
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.234633300453424" lon="107.41718332283199">
+    <ele>511.923</ele>
+    <time>2014-07-02T23:58:22Z</time>
+    <name>67 BC cliff Olkhon Island</name>
+    <cmt>We have found a fantastic wild camp on the Olkhon Island to celebrate our last night before starting the return route going home. In the evening some people were enjoying the cliff and in the morning a group was practicing their meditation. 
+</cmt>
+    <desc>We have found a fantastic wild camp on the Olkhon Island to celebrate our last night before starting the return route going home. In the evening some people were enjoying the cliff and in the morning a group was practicing their meditation. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-02T23:58:22Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.608883373439312" lon="100.20371669903398">
+    <ele>519.32410000000004</ele>
+    <time>2014-07-03T13:30:38Z</time>
+    <name>68 BC truckstop</name>
+    <cmt>Wild camp truckstop + dinner. 
+</cmt>
+    <desc>Wild camp truckstop + dinner. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-03T13:30:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.22723332606256" lon="87.734950007870793">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>69 BC Gazprom fuelstation</name>
+    <cmt>Wild camp Gazprom fuelstation. 
+</cmt>
+    <desc>Wild camp Gazprom fuelstation. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.320433359593153" lon="79.05761668458581">
+    <ele>114.5527</ele>
+    <time>2014-07-05T15:30:26Z</time>
+    <name>70 BC Truckstop + 1M mosquitoes</name>
+    <cmt>Wild camp on truckerparking. 
+</cmt>
+    <desc>Wild camp on truckerparking. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-05T15:30:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.387450028210878" lon="65.835083294659853">
+    <ele>154.2064</ele>
+    <time>2014-07-06T16:19:26Z</time>
+    <name>71 BC truckstop parking</name>
+    <cmt>Wild camp on truckerparking. 
+</cmt>
+    <desc>Wild camp on truckerparking. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-06T16:19:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.475133344531059" lon="53.397550005465746">
+    <ele>116.24550000000001</ele>
+    <time>2014-07-08T01:37:47Z</time>
+    <name>72 BC truckstop parking</name>
+    <cmt>Wild camp on truckerparking.</cmt>
+    <desc>Wild camp on truckerparking.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-08T01:37:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.055299991741776" lon="41.912533342838287">
+    <ele>130.0343</ele>
+    <time>2014-07-09T05:19:13Z</time>
+    <name>73 BC Muslim Restaurant</name>
+    <cmt>Wild camp on parking. We had dinner and watched the world soccer game Germany - Brazil. 
+</cmt>
+    <desc>Wild camp on parking. We had dinner and watched the world soccer game Germany - Brazil. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-09T05:19:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.318116625770926" lon="31.985433362424374">
+    <ele>205.80500000000001</ele>
+    <time>2014-07-10T03:08:53Z</time>
+    <name>74 BC truckstop expensive wifi</name>
+    <cmt>Wild camp on parking of truckstop/hotel. We id not pay the expensive wifi of 200RB (4,-€). Food is average. We forgot to take pictures.</cmt>
+    <desc>Wild camp on parking of truckstop/hotel. We id not pay the expensive wifi of 200RB (4,-€). Food is average. We forgot to take pictures.</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-10T03:08:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.521250024437904" lon="21.408300027251244">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>75 BC Hotel/Restaurant/Fuelstation</name>
+    <cmt>Wild camp on parking of a hotel, restaurant and fuelstation. Clean toilets, great facilities. We forgot to take pictures. 
+</cmt>
+    <desc>Wild camp on parking of a hotel, restaurant and fuelstation. Clean toilets, great facilities. We forgot to take pictures. 
+</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.136525040492415" lon="69.525524033233523">
+    <ele>64.212350000000001</ele>
+    <time>2014-07-06T11:02:07Z</time>
+    <name>ATM</name>
+    <sym>Bank</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-06T11:02:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.645882984623313" lon="100.16554802656174">
+    <ele>1299.981</ele>
+    <time>2014-06-23T10:00:55Z</time>
+    <name>ATM1</name>
+    <sym>Bank</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-23T10:00:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.574064094573259" lon="104.42689418792725">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>ATM10</name>
+    <sym>Bank</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.852521827444434" lon="106.76329135894775">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>ATM11</name>
+    <sym>Bank</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.264797985553741" lon="104.22525904141366">
+    <ele>418.5043</ele>
+    <time>2014-07-01T02:12:48Z</time>
+    <name>ATM2</name>
+    <sym>Bank</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-01T02:12:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.195649007335305" lon="102.82004898414016">
+    <ele>1465.558</ele>
+    <time>2014-06-18T09:09:02Z</time>
+    <name>ATM3</name>
+    <sym>Bank</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-18T09:09:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.476678965613246" lon="101.45278103649616">
+    <ele>1776.905</ele>
+    <time>2014-06-21T02:17:59Z</time>
+    <name>ATM4</name>
+    <sym>Bank</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-21T02:17:59Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.812174974009395" lon="103.53668703697622">
+    <ele>1199.4359999999999</ele>
+    <time>2014-06-27T04:56:45Z</time>
+    <name>ATM5</name>
+    <sym>Bank</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-27T04:56:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.311289010569453" lon="73.444878989830613">
+    <ele>1535.7329999999999</ele>
+    <time>2014-05-06T12:02:58Z</time>
+    <name>ATM6</name>
+    <sym>Bank</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-06T12:02:58Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.259690338745713" lon="76.943092346191406">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>ATM7</name>
+    <sym>Bank</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.537400990724564" lon="72.804060028865933">
+    <ele>990.55510000000004</ele>
+    <time>2014-05-07T03:25:15Z</time>
+    <name>ATM8</name>
+    <sym>Bank</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-07T03:25:15Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.214954001829028" lon="75.752786993980408">
+    <ele>1806.4849999999999</ele>
+    <time>2014-05-14T06:03:43Z</time>
+    <name>ATM9</name>
+    <sym>Bank</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-14T06:03:43Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="46.263833334669471" lon="96.274733282625675">
+    <ele>2511.0700000000002</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Balbal Khun 1</name>
+    <cmt>Balbal Khun</cmt>
+    <desc>Balbal Khun</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.717227023094893" lon="44.62136403657496">
+    <ele>1636.808</ele>
+    <time>2014-04-13T07:03:52Z</time>
+    <name>Border</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-13T07:03:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.717442031949759" lon="26.351015036925673">
+    <ele>51.572670000000002</ele>
+    <time>2014-04-09T16:03:40Z</time>
+    <name>Border1</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-09T16:03:40Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.715162992477417" lon="26.358364038169384">
+    <ele>50.252969999999998</ele>
+    <time>2014-04-09T16:07:23Z</time>
+    <name>Border2</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-09T16:07:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.549002969637513" lon="69.208201020956039">
+    <ele>281.9812</ele>
+    <time>2014-04-26T07:47:38Z</time>
+    <name>Border3</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-26T07:47:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.506763014942408" lon="73.268876960501075">
+    <ele>3493.4670000000001</ele>
+    <time>2014-05-06T08:03:54Z</time>
+    <name>Border4</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-06T08:03:54Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.208012662827969" lon="81.115708351135254">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Border5</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.773939998820424" lon="60.057405000552535">
+    <ele>100.5622</ele>
+    <time>2014-04-22T03:39:29Z</time>
+    <name>Border6</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-22T03:39:29Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.628500973805785" lon="58.407445969060063">
+    <ele>1716.7840000000001</ele>
+    <time>2014-04-20T03:41:42Z</time>
+    <name>Border7</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-20T03:41:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.356871025636792" lon="28.203368028625846">
+    <ele>129.64529999999999</ele>
+    <time>2014-07-10T07:22:27Z</time>
+    <name>Border8</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-10T07:22:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.320356041193008" lon="106.49100397713482">
+    <ele>682.84760000000006</ele>
+    <time>2014-06-29T07:18:21Z</time>
+    <name>Border9</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-29T07:18:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="46.820326158776879" lon="102.051100730896">
+    <ele>1745.769</ele>
+    <time>2014-06-18T03:10:03Z</time>
+    <name>Bridge</name>
+    <sym>Bridge</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-18T03:10:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.719987031072378" lon="101.29303101450205">
+    <ele>1524.4780000000001</ele>
+    <time>2014-06-23T01:57:04Z</time>
+    <name>Bridge1</name>
+    <sym>Bridge</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-23T01:57:04Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.877640401944518" lon="77.057949313893914">
+    <ele>0</ele>
+    <time>2014-05-19T02:16:57Z</time>
+    <name>Broken bridge</name>
+    <sym>Danger Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-19T02:16:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.338676987215877" lon="72.927952017635107">
+    <ele>1487.0250000000001</ele>
+    <time>2014-05-07T08:25:08Z</time>
+    <name>CBT Office</name>
+    <sym>Information</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-07T08:25:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.876035962253809" lon="74.597979001700878">
+    <ele>752.72019999999998</ele>
+    <time>2014-05-13T05:12:48Z</time>
+    <name>Computer shop</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-13T05:12:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.380147026851773" lon="73.118543000891805">
+    <ele>3905.509</ele>
+    <time>2014-05-04T04:38:24Z</time>
+    <name>Control</name>
+    <sym>Police Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-04T04:38:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.236974984407425" lon="71.484100967645645">
+    <ele>2291.3180000000002</ele>
+    <time>2014-05-02T06:51:38Z</time>
+    <name>Control1</name>
+    <sym>Police Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-02T06:51:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.864737035706639" lon="70.007019024342299">
+    <ele>1940.5070000000001</ele>
+    <time>2014-04-29T04:19:11Z</time>
+    <name>Control2</name>
+    <sym>Police Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-29T04:19:11Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.300018990412354" lon="71.336513003334403">
+    <ele>1541.384</ele>
+    <time>2014-04-30T06:08:52Z</time>
+    <name>Control3</name>
+    <sym>Police Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-30T06:08:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.993070967495441" lon="22.845812011510134">
+    <ele>504.71910000000003</ele>
+    <time>2014-04-09T11:02:59Z</time>
+    <name>D01</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-09T11:02:59Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.780250985175371" lon="26.215376984328032">
+    <ele>103.8819</ele>
+    <time>2014-04-09T15:45:02Z</time>
+    <name>D02</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-09T15:45:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.899555964395404" lon="40.039174966514111">
+    <ele>807.35140000000001</ele>
+    <time>2014-04-12T08:03:03Z</time>
+    <name>D03</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-12T08:03:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.586652981117368" lon="44.294570982456207">
+    <ele>1889.3009999999999</ele>
+    <time>2014-04-13T06:08:17Z</time>
+    <name>D04</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-13T06:08:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="36.448561018332839" lon="46.206796998158097">
+    <ele>1441.741</ele>
+    <time>2014-04-14T03:08:45Z</time>
+    <name>D05</name>
+    <cmt>D</cmt>
+    <desc>D</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-14T03:08:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="36.211037999019027" lon="46.374672017991543">
+    <ele>1553.5940000000001</ele>
+    <time>2014-04-14T03:57:32Z</time>
+    <name>D06</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-14T03:57:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="32.981647029519081" lon="51.499107023701072">
+    <ele>1673.9200000000001</ele>
+    <time>2014-04-15T06:17:46Z</time>
+    <name>D07</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-15T06:17:46Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.996494038030505" lon="54.249488990753889">
+    <ele>1191.933</ele>
+    <time>2014-04-17T07:29:12Z</time>
+    <name>D08</name>
+    <cmt>D</cmt>
+    <desc>D</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-17T07:29:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="36.479246998205781" lon="59.387417016550899">
+    <ele>1096.182</ele>
+    <time>2014-04-19T08:42:52Z</time>
+    <name>D09</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-19T08:42:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.01081420108676" lon="88.667972087860107">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>D1</name>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.658933639526367" lon="23.119118213653564">
+    <time>2014-10-24T12:31:31Z</time>
+    <name>D11</name>
+    <cmt>Bp
+Eden District Municipality, Western Cape, ZAF</cmt>
+    <desc>Bp
+Eden District Municipality, Western Cape, ZAF</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:City>Eden District Municipality</gpxx:City>
+          <gpxx:State>Western Cape</gpxx:State>
+          <gpxx:Country>ZAF</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:City>Eden District Municipality</wptx1:City>
+          <wptx1:State>Western Cape</wptx1:State>
+          <wptx1:Country>ZAF</wptx1:Country>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-10-24T12:31:31Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.367216670885682" lon="19.310783324763179">
+    <ele>0</ele>
+    <time>2010-03-01T12:44:26Z</time>
+    <name>D12</name>
+    <cmt>Bp Fuel (Ceres)</cmt>
+    <desc>Bp Fuel (Ceres)</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-03-01T12:44:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.530037403106689" lon="21.68750524520874">
+    <ele>0</ele>
+    <time>2012-06-15T04:19:19Z</time>
+    <name>D13</name>
+    <cmt>Shell Fuel (Calitzdorp) Js motors</cmt>
+    <desc>Shell Fuel (Calitzdorp) Js motors</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2012-06-15T04:19:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-34.180290699005127" lon="22.02887543477118">
+    <ele>0</ele>
+    <time>2010-02-28T08:28:42Z</time>
+    <name>D14</name>
+    <cmt>Total Petroport</cmt>
+    <desc>Total Petroport</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-02-28T08:28:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.431464990600944" lon="76.025495985522866">
+    <ele>2088.663</ele>
+    <time>2014-05-18T02:36:58Z</time>
+    <name>D15</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-18T02:36:58Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.189477039501071" lon="75.697417985647917">
+    <ele>1822.6859999999999</ele>
+    <time>2014-05-14T06:50:07Z</time>
+    <name>D16</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-14T06:50:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.57624045573175" lon="104.42524194717407">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>D2</name>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.912662988528609" lon="106.98398997075856">
+    <ele>1296.402</ele>
+    <time>2014-06-14T01:19:20Z</time>
+    <name>D21</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T01:19:20Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="46.901476979255676" lon="102.7796880248934">
+    <ele>1665.394</ele>
+    <time>2014-06-16T04:21:47Z</time>
+    <name>D211</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-16T04:21:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.472665039822459" lon="101.45622197538614">
+    <ele>1776.9860000000001</ele>
+    <time>2014-06-21T02:42:49Z</time>
+    <name>D22</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-21T02:42:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.153171977028251" lon="99.901944966986775">
+    <ele>2044.0930000000001</ele>
+    <time>2014-06-22T01:37:22Z</time>
+    <name>D23</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-22T01:37:22Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.636450996622443" lon="100.1666359975934">
+    <ele>1280.962</ele>
+    <time>2014-06-23T12:41:58Z</time>
+    <name>D24</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-23T12:41:58Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.027386959642172" lon="104.0692849829793">
+    <ele>1305.8130000000001</ele>
+    <time>2014-06-27T07:21:09Z</time>
+    <name>D25</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-27T07:21:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.33210701495409" lon="104.31752501986921">
+    <ele>459.78660000000002</ele>
+    <time>2014-07-01T03:54:17Z</time>
+    <name>D26</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-01T03:54:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.464511999860406" lon="104.36308099888265">
+    <ele>447.09629999999999</ele>
+    <time>2014-07-03T06:59:07Z</time>
+    <name>D27</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-03T06:59:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.22705202549696" lon="87.735689040273428">
+    <ele>125.2961</ele>
+    <time>2014-07-04T16:31:32Z</time>
+    <name>D28</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-04T16:31:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.204841969534755" lon="80.353033030405641">
+    <ele>98.888739999999999</ele>
+    <time>2014-07-05T14:13:39Z</time>
+    <name>D29</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-05T14:13:39Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.12880002707243" lon="69.517300967127085">
+    <ele>78.368549999999999</ele>
+    <time>2014-07-06T11:34:37Z</time>
+    <name>D30</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-06T11:34:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.117967015132308" lon="47.189221009612083">
+    <ele>178.3862</ele>
+    <time>2014-07-08T09:52:58Z</time>
+    <name>D31</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-08T09:52:58Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.990665005519986" lon="36.271206988021731">
+    <ele>249.63650000000001</ele>
+    <time>2014-07-09T13:23:33Z</time>
+    <name>D32</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-09T13:23:33Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.37871996499598" lon="28.640188984572887">
+    <ele>125.65779999999999</ele>
+    <time>2014-07-10T06:52:23Z</time>
+    <name>D33</name>
+    <cmt>Diesel</cmt>
+    <desc>Diesel</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-10T06:52:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.17317103035748" lon="101.09368002042174">
+    <ele>1641.998</ele>
+    <time>2014-06-22T06:23:25Z</time>
+    <name>Deerstones</name>
+    <cmt>Deerstones</cmt>
+    <desc>Deerstones</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-22T06:23:25Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.57212083414197" lon="104.42077875137329">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Drinking water shop</name>
+    <sym>Drinking Water</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.549527917057276" lon="104.03715848922729">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Entry NP</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.254024988040328" lon="100.80346584320068">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Ferry2</name>
+    <sym>Boat Ramp</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.637563023716211" lon="100.16018302179873">
+    <ele>1279.527</ele>
+    <time>2014-06-23T11:54:21Z</time>
+    <name>H + Restaurant</name>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-23T11:54:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.992073545232415" lon="79.240179061889648">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Katutau Mountains</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.186930008232594" lon="99.864121964201331">
+    <ele>2102.4389999999999</ele>
+    <time>2014-06-21T07:25:30Z</time>
+    <name>Khorgo-volcano</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-21T07:25:30Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.878764560446143" lon="106.85332775115967">
+    <ele>1293.827</ele>
+    <time>2014-06-14T02:21:09Z</time>
+    <name>Mall</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T02:21:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="36.291594039648771" lon="59.618052961304784">
+    <ele>980.38699999999994</ele>
+    <time>2014-04-19T04:31:12Z</time>
+    <name>Mashad Parking</name>
+    <cmt>Parking</cmt>
+    <desc>Parking</desc>
+    <sym>Parking Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-19T04:31:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.31101899407804" lon="59.137818021699786">
+    <ele>77.894490000000005</ele>
+    <time>2014-04-21T08:05:51Z</time>
+    <name>Mausoleums</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-21T08:05:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.107119012624025" lon="22.935382034629583">
+    <ele>158.5453</ele>
+    <time>2014-07-10T17:04:06Z</time>
+    <name>MC Donald</name>
+    <sym>Fast Food</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-10T17:04:06Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.051011975854635" lon="102.95437501743436">
+    <ele>1577.5899999999999</ele>
+    <time>2014-06-16T03:05:16Z</time>
+    <name>Monastry</name>
+    <cmt>Monastry</cmt>
+    <desc>Monastry</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-16T03:05:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.245103960856795" lon="100.80066201277077">
+    <ele>1156.7860000000001</ele>
+    <time>2014-06-23T06:17:44Z</time>
+    <name>Mud!!!</name>
+    <sym>Danger Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-23T06:17:44Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.655936991795897" lon="74.495235979557037">
+    <ele>1561.5619999999999</ele>
+    <time>2014-05-11T08:55:19Z</time>
+    <name>NP entry</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-11T08:55:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="46.886650985106826" lon="102.40583200939">
+    <ele>1635.018</ele>
+    <time>2014-06-18T05:59:23Z</time>
+    <name>NP entry1</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-18T05:59:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.415640007704496" lon="100.14221800491214">
+    <ele>1643.731</ele>
+    <time>2014-06-24T01:46:16Z</time>
+    <name>NP entry2</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-24T01:46:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.279739003628492" lon="107.57004702463746">
+    <ele>503.21629999999999</ele>
+    <time>2014-07-02T01:55:24Z</time>
+    <name>NP entry3</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-02T01:55:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.162963967770338" lon="99.888938013464212">
+    <ele>2046.662</ele>
+    <time>2014-06-21T07:09:59Z</time>
+    <name>NP entry4</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-21T07:09:59Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.155917372554541" lon="78.752516834065318">
+    <ele>957</ele>
+    <time>2010-06-20T06:24:49Z</time>
+    <name>NP office (fee + guide)</name>
+    <cmt>Altyn Emel NP Office tickets!!!</cmt>
+    <desc>Altyn Emel NP Office tickets!!!</desc>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-06-20T06:24:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.361783679574728" lon="79.047278193756938">
+    <ele>1159</ele>
+    <time>2010-06-19T06:34:40Z</time>
+    <name>NP Sharyn Canyon</name>
+    <cmt>Charyn</cmt>
+    <desc>Charyn</desc>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-06-19T06:34:40Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.403161019086838" lon="107.78157801367342">
+    <ele>605.62019999999995</ele>
+    <time>2014-07-02T05:00:23Z</time>
+    <name>Olkhon Island 1</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-02T05:00:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.391949972137809" lon="107.78902701102197">
+    <ele>571.84469999999999</ele>
+    <time>2014-07-02T04:23:15Z</time>
+    <name>Olkhon Island 2</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-02T04:23:15Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.320292998105288" lon="107.74136901833117">
+    <ele>472.09269999999998</ele>
+    <time>2014-07-02T03:57:12Z</time>
+    <name>Olkhon Island 3</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-02T03:57:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.410486729815602" lon="80.252788066864014">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>RE</name>
+    <cmt>Good Restaurant</cmt>
+    <desc>Good Restaurant</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.259770218282938" lon="76.943299127742648">
+    <ele>792</ele>
+    <time>2010-06-17T06:35:21Z</time>
+    <name>RE1</name>
+    <cmt>Mamamia</cmt>
+    <desc>Mamamia</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-06-17T06:35:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.969132397323847" lon="89.965217113494873">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>RE2</name>
+    <cmt>Pamukkale</cmt>
+    <desc>Pamukkale</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.996828012168407" lon="79.050278663635254">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Red lava sculptures</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.280036402866244" lon="78.991221785545349">
+    <ele>1088</ele>
+    <time>2010-06-18T10:04:56Z</time>
+    <name>Red Valley</name>
+    <cmt>Red Valley</cmt>
+    <desc>Red Valley</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-06-18T10:04:56Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="36.749074039980769" lon="71.58001902513206">
+    <ele>2517</ele>
+    <time>2014-05-03T04:28:16Z</time>
+    <name>Saterday market</name>
+    <cmt>Saterday market</cmt>
+    <desc>Saterday market</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-03T04:28:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.354044836014509" lon="79.070097003132105">
+    <ele>1089</ele>
+    <time>2010-06-19T06:55:01Z</time>
+    <name>Sharyn Canyon</name>
+    <cmt>Sharyn Canyon</cmt>
+    <desc>Sharyn Canyon</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-06-19T06:55:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.581098988652229" lon="68.793922020122409">
+    <ele>857.09059999999999</ele>
+    <time>2014-04-28T07:12:48Z</time>
+    <name>Shop</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-28T07:12:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.742721013724804" lon="58.687917022034526">
+    <ele>57.650570000000002</ele>
+    <time>2014-04-21T05:34:26Z</time>
+    <name>Shop1</name>
+    <cmt>Schop</cmt>
+    <desc>Schop</desc>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-21T05:34:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.456168984994292" lon="70.789119992405176">
+    <ele>1259.943</ele>
+    <time>2014-04-30T02:21:42Z</time>
+    <name>Shop2</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-30T02:21:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="46.897519966587424" lon="102.76485297828913">
+    <ele>1653.71</ele>
+    <time>2014-06-18T07:37:42Z</time>
+    <name>Shop3</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-18T07:37:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.473307009786367" lon="101.45662397146225">
+    <ele>1752.124</ele>
+    <time>2014-06-21T02:26:57Z</time>
+    <name>Shop4</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-21T02:26:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.874277379363775" lon="78.561794757843018">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Singing Sanddunes 1</name>
+    <cmt>Singing Sanddunes</cmt>
+    <desc>Singing Sanddunes</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.914174016565084" lon="75.423417091369629">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Snow</name>
+    <sym>Danger Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.78147298283875" lon="77.146575450897217">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Snow April</name>
+    <sym>Danger Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.926116026937962" lon="106.94179999642074">
+    <ele>1317.5119999999999</ele>
+    <time>2014-06-14T06:57:03Z</time>
+    <name>SOS Hospital</name>
+    <sym>Medical Facility</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T06:57:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.215478960424662" lon="75.756006985902786">
+    <ele>1834.027</ele>
+    <time>2014-05-19T06:29:26Z</time>
+    <name>Supermarket</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-19T06:29:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.911113006994128" lon="106.97657802142203">
+    <ele>1290.471</ele>
+    <time>2014-06-14T01:23:56Z</time>
+    <name>Supermarket1</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T01:23:56Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.138469977304339" lon="69.526859018951654">
+    <ele>64.570099999999996</ele>
+    <time>2014-07-06T11:03:57Z</time>
+    <name>Supermarket10</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-06T11:03:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.193252012133598" lon="107.34877098351717">
+    <ele>494.52260000000001</ele>
+    <time>2014-07-02T00:50:47Z</time>
+    <name>Supermarket11</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-02T00:50:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.570488458499312" lon="104.42693710327148">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Supermarket12</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.877533975988626" lon="74.709374997764826">
+    <ele>731.39660000000003</ele>
+    <time>2014-05-13T09:55:49Z</time>
+    <name>Supermarket2</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-13T09:55:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.915732031688094" lon="58.379901023581624">
+    <ele>277.99290000000002</ele>
+    <time>2014-04-20T07:41:14Z</time>
+    <name>Supermarket3</name>
+    <cmt>big</cmt>
+    <desc>big</desc>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-20T07:41:14Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.259720345959067" lon="76.94266595877707">
+    <ele>793</ele>
+    <time>2010-06-17T09:13:38Z</time>
+    <name>Supermarket4</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-06-17T09:13:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.463308023288846" lon="104.3632270116359">
+    <ele>438.89690000000002</ele>
+    <time>2014-07-03T06:37:11Z</time>
+    <name>Supermarket5</name>
+    <cmt>big</cmt>
+    <desc>big</desc>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-03T06:37:11Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.232180012390018" lon="106.21101899072528">
+    <ele>618.56179999999995</ele>
+    <time>2014-06-29T06:46:10Z</time>
+    <name>Supermarket6</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-29T06:46:10Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.416555013507605" lon="38.246150007471442">
+    <ele>142.75239999999999</ele>
+    <time>2014-07-09T10:26:06Z</time>
+    <name>Supermarket7</name>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-09T10:26:06Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.637053990736604" lon="100.1581159606576">
+    <ele>1280.0450000000001</ele>
+    <time>2014-06-23T11:41:18Z</time>
+    <name>Supermarket8</name>
+    <cmt>big</cmt>
+    <desc>big</desc>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-23T11:41:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.264678962528706" lon="104.22390402294695">
+    <ele>422.75409999999999</ele>
+    <time>2014-07-01T02:17:55Z</time>
+    <name>Supermarket9</name>
+    <cmt>big</cmt>
+    <desc>big</desc>
+    <sym>Shopping Center</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-01T02:17:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.199724959209561" lon="102.84247300587595">
+    <ele>1455.0940000000001</ele>
+    <time>2014-06-19T01:33:51Z</time>
+    <name>Tempel</name>
+    <cmt>Tempel</cmt>
+    <desc>Tempel</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-19T01:33:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.180556995794177" lon="99.80862395837903">
+    <ele>2049.4110000000001</ele>
+    <time>2014-06-21T07:55:15Z</time>
+    <name>Terkhiin Tsagaan Nuur</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-21T07:55:15Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.155272960662842" lon="102.99182401970029">
+    <ele>1482.5840000000001</ele>
+    <time>2014-06-16T02:36:05Z</time>
+    <name>Toll</name>
+    <cmt>We did not pay</cmt>
+    <desc>We did not pay</desc>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-16T02:36:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.376363977789879" lon="102.84857897087932">
+    <ele>916.45920000000001</ele>
+    <time>2014-06-27T01:40:23Z</time>
+    <name>Toll bridge</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-27T01:40:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.613410040736198" lon="72.619047034531832">
+    <ele>764.31140000000005</ele>
+    <time>2014-05-10T05:52:18Z</time>
+    <name>Toll1</name>
+    <sym>Toll Booth</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-10T05:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.647833621129394" lon="10.423986911773682">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Tom's Fahrzeugtechnik</name>
+    <sym>Car Repair</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.193519981577992" lon="107.33960696496069">
+    <ele>475.32049999999998</ele>
+    <time>2014-07-01T09:55:01Z</time>
+    <name>Tourist Info</name>
+    <sym>Information</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-01T09:55:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.325459998100996" lon="104.2605509608984">
+    <ele>431.85180000000003</ele>
+    <time>2014-07-03T07:25:06Z</time>
+    <name>Toyota</name>
+    <sym>Car</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-03T07:25:06Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.653903018683195" lon="37.902845023199916">
+    <ele>125.3933</ele>
+    <time>2014-07-09T11:04:15Z</time>
+    <name>Toyota1</name>
+    <cmt>Toyota garage</cmt>
+    <desc>Toyota garage</desc>
+    <sym>Car</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-09T11:04:15Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.791595978662372" lon="37.2604910004884">
+    <ele>145.15299999999999</ele>
+    <time>2014-07-09T12:25:00Z</time>
+    <name>Toyota2</name>
+    <cmt>Toyota garage</cmt>
+    <desc>Toyota garage</desc>
+    <sym>Car</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-09T12:25:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.480304976925254" lon="101.45255296491086">
+    <ele>1709.644</ele>
+    <time>2014-06-21T01:50:09Z</time>
+    <name>Tsetserleg Buddha</name>
+    <cmt>Monastry</cmt>
+    <desc>Monastry</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-21T01:50:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.320712031796575" lon="103.61431100405753">
+    <ele>1286.9159999999999</ele>
+    <time>2014-06-16T00:46:47Z</time>
+    <name>Viewpoint 1</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-16T00:46:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.109344011172652" lon="100.29487702064216">
+    <ele>1866.4400000000001</ele>
+    <time>2014-06-21T05:25:10Z</time>
+    <name>Viewpoint 2</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-21T05:25:10Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.269181922078133" lon="78.972875559702516">
+    <ele>1082</ele>
+    <time>2010-06-18T08:56:21Z</time>
+    <name>Viewpoint 3</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-06-18T08:56:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.155917372554541" lon="78.752516834065318">
+    <ele>957</ele>
+    <time>2010-06-20T06:24:49Z</time>
+    <name>Viewpoint 4</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-06-20T06:24:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.324810028076172" lon="103.60316600650549">
+    <ele>1283.617</ele>
+    <time>2014-06-16T00:50:15Z</time>
+    <name>Viewpoint 5</name>
+    <cmt>Ovo</cmt>
+    <desc>Ovo</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-16T00:50:15Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.853558585047722" lon="106.78249597549438">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Visa extension Mongolia</name>
+    <sym>Building</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.564683966338634" lon="75.119534963741899">
+    <ele>1726.1099999999999</ele>
+    <time>2014-05-13T12:32:35Z</time>
+    <name>Waterfall 2</name>
+    <cmt>Waterfall</cmt>
+    <desc>Waterfall</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-13T12:32:35Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.703090010210872" lon="30.313041005283594">
+    <ele>52.120579999999997</ele>
+    <time>2014-04-10T10:17:48Z</time>
+    <name>WC clean</name>
+    <sym>Restroom</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-10T10:17:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.02304002083838" lon="104.04356301762164">
+    <ele>1314.7739999999999</ele>
+    <time>2014-06-27T06:48:56Z</time>
+    <name>Wifi free</name>
+    <cmt>Restaurant</cmt>
+    <desc>Restaurant</desc>
+    <sym>Telephone</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-27T06:48:56Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.315990975126624" lon="29.394578961655498">
+    <ele>163.87350000000001</ele>
+    <time>2014-07-10T06:00:05Z</time>
+    <name>Wifi free1</name>
+    <sym>Telephone</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-10T06:00:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.041443975642323" lon="82.375767985358834">
+    <ele>96.204210000000003</ele>
+    <time>2014-07-05T12:11:50Z</time>
+    <name>Wifi free2</name>
+    <sym>Telephone</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-05T12:11:50Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.194720041006804" lon="102.83942400477827">
+    <ele>1465.47</ele>
+    <time>2014-06-19T06:25:35Z</time>
+    <name>Wifi free3</name>
+    <cmt>within coffee shop of Museeum</cmt>
+    <desc>within coffee shop of Museeum</desc>
+    <sym>Telephone</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-19T06:25:35Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="41.374384984374046" lon="60.358321024104953">
+    <ele>111.5527</ele>
+    <time>2014-04-22T11:15:00Z</time>
+    <name>Wifi free4</name>
+    <cmt>Asia hotel</cmt>
+    <desc>Asia hotel</desc>
+    <sym>Telephone</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-04-22T11:15:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.275299014523625" lon="90.542208971455693">
+    <ele>270.57619999999997</ele>
+    <time>2014-07-04T12:12:39Z</time>
+    <name>Wifi free5</name>
+    <cmt>Restaurant</cmt>
+    <desc>Restaurant</desc>
+    <sym>Telephone</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-04T12:12:39Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.572493912652135" lon="104.42846059799194">
+    <ele>0.02</ele>
+    <time>1970-01-01T00:00:00Z</time>
+    <name>Wifi free6</name>
+    <sym>Telephone</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>1970-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+</gpx>

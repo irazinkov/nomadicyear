@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?><gpx version="1.0" creator="GPSLogger 77 - http://gpslogger.mendhak.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"><time>2016-07-29T00:06:19Z</time><trk><trkseg><trkpt lat="54.8655618" lon="83.1073275"><time>2016-07-29T00:06:19Z</time><src>network</src></trkpt>
+<trkpt lat="54.8655845" lon="83.1073248"><time>2016-07-29T00:11:23Z</time><src>network</src></trkpt>
+<trkpt lat="54.8657314" lon="83.1069627"><time>2016-07-29T00:16:39Z</time><src>network</src></trkpt>
+<trkpt lat="54.8638346" lon="83.1016471"><time>2016-07-29T00:21:45Z</time><src>network</src></trkpt>
+<trkpt lat="54.8638237" lon="83.1017969"><time>2016-07-29T00:26:49Z</time><src>network</src></trkpt>
+<trkpt lat="54.8516638" lon="83.11369375"><ele>115.0</ele><time>2016-07-29T04:33:25Z</time><course>230.7</course><speed>20.25</speed><geoidheight>-36.0</geoidheight><src>gps</src><hdop>0.8</hdop><vdop>0.8</vdop><pdop>1.1</pdop></trkpt>
+<trkpt lat="54.84473715" lon="83.12368666"><ele>157.0</ele><time>2016-07-29T04:38:47Z</time><course>286.8</course><speed>0.5</speed><geoidheight>-36.0</geoidheight><src>gps</src><sat>9</sat><hdop>1.2</hdop><vdop>0.8</vdop><pdop>1.5</pdop></trkpt>
+<trkpt lat="54.8446438" lon="83.1240368"><time>2016-07-29T00:42:21Z</time><src>network</src></trkpt>
+<trkpt lat="54.8446436" lon="83.1240347"><time>2016-07-29T00:47:24Z</time><src>network</src></trkpt>
+<trkpt lat="54.8446438" lon="83.1240368"><time>2016-07-29T00:52:27Z</time><src>network</src></trkpt>
+<trkpt lat="54.8446451" lon="83.1240377"><time>2016-07-29T00:58:03Z</time><src>network</src></trkpt>
+<trkpt lat="54.8446426" lon="83.1240358"><time>2016-07-29T01:04:01Z</time><src>network</src></trkpt>
+<trkpt lat="54.8446896" lon="83.1239462"><time>2016-07-29T01:09:05Z</time><src>network</src></trkpt>
+<trkpt lat="54.8446426" lon="83.1240358"><time>2016-07-29T01:14:08Z</time><src>network</src></trkpt>
+<trkpt lat="54.8446433" lon="83.1240342"><time>2016-07-29T01:19:11Z</time><src>network</src></trkpt>
+<trkpt lat="54.8446433" lon="83.1240343"><time>2016-07-29T01:24:14Z</time><src>network</src></trkpt>
+<trkpt lat="54.8446438" lon="83.1240343"><time>2016-07-29T01:29:17Z</time><src>network</src></trkpt>
+<trkpt lat="54.84475048" lon="83.12425192"><ele>158.0</ele><time>2016-07-29T05:35:48Z</time><speed>0.0</speed><geoidheight>-36.0</geoidheight><src>gps</src><sat>14</sat><hdop>1.0</hdop><vdop>0.7</vdop><pdop>1.2</pdop></trkpt>
+</trkseg></trk></gpx>

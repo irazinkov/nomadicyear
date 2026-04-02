@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Document><name>2016-08-18T03:17:03Z</name>
+<Placemark>
+<gx:Track>
+
+<when>2016-08-18T03:17:03Z</when>
+<gx:coord>72.8017682 40.5226113 0.0</gx:coord>
+
+<when>2016-08-18T03:22:31Z</when>
+<gx:coord>72.8016084 40.5224069 0.0</gx:coord>
+
+<when>2016-08-18T03:28:39Z</when>
+<gx:coord>72.8018877 40.5226829 0.0</gx:coord>
+
+<when>2016-08-18T03:34:07Z</when>
+<gx:coord>72.801777 40.5226854 0.0</gx:coord>
+
+<when>2016-08-18T03:39:40Z</when>
+<gx:coord>72.8018872 40.5226838 0.0</gx:coord>
+
+<when>2016-08-18T03:44:50Z</when>
+<gx:coord>72.801888 40.522683 0.0</gx:coord>
+
+<when>2016-08-18T03:49:55Z</when>
+<gx:coord>72.801888 40.5226833 0.0</gx:coord>
+
+<when>2016-08-18T03:55:26Z</when>
+<gx:coord>72.8018882 40.522683 0.0</gx:coord>
+
+<when>2016-08-18T04:00:35Z</when>
+<gx:coord>72.8018877 40.522683 0.0</gx:coord>
+
+<when>2016-08-18T04:05:36Z</when>
+<gx:coord>72.8018907 40.5226828 0.0</gx:coord>
+
+<when>2016-08-18T04:10:39Z</when>
+<gx:coord>72.801888 40.522683 0.0</gx:coord>
+
+<when>2016-08-18T04:15:48Z</when>
+<gx:coord>72.8016276 40.52237 0.0</gx:coord>
+
+<when>2016-08-18T04:21:24Z</when>
+<gx:coord>72.8019232 40.5225387 0.0</gx:coord>
+</gx:Track>
+</Placemark></Document></kml>

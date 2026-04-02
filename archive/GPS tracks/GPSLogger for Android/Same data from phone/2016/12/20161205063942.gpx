@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?><gpx version="1.0" creator="GPSLogger 80 - http://gpslogger.mendhak.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"><time>2016-12-05T01:28:37Z</time><trk><trkseg><trkpt lat="9.9612601" lon="76.2453295"><time>2016-12-05T01:28:37Z</time><src>network</src></trkpt>
+<trkpt lat="9.9612603" lon="76.2453307"><time>2016-12-05T01:34:23Z</time><src>network</src></trkpt>
+<trkpt lat="9.961259" lon="76.2453295"><time>2016-12-05T01:46:17Z</time><src>network</src></trkpt>
+<trkpt lat="9.9612215" lon="76.2453859"><time>2016-12-05T01:51:40Z</time><src>network</src></trkpt>
+<trkpt lat="9.9611577" lon="76.2453321"><time>2016-12-05T01:57:03Z</time><src>network</src></trkpt>
+<trkpt lat="9.9612912" lon="76.2454679"><time>2016-12-05T02:02:07Z</time><src>network</src></trkpt>
+<trkpt lat="9.9612912" lon="76.2454679"><time>2016-12-05T02:07:10Z</time><src>network</src></trkpt>
+<trkpt lat="9.9612912" lon="76.2454679"><time>2016-12-05T02:12:21Z</time><src>network</src></trkpt>
+<trkpt lat="9.9612912" lon="76.2454679"><time>2016-12-05T02:17:16Z</time><src>network</src></trkpt>
+<trkpt lat="9.9612912" lon="76.2454679"><time>2016-12-05T02:22:44Z</time><src>network</src></trkpt>
+<trkpt lat="9.9612616" lon="76.2453305"><time>2016-12-05T02:28:07Z</time><src>network</src></trkpt>
+<trkpt lat="9.9610902" lon="76.2455761"><time>2016-12-05T02:33:00Z</time><src>network</src></trkpt>
+<trkpt lat="9.9612505" lon="76.2455131"><time>2016-12-05T02:38:13Z</time><src>network</src></trkpt>
+<trkpt lat="9.93924824" lon="76.25313381"><ele>-97.0</ele><time>2016-12-05T02:44:24Z</time><course>189.2</course><speed>3.5</speed><geoidheight>-92.0</geoidheight><src>gps</src><hdop>0.7</hdop><vdop>0.8</vdop><pdop>1.0</pdop></trkpt>
+<trkpt lat="9.968656" lon="76.29170103"><ele>-181.0</ele><time>2016-12-05T03:15:55Z</time><course>41.9</course><speed>0.559017</speed><geoidheight>-92.0</geoidheight><src>gps</src><sat>10</sat><hdop>1.0</hdop><vdop>1.9</vdop><pdop>2.2</pdop></trkpt>
+</trkseg></trk></gpx>
