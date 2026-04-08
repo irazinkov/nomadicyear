@@ -583,7 +583,84 @@
     "mapOrder": 53
   },
   {
-    "mapOrder": 54,
+    "slug": "bienvenidos-a-south-america-colombia",
+    "title": "Bienvenidos a South America - Colombia",
+    "mapTitle": "Cartagena Walled City",
+    "lat": 10.4236,
+    "lng": -75.5478,
+    "transport": "drive",
+    "url": "/blog/bienvenidos-a-south-america-colombia/",
+    "heroImage": "/uploads/2015/12/DSC02365.jpg",
+    "mapOrder": 54
+  },
+  {
+    "slug": "bienvenidos-a-south-america-colombia",
+    "title": "Bienvenidos a South America - Colombia",
+    "mapTitle": "Planeta Rica Christmas Eve Stop",
+    "lat": 8.4119,
+    "lng": -75.5854,
+    "transport": "drive",
+    "url": "/blog/bienvenidos-a-south-america-colombia/",
+    "heroImage": "/uploads/2015/12/DSC02392.jpg",
+    "mapOrder": 55
+  },
+  {
+    "slug": "bienvenidos-a-south-america-colombia",
+    "title": "Bienvenidos a South America - Colombia",
+    "mapTitle": "Medellin Cable Car District",
+    "lat": 6.2442,
+    "lng": -75.5812,
+    "transport": "drive",
+    "url": "/blog/bienvenidos-a-south-america-colombia/",
+    "heroImage": "/uploads/2016/01/DSC02489.jpg",
+    "mapOrder": 56
+  },
+  {
+    "slug": "bienvenidos-a-south-america-colombia",
+    "title": "Bienvenidos a South America - Colombia",
+    "mapTitle": "Ibague Host Stay",
+    "lat": 4.4389,
+    "lng": -75.2322,
+    "transport": "drive",
+    "url": "/blog/bienvenidos-a-south-america-colombia/",
+    "heroImage": "/uploads/2016/01/DSC02582.jpg",
+    "mapOrder": 57
+  },
+  {
+    "slug": "bienvenidos-a-south-america-colombia",
+    "title": "Bienvenidos a South America - Colombia",
+    "mapTitle": "Cali Holiday Lights",
+    "lat": 3.4516,
+    "lng": -76.532,
+    "transport": "drive",
+    "url": "/blog/bienvenidos-a-south-america-colombia/",
+    "heroImage": "/uploads/2016/01/DSC02617.jpg",
+    "mapOrder": 58
+  },
+  {
+    "slug": "bienvenidos-a-south-america-colombia",
+    "title": "Bienvenidos a South America - Colombia",
+    "mapTitle": "Las Lajas Sanctuary",
+    "lat": 0.8053,
+    "lng": -77.5852,
+    "transport": "drive",
+    "url": "/blog/bienvenidos-a-south-america-colombia/",
+    "heroImage": "/uploads/2016/01/DSC02673.jpg",
+    "mapOrder": 59
+  },
+  {
+    "slug": "bienvenidos-a-south-america-colombia",
+    "title": "Bienvenidos a South America - Colombia",
+    "mapTitle": "Rumichaca Border Crossing",
+    "lat": 0.8056,
+    "lng": -77.6654,
+    "transport": "drive",
+    "url": "/blog/bienvenidos-a-south-america-colombia/",
+    "heroImage": "/uploads/2016/01/DSC02691.jpg",
+    "mapOrder": 60
+  },
+  {
+    "mapOrder": 61,
     "slug": "korea-car-shipping-guide",
     "title": "Korea - Car Shipping Guide",
     "mapTitle": "Busan Ferry Terminal",
@@ -594,7 +671,7 @@
     "heroImage": "/uploads/2016/06/korea_car_shipping.jpg"
   },
   {
-    "mapOrder": 55,
+    "mapOrder": 62,
     "slug": "the-warm-siberian-welcome-russia",
     "title": "Russia - The Warm Siberian Welcome",
     "mapTitle": "Trans-Siberian Memorial Stop",
@@ -605,7 +682,7 @@
     "heroImage": "/uploads/2016/06/the_warm_siberian_welcome-1.jpg"
   },
   {
-    "mapOrder": 56,
+    "mapOrder": 63,
     "slug": "mongolia-gobi-yourself",
     "title": "Mongolia - Gobi Yourself",
     "mapTitle": "Khongoryn Els",
@@ -616,7 +693,7 @@
     "heroImage": "/uploads/2016/07/mongolia-gobi.jpg"
   },
   {
-    "mapOrder": 57,
+    "mapOrder": 64,
     "slug": "kazakhstan-window-to-the-galaxy",
     "title": "Kazakhstan - Window to the Galaxy",
     "mapTitle": "Almaty Spring Stop",
@@ -627,7 +704,7 @@
     "heroImage": "/uploads/2016/08/kazakhstan_sharyn_canyon.jpg"
   },
   {
-    "mapOrder": 58,
+    "mapOrder": 65,
     "slug": "kyrgyzstan-issykul-lake",
     "title": "Kyrgyzstan - Issykul Lake",
     "mapTitle": "Djety-Oguz, Issykul",
@@ -638,7 +715,7 @@
     "heroImage": "/uploads/2016/08/kyrgyzstan_issykul-1.jpg"
   },
   {
-    "mapOrder": 59,
+    "mapOrder": 66,
     "slug": "kyrgyzstan-pamir-the-roof-of-the-world",
     "title": "Kyrgyzstan - Pamir, the Roof of the World",
     "mapTitle": "Sary-Tash",
@@ -649,7 +726,7 @@
     "heroImage": "/uploads/2016/09/pamir_slider-1.jpg"
   },
   {
-    "mapOrder": 60,
+    "mapOrder": 67,
     "slug": "china-the-great-wall",
     "title": "China - The Great Wall",
     "mapTitle": "Beijing Summer Palace",
@@ -660,7 +737,7 @@
     "heroImage": "/uploads/2016/12/china_greatwall_slider-1.jpg"
   },
   {
-    "mapOrder": 61,
+    "mapOrder": 68,
     "slug": "india-stuck-in-mumbai-with-no-money",
     "title": "India - Stuck in Mumbai with no money",
     "mapTitle": "Mumbai",
@@ -671,7 +748,7 @@
     "heroImage": "/uploads/2017/01/mumbai_slider-1.jpg"
   },
   {
-    "mapOrder": 62,
+    "mapOrder": 69,
     "slug": "india-jaisalmer-the-golden-city-of-rajasthan-and-camels",
     "title": "India - Jaisalmer - The Golden City of Rajasthan and Camels",
     "mapTitle": "Jaisalmer",

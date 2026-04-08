@@ -21,6 +21,53 @@ tags:
   - "medellin"
   - "shipping"
 legacyUrl: "http://nomadicyear.com/2016/01/bienvenidos-a-south-america-colombia/"
+lat: 10.4236
+lng: -75.5478
+mapTitle: "Cartagena Walled City"
+transport: "drive"
+routeWaypoints:
+  - label: "Cartagena Walled City"
+    lat: 10.4236
+    lng: -75.5478
+    transport: "drive"
+    image: "/uploads/2015/12/DSC02365.jpg"
+    imageAlt: "Cartagena old town at night"
+  - label: "Planeta Rica Christmas Eve Stop"
+    lat: 8.4119
+    lng: -75.5854
+    transport: "drive"
+    image: "/uploads/2015/12/DSC02392.jpg"
+    imageAlt: "Roadside Christmas Eve stop in Colombia"
+  - label: "Medellin Cable Car District"
+    lat: 6.2442
+    lng: -75.5812
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02489.jpg"
+    imageAlt: "Medellin city view from cable car area"
+  - label: "Ibague Host Stay"
+    lat: 4.4389
+    lng: -75.2322
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02582.jpg"
+    imageAlt: "Meeting friends in Ibague"
+  - label: "Cali Holiday Lights"
+    lat: 3.4516
+    lng: -76.532
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02617.jpg"
+    imageAlt: "Cali at night during holiday lights"
+  - label: "Las Lajas Sanctuary"
+    lat: 0.8053
+    lng: -77.5852
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02673.jpg"
+    imageAlt: "Las Lajas church in canyon"
+  - label: "Rumichaca Border Crossing"
+    lat: 0.8056
+    lng: -77.6654
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02691.jpg"
+    imageAlt: "Near Ecuador border crossing"
 status: "publish"
 draft: false
 ---
