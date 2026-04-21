@@ -20,6 +20,25 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/10/russia-moscow-family-and-friends/"
 status: "publish"
 draft: false
+routeWaypoints:
+  - label: "Moscow Dacha Welcome"
+    lat: 55.452325
+    lng: 37.508584
+    transport: "drive"
+    image: "/uploads/2016/10/DSC3331.jpg"
+    imageAlt: "Family welcome at the Moscow dacha"
+  - label: "Dad Apartment Parking"
+    lat: 55.782734
+    lng: 37.601655
+    transport: "drive"
+    image: "/uploads/2016/10/parking.jpg"
+    imageAlt: "Parking near dad's apartment in Moscow"
+  - label: "Red Square Meet-up"
+    lat: 55.754428
+    lng: 37.620278
+    transport: "drive"
+    image: "/uploads/2016/10/DSC3384.jpg"
+    imageAlt: "St. Basil's and Red Square day walk"
 ---
 <div id="google_translate_element"> </div>
 Finally, we are here - Moscow. Actually it's my great-grandma's summer home just outside the city...but after coming this far...this is Moscow to us.

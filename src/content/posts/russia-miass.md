@@ -29,6 +29,31 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/09/russia-miass/"
 status: "publish"
 draft: false
+routeWaypoints:
+  - label: "Kazakhstan-Russia Border Crossing"
+    lat: 52.929818
+    lng: 70.16324
+    transport: "drive"
+    image: "/uploads/2016/09/DSC06592-1024x683.jpg"
+    imageAlt: "Bug-covered tent after crossing into Russia"
+  - label: "Kurgan Transit Stop"
+    lat: 55.38586
+    lng: 66.65815
+    transport: "drive"
+    image: "/uploads/2016/09/Capture1-1.jpg"
+    imageAlt: "Crossing from Asian steppe into forested Russia"
+  - label: "Miass Friends Home"
+    lat: 55.066107
+    lng: 60.104446
+    transport: "drive"
+    image: "/uploads/2016/09/DSC3036.jpg"
+    imageAlt: "Traditional welcome in Miass"
+  - label: "Miass Departure"
+    lat: 55.14064
+    lng: 60.14934
+    transport: "drive"
+    image: "/uploads/2016/09/DSC06623.jpg"
+    imageAlt: "After banya by the lake near Miass"
 ---
 <div id="google_translate_element"></div>
 We learned a trick to passing the border with minimal hassle. During a usual border process the passengers go through the immigration and then wait in a separate area while the customs officials inspect the car. This is what we do now, Hyein just follows me back to the car and sticks around. The officers tell her to go sit on a bench somewhere, when I tell them that at this point THEY have to make a decision. If they need to open the tent and do a thorough search, she stays because I cannot do this by myself.

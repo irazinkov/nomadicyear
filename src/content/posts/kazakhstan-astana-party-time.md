@@ -28,6 +28,25 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/09/kazakhstan-astana-party-time/"
 status: "publish"
 draft: false
+routeWaypoints:
+  - label: "Kazakh Steppe Camp"
+    lat: 45.80859
+    lng: 73.39846
+    transport: "drive"
+    image: "/uploads/2016/09/DSC2955.jpg"
+    imageAlt: "Long steppe road heading north through Kazakhstan"
+  - label: "Astana City Stay"
+    lat: 51.15808
+    lng: 71.50146
+    transport: "drive"
+    image: "/uploads/2016/09/DSC06541-1024x683.jpg"
+    imageAlt: "Arrival in Astana city center"
+  - label: "Burabay (Borovoe)"
+    lat: 53.082995
+    lng: 70.308597
+    transport: "drive"
+    image: "/uploads/2016/09/DSC2997.jpg"
+    imageAlt: "Burabay lakes and granite hills"
 ---
 The last post felt like a final point, it even included a summary for Kyrgyzstan. Chronologically speaking, we still had to get from Pamir back to Osh, then Bishkek and then onto Kazakhstan. Although there are not a lot of new pretty pictures for you guys, we did have a little adventure.
 

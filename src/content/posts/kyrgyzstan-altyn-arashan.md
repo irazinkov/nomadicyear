@@ -34,6 +34,25 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/08/kyrgyzstan-altyn-arashan/"
 status: "publish"
 draft: false
+routeWaypoints:
+  - label: "Karakol Base Stay"
+    lat: 42.490343
+    lng: 78.391818
+    transport: "drive"
+    image: "/uploads/2016/08/DSC1456.jpg"
+    imageAlt: "First stop in Karakol, Kyrgyzstan"
+  - label: "Altyn Arashan Valley Camp"
+    lat: 42.372373
+    lng: 78.610519
+    transport: "drive"
+    image: "/uploads/2016/08/C11.jpg"
+    imageAlt: "Altyn Arashan valley view near the guesthouse"
+  - label: "Karakol Return"
+    lat: 42.485914
+    lng: 78.408199
+    transport: "drive"
+    image: "/uploads/2016/08/DSC1512.jpg"
+    imageAlt: "Returning toward Karakol after Altyn Arashan"
 ---
 Even if you have been following the Rio Olympic games like a hawk, then you still wouldn't have had a chance  to spot this flag. As the post name suggests, we are in Kyrgyzstan. A few things you might want to instantly figure out, like where in the world is this place and how do you even pronounce its name.
 

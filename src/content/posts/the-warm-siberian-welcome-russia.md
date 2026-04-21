@@ -35,6 +35,49 @@ lng: 121.40383
 mapOrder: 2
 mapTitle: "Trans-Siberian Memorial Stop"
 transport: "drive"
+routeWaypoints:
+  - label: "Khabarovsk Biker Welcome"
+    lat: 48.480223
+    lng: 135.071917
+    transport: "drive"
+    image: "/uploads/2016/06/DSC8316.jpg"
+    imageAlt: "Meeting the Lynx of Amur riders in Khabarovsk"
+  - label: "Blagoveshchensk Border City"
+    lat: 50.260042
+    lng: 127.533738
+    transport: "drive"
+    image: "/uploads/2016/06/DSC8255.jpg"
+    imageAlt: "Blagoveshchensk riverfront facing Heihe across the Amur"
+  - label: "Trans-Siberian Memorial Stop"
+    lat: 54.063263
+    lng: 121.40383
+    transport: "drive"
+    image: "/uploads/2016/06/DSC8318.jpg"
+    imageAlt: "The Wave remembrance memorial on the Trans-Siberian route"
+  - label: "Chita Victory Park"
+    lat: 52.050059
+    lng: 113.47354
+    transport: "drive"
+    image: "/uploads/2016/06/DSC8381.jpg"
+    imageAlt: "Victory Park memorial in Chita"
+  - label: "Chita Children's Railroad"
+    lat: 52.06565
+    lng: 113.46553
+    transport: "drive"
+    image: "/uploads/2016/06/DSC8387.jpg"
+    imageAlt: "Children's Railroad in Chita"
+  - label: "Ulan-Ude Opposite Club"
+    lat: 51.833437
+    lng: 107.58403
+    transport: "drive"
+    image: "/uploads/2016/06/DSC8590.jpg"
+    imageAlt: "Evening with Opposite motorcycle club in Ulan-Ude"
+  - label: "Irkutsk Inturist Parking"
+    lat: 52.286974
+    lng: 104.305018
+    transport: "drive"
+    image: "/uploads/2016/06/DSC8650.jpg"
+    imageAlt: "Overnight parking stop near Hotel Irkutsk Inturist"
 ---
 <div id="google_translate_element"></div>
 Knowing the language completely changes the dynamic of your travel. During the first part of our journey we purposefully tried to be isolated by not buying any SIM cards. In the beginning our poor understanding of Spanish further isolated us from freely hanging out and meeting the locals.

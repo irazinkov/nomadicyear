@@ -15,6 +15,59 @@ tags:
   - "chile"
   - "lakes"
   - "offroading"
+lat: -41.4717
+lng: -72.9369
+mapTitle: "Puerto Montt"
+transport: "drive"
+routeWaypoints:
+  - label: "Puerto Montt"
+    lat: -41.4717
+    lng: -72.9369
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04404.jpg"
+    imageAlt: "Hodori packed and ready to leave Puerto Montt"
+  - label: "Hornopiren Ferry"
+    lat: -41.9326
+    lng: -72.4361
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04453.jpg"
+    imageAlt: "Waiting for the ferry at Hornopiren"
+  - label: "Caleta Gonzalo"
+    lat: -42.5664
+    lng: -72.5806
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04460.jpg"
+    imageAlt: "Arriving at Caleta Gonzalo after the long ferry"
+  - label: "Chaiten"
+    lat: -42.9170
+    lng: -72.7080
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04463.jpg"
+    imageAlt: "Forests and mountains south of Chaiten"
+  - label: "Puerto Rio Tranquilo (Lago General Carrera)"
+    lat: -46.6249
+    lng: -72.6730
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04491.jpg"
+    imageAlt: "Lago General Carrera near Puerto Rio Tranquilo"
+  - label: "Cochrane"
+    lat: -47.2553
+    lng: -72.5733
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04515.jpg"
+    imageAlt: "Carretera Austral landscape near Cochrane"
+  - label: "Chile Chico"
+    lat: -46.5404
+    lng: -71.7257
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04517.jpg"
+    imageAlt: "Heading east toward the Argentine border"
+  - label: "Los Antiguos, Argentina"
+    lat: -46.5494
+    lng: -71.6231
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04517.jpg"
+    imageAlt: "Crossing into Argentina from Chile Chico"
 legacyUrl: "http://nomadicyear.com/2016/03/carretera-australchile/"
 status: "publish"
 draft: false

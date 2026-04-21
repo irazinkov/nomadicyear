@@ -17,6 +17,23 @@ tags:
   - "mulgogi"
   - "nangman"
   - "overlanding"
+lat: 38.100538
+lng: 127.320719
+mapTitle: "Nangman Mountain Camp"
+transport: "drive"
+routeWaypoints:
+  - label: "Nangman Mountain Camp"
+    lat: 38.100538
+    lng: 127.320719
+    transport: "drive"
+    image: "/uploads/2016/06/camping.jpg"
+    imageAlt: "Nangman community mountain campsite in northern South Korea"
+  - label: "Busan Ferry Terminal"
+    lat: 35.118514
+    lng: 129.049924
+    transport: "drive"
+    image: "/uploads/2016/06/korea_overlanding.jpg"
+    imageAlt: "Busan ferry terminal before leaving Korea"
 legacyUrl: "http://nomadicyear.com/2016/06/korea-camping-done-right/"
 status: "publish"
 draft: false

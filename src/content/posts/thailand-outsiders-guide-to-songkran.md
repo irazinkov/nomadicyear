@@ -19,6 +19,17 @@ tags:
   - "songkran"
   - "thailand"
   - "wat-phra-kaew"
+lat: 13.7590
+lng: 100.4977
+mapTitle: "Khaosan Road (Songkran)"
+transport: "flight"
+routeWaypoints:
+  - label: "Khaosan Road (Songkran)"
+    lat: 13.7590
+    lng: 100.4977
+    transport: "flight"
+    image: "/uploads/2016/05/Bangkok_06206.jpg"
+    imageAlt: "Songkran water festival on Khaosan Road"
 legacyUrl: "http://nomadicyear.com/2016/05/thailand-outsiders-guide-to-songkran/"
 status: "publish"
 draft: false

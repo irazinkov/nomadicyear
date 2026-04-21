@@ -26,6 +26,31 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/07/mongolia-orkhon-valley/"
 status: "publish"
 draft: false
+routeWaypoints:
+  - label: "Ulaanbaatar"
+    lat: 47.911748
+    lng: 106.981194
+    transport: "drive"
+    image: "/uploads/2016/07/DSC9587.jpg"
+    imageAlt: "Departing Ulaanbaatar for Orkhon Valley"
+  - label: "Orkhon Valley Camp"
+    lat: 46.775451
+    lng: 101.962489
+    transport: "drive"
+    image: "/uploads/2016/07/DSC9646.jpg"
+    imageAlt: "Camp near the river on the way to Orkhon Valley"
+  - label: "Mongol Els Dunes"
+    lat: 47.34935
+    lng: 103.6837
+    transport: "drive"
+    image: "/uploads/2016/07/DSC9620.jpg"
+    imageAlt: "Mongol Els sand dunes in central Mongolia"
+  - label: "Ulaanbaatar Return"
+    lat: 47.911748
+    lng: 106.981194
+    transport: "drive"
+    image: "/uploads/2016/07/DSC9840.jpg"
+    imageAlt: "Back in Ulaanbaatar after Orkhon Valley"
 ---
 <div id="google_translate_element"></div>
 Similarly named to an island we just spent destroying our sense of what is the right way to drive a car and mostly our livers for a week, if you haven't read the Olkhon Island adventures with Korandovod...please do so now. It's really for your entertainment...not mine.

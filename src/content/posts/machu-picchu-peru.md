@@ -16,6 +16,17 @@ tags:
   - "llamas"
   - "machu-picchu"
   - "rain"
+lat: -13.1747136
+lng: -72.5595829
+mapTitle: "Hidroelectrica (Machu Picchu Access)"
+transport: "drive"
+routeWaypoints:
+  - label: "Hidroelectrica (Machu Picchu Access)"
+    lat: -13.1747136
+    lng: -72.5595829
+    transport: "drive"
+    image: "/uploads/2016/02/DSC03467.jpg"
+    imageAlt: "Machu Picchu view in clearing clouds"
 legacyUrl: "http://nomadicyear.com/2016/02/machu-picchu-peru/"
 status: "publish"
 draft: false

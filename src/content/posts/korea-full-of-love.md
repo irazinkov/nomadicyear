@@ -16,6 +16,17 @@ tags:
   - "friends"
   - "korea"
   - "seoul"
+lat: 37.5665
+lng: 126.9780
+mapTitle: "Seoul"
+transport: "flight"
+routeWaypoints:
+  - label: "Seoul"
+    lat: 37.5665
+    lng: 126.9780
+    transport: "flight"
+    image: "/uploads/2016/05/DSC2551.jpg"
+    imageAlt: "Reuniting with family in Seoul"
 legacyUrl: "http://nomadicyear.com/2016/05/korea-full-of-love/"
 status: "publish"
 draft: false

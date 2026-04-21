@@ -21,6 +21,29 @@ tags:
   - "songkran"
   - "surat-thani"
   - "thailand"
+lat: 9.5120
+lng: 100.0136
+mapTitle: "Koh Samui"
+transport: "flight"
+routeWaypoints:
+  - label: "Surat Thani"
+    lat: 9.1382
+    lng: 99.3215
+    transport: "flight"
+    image: "/uploads/2016/05/Surat_Thani_Koh_Samui_05967.jpg"
+    imageAlt: "Surat Thani airport"
+  - label: "Don Sak Ferry"
+    lat: 9.3127
+    lng: 99.6886
+    transport: "drive"
+    image: "/uploads/2016/05/Surat_Thani_Koh_Samui_GoPro_2.jpg"
+    imageAlt: "Bus from Surat Thani to Don Sak"
+  - label: "Koh Samui"
+    lat: 9.5120
+    lng: 100.0136
+    transport: "boat"
+    image: "/uploads/2016/05/koh-samui-slider.jpg"
+    imageAlt: "Koh Samui beach"
 legacyUrl: "http://nomadicyear.com/2016/05/koh-samui-how-to-island-hop-in-thailand/"
 status: "publish"
 draft: false

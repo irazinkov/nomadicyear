@@ -38,6 +38,19 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/11/russia-moscow-winter-is-coming/"
 status: "publish"
 draft: false
+routeWaypoints:
+  - label: "Moscow Home Base"
+    lat: 55.6952
+    lng: 37.4882
+    transport: "drive"
+    image: "/uploads/2016/10/DSC3836.jpg"
+    imageAlt: "Workout days in Moscow before departure"
+  - label: "Vnukovo Airport Departure"
+    lat: 55.60691
+    lng: 37.28642
+    transport: "drive"
+    image: "/uploads/2016/10/DSC06659.jpg"
+    imageAlt: "Final Moscow days before the next flight"
 ---
 <div id="google_translate_element"> </div>
 Our stay in Moscow is getting unexpectedly longer and longer, there are reasons for it, but I am not at liberty to discusses them at the moment. Let's just say that some interesting things are up ahead and those of you who know us already will not be surprised by the announcement. Man, really starting to sound like we will have a third marriage ceremony at the North Poole or a baby on the way. No, although both good ideas, no...not right now.

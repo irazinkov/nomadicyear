@@ -21,6 +21,23 @@ tags:
   - "steaks"
   - "wind"
   - "wine"
+lat: -50.4967
+lng: -73.1377
+mapTitle: "Perito Moreno Glacier"
+transport: "drive"
+routeWaypoints:
+  - label: "El Calafate"
+    lat: -50.3379
+    lng: -72.2648
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04525.jpg"
+    imageAlt: "Steaks and wine in El Calafate"
+  - label: "Perito Moreno Glacier"
+    lat: -50.4967
+    lng: -73.1377
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04547.jpg"
+    imageAlt: "Face of the Perito Moreno glacier"
 legacyUrl: "http://nomadicyear.com/2016/03/perito-moreno-glacier-argentina/"
 status: "publish"
 draft: false

@@ -28,11 +28,25 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/07/mongolia-gobi-yourself/"
 status: "publish"
 draft: false
-lat: 43.795247
-lng: 102.18479
-mapOrder: 3
-mapTitle: "Khongoryn Els"
-transport: "drive"
+routeWaypoints:
+  - label: "Dalanzadgad Fuel Stop"
+    lat: 43.5836
+    lng: 104.0519
+    transport: "drive"
+    image: "/uploads/2016/07/DSC9858.jpg"
+    imageAlt: "Open Gobi steppe road near Dalanzadgad"
+  - label: "Khongoryn Approach Camp"
+    lat: 43.7782
+    lng: 102.2815
+    transport: "drive"
+    image: "/uploads/2016/07/DSC9939.jpg"
+    imageAlt: "Approaching Khongoryn Els dunes by vehicle"
+  - label: "Khongoryn Els Dunes"
+    lat: 43.795247
+    lng: 102.18479
+    transport: "drive"
+    image: "/uploads/2016/07/DSC9889.jpg"
+    imageAlt: "Khongoryn Els sand dunes in the Gobi"
 ---
 <div id="google_translate_element"></div>
 Sitting around in the hostel, we tried to figure out what else to do in Mongolia. It's not like there is a shortage of things to be done, just we never really prepared. We looked around other people's blogs and found some GPS tracks for Gobi. Perfect, I guess we are going to Gobi Dessert.

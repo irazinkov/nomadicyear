@@ -17,6 +17,17 @@ tags:
   - "steak"
   - "waterfalls"
   - "wildlife"
+lat: -25.6953
+lng: -54.4367
+mapTitle: "Iguazu Falls"
+transport: "drive"
+routeWaypoints:
+  - label: "Iguazu Falls (Argentine Side)"
+    lat: -25.6953
+    lng: -54.4367
+    transport: "drive"
+    image: "/uploads/2016/03/dsc05022.jpg"
+    imageAlt: "Walkways above the Iguazu river"
 legacyUrl: "http://nomadicyear.com/2016/04/iguazu-falls-argentina/"
 status: "publish"
 draft: false

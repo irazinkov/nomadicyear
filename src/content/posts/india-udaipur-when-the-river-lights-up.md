@@ -25,6 +25,29 @@ tags:
 legacyUrl: "http://nomadicyear.com/2017/01/india-udaipur-when-the-river-lights-up/"
 status: "publish"
 draft: false
+lat: 24.581741
+lng: 73.731572
+mapTitle: "Udaipur Railway Station Arrival"
+transport: "drive"
+routeWaypoints:
+  - label: "Udaipur Railway Station Arrival"
+    lat: 24.581741
+    lng: 73.731572
+    transport: "drive"
+    image: "/uploads/2017/01/DSC4541.jpg"
+    imageAlt: "Arrival in Udaipur after the overnight train"
+  - label: "Jagdish Temple, Udaipur"
+    lat: 24.57694
+    lng: 73.683634
+    transport: "drive"
+    image: "/uploads/2017/01/DSC4561.jpg"
+    imageAlt: "Jagdish Temple in Udaipur"
+  - label: "Natraj Dining Hall"
+    lat: 24.572037
+    lng: 73.699601
+    transport: "drive"
+    image: "/uploads/2017/01/DSC4653.jpg"
+    imageAlt: "Thali meal at Natraj Dining Hall"
 ---
 <div id="google_translate_element"> </div>
 <blockquote>Chai masala! Chai masala! This must be at least the 3rd time this morning that I heard someone selling tea in the subway car. Either the Indian folks have no manners, get up really early or I am not entirely sure what time it is.</blockquote>

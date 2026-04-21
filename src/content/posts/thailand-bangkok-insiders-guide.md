@@ -19,6 +19,17 @@ tags:
   - "street-food"
   - "thailand"
   - "wat"
+lat: 13.7563
+lng: 100.5018
+mapTitle: "Bangkok"
+transport: "flight"
+routeWaypoints:
+  - label: "Bangkok"
+    lat: 13.7563
+    lng: 100.5018
+    transport: "flight"
+    image: "/uploads/2016/05/bangkok_slider_1_done.jpg"
+    imageAlt: "Wat Pho in Bangkok"
 legacyUrl: "http://nomadicyear.com/2016/05/thailand-bangkok-insiders-guide/"
 status: "publish"
 draft: false

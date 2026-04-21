@@ -17,6 +17,17 @@ tags:
   - "peru"
   - "stickers"
 legacyUrl: "http://nomadicyear.com/2016/01/lima-peru/"
+lat: -12.046374
+lng: -77.042793
+mapTitle: "Lima Historic Center (Plaza Mayor)"
+transport: "drive"
+routeWaypoints:
+  - label: "Lima Historic Center (Plaza Mayor)"
+    lat: -12.046374
+    lng: -77.042793
+    transport: "drive"
+    image: "/uploads/2016/01/DSC03070.jpg"
+    imageAlt: "Plaza Mayor area in central Lima"
 status: "publish"
 draft: false
 ---

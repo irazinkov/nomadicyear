@@ -26,9 +26,27 @@ status: "publish"
 draft: false
 lat: 39.99018
 lng: 116.265864
-mapOrder: 8
 mapTitle: "Beijing Summer Palace"
 transport: "drive"
+routeWaypoints:
+  - label: "Beijing Summer Palace"
+    lat: 39.99018
+    lng: 116.265864
+    transport: "drive"
+    image: "/uploads/2016/11/DSC4150.jpg"
+    imageAlt: "Summer Palace lake and temple view"
+  - label: "Tiantan Temple of Heaven"
+    lat: 39.882311
+    lng: 116.4066
+    transport: "drive"
+    image: "/uploads/2016/11/DSC4190.jpg"
+    imageAlt: "Temple of Heaven in Beijing"
+  - label: "Mutianyu Great Wall"
+    lat: 40.426007
+    lng: 116.554891
+    transport: "drive"
+    image: "/uploads/2016/11/DSC06858.jpg"
+    imageAlt: "Mutianyu section of the Great Wall"
 ---
 <div id="google_translate_element">&nbsp;</div>
 Here is the main difference between backpacking and overlanding, schedule. With the car we pretty much had complete freedom of movement, WE decided how long we wanted to stay in each place and what time we should leave. None of the waking up at the crack of dawn just to make it to the airport on time, no hassle with public transport. Sure we are affected by traffic just like the bus, but at least we get to sit in our comfy Hodori with the AC set just right, listening to the "Fifty Shades of Grayer the Darker Edition".

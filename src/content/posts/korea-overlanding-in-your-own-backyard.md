@@ -18,6 +18,17 @@ tags:
   - "port"
   - "seoul"
   - "unloading"
+lat: 35.1796
+lng: 129.0756
+mapTitle: "Busan"
+transport: "drive"
+routeWaypoints:
+  - label: "Busan Port"
+    lat: 35.118444
+    lng: 129.050039
+    transport: "drive"
+    image: "/uploads/2016/06/korea_overlanding.jpg"
+    imageAlt: "Picking Hodori up at the Busan port"
 legacyUrl: "http://nomadicyear.com/2016/06/korea-overlanding-in-your-own-backyard/"
 status: "publish"
 draft: false

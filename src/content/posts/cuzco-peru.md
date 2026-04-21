@@ -17,6 +17,17 @@ tags:
   - "cuzco"
   - "korean-food"
   - "llamas"
+lat: -13.516274
+lng: -71.978988
+mapTitle: "Cuzco Plaza de Armas"
+transport: "drive"
+routeWaypoints:
+  - label: "Cuzco Plaza de Armas"
+    lat: -13.516274
+    lng: -71.978988
+    transport: "drive"
+    image: "/uploads/2016/02/DSC03374.jpg"
+    imageAlt: "Night view near Cuzco Plaza de Armas"
 legacyUrl: "http://nomadicyear.com/2016/02/cuzco-peru/"
 status: "publish"
 draft: false

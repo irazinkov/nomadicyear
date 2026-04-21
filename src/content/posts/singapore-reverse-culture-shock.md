@@ -18,6 +18,17 @@ tags:
   - "party"
   - "singapore"
   - "utopia"
+lat: 1.3521
+lng: 103.8198
+mapTitle: "Singapore"
+transport: "flight"
+routeWaypoints:
+  - label: "Singapore"
+    lat: 1.3521
+    lng: 103.8198
+    transport: "flight"
+    image: "/uploads/2016/05/Singapore-05742.jpg"
+    imageAlt: "Singapore night view with merlion and fountain"
 legacyUrl: "http://nomadicyear.com/2016/05/singapore-reverse-culture-shock/"
 status: "publish"
 draft: false

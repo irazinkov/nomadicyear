@@ -21,6 +21,17 @@ tags:
   - "sick"
   - "smog"
   - "thai-food"
+lat: 18.7883
+lng: 98.9853
+mapTitle: "Chiang Mai"
+transport: "flight"
+routeWaypoints:
+  - label: "Chiang Mai"
+    lat: 18.7883
+    lng: 98.9853
+    transport: "flight"
+    image: "/uploads/2016/05/ChiangMai-1659.jpg"
+    imageAlt: "Feeding elephants at Patara Elephant Farm"
 legacyUrl: "http://nomadicyear.com/2016/05/chiang-mai-how-to-elephant-in-thailand/"
 status: "publish"
 draft: false

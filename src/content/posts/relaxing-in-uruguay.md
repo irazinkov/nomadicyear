@@ -23,6 +23,23 @@ tags:
   - "tango"
   - "tannat"
   - "vehicle"
+lat: -34.9011
+lng: -56.1645
+mapTitle: "Montevideo"
+transport: "drive"
+routeWaypoints:
+  - label: "Hotel Suiza (Atlantida)"
+    lat: -34.7669
+    lng: -55.7547
+    transport: "drive"
+    image: "/uploads/2016/04/DSC05131.jpg"
+    imageAlt: "Camping at Hotel Suiza outside Montevideo"
+  - label: "Montevideo Port"
+    lat: -34.9011
+    lng: -56.1645
+    transport: "drive"
+    image: "/uploads/2016/04/DSC05175.jpg"
+    imageAlt: "Shipping Hodori from Montevideo"
 legacyUrl: "http://nomadicyear.com/2016/04/relaxing-in-uruguay/"
 status: "publish"
 draft: false

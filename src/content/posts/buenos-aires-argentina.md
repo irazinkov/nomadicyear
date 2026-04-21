@@ -17,6 +17,23 @@ tags:
   - "koreans"
   - "steak"
   - "wine"
+lat: -34.6037
+lng: -58.3816
+mapTitle: "Buenos Aires"
+transport: "drive"
+routeWaypoints:
+  - label: "Buenos Aires (Obelisco)"
+    lat: -34.6037
+    lng: -58.3816
+    transport: "drive"
+    image: "/uploads/2016/03/dsc04963.jpg"
+    imageAlt: "The Obelisco on Avenida 9 de Julio"
+  - label: "La Boca"
+    lat: -34.6354
+    lng: -58.3633
+    transport: "drive"
+    image: "/uploads/2016/03/dsc04992.jpg"
+    imageAlt: "Colorful houses of La Boca"
 legacyUrl: "http://nomadicyear.com/2016/04/buenos-aires-argentina/"
 status: "publish"
 draft: false

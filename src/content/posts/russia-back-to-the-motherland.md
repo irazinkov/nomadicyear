@@ -41,6 +41,37 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/08/russia-back-to-the-motherland/"
 status: "publish"
 draft: false
+routeWaypoints:
+  - label: "Kosh-Agach Market Stop"
+    lat: 49.99268
+    lng: 88.671591
+    transport: "drive"
+    image: "/uploads/2016/07/DSC0275.jpg"
+    imageAlt: "Fresh produce stop in Kosh-Agach after crossing from Mongolia"
+  - label: "Barnaul Honey Stop"
+    lat: 53.336156
+    lng: 83.783429
+    transport: "drive"
+    image: "/uploads/2016/07/DSC0300.jpg"
+    imageAlt: "Driving through Altai on the Chuysky Trakt toward Barnaul"
+  - label: "Novosibirsk Host Stop"
+    lat: 54.865536
+    lng: 83.107265
+    transport: "drive"
+    image: "/uploads/2016/07/DSC0321.jpg"
+    imageAlt: "Vehicle inspection and maintenance stop in Novosibirsk"
+  - label: "Ob Reservoir Camp"
+    lat: 54.480752
+    lng: 82.444042
+    transport: "drive"
+    image: "/uploads/2016/07/DSC0472.jpg"
+    imageAlt: "Weekend camp by the lake near Novosibirsk"
+  - label: "Novosibirsk Return"
+    lat: 54.865661
+    lng: 83.107281
+    transport: "drive"
+    image: "/uploads/2016/07/DSC0406.jpg"
+    imageAlt: "Back in Novosibirsk after camping"
 ---
 <div id="google_translate_element"></div>
 And boom just like that we are back in the Motherland although the landscape hasn't changed much from Mongolia, the towns already look a little bit more organized and well supplied.

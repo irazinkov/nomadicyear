@@ -28,6 +28,13 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/07/mongolia-bayankhongor-real-mongolia-experience/"
 status: "publish"
 draft: false
+routeWaypoints:
+  - label: "Bayankhongor"
+    lat: 46.194362
+    lng: 100.721227
+    transport: "drive"
+    image: "/uploads/2016/07/20160711_210618.jpg"
+    imageAlt: "Bayankhongor mechanic stop during Naadam week"
 ---
 <div id="google_translate_element"></div>
 The excitement of asphalt didn't last too long. Soon on a dry, smooth and, most importantly, quite pavement we discovered that our front suspension is making an awful amount of noise.

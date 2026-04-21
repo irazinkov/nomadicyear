@@ -16,6 +16,53 @@ tags:
   - "market"
   - "volcano"
 legacyUrl: "http://nomadicyear.com/2016/01/new-year-new-hemisphere-ecuador/"
+lat: 0.8123
+lng: -77.7177
+mapTitle: "Rumichaca Fuel Stop (Tulcan)"
+transport: "drive"
+routeWaypoints:
+  - label: "Rumichaca Fuel Stop (Tulcan)"
+    lat: 0.8123
+    lng: -77.7177
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02705.jpg"
+    imageAlt: "Fuel lines just after entering Ecuador"
+  - label: "Otavalo Market"
+    lat: 0.2346
+    lng: -78.2625
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02706.jpg"
+    imageAlt: "Otavalo outdoor market"
+  - label: "Quito Old Town"
+    lat: -0.2202
+    lng: -78.5121
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02716.jpg"
+    imageAlt: "Cathedral near Quito old town square"
+  - label: "Banos Volcano Valley"
+    lat: -1.3967
+    lng: -78.4247
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02797.jpg"
+    imageAlt: "Volcano view from Banos campsite"
+  - label: "Cuenca Festival Center"
+    lat: -2.9006
+    lng: -79.0045
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02857.jpg"
+    imageAlt: "Festival costumes in Cuenca"
+  - label: "Vilcabamba Hostel Stop"
+    lat: -4.2608
+    lng: -79.2249
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02877.jpg"
+    imageAlt: "Large insect near Vilcabamba hostel camp"
+  - label: "La Balsa Border Exit (Ecuador)"
+    lat: -4.5978
+    lng: -79.4226
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02846.jpg"
+    imageAlt: "Road heading south through Ecuador highlands"
 status: "publish"
 draft: false
 ---

@@ -25,6 +25,31 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/07/mongolia-never-bores-you/"
 status: "publish"
 draft: false
+routeWaypoints:
+  - label: "Flooded Valley Crossing"
+    lat: 46.344589
+    lng: 97.082189
+    transport: "drive"
+    image: "/uploads/2016/07/DSC0195.jpg"
+    imageAlt: "Flooded valley crossing on Mongolia's southern route"
+  - label: "Altai Reunion Stop"
+    lat: 46.368826
+    lng: 96.940634
+    transport: "drive"
+    image: "/uploads/2016/07/DSC0210.jpg"
+    imageAlt: "Meeting friends in Altai after difficult roads"
+  - label: "Western Mongolia Camp"
+    lat: 47.041213
+    lng: 93.289713
+    transport: "drive"
+    image: "/uploads/2016/07/DSC0245.jpg"
+    imageAlt: "Camp stop in western Mongolia"
+  - label: "Tashanta Border Queue"
+    lat: 49.995945
+    lng: 88.666812
+    transport: "drive"
+    image: "/uploads/2016/07/DSC06396.jpg"
+    imageAlt: "Waiting in line at the Tashanta border crossing"
 ---
 <div id="google_translate_element"></div>
 The route that we are following is called the "Southern Route". I've heard all kinds of stories about it, from boring with a good road to dusty, truck infested hellhole.

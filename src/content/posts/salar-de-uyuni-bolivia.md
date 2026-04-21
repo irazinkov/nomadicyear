@@ -19,6 +19,29 @@ tags:
   - "la-paz"
   - "salar-de-uyuni"
   - "stomach-bug"
+lat: -20.2991702
+lng: -66.9375232
+mapTitle: "Colchani (Salar de Uyuni Access)"
+transport: "drive"
+routeWaypoints:
+  - label: "South of Puno (Flat Tire)"
+    lat: -15.8944723
+    lng: -69.8898395
+    transport: "drive"
+    image: "/uploads/2016/02/DSC03660.jpg"
+    imageAlt: "Flat tire stop south of Puno"
+  - label: "San Pedro de Tiquina Ferry Crossing"
+    lat: -16.2227382
+    lng: -68.8530871
+    transport: "drive"
+    image: "/uploads/2016/02/DSC03701.jpg"
+    imageAlt: "Vehicle ferry crossing at San Pedro de Tiquina"
+  - label: "Colchani (Salar de Uyuni Access)"
+    lat: -20.2991702
+    lng: -66.9375232
+    transport: "drive"
+    image: "/uploads/2016/02/DSC04100.jpg"
+    imageAlt: "Sunset reflection on Salar de Uyuni"
 legacyUrl: "http://nomadicyear.com/2016/02/salar-de-uyuni-bolivia/"
 status: "publish"
 draft: false

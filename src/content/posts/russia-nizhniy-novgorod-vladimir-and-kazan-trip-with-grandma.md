@@ -34,6 +34,31 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/10/russia-nizhniy-novgorod-vladimir-and-kazan-trip-with-grandma/"
 status: "publish"
 draft: false
+routeWaypoints:
+  - label: "Kazan Family City"
+    lat: 55.782354
+    lng: 49.124225
+    transport: "drive"
+    image: "/uploads/2016/10/DSC3533.jpg"
+    imageAlt: "Family reunion day in Kazan"
+  - label: "Nizhniy Novgorod Kremlin"
+    lat: 56.32857
+    lng: 44.003505
+    transport: "drive"
+    image: "/uploads/2016/10/DSC3162.jpg"
+    imageAlt: "Red-brick Kremlin walls in Nizhniy Novgorod"
+  - label: "Vladimir Historic Center"
+    lat: 56.128889
+    lng: 40.407521
+    transport: "drive"
+    image: "/uploads/2016/09/DSC3229.jpg"
+    imageAlt: "Historic center walk in Vladimir"
+  - label: "Suzdal Church District"
+    lat: 56.41939
+    lng: 40.448789
+    transport: "drive"
+    image: "/uploads/2016/09/DSC3272.jpg"
+    imageAlt: "Church skyline near Suzdal center"
 ---
 <div id="google_translate_element"> </div>
 I might have overdone it with the driving in a single day from Miass to Kazan. The distance wise it is about 470-500 miles, basically something that I do once in a while when driving to see my parents in San Jose. Back in California this drive usually takes me 7 hours 30 minutes with a personal record of 5 hours 55 minutes, but that\x27s back home...where the roads are decent.

@@ -25,6 +25,29 @@ tags:
   - "road"
   - "russia"
   - "vladivostok"
+lat: 37.6694875
+lng: 127.0819169
+mapTitle: "Seoul Departure"
+transport: "drive"
+routeWaypoints:
+  - label: "Seoul Departure"
+    lat: 37.6694875
+    lng: 127.0819169
+    transport: "drive"
+    image: "/uploads/2016/06/DSC7827.jpg"
+    imageAlt: "Leaving Seoul for Donghae with the car fully packed"
+  - label: "Donghae Ferry Terminal"
+    lat: 37.54946739
+    lng: 129.09588028
+    transport: "boat"
+    image: "/uploads/2016/06/DSC7844.jpg"
+    imageAlt: "Boarding the ferry in Donghae, South Korea"
+  - label: "Vladivostok Sea Port"
+    lat: 43.10955827
+    lng: 131.88380219
+    transport: "drive"
+    image: "/uploads/2016/06/DSC7890.jpg"
+    imageAlt: "Arriving at Vladivostok sea port after the ferry"
 legacyUrl: "http://nomadicyear.com/2016/06/russia-overlanding-overraining/"
 status: "publish"
 draft: false

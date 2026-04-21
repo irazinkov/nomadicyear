@@ -21,6 +21,17 @@ tags:
   - "sanots"
   - "sao-paulo"
   - "soccer"
+lat: -23.5505
+lng: -46.6333
+mapTitle: "Sao Paulo"
+transport: "flight"
+routeWaypoints:
+  - label: "Sao Paulo"
+    lat: -23.5505
+    lng: -46.6333
+    transport: "flight"
+    image: "/uploads/2016/04/DSC05293.jpg"
+    imageAlt: "Night landing in Sao Paulo"
 legacyUrl: "http://nomadicyear.com/2016/04/brazil-last-stop-in-south-america/"
 status: "publish"
 draft: false

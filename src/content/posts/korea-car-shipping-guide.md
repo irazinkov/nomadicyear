@@ -16,14 +16,20 @@ tags:
   - "guide"
   - "korea"
   - "port"
+lat: 35.118514
+lng: 129.049924
+mapTitle: "Busan Customs Office"
+transport: "drive"
+routeWaypoints:
+  - label: "Busan Customs Office"
+    lat: 35.118514
+    lng: 129.049924
+    transport: "drive"
+    image: "/uploads/2016/06/korea_car_shipping.jpg"
+    imageAlt: "Busan International Ferry Terminal customs office"
 legacyUrl: "http://nomadicyear.com/2016/06/korea-car-shipping-guide/"
 status: "publish"
 draft: false
-lat: 35.118514
-lng: 129.049924
-mapOrder: 1
-mapTitle: "Busan Ferry Terminal"
-transport: "boat"
 ---
 <h2>Download the PDF version - <a href="/uploads/2016/06/Busan-Car-Shipping.pdf">Busan Car Shipping.pdf</a></h2>
 <h2>1 Overview</h2>

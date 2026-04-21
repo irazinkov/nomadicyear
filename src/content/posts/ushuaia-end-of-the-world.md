@@ -18,6 +18,29 @@ tags:
   - "steaks"
   - "ushuaia"
   - "wine"
+lat: -54.8019
+lng: -68.3030
+mapTitle: "Ushuaia"
+transport: "drive"
+routeWaypoints:
+  - label: "Punta Delgada (Strait of Magellan Ferry)"
+    lat: -52.4639
+    lng: -69.5728
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04711.jpg"
+    imageAlt: "Ferry across the Strait of Magellan to Tierra del Fuego"
+  - label: "Tierra del Fuego (Cerro Sombrero)"
+    lat: -52.7858
+    lng: -69.2546
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04714.jpg"
+    imageAlt: "Stop in a small town on the Chilean side of Tierra del Fuego"
+  - label: "Ushuaia"
+    lat: -54.8019
+    lng: -68.3030
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04730.jpg"
+    imageAlt: "End of the World sign in Ushuaia"
 legacyUrl: "http://nomadicyear.com/2016/03/ushuaia-end-of-the-world/"
 status: "publish"
 draft: false

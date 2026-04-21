@@ -16,6 +16,17 @@ tags:
   - "nazca"
   - "peru"
   - "vomit"
+lat: -14.854811
+lng: -74.961219
+mapTitle: "Nazca Airport (Lines Flight)"
+transport: "drive"
+routeWaypoints:
+  - label: "Nazca Airport (Lines Flight)"
+    lat: -14.854811
+    lng: -74.961219
+    transport: "drive"
+    image: "/uploads/2016/01/DSC03133.jpg"
+    imageAlt: "Nazca airport terminal before the lines flight"
 legacyUrl: "http://nomadicyear.com/2016/02/nazca-lines-peru/"
 status: "publish"
 draft: false

@@ -26,6 +26,23 @@ tags:
   - "tiananman-square"
   - "wedding"
   - "yongpil"
+lat: 37.5665
+lng: 126.9780
+mapTitle: "Seoul Wedding Week"
+transport: "flight"
+routeWaypoints:
+  - label: "Seoul Wedding Week"
+    lat: 37.5665
+    lng: 126.9780
+    transport: "flight"
+    image: "/uploads/2016/11/Capture4.jpg"
+    imageAlt: "Wedding day in Seoul"
+  - label: "Beijing Smog Arrival"
+    lat: 39.9042
+    lng: 116.4074
+    transport: "flight"
+    image: "/uploads/2016/11/DSC4061.jpg"
+    imageAlt: "First days in Beijing under heavy smog"
 legacyUrl: "http://nomadicyear.com/2016/11/korea-a-turn-for-the-unexpected/"
 status: "publish"
 draft: false

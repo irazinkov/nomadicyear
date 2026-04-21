@@ -37,8 +37,27 @@ draft: false
 lat: 18.936134
 lng: 72.837918
 mapOrder: 9
-mapTitle: "Mumbai"
+mapTitle: "Mumbai Fort Area"
 transport: "flight"
+routeWaypoints:
+  - label: "Mumbai Fort Area"
+    lat: 18.936134
+    lng: 72.837918
+    transport: "flight"
+    image: "/uploads/2017/01/DSC4313.jpg"
+    imageAlt: "Street scene in Mumbai Fort area"
+  - label: "Gateway Ferry Jetty"
+    lat: 18.923686
+    lng: 72.833637
+    transport: "boat"
+    image: "/uploads/2017/01/DSC4356.jpg"
+    imageAlt: "Gateway of India monument in Mumbai"
+  - label: "Elephanta Island and Caves"
+    lat: 18.966508
+    lng: 72.930036
+    transport: "drive"
+    image: "/uploads/2017/01/DSC4437.jpg"
+    imageAlt: "Elephanta Island ferry and caves entrance area"
 ---
 <div id="google_translate_element"> </div>
 <h2>Mumbai (aka Bombay), India  (GPS: 18.936134, 72.837918)</h2>

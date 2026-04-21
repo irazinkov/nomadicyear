@@ -18,6 +18,41 @@ tags:
   - "san-pedro-de-atacama"
   - "volcano"
   - "wine"
+lat: -22.910832
+lng: -68.2001376
+mapTitle: "San Pedro de Atacama"
+transport: "drive"
+routeWaypoints:
+  - label: "San Pedro de Atacama"
+    lat: -22.910832
+    lng: -68.2001376
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04261.jpg"
+    imageAlt: "Street in San Pedro de Atacama"
+  - label: "Vina del Mar"
+    lat: -33.0244535
+    lng: -71.5517636
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04277.jpg"
+    imageAlt: "Seafront in Vina del Mar"
+  - label: "Santiago (Plaza de Armas)"
+    lat: -33.4377501
+    lng: -70.6519123
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04303.jpg"
+    imageAlt: "Historic center of Santiago"
+  - label: "Concepcion Coast"
+    lat: -36.8270698
+    lng: -73.0502064
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04342.jpg"
+    imageAlt: "Pacific coast near Concepcion"
+  - label: "Villarrica Lakefront"
+    lat: -39.2780911
+    lng: -72.2274364
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04378.jpg"
+    imageAlt: "Villarrica lake with volcano backdrop"
 legacyUrl: "http://nomadicyear.com/2016/03/chilefornia/"
 status: "publish"
 draft: false

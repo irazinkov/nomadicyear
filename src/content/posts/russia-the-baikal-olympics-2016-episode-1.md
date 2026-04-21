@@ -35,6 +35,25 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/07/russia-the-baikal-olympics-2016-episode-1/"
 status: "publish"
 draft: false
+routeWaypoints:
+  - label: "Olkhon Ferry Crossing (MRS)"
+    lat: 53.018945
+    lng: 106.900422
+    transport: "boat"
+    image: "/uploads/2016/07/DSC06341.jpg"
+    imageAlt: "Waiting to board the Olkhon ferry at MRS"
+  - label: "Olkhon Ferry Arrival"
+    lat: 53.022943
+    lng: 106.930705
+    transport: "drive"
+    image: "/uploads/2016/07/DSC9152-1.jpg"
+    imageAlt: "Map route photo after crossing to Olkhon Island"
+  - label: "Khuzhir, Olkhon Island"
+    lat: 53.192001
+    lng: 107.345734
+    transport: "drive"
+    image: "/uploads/2016/07/DSC06334.jpg"
+    imageAlt: "Korandovod camp life on Olkhon Island"
 ---
 <div id="google_translate_element"></div>
 I guess you might be tired of hearing about how awesome we are and how much fun we are having during this trip. So this story is a bit different, we will look at how awesome the Russian people are and how much fun we are having with them.

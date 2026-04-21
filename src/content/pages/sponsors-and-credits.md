@@ -43,9 +43,3 @@ draft: false
 <li class="ny-credits-item"><span class="ny-credits-given">Claudio</span><span class="ny-credits-family">von Planta</span></li>
 </ol>
 </section>
-
-<section class="ny-credits-meta">
-<h2>Asset Credits</h2>
-<p>Earth graphic by <a href="http://www.freepik.com/" target="_blank" rel="noopener noreferrer nofollow">Freepik</a> from <a href="http://www.flaticon.com/" target="_blank" rel="noopener noreferrer nofollow">Flaticon</a>, licensed under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener noreferrer nofollow">CC BY 3.0</a>.</p>
-<p>Original logo was made with <a href="http://logomakr.com" target="_blank" rel="noopener noreferrer nofollow">Logo Maker</a>.</p>
-</section>

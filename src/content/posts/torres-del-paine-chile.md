@@ -17,6 +17,29 @@ tags:
   - "mountains"
   - "national-park"
   - "torres-del-paine"
+lat: -50.9425
+lng: -72.9555
+mapTitle: "Torres del Paine"
+transport: "drive"
+routeWaypoints:
+  - label: "Torres del Paine - Laguna Amarga Entrance"
+    lat: -50.9667
+    lng: -72.7667
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04628.jpg"
+    imageAlt: "Approaching Torres del Paine"
+  - label: "Base Las Torres Viewpoint"
+    lat: -50.9425
+    lng: -72.9555
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04669.jpg"
+    imageAlt: "The blue towers of Torres del Paine"
+  - label: "Puerto Natales"
+    lat: -51.7236
+    lng: -72.5083
+    transport: "drive"
+    image: "/uploads/2016/03/DSC04694-1.jpg"
+    imageAlt: "Resting in Puerto Natales after the hike"
 legacyUrl: "http://nomadicyear.com/2016/03/torres-del-paine-chile/"
 status: "publish"
 draft: false

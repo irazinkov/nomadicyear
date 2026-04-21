@@ -35,11 +35,37 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/08/kyrgyzstan-issykul-lake/"
 status: "publish"
 draft: false
-lat: 42.331874
-lng: 78.237582
-mapOrder: 5
-mapTitle: "Djety-Oguz, Issykul"
-transport: "drive"
+routeWaypoints:
+  - label: "Djety-Oguz, Issykul"
+    lat: 42.331874
+    lng: 78.237582
+    transport: "drive"
+    image: "/uploads/2016/08/DSC1927.jpg"
+    imageAlt: "Broken heart rock formation in Djety-Oguz"
+  - label: "Skazka (Fairy Tale) Canyon"
+    lat: 42.156402
+    lng: 77.354073
+    transport: "drive"
+    image: "/uploads/2016/08/DSC1938.jpg"
+    imageAlt: "Rock formations in Skazka Canyon"
+  - label: "Issykul South Camp"
+    lat: 42.162016
+    lng: 77.053144
+    transport: "drive"
+    image: "/uploads/2016/08/DSC06453.jpg"
+    imageAlt: "Camp spot on the southern shore of Issykul"
+  - label: "Songkul Lakeshore Camp"
+    lat: 41.760244
+    lng: 75.135127
+    transport: "drive"
+    image: "/uploads/2016/08/DSC06466.jpg"
+    imageAlt: "Songkul area with local family and donkeys"
+  - label: "Bishkek Repair Stop"
+    lat: 42.843815
+    lng: 74.623928
+    transport: "drive"
+    image: "/uploads/2016/08/DSC2340.jpg"
+    imageAlt: "Land Cruiser maintenance stop in Bishkek"
 ---
 You find yourself here again...and reading about Kyrgyzstan. A few things are running through your mind: is Ivan running out of material to talk about? And is there nothing better to read on the internet?
 

@@ -31,8 +31,45 @@ draft: false
 lat: 26.913
 lng: 70.915
 mapOrder: 10
-mapTitle: "Jaisalmer"
+mapTitle: "Jaisalmer Fort"
 transport: "drive"
+routeWaypoints:
+  - label: "Jaisalmer Fort"
+    lat: 26.913
+    lng: 70.915
+    transport: "drive"
+    image: "/uploads/2017/01/DSC4772.jpg"
+    imageAlt: "Jaisalmer Fort rising above the old city"
+  - label: "Nathmal Haveli Quarter"
+    lat: 26.915774
+    lng: 70.912595
+    transport: "drive"
+    image: "/uploads/2017/01/DSC4890.jpg"
+    imageAlt: "Nathmal Haveli and old quarter in Jaisalmer"
+  - label: "Sunset Viewpoint, Jaisalmer"
+    lat: 26.91979
+    lng: 70.910994
+    transport: "drive"
+    image: "/uploads/2017/01/DSC4953.jpg"
+    imageAlt: "Sunset view over Jaisalmer Fort"
+  - label: "Thar Desert Camp"
+    lat: 26.898155
+    lng: 70.554751
+    transport: "drive"
+    image: "/uploads/2017/01/DSC5121.jpg"
+    imageAlt: "Camel ride camp in the Thar desert"
+  - label: "Bada Bagh Ruins"
+    lat: 26.95538
+    lng: 70.887592
+    transport: "drive"
+    image: "/uploads/2017/01/DSC5203.jpg"
+    imageAlt: "Bada Bagh cenotaphs near Jaisalmer"
+  - label: "Gadii Sagar Lake"
+    lat: 26.909257
+    lng: 70.921586
+    transport: "drive"
+    image: "/uploads/2017/01/DSC5260.jpg"
+    imageAlt: "Gadii Sagar Lake and Tilon-ki-Pol gate"
 ---
 <div id="google_translate_element"> </div>
 <blockquote>

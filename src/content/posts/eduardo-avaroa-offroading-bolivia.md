@@ -20,6 +20,17 @@ tags:
   - "laguna-colorada"
   - "laguna-verde"
   - "offroading"
+lat: -22.2063234
+lng: -67.7793985
+mapTitle: "Laguna Colorada (Eduardo Avaroa Reserve)"
+transport: "drive"
+routeWaypoints:
+  - label: "Laguna Colorada (Eduardo Avaroa Reserve)"
+    lat: -22.2063234
+    lng: -67.7793985
+    transport: "drive"
+    image: "/uploads/2016/02/DSC04186.jpg"
+    imageAlt: "Flamingos at Laguna Colorada"
 legacyUrl: "http://nomadicyear.com/2016/02/eduardo-avaroa-offroading-bolivia/"
 status: "publish"
 draft: false

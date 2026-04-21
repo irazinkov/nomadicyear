@@ -16,6 +16,17 @@ tags:
   - "offroad"
   - "punta-tomba"
   - "retired-people"
+lat: -44.0436
+lng: -65.2080
+mapTitle: "Punta Tombo"
+transport: "drive"
+routeWaypoints:
+  - label: "Punta Tombo Penguin Colony"
+    lat: -44.0436
+    lng: -65.2080
+    transport: "drive"
+    image: "/uploads/2016/03/dsc04864-1.jpg"
+    imageAlt: "Magellan penguins at Punta Tombo"
 legacyUrl: "http://nomadicyear.com/2016/03/penguins/"
 status: "publish"
 draft: false

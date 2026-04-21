@@ -34,11 +34,37 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/09/kyrgyzstan-pamir-the-roof-of-the-world/"
 status: "publish"
 draft: false
-lat: 39.730445
-lng: 73.245937
-mapOrder: 6
-mapTitle: "Sary-Tash"
-transport: "drive"
+routeWaypoints:
+  - label: "Toktogul Reservoir Overlook"
+    lat: 42.19776
+    lng: 73.52572
+    transport: "drive"
+    image: "/uploads/2016/08/DSC2363.jpg"
+    imageAlt: "Toktogul reservoir during the drive south"
+  - label: "Osh City Stop"
+    lat: 40.52268
+    lng: 72.80189
+    transport: "drive"
+    image: "/uploads/2016/08/DSC2389.jpg"
+    imageAlt: "Fresh samsa stop near Osh"
+  - label: "Sary-Tash"
+    lat: 39.730445
+    lng: 73.245937
+    transport: "drive"
+    image: "/uploads/2016/08/DSC2393.jpg"
+    imageAlt: "Arrival near Sary-Tash"
+  - label: "Peak Lenin Basecamp Valley"
+    lat: 39.471546
+    lng: 72.913261
+    transport: "drive"
+    image: "/uploads/2016/08/DSC2457.jpg"
+    imageAlt: "Pamir valley below Peak Lenin base camp"
+  - label: "Osh Return"
+    lat: 40.522683
+    lng: 72.801888
+    transport: "drive"
+    image: "/uploads/2016/08/DSC2945.jpg"
+    imageAlt: "Departing the Pamir region toward Osh"
 ---
 Landcruiser mended up to the standards of Central Asia, we set off towards the town of Osh. Knowing that we wouldn't make it there in one day, we took our sweet time getting ready in the morning...checking wifi, drinking coffee, blogging and being lazy around the hostel. The warm August air of Bishkek puts you in a relaxed mood, the cool nights lull you to deep sleep and the sunrise gently awakes you.
 

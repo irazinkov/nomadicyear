@@ -33,11 +33,49 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/08/kazakhstan-window-to-the-galaxy/"
 status: "publish"
 draft: false
-lat: 43.113374
-lng: 76.913855
-mapOrder: 4
-mapTitle: "Almaty Spring Stop"
-transport: "drive"
+routeWaypoints:
+  - label: "Almaty Spring Stop"
+    lat: 43.113374
+    lng: 76.913855
+    transport: "drive"
+    image: "/uploads/2016/08/DSC0798.jpg"
+    imageAlt: "Filling water tanks at the Almaty spring"
+  - label: "Altyn Emel Park Office"
+    lat: 44.155917
+    lng: 78.752517
+    transport: "drive"
+    image: "/uploads/2016/08/DSC0893.jpg"
+    imageAlt: "Morning departure from the Altyn Emel park office"
+  - label: "Singing Dunes (Altyn Emel)"
+    lat: 43.869483
+    lng: 78.566544
+    transport: "drive"
+    image: "/uploads/2016/08/DSC0807.jpg"
+    imageAlt: "Singing dunes in Altyn Emel National Park"
+  - label: "Red Lava Sculptures"
+    lat: 43.996828
+    lng: 79.050279
+    transport: "drive"
+    image: "/uploads/2016/08/DSC0828.jpg"
+    imageAlt: "Red lava-like formations in Altyn Emel"
+  - label: "Aktau Mountain"
+    lat: 44.006806
+    lng: 79.240868
+    transport: "drive"
+    image: "/uploads/2016/08/DSC0860.jpg"
+    imageAlt: "Layered hills at Aktau Mountain"
+  - label: "700-Year-Old Willow Tree"
+    lat: 43.922868
+    lng: 78.790488
+    transport: "drive"
+    image: "/uploads/2016/08/DSC0875.jpg"
+    imageAlt: "Ancient willow tree in Altyn Emel"
+  - label: "Sharyn Canyon Rim Camp"
+    lat: 43.35592
+    lng: 79.05498
+    transport: "drive"
+    image: "/uploads/2016/08/DSC0954.jpg"
+    imageAlt: "View over Sharyn Canyon from the rim camp"
 ---
 Could it be that we felt Almaty was so cozy because of our host? We stayed at a Korean guesthouse, where the owner resembled your grandfather? Maybe...
 He was very kind to us and somehow through the Korean grapevine has heard about us since we left Korea...and knew that one day we will show up on his doorstep. He took us in, helped with things to see around Almaty and Kazakhstan and OMG the lady in charge of his guest house cooks like the most amazing Korean food. Every single dish we tried was unbelievable....I think I'm just hungry right now, so my memory could be a bit exaggerated.

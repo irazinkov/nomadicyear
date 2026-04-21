@@ -39,6 +39,31 @@ tags:
 legacyUrl: "http://nomadicyear.com/2016/08/kazakhstan-welcome-to-borat-country/"
 status: "publish"
 draft: false
+routeWaypoints:
+  - label: "Kazakhstan Border Village"
+    lat: 44.993833
+    lng: 78.402249
+    transport: "drive"
+    image: "/uploads/2016/08/DSC0626.jpg"
+    imageAlt: "Morning in a village near the Kazakhstan border"
+  - label: "Taldykorgan Meetup"
+    lat: 43.644219
+    lng: 77.023156
+    transport: "drive"
+    image: "/uploads/2016/08/DSC0647.jpg"
+    imageAlt: "Meeting Alibek near Taldykorgan"
+  - label: "Almaty City Camp"
+    lat: 43.295629
+    lng: 76.939772
+    transport: "drive"
+    image: "/uploads/2016/08/DSC0662.jpg"
+    imageAlt: "Camping by a river in central Almaty"
+  - label: "Big Almaty Lake Viewpoint"
+    lat: 43.065552
+    lng: 76.988359
+    transport: "drive"
+    image: "/uploads/2016/08/DSC0715.jpg"
+    imageAlt: "Big Almaty Lake from the mountain road"
 ---
 <div id="google_translate_element"></div>
 Let's get this out of the way, yes we are going to the "Borat" country. Sadly, but that is how most Westerners perceive Kazakhstan. Even before visiting the country, I've always considered the movie more of a parody than an actual documentary. I personally believe it poked just as much fun, if not more, at US rather than Kazakhstan. You have to be really naive about the world to think it's actually true.

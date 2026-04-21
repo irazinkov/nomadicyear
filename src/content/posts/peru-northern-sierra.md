@@ -17,6 +17,47 @@ tags:
   - "offroad"
   - "peru"
 legacyUrl: "http://nomadicyear.com/2016/01/peru-northern-sierra/"
+lat: -4.5978
+lng: -79.4226
+mapTitle: "La Balsa Border Entry (Peru)"
+transport: "drive"
+routeWaypoints:
+  - label: "La Balsa Border Entry (Peru)"
+    lat: -4.5978
+    lng: -79.4226
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02894.jpg"
+    imageAlt: "Crossing into Peru from Ecuador"
+  - label: "San Ignacio Overnight Stop"
+    lat: -5.1451
+    lng: -79.0012
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02897.jpg"
+    imageAlt: "Morning camp setup near San Ignacio"
+  - label: "Celendin Mountain Town"
+    lat: -6.8706
+    lng: -78.1462
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02919.jpg"
+    imageAlt: "Celendin town center at dusk"
+  - label: "Huascaran Valley (Yungay)"
+    lat: -9.1382
+    lng: -77.7444
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02969.jpg"
+    imageAlt: "View of Huascaran Sur"
+  - label: "Hatun Machay Climbing Area"
+    lat: -10.096624
+    lng: -77.3490541
+    transport: "drive"
+    image: "/uploads/2016/01/DSC02995.jpg"
+    imageAlt: "Rock formations at Hatun Machay"
+  - label: "Lima Dune Corridor"
+    lat: -11.2093
+    lng: -77.5718
+    transport: "drive"
+    image: "/uploads/2016/01/DSC03058-1.jpg"
+    imageAlt: "Dunes on the route toward Lima"
 status: "publish"
 draft: false
 ---
