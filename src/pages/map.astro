@@ -678,7 +678,7 @@ const mobileMenuLinks = [
         style: "mapbox://styles/mapbox/outdoors-v12",
         center: [90, 37],
         zoom: 1.35,
-        projection: "mercator",
+        projection: "globe",
         attributionControl: false,
       });
 
@@ -1189,9 +1189,7 @@ const mobileMenuLinks = [
           if (steps.length > 0) {
             setActive(0);
           }
-          if (isCoarsePointer) {
-            nudgeCameraForInitialRender();
-          }
+          nudgeCameraForInitialRender();
           map.triggerRepaint();
         };
 
