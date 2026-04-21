@@ -149,7 +149,7 @@ const mobileMenuLinks = [
         <ol class="ny-route-steps__list">
           {
             mapSteps.map((step, index) => (
-              <li class="ny-route-step">
+              <li class="ny-route-step" data-route-step-item={index}>
                 <button
                   type="button"
                   class="ny-route-step__focus"
@@ -168,6 +168,9 @@ const mobileMenuLinks = [
             ))
           }
         </ol>
+        <p class="ny-route-steps__empty" data-route-steps-empty hidden>
+          No stops in this view. Pan or zoom out to load nearby posts.
+        </p>
       </aside>
 
       <div class="ny-route-map-wrap">
@@ -657,7 +660,9 @@ const mobileMenuLinks = [
         routeGeoJsonData.features.length > 0
         ? routeGeoJsonData
         : fallbackRouteData;
+      const stepItems = Array.from(document.querySelectorAll("[data-route-step-item]"));
       const stepButtons = Array.from(document.querySelectorAll("[data-route-step]"));
+      const stepEmptyState = document.querySelector("[data-route-steps-empty]");
       const isCoarsePointer = window.matchMedia("(pointer: coarse)").matches;
       const prefersReducedMotion = window.matchMedia(
         "(prefers-reduced-motion: reduce)",
@@ -864,6 +869,30 @@ const mobileMenuLinks = [
         });
         if (map.getLayer("ny-route-point-active")) {
           map.setFilter("ny-route-point-active", ["==", ["get", "index"], index]);
+        }
+      }
+
+      function updateVisibleStepPosts() {
+        if (!map.getLayer("ny-route-point-hitbox")) return;
+        const visibleStepIndexes = new Set();
+        const visibleFeatures = map.queryRenderedFeatures(undefined, {
+          layers: ["ny-route-point-hitbox"],
+        });
+
+        visibleFeatures.forEach((feature) => {
+          const index = Number(feature?.properties?.index);
+          if (!Number.isFinite(index)) return;
+          if (index < 0 || index >= steps.length) return;
+          visibleStepIndexes.add(index);
+        });
+
+        stepItems.forEach((item, index) => {
+          const isVisible = visibleStepIndexes.has(index);
+          item.hidden = !isVisible;
+        });
+
+        if (stepEmptyState instanceof HTMLElement) {
+          stepEmptyState.hidden = visibleStepIndexes.size > 0;
         }
       }
 
@@ -1197,6 +1226,9 @@ const mobileMenuLinks = [
         map.on("mousedown", markUserInteraction);
         map.on("dragstart", markUserInteraction);
         map.on("movestart", markUserInteraction);
+        map.on("moveend", () => {
+          updateVisibleStepPosts();
+        });
         map.on("remove", () => {
           pendingRefreshTimers.forEach((id) => window.clearTimeout(id));
         });
@@ -1208,6 +1240,7 @@ const mobileMenuLinks = [
           if (steps.length > 0) {
             setActive(0);
           }
+          updateVisibleStepPosts();
           pendingRefreshTimers.push(
             window.setTimeout(kickstartInitialRender, 120),
             window.setTimeout(kickstartInitialRender, 420),
@@ -1551,6 +1584,17 @@ const mobileMenuLinks = [
       padding: 0.6rem;
       display: grid;
       gap: 0.5rem;
+    }
+
+    .ny-route-steps__empty {
+      margin: 0;
+      padding: 0.2rem 0.9rem 0.8rem;
+      font-size: 0.82rem;
+      color: rgb(71 85 105);
+    }
+
+    .dark .ny-route-steps__empty {
+      color: rgb(148 163 184);
     }
 
     .ny-route-step {
