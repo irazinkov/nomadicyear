@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-21T19:47:57.074Z",
+  "generatedAt": "2026-04-21T19:57:30.765Z",
   "sourceCsvPath": "/Users/ivanrazinkov/Desktop/NomadicYear/docs/redirects.csv",
   "outputRedirectsPath": "/Users/ivanrazinkov/Desktop/NomadicYear/public/_redirects",
-  "totalCsvRows": 86,
-  "validRedirectRows": 86,
+  "totalCsvRows": 79,
+  "validRedirectRows": 79,
   "duplicateConflicts": 0,
   "duplicateConflictRows": []
 }

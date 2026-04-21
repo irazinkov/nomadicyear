@@ -76,12 +76,5 @@ old_url,new_url,status_code,priority,notes
 /2024/11/russia-nizhniy-novgorod-and-vladimir/,/blog/russia-nizhniy-novgorod-and-vladimir/,301,high,legacy date-based post URL
 /about-us/,/about/,301,medium,legacy about page slug normalization
 /blank/,/about/,301,low,legacy placeholder page consolidated to about
-/blog/image-gallery/,/image-gallery/,301,medium,fix incorrect page redirect introduced during migration
 /media_category/lc-update-3/,/blog/lc-update-3/,301,low,legacy media taxonomy page mapped to likely content slug
-/blog/photos-with-friends/,/photos-with-friends/,301,medium,fix incorrect page redirect introduced during migration
-/blog/preparation/,/preparation/,301,medium,fix incorrect page redirect introduced during migration
 /sample-page/,/about/,301,low,default WordPress sample page consolidated to about
-/blog/south-america-expense-report-in-korean/,/south-america-expense-report-in-korean/,301,medium,fix incorrect page redirect introduced during migration
-/blog/sponsors-and-credits/,/sponsors-and-credits/,301,medium,fix incorrect page redirect introduced during migration
-/blog/travel-tips/,/travel-tips/,301,medium,fix incorrect page redirect introduced during migration
-/blog/video/,/video/,301,medium,fix incorrect page redirect introduced during migration
