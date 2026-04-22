@@ -942,7 +942,17 @@ const mobileMenuLinks = [
       }
 
       function showInitialViewport() {
-        fitRouteBounds();
+        const americasBounds = new mapboxgl.LngLatBounds(
+          [-170, -58],
+          [-30, 72],
+        );
+        map.fitBounds(americasBounds, {
+          padding: isCoarsePointer
+            ? { top: 88, right: 48, bottom: 84, left: 48 }
+            : { top: 100, right: 120, bottom: 100, left: 120 },
+          duration: 0,
+          maxZoom: 3.9,
+        });
       }
 
       function nudgeCameraForInitialRender() {
